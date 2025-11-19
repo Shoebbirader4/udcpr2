@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_742",
+  "title": "The utilisation of Transferable Development Rights (TDR) shall be permissible by considering Plot Area excluding area affected by reservations or deemed reservation or plot area to be surrendered under the provisions of Accommodation Reservation and development plan road/ prescribed R",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 742",
+  "clause_text": "The utilisation of Transferable Development Rights (TDR) shall be permissible by considering Plot Area excluding area affected by reservations or deemed reservation or plot area to be surrendered under the provisions of Accommodation Reservation and development plan road/ prescribed R.L., to be handed over to MCGM/Appropriate Authority, if any.. Areas Restricted from Utilisation of Transferable Development Rights (TDR ) :- Utilisation of Transferable Development Rights (TDR) shall not be permitted in following areas:- DRC shall not be valid for use on receivable plots in the areas listed below:-",
+  "chapter": null,
+  "section": ".1 Utilization of Transferable Development Rights (TDR ) and Road Width Relation will be govern by regulation 30 (A) subject to following notes:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The utilisation of Transferable Development Rights (TDR) shall be permissible by considering Plot Area excluding area affected by reservations or deemed reservation or plot area to be surrendered unde"
+  },
+  "created_at": "2025-11-19T00:14:38.218808",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.528331",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

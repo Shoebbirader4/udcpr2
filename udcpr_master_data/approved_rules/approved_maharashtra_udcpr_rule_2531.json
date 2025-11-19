@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2531",
+  "title": "The minimum tenement density for rehabilitation shall be 450 T/Ha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2531",
+  "clause_text": "The minimum tenement density for rehabilitation shall be 450 T/Ha. and maximum tenement density for rehabilitation and free sale tenements / units shall be 1440 T/Ha. Due to local planning constraints and viability of the Slum Rehabilitation Project the density norms of 450 T/Ha. may be relaxed by C.E.O., S.R.A. subject to minimum tenement density of 360 T/Ha. In such cases, C.E.O., S.R.A. shall pass a reasoned order for the same.",
+  "chapter": null,
+  "section": "The Minimum Tenement Density to be achieved in S.R.S. :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The minimum tenement density for rehabilitation shall be 450 T/Ha. and maximum tenement density for rehabilitation and free sale tenements / units shall be 1440 T/Ha. Due to local planning constraints"
+  },
+  "created_at": "2025-11-19T00:14:24.795795",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.076398",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

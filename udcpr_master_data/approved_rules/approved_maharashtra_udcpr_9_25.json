@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_9_25",
+  "title": "all the sewerage outlets shall be connected to the sewerage system",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "9.25",
+  "clause_text": "all the sewerage outlets shall be connected to the sewerage system. Where no such systems exist, a septic tank shall be provided within the plot conforming to the requirements of Regulation No.9.25.",
+  "chapter": null,
+  "section": "Other requirements of bath room and water closet",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "all the sewerage outlets shall be connected to the sewerage system. Where no such systems exist, a septic tank shall be provided within the plot conforming to the requirements of Regulation No.9.25."
+  },
+  "created_at": "2025-11-19T00:14:21.449723",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.047453",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

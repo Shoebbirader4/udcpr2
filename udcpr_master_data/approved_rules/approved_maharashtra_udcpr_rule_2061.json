@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2061",
+  "title": "Provided that, the Director of Town Planning, Maharashtra State, Pune may, on application made by Project Proponent/s before expiry of the above period extend such period by two years in aggregate",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2061",
+  "clause_text": "Provided that, the Director of Town Planning, Maharashtra State, Pune may, on application made by Project Proponent/s before expiry of the above period extend such period by two years in aggregate. Provided also that, it is not mandatory on Project Proponent/s to submit all the papers afresh as prescribed under Clause (i) above, however the affidavit regarding the ownership of land about any dispute shall be mandatory. Such lapse shall not bar any subsequent application for fresh proposal.",
+  "chapter": null,
+  "section": "Permission and Declaration of Project by State Government :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, the Director of Town Planning, Maharashtra State, Pune may, on application made by Project Proponent/s before expiry of the above period extend such period by two years in aggregate. Pr"
+  },
+  "created_at": "2025-11-19T00:14:23.641054",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.743364",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

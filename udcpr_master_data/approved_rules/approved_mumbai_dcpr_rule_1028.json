@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1028",
+  "title": "Acquisition of lands, provided the Promoter has purchased or procured DRs over at least 70% land comprised in the CD and there are dangerous buildings, declared as such by the Competent Authority, on the balance lands contained in the CD",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1028",
+  "clause_text": "Acquisition of lands, provided the Promoter has purchased or procured DRs over at least 70% land comprised in the CD and there are dangerous buildings, declared as such by the Competent Authority, on the balance lands contained in the CD. In such a situation, the Promoter may approach the HPC for recommending the proposal to the Govt. for acquisition of such balance lands. Upon receipt of such request, the HPC may, after due examination, recommend to the Govt. as to which lands are required to be acquired for the purposes of CDS. The Govt., thereafter, shall take necessary steps to acquire such balance lands under the provisions of the relevant law and transfer the same to the Promoter only for the purpose of implementing CDS after executing an agreement with him in this regard, subject to the Promoter depositing with the Govt. necessary amount of money for the land acquisition. For the purpose of land acquisition, CDS shall be regarded as public purpose.",
+  "chapter": null,
+  "section": "For Slum Areas:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Acquisition of lands, provided the Promoter has purchased or procured DRs over at least 70% land comprised in the CD and there are dangerous buildings, declared as such by the Competent Authority, on "
+  },
+  "created_at": "2025-11-19T00:14:39.361781",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.461105",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

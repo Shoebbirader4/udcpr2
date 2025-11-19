@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1702",
+  "title": "The height up to 70m may be allowed for Building of Film Studio, subject to the provisions of Regulation 47",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1702",
+  "clause_text": "The height up to 70m may be allowed for Building of Film Studio, subject to the provisions of Regulation 47.",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The height up to 70m may be allowed for Building of Film Studio, subject to the provisions of Regulation 47."
+  },
+  "created_at": "2025-11-19T00:14:41.591772",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.152571",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

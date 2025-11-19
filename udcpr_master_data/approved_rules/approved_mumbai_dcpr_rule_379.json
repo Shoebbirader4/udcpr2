@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_379",
+  "title": ")(A),33(21)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 379",
+  "clause_text": ")(A),33(21).In case where the development of plot/layout is already completed in all respects and the road is proposed to be widened subsequently as per the sanctioned road line prescribed under MMC Act 1888, plot owner shall be entitled for BUA as per the Zonal (basic) FSI/TDR of plot so surrendered to MCGM/",
+  "chapter": null,
+  "section": "Road /Road Widening",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": ")(A),33(21).In case where the development of plot/layout is already completed in all respects and the road is proposed to be widened subsequently as per the sanctioned road line prescribed under MMC A"
+  },
+  "created_at": "2025-11-19T00:14:36.684435",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.476052",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_685",
+  "title": "Area of one room for installation of telephone concentrators as per requirements of Mahanagar Telephone Nigam limited",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 685",
+  "clause_text": "Area of one room for installation of telephone concentrators as per requirements of Mahanagar Telephone Nigam limited. Letter box room as specified in Regulation No 37(10) (a).",
+  "chapter": null,
+  "section": "The following shall be counted in FSI.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Area of one room for installation of telephone concentrators as per requirements of Mahanagar Telephone Nigam limited."
+  },
+  "created_at": "2025-11-19T00:14:38.018262",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.392006",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

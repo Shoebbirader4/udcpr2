@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2336",
+  "title": "The staircase and corridor lighting shall be on separate circuits and shall be independently connected so that they could be operated by one switch installation on the ground floor easily accessible to fire-fighting staff at any time irrespective of the position of individual control of light points, if any",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2336",
+  "clause_text": "The staircase and corridor lighting shall be on separate circuits and shall be independently connected so that they could be operated by one switch installation on the ground floor easily accessible to fire-fighting staff at any time irrespective of the position of individual control of light points, if any.",
+  "chapter": null,
+  "section": "Staircase and Corridor Lightings",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The staircase and corridor lighting shall be on separate circuits and shall be independently connected so that they could be operated by one switch installation on the ground floor easily accessible t"
+  },
+  "created_at": "2025-11-19T00:14:45.029195",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.818148",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

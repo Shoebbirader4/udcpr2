@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_693",
+  "title": "The required infrastructure, like proper and adequate access to the park, water supply, sanitation, conservancy services, sewage disposal and adequate off-street parking will have to be provided and maintained by the promoters of the project at their cost",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 693",
+  "clause_text": "The required infrastructure, like proper and adequate access to the park, water supply, sanitation, conservancy services, sewage disposal and adequate off-street parking will have to be provided and maintained by the promoters of the project at their cost.",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The required infrastructure, like proper and adequate access to the park, water supply, sanitation, conservancy services, sewage disposal and adequate off-street parking will have to be provided and m"
+  },
+  "created_at": "2025-11-19T00:14:19.396507",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.373847",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

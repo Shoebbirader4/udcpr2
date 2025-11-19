@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2177",
+  "title": "This Regulation shall apply to the heritage listas shall be notified by GoM from time to time (hereinafter referred to as Listed Heritage Buildings/Structures/Precincts/Sites) and to any draft Heritage List (s) as published by the GoM",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2177",
+  "clause_text": "This Regulation shall apply to the heritage listas shall be notified by GoM from time to time (hereinafter referred to as Listed Heritage Buildings/Structures/Precincts/Sites) and to any draft Heritage List (s) as published by the GoM. /Municipal Commissioner.",
+  "chapter": null,
+  "section": "Applicability:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "This Regulation shall apply to the heritage listas shall be notified by GoM from time to time (hereinafter referred to as Listed Heritage Buildings/Structures/Precincts/Sites) and to any draft Heritag"
+  },
+  "created_at": "2025-11-19T00:14:44.194985",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.505129",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1643",
+  "title": "Any changes / Modifications / Amendments in the details layout or in the master plan shall be carried out by the Metropolitan Commissioner at his own level",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1643",
+  "clause_text": "Any changes / Modifications / Amendments in the details layout or in the master plan shall be carried out by the Metropolitan Commissioner at his own level. However the Public Amenity / Public Utility Areas and their percentage as per original sanction shall not be changed while making Modifications / Amendments in the Schemes.",
+  "chapter": null,
+  "section": "Special Regulations for the Improvement Schemes :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Any changes / Modifications / Amendments in the details layout or in the master plan shall be carried out by the Metropolitan Commissioner at his own level. However the Public Amenity / Public Utility"
+  },
+  "created_at": "2025-11-19T00:14:22.548324",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.729968",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

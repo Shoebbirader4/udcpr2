@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_361",
+  "title": "“Provided that the BUA of IH i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 361",
+  "clause_text": "“Provided that the BUA of IH i.e. 20% of the Zonal (basic) FSI of the plot can also be provided at some other location (s) within the same Administrative Ward of the Municipal Corporation provided that the BUA to be handed over to MCGM shall be of equivalent value as per ASR of that year. Such construction shall be free of' FSI to the extent of 40% of Zonal (basic) FSI over & above of the permissible BUA of' such plot/alternative plot. Built up Area B= Built up Area A X (RR-A / RR-B) Where: Built up Area A= BUA of IH units proposed to be transferred from plot A Built up Area B= BUA of IH units to be handed over to MCGM at plot B in lieu of BUA of plot A",
+  "chapter": null,
+  "section": "Inclusive Housing (IH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Provided that the BUA of IH i.e. 20% of the Zonal (basic) FSI of the plot can also be provided at some other location (s) within the same Administrative Ward of the Municipal Corporation provided tha"
+  },
+  "created_at": "2025-11-19T00:14:36.604524",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.431983",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

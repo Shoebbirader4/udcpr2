@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_470",
+  "title": "In case of reconstruction/redevelopment of building of Corporation, for the area of plot having no reservation or having designation of Municipal Housing, then the BUA equal to 30% of such plot area as per Zonal (basic) FSI in the form tenements of size as decided by Commissioner shall be made available to MCGM and the developer/owner shall be entitled to BUA in lieu of cost of construction against handing over of built up amenity as per Note (d) of Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 470",
+  "clause_text": "In case of reconstruction/redevelopment of building of Corporation, for the area of plot having no reservation or having designation of Municipal Housing, then the BUA equal to 30% of such plot area as per Zonal (basic) FSI in the form tenements of size as decided by Commissioner shall be made available to MCGM and the developer/owner shall be entitled to BUA in lieu of cost of construction against handing over of built up amenity as per Note (d) of Regulation No. 17 (1), in case of (e) & (f) above.",
+  "chapter": null,
+  "section": "(I) Development of reservation in Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)under Regulation No. 33(9):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of reconstruction/redevelopment of building of Corporation, for the area of plot having no reservation or having designation of Municipal Housing, then the BUA equal to 30% of such plot area a"
+  },
+  "created_at": "2025-11-19T00:14:37.082089",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.732203",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2003",
+  "title": "Provided further that in case the cinema theater is proposed along with other permissible uses in bu",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2003",
+  "clause_text": "Provided further that in case the cinema theater is proposed along with other permissible uses in building then open spaces as per requirement of special building will be considered deemed to be sufficient where waiting area for patron is provided within the building",
+  "chapter": null,
+  "section": "(6).Open spaces for various types of buildings-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that in case the cinema theater is proposed along with other permissible uses in building then open spaces as per requirement of special building will be considered deemed to be suffi"
+  },
+  "created_at": "2025-11-19T00:14:43.122945",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.112609",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

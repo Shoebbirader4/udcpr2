@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_432",
+  "title": "In case of reservation area more than 5 ha, additional BUA equal to 50% of area of the plot so transferred to MCGM/Appropriate Authority, free of cost and free of encumbrances, shall be permissible over and above the permissible FSI as per regulation 30(A) with prior approval of Government, except in respect of proposals under Regulation No 33(5), 33(7), 33(7)(A) 33(8), 33(9), 33(9)(A), 33(9)(B), 33(10), 33(10)(A), 33(20) (A), 33(21)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 432",
+  "clause_text": "In case of reservation area more than 5 ha, additional BUA equal to 50% of area of the plot so transferred to MCGM/Appropriate Authority, free of cost and free of encumbrances, shall be permissible over and above the permissible FSI as per regulation 30(A) with prior approval of Government, except in respect of proposals under Regulation No 33(5), 33(7), 33(7)(A) 33(8), 33(9), 33(9)(A), 33(9)(B), 33(10), 33(10)(A), 33(20) (A), 33(21).",
+  "chapter": null,
+  "section": "General conditions to allow development under above regulations:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of reservation area more than 5 ha, additional BUA equal to 50% of area of the plot so transferred to MCGM/Appropriate Authority, free of cost and free of encumbrances, shall be permissible ov"
+  },
+  "created_at": "2025-11-19T00:14:36.920197",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.645826",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

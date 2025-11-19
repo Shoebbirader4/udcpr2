@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2119",
+  "title": "Assembly, starred category hotels business, mercantile, industrial, hazardous occupancies and storag",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2119",
+  "clause_text": "Assembly, starred category hotels business, mercantile, industrial, hazardous occupancies and storage buildings: 30m",
+  "chapter": null,
+  "section": "Construction Materials:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Assembly, starred category hotels business, mercantile, industrial, hazardous occupancies and storage buildings: 30m"
+  },
+  "created_at": "2025-11-19T00:14:43.840886",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.381417",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

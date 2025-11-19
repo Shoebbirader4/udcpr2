@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_24",
+  "title": "all types of buildings defined in (a) to (r) below; but tents, shamianas and tarpaulin shelters erected for temporary purposes for ceremonial occasions, with the permission of the Commissioner, shall not be considered to be \"buildings\"",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 24",
+  "clause_text": "all types of buildings defined in (a) to (r) below; but tents, shamianas and tarpaulin shelters erected for temporary purposes for ceremonial occasions, with the permission of the Commissioner, shall not be considered to be \"buildings\".",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "all types of buildings defined in (a) to (r) below; but tents, shamianas and tarpaulin shelters erected for temporary purposes for ceremonial occasions, with the permission of the Commissioner, shall "
+  },
+  "created_at": "2025-11-19T00:14:34.470234",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.670327",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

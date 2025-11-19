@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_187",
+  "title": "platforms, goods sheds and offices, parcel offices, sub- stations, foot-over bridges turn-tables, li",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 187",
+  "clause_text": "platforms, goods sheds and offices, parcel offices, sub- stations, foot-over bridges turn-tables, lifting towers, gantries, signal and signal boxes or control cabins in hump yards;",
+  "chapter": null,
+  "section": "Development permission and commencement certificate",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "platforms, goods sheds and offices, parcel offices, sub- stations, foot-over bridges turn-tables, lifting towers, gantries, signal and signal boxes or control cabins in hump yards;"
+  },
+  "created_at": "2025-11-19T00:14:35.555816",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.018133",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

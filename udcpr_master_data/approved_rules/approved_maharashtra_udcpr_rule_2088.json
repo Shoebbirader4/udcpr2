@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2088",
+  "title": "In the Buffer zone of notified ESZ and in ESZ‘s, only those development activities and FSI as permissible under MoEF notification of the ESZ (as amended from time to time) under Environment Protection Act, 1986 shall be permitted",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2088",
+  "clause_text": "In the Buffer zone of notified ESZ and in ESZ‘s, only those development activities and FSI as permissible under MoEF notification of the ESZ (as amended from time to time) under Environment Protection Act, 1986 shall be permitted. All the development in this buffer zones shall be in accordance with MoEF notifications.",
+  "chapter": null,
+  "section": "Planning Considerations :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In the Buffer zone of notified ESZ and in ESZ‘s, only those development activities and FSI as permissible under MoEF notification of the ESZ (as amended from time to time) under Environment Protection"
+  },
+  "created_at": "2025-11-19T00:14:23.699602",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.831145",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

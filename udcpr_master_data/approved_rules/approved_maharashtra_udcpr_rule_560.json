@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_560",
+  "title": "Provision of Inclusive Housing shall not be applicable, if the plots are auctioned by public authorities without the condition of providing Inclusive Housing before coming into force of these regulations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 560",
+  "clause_text": "Provision of Inclusive Housing shall not be applicable, if the plots are auctioned by public authorities without the condition of providing Inclusive Housing before coming into force of these regulations. However, it shall be mandatory on public authorities to stipulate the condition of providing Inclusive Housing as per provision of this regulation, while auctioning the plots hereinafter, wherever applicable. For the purpose of computing FSI / Built-up area, the net area of the plot shall be as under :-",
+  "chapter": null,
+  "section": "For Group Housing Scheme :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provision of Inclusive Housing shall not be applicable, if the plots are auctioned by public authorities without the condition of providing Inclusive Housing before coming into force of these regulati"
+  },
+  "created_at": "2025-11-19T00:14:18.804070",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.044913",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

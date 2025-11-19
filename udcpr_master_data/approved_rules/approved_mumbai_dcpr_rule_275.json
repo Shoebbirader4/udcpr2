@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_275",
+  "title": "Deviation during constructions: If during the construction of a building, any departure of a substantial nature from the sanctioned plans is intended by way of internal or external additions, prior sanction of the Commissioner shall be mandatory",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 275",
+  "clause_text": "Deviation during constructions: If during the construction of a building, any departure of a substantial nature from the sanctioned plans is intended by way of internal or external additions, prior sanction of the Commissioner shall be mandatory. A revised plan showing the deviations shall be submitted and the procedure laid down for the original plans here to shall apply to all such amended plans. Any work done in contravention of the sanctioned plans, without prior approval of the Commissioner, shall be deemed as unauthorized.",
+  "chapter": null,
+  "section": "Documents at site:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Deviation during constructions: If during the construction of a building, any departure of a substantial nature from the sanctioned plans is intended by way of internal or external additions, prior sa"
+  },
+  "created_at": "2025-11-19T00:14:36.167387",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.231131",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

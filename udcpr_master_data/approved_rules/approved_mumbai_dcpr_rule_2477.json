@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2477",
+  "title": "employed by the applicant as his Licensed Surveyor/Engineer/Structural Engineer/Supervisor or Architect",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2477",
+  "clause_text": "employed by the applicant as his Licensed Surveyor/Engineer/Structural Engineer/Supervisor or Architect. I have carefully pursued his covenant or conveyance in respect of this plot and have examined the boundaries and the area of the plot and I certify that I have personally verified all the statements made by the applicant who is the owner/lessee/mortgage in possession of the plot & possess ownership/absolute development rights as in the above Form and the attached Statements A and B and found them to be correct. Signature of Licensed Surveyor/Architect Engineer/Structural Engineer/Supervisor Road set-back area to be handed over (100%) (Regulation No 16) Proposed D P road to be handed over (100%) (Regulation No 16) Area of amenity plot/plots to be handed over as per DCR 14(A) Area of amenity plot/plots to be handed over as per DCR 14(B) ( Area of amenity plot/plots to be handed over as per DCR 35(abeyance)",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "employed by the applicant as his Licensed Surveyor/Engineer/Structural Engineer/Supervisor or Architect. I have carefully pursued his covenant or conveyance in respect of this plot and have examined t"
+  },
+  "created_at": "2025-11-19T00:14:46.037775",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.201283",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

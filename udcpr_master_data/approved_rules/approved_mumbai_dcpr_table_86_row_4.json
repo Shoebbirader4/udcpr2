@@ -1,0 +1,46 @@
+{
+  "rule_id": "mumbai_dcpr_table_86_row_4",
+  "title": "Table 86 - Row 4",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-86.4",
+  "clause_text": "Location: Suburbs & Extended Suburbs | Minimum Road Width: 12m | Total permissible FSI: Up to 3.0 | Zonal FSI: 1.00 | Additional FSI: Up to 2.0 | % FSI for Transit tenements for SRA/ of total additional FSI: 50% | % FSI for sale component of total additional FSI: 50%",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Location",
+        "",
+        "Minimum Road Width",
+        "Total permissible FSI",
+        "Zonal FSI",
+        "Additional FSI",
+        "% FSI for Transit tenements for SRA/ of total additional FSI",
+        "% FSI for sale component of total additional FSI"
+      ],
+      "values": [
+        "Suburbs & Extended Suburbs",
+        "",
+        "12m",
+        "Up to 3.0",
+        "1.00",
+        "Up to 2.0",
+        "50%",
+        "50%"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_86",
+    "text_snippet": "Location: Suburbs & Extended Suburbs | Minimum Road Width: 12m | Total permissible FSI: Up to 3.0 | Zonal FSI: 1.00 | Additional FSI: Up to 2.0 | % FSI for Transit tenements for SRA/ of total addition"
+  },
+  "created_at": "2025-11-19T00:14:48.552441",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.717044",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

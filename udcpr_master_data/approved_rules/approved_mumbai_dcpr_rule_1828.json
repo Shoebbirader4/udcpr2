@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1828",
+  "title": "Refuse Chute/Garbage Chute: In all residential buildings, refuse chutes/garbage chute may be provided with openings on each floor or on mid-landing",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1828",
+  "clause_text": "Refuse Chute/Garbage Chute: In all residential buildings, refuse chutes/garbage chute may be provided with openings on each floor or on mid-landing. Design and specifications of refuse chutes shall be in accordance with provisions of IS 6924.",
+  "chapter": null,
+  "section": "Mezzanine Floor:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Refuse Chute/Garbage Chute: In all residential buildings, refuse chutes/garbage chute may be provided with openings on each floor or on mid-landing. Design and specifications of refuse chutes shall be"
+  },
+  "created_at": "2025-11-19T00:14:42.174243",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.643013",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

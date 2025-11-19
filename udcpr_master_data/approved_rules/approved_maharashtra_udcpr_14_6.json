@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_6",
+  "title": "Slum rehabilitation scheme for other Municipal Corporations, excluding covered in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.6",
+  "clause_text": "Slum rehabilitation scheme for other Municipal Corporations, excluding covered in Regulation No.14.6, shall be as below.",
+  "chapter": null,
+  "section": "PREMIUM FOR OWNERSHIP AND TERMS OF LEASE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Slum rehabilitation scheme for other Municipal Corporations, excluding covered in Regulation No.14.6, shall be as below."
+  },
+  "created_at": "2025-11-19T00:14:25.071830",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.686017",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

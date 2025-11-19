@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1895",
+  "title": "In case of educational development by Educational Institution on their vacant land, at least 40% of the plot area at one place (inclusive of recreational area as required under Regulation No 27)shall be provided mandatorily for Play Ground",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1895",
+  "clause_text": "In case of educational development by Educational Institution on their vacant land, at least 40% of the plot area at one place (inclusive of recreational area as required under Regulation No 27)shall be provided mandatorily for Play Ground. However as per these Regulations, for the educational purpose if additional FSI is due, then while allowing said due FSI, it is not necessary to increase the area of Play Ground.",
+  "chapter": null,
+  "section": "Educational Building:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of educational development by Educational Institution on their vacant land, at least 40% of the plot area at one place (inclusive of recreational area as required under Regulation No 27)shall "
+  },
+  "created_at": "2025-11-19T00:14:42.529157",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.824938",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

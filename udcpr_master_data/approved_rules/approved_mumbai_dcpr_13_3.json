@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_13_3",
+  "title": "*The occupant load in dormitory portions of homes for the aged, orphanages or mental hospitals, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "13.3",
+  "clause_text": "*The occupant load in dormitory portions of homes for the aged, orphanages or mental hospitals, etc. where sleeping accommodation is provided shall be calculated at not less than 13.3 persons per 100 sq m.",
+  "chapter": null,
+  "section": "Table No: 13",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "*The occupant load in dormitory portions of homes for the aged, orphanages or mental hospitals, etc. where sleeping accommodation is provided shall be calculated at not less than 13.3 persons per 100 "
+  },
+  "created_at": "2025-11-19T00:14:41.850194",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.520984",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

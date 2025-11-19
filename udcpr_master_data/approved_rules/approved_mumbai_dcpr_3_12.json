@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_3_12",
+  "title": "3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "3.12",
+  "clause_text": "3.12(A) Minimum Density on the Plot Including Non-Residential Units: The minimum density of rehabilitation so as to generate adequate number of additional rehabilitation tenements and affordable tenements in situ under any Slum Rehabilitation Project will be 650 tenements per net hectare , i. e. after deducting all reservations actually implemented on site including the land appurtenant thereto, but not deducting the recreational/amenity open space on the remaining area. However, in slum rehabilitation schemes where permissible in-situ FSI is restricted to 3.00 or sanctioned FSI of the scheme as per Clause 3.8 hereinabove, minimum tenement density shall be 500 per net hectare If the number of tenements to be provided to all eligible hutment dwellers is less than the minimum so constructed as per minimum density of 650 or 500 tenements per net hector as the case may be, the balance shall be handed over free of cost to the SRA. The Authority shall use them for the purpose of transit accommodation or Project-affected persons or pavement-dwellers or slum dwellers from other slums or distribution would be done as per policy decided by the GOM.",
+  "chapter": null,
+  "section": "Rehabilitation and Free-Sale Component:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "3.12(A) Minimum Density on the Plot Including Non-Residential Units: The minimum density of rehabilitation so as to generate adequate number of additional rehabilitation tenements and affordable tenem"
+  },
+  "created_at": "2025-11-19T00:14:40.065954",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.058765",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_547",
+  "title": "The Owner / Developer, after getting commencement certificate of Affordable Housing component as mentioned above shall immediately intimate to MHADA regarding the numbers of tenement to be disposed by them to the allottees",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 547",
+  "clause_text": "The Owner / Developer, after getting commencement certificate of Affordable Housing component as mentioned above shall immediately intimate to MHADA regarding the numbers of tenement to be disposed by them to the allottees. Upon such intimation, MHADA within a period of six months, from the date of receipt of such intimation, after following procedure, shall send the list of allottees and forward it to the Owner / Developer. The Owner / Developer shall allot such tenements to the allottees at the construction cost mentioned in ASR applicable of the year of disposal (date of occupancy certificate) plus 25% additional cost. Out of this 25% additional cost, 1% shall be paid to MHADA towards administration charges by the Owner / Developer.",
+  "chapter": null,
+  "section": "For Group Housing Scheme :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Owner / Developer, after getting commencement certificate of Affordable Housing component as mentioned above shall immediately intimate to MHADA regarding the numbers of tenement to be disposed by"
+  },
+  "created_at": "2025-11-19T00:14:18.753702",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.985451",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

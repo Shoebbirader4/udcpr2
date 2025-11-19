@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2171",
+  "title": "MCGM, with approval of Corporation in consultation with GoM, shall constitute a Parking Authority at MCGM level to plan, regulate and manage all on/off street parking and public parking places under the physical jurisdiction of Greater Mumbai",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2171",
+  "clause_text": "MCGM, with approval of Corporation in consultation with GoM, shall constitute a Parking Authority at MCGM level to plan, regulate and manage all on/off street parking and public parking places under the physical jurisdiction of Greater Mumbai. The constituted Parking Authority, inter alia, will fix and promulgate parking fees as well as penalties for various areas/zones in MCGM.",
+  "chapter": null,
+  "section": "Parking Authority",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "MCGM, with approval of Corporation in consultation with GoM, shall constitute a Parking Authority at MCGM level to plan, regulate and manage all on/off street parking and public parking places under t"
+  },
+  "created_at": "2025-11-19T00:14:44.177461",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.491375",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

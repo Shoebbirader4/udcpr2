@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3155",
+  "title": "land sub-division approval, under Section 18 / 44 / 69 of The Maharashtra Regional and Town Planning",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3155",
+  "clause_text": "land sub-division approval, under Section 18 / 44 / 69 of The Maharashtra Regional and Town Planning Act, 1966 read with Section (*)----------- of Act, to carry out development work in respect of land bearing Plot No. …… Revenue S.No. …… / Gat No. ........ / Khasara No. ....... / City Survey No. / Final Plot",
+  "chapter": null,
+  "section": "Duties and Responsibilities of Geotechnical Engineer :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "land sub-division approval, under Section 18 / 44 / 69 of The Maharashtra Regional and Town Planning Act, 1966 read with Section (*)----------- of Act, to carry out development work in respect of land"
+  },
+  "created_at": "2025-11-19T00:14:26.927707",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.768569",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

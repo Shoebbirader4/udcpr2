@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_117_row_7",
+  "title": "Table 117 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-117.7",
+  "clause_text": "Table No.12-C : Sanitation Requirements - Office Buildings: b) Urinals | Table No.12-C : Sanitation Requirements - Office Buildings: Nil up to 6 1 for 7-20 2 for 21-45 3 for 46-70 4 for 71-100 | Table No.12-C : Sanitation Requirements - Office Buildings: - | Table No.12-C : Sanitation Requirements - Office Buildings: Nil up to 6 1 for 7-20 2 for 21-45 3 for 46-70 4 for 71-100 | Table No.12-C : Sanitation Requirements - Office Buildings: -",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-C : Sanitation Requirements - Office Buildings",
+        "Table No.12-C : Sanitation Requirements - Office Buildings",
+        "Table No.12-C : Sanitation Requirements - Office Buildings",
+        "Table No.12-C : Sanitation Requirements - Office Buildings",
+        "Table No.12-C : Sanitation Requirements - Office Buildings",
+        "Table No.12-C : Sanitation Requirements - Office Buildings"
+      ],
+      "values": [
+        "",
+        "b) Urinals",
+        "Nil up to 6 1 for 7-20 2 for 21-45 3 for 46-70 4 for 71-100",
+        "-",
+        "Nil up to 6 1 for 7-20 2 for 21-45 3 for 46-70 4 for 71-100",
+        "-"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_117",
+    "text_snippet": "Table No.12-C : Sanitation Requirements - Office Buildings: b) Urinals | Table No.12-C : Sanitation Requirements - Office Buildings: Nil up to 6 1 for 7-20 2 for 21-45 3 for 46-70 4 for 71-100 | Table"
+  },
+  "created_at": "2025-11-19T00:14:30.284164",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.701020",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

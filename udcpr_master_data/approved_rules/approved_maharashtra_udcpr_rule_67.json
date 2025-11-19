@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_67",
+  "title": "Architectural projection - means a chajja, cornice etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 67",
+  "clause_text": "Architectural projection - means a chajja, cornice etc. which is a protrusion from the building facade or line of the building only for aesthetic purpose and not used for any habitable purpose. Access - means a clear approach to a plot or a building.",
+  "chapter": null,
+  "section": "Commencement of Regulations",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Architectural projection - means a chajja, cornice etc. which is a protrusion from the building facade or line of the building only for aesthetic purpose and not used for any habitable purpose."
+  },
+  "created_at": "2025-11-19T00:14:17.136048",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.702995",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

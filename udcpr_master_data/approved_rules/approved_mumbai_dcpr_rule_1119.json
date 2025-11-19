@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1119",
+  "title": "An individual agreement shall be made by the Land-Owning Authority/SRA/the developer so appointed by DRP (SRA) with the eligible occupier of each tenement /unit in the joint names of pramukh occupier and spouse for every structure on the renewal plots",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1119",
+  "clause_text": "An individual agreement shall be made by the Land-Owning Authority/SRA/the developer so appointed by DRP (SRA) with the eligible occupier of each tenement /unit in the joint names of pramukh occupier and spouse for every structure on the renewal plots.",
+  "chapter": null,
+  "section": "Applicability of the provisions:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "An individual agreement shall be made by the Land-Owning Authority/SRA/the developer so appointed by DRP (SRA) with the eligible occupier of each tenement /unit in the joint names of pramukh occupier "
+  },
+  "created_at": "2025-11-19T00:14:39.632842",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.647017",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

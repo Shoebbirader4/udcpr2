@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_3_3_8",
+  "title": "A service road as specified in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "3.3.8",
+  "clause_text": "A service road as specified in Regulation No.3.3.8 shall be provided along State and National Highways on both sides. Where service road of 12.0 m. width is already provided in adjoining land, such service road of the same width may be continued in the development permission. Such service roads may not be insisted if it has no continuity from junction to junction due to existing authorised development / construction.",
+  "chapter": null,
+  "section": "(#) Development along Highways / Classified Roads",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A service road as specified in Regulation No.3.3.8 shall be provided along State and National Highways on both sides. Where service road of 12.0 m. width is already provided in adjoining land, such se"
+  },
+  "created_at": "2025-11-19T00:14:18.268040",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.660342",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

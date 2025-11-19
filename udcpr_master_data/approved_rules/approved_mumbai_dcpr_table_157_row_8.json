@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_157_row_8",
+  "title": "Table 157 - Row 8",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-157.8",
+  "clause_text": "Sr. No. (1): 5 | Occupancy (2): Mercantile (Markets, Departmental stores, Shops and other commercial uses). (I.T.Parks) | Parking Space required (3): One parking space for every 40-sq.m of floor area up to 800 sq. m and one parking space for every 80-sq.m of space for areas exceeding 800 sq. m provided",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "5",
+        "Mercantile (Markets, Departmental stores, Shops and other commercial uses). (I.T.Parks)",
+        "One parking space for every 40-sq.m of floor area up to 800 sq. m and one parking space for every 80-sq.m of space for areas exceeding 800 sq. m provided"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_157",
+    "text_snippet": "Sr. No. (1): 5 | Occupancy (2): Mercantile (Markets, Departmental stores, Shops and other commercial uses). (I.T.Parks) | Parking Space required (3): One parking space for every 40-sq.m of floor area "
+  },
+  "created_at": "2025-11-19T00:14:49.067463",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.858572",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

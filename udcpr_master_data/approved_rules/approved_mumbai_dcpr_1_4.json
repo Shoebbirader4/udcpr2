@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_1_4",
+  "title": "The lift shall have a floor area of not less than 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "1.4",
+  "clause_text": "The lift shall have a floor area of not less than 1.4 sq. m. with a minimum dimension of 1.12 m. It shall have a loading capacity of not less than 545 kg. (8 persons lift) with automatic closing doors.",
+  "chapter": null,
+  "section": "Fire lifts",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The lift shall have a floor area of not less than 1.4 sq. m. with a minimum dimension of 1.12 m. It shall have a loading capacity of not less than 545 kg. (8 persons lift) with automatic closing doors"
+  },
+  "created_at": "2025-11-19T00:14:44.821929",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.766252",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

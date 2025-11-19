@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_20_90",
+  "title": "BUA for commercial / office / shop / economic activity upto 20",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "20.90",
+  "clause_text": "BUA for commercial / office / shop / economic activity upto 20.90 sq.m. (225 sq.ft.) carpet area or actual area whichever is less, shall be provided to the eligible person free of cost as part of the rehabilitation project. Any area in excess of 20.90 sq.m. to the extent of existing area may, if required, be sold on preferential basis at the rate for commercial area in the free-sale component.",
+  "chapter": null,
+  "section": "Commercial / Office / Shop / Economic Activity Free of Cost",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "BUA for commercial / office / shop / economic activity upto 20.90 sq.m. (225 sq.ft.) carpet area or actual area whichever is less, shall be provided to the eligible person free of cost as part of the "
+  },
+  "created_at": "2025-11-19T00:14:25.212729",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.827004",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

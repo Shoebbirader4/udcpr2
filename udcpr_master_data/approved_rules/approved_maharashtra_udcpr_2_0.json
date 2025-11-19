@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_2_0",
+  "title": "Notwithstanding anything contained in this regulation, areas of common passages not exceeding 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "2.0",
+  "clause_text": "Notwithstanding anything contained in this regulation, areas of common passages not exceeding 2.0 m. in width provided in rehabilitation component to give access shall not be counted towards FSI even while computing FSI on site.",
+  "chapter": null,
+  "section": "Relaxation in Building and Other Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notwithstanding anything contained in this regulation, areas of common passages not exceeding 2.0 m. in width provided in rehabilitation component to give access shall not be counted towards FSI even "
+  },
+  "created_at": "2025-11-19T00:14:25.240413",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.842268",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

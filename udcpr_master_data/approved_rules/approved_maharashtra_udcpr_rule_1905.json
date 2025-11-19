@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1905",
+  "title": "The structural design of foundations, elements made of masonry, timber, plain concrete; reinforced concrete, pre-stressed concrete and structural steel shall be carried out in accordance with Part-6",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1905",
+  "clause_text": "The structural design of foundations, elements made of masonry, timber, plain concrete; reinforced concrete, pre-stressed concrete and structural steel shall be carried out in accordance with Part-6. Structural design Section-1 - Loads, courses and effects, Section-2 - Soils and Foundation, Section-3 - Timber and Bamboo, Section-4 - Masonry, Section-5 - Concrete, Section-6 - Steel, Section-7 - Prefabrication, systems building and mixed / composite construction of National Building Code of India, amended from time to time. Proposed construction shall be as per the norms as specified by Bureau of Indian Standard, for the resistance of earthquake, Fire Safety and natural calamities. Certificate to that effect shall be submitted by the Licensed Structural Engineer of the developer / land owner, along with the proposal for development permission, as prescribed in these Regulations.",
+  "chapter": null,
+  "section": "Effect of this Regulation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The structural design of foundations, elements made of masonry, timber, plain concrete; reinforced concrete, pre-stressed concrete and structural steel shall be carried out in accordance with Part-6. "
+  },
+  "created_at": "2025-11-19T00:14:23.210553",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.294146",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

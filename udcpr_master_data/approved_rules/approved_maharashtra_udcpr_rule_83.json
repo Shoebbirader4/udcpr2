@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_83",
+  "title": "Building Line - means the line up to which the plinth of a building adjoining a street or an extension of a street or on a future street may lawfully extend",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 83",
+  "clause_text": "Building Line - means the line up to which the plinth of a building adjoining a street or an extension of a street or on a future street may lawfully extend. It includes the lines prescribed, if any, in any scheme and / or development plan / Regional Plan, or under any other law in force.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Building Line - means the line up to which the plinth of a building adjoining a street or an extension of a street or on a future street may lawfully extend. It includes the lines prescribed, if any, "
+  },
+  "created_at": "2025-11-19T00:14:17.172251",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.740386",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

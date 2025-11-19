@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2191",
+  "title": "Subject to the conditions as may be prescribed by the Commissioner, MCGM, Sewage Treatment Plant, storage and allied facilities as per design and specification and at location as may be considered necessary by the Commissioner for treatment of sewage/effluent, water pumping station and storage facility, Electric Substation/Distribution/Receiving Station, underground parking and shopping shall be allowed below existing or proposed DP Roads and below lands reserved for Playground/Gardens/Parks and Public Open Spaces both existing and proposed and to be used at one or two levels below the ground",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2191",
+  "clause_text": "Subject to the conditions as may be prescribed by the Commissioner, MCGM, Sewage Treatment Plant, storage and allied facilities as per design and specification and at location as may be considered necessary by the Commissioner for treatment of sewage/effluent, water pumping station and storage facility, Electric Substation/Distribution/Receiving Station, underground parking and shopping shall be allowed below existing or proposed DP Roads and below lands reserved for Playground/Gardens/Parks and Public Open Spaces both existing and proposed and to be used at one or two levels below the ground. Provided no such uses will be allowed below the following.",
+  "chapter": null,
+  "section": "Under Ground Public Utility/Conveniences/Amenity Provision",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Subject to the conditions as may be prescribed by the Commissioner, MCGM, Sewage Treatment Plant, storage and allied facilities as per design and specification and at location as may be considered nec"
+  },
+  "created_at": "2025-11-19T00:14:44.239765",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.536282",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

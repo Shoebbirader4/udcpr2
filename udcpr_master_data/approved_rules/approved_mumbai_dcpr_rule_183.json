@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_183",
+  "title": "All such constructions shall, however, conform to the prescribed requirement for the provision of essential services, water supply connections, drains, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 183",
+  "clause_text": "All such constructions shall, however, conform to the prescribed requirement for the provision of essential services, water supply connections, drains, etc. to the satisfaction of the Commissioner.",
+  "chapter": null,
+  "section": "Development permission and commencement certificate",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All such constructions shall, however, conform to the prescribed requirement for the provision of essential services, water supply connections, drains, etc. to the satisfaction of the Commissioner."
+  },
+  "created_at": "2025-11-19T00:14:35.542330",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.004600",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

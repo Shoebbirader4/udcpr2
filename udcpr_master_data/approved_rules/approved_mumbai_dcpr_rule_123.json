@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_123",
+  "title": "\"Owner\" means a person who receives rent for the use of the land or building or would be entitled to",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 123",
+  "clause_text": "\"Owner\" means a person who receives rent for the use of the land or building or would be entitled to do so if it were let, and includes: an authorised agent or trustee who receives such rent on behalf of the owner;",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Owner\" means a person who receives rent for the use of the land or building or would be entitled to do so if it were let, and includes:"
+  },
+  "created_at": "2025-11-19T00:14:35.048759",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.853026",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

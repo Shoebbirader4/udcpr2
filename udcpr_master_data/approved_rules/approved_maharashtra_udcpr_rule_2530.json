@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2530",
+  "title": "Minimum tenement density of 450 T/Ha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2530",
+  "clause_text": "Minimum tenement density of 450 T/Ha. shall be provided on the net plot area used for rehabilitation of hutment dwellers (including residential rehabilitation and non- residential rehabilitation units). If the number of rehabilitation tenements needed to be provided to the hutment dwellers in any S.R.S. is such that the corresponding tenement density is less than the minimum specified tenement density, the required number of balance tenements shall be constructed so as to achieve the said minimum tenement density and shall be handed over free of cost to S.R.A. The C.E.O., S.R.A. may use such tenements for the purpose of transit tenements or for accommodating the Project Affected Persons (P.A.P.) or the pavement dwellers or as may be decided by the C.E.O., S.R.A.",
+  "chapter": null,
+  "section": "The Minimum Tenement Density to be achieved in S.R.S. :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Minimum tenement density of 450 T/Ha. shall be provided on the net plot area used for rehabilitation of hutment dwellers (including residential rehabilitation and non- residential rehabilitation units"
+  },
+  "created_at": "2025-11-19T00:14:24.794795",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.070430",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

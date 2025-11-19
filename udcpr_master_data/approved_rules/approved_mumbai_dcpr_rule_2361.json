@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2361",
+  "title": "The boilers shall be installed in a fire-resisting room of 4 hours' fire resistance rating situated on the periphery of the basement",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2361",
+  "clause_text": "The boilers shall be installed in a fire-resisting room of 4 hours' fire resistance rating situated on the periphery of the basement. Catch-pitch shall be provided at the low level. Entry to this room shall be provided with a composite door of two hours’ fire resistance.",
+  "chapter": null,
+  "section": "Boiler room",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The boilers shall be installed in a fire-resisting room of 4 hours' fire resistance rating situated on the periphery of the basement. Catch-pitch shall be provided at the low level."
+  },
+  "created_at": "2025-11-19T00:14:45.177916",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.933831",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2353",
+  "title": "No act of the Committee done in good faith, shall be deemed to be invalid by reason only of some defect subsequently discovered in the organization of the Committee or in the Constitution of the Committee or in the appointment of the Member or on the ground that such member was disqualified for being appointed",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2353",
+  "clause_text": "No act of the Committee done in good faith, shall be deemed to be invalid by reason only of some defect subsequently discovered in the organization of the Committee or in the Constitution of the Committee or in the appointment of the Member or on the ground that such member was disqualified for being appointed.",
+  "chapter": null,
+  "section": "Composition of Heritage Conservation Committee",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "No act of the Committee done in good faith, shall be deemed to be invalid by reason only of some defect subsequently discovered in the organization of the Committee or in the Constitution of the Commi"
+  },
+  "created_at": "2025-11-19T00:14:24.359689",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.687656",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

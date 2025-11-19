@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1291",
+  "title": "If any person constructs public toilet prescribed by the Authority on its land, preferably on ground floor, he may be granted Amenity TDR against the constructed area as per regulation of Transferable Development Rights",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1291",
+  "clause_text": "If any person constructs public toilet prescribed by the Authority on its land, preferably on ground floor, he may be granted Amenity TDR against the constructed area as per regulation of Transferable Development Rights. If owner constructs such amenity on his own land, he shall also be entitled for aforesaid benefit alongwith additional 50% TDR thereon as incentive, in addition to TDR of land occupied by such structure along with appurtenant land. In such case, the said structure along with land shall be transferred, to the Authority with proper approach.",
+  "chapter": null,
+  "section": "7.10 INCENTIVE FOR GREEN BUILDINGS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If any person constructs public toilet prescribed by the Authority on its land, preferably on ground floor, he may be granted Amenity TDR against the constructed area as per regulation of Transferable"
+  },
+  "created_at": "2025-11-19T00:14:21.177307",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.878773",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

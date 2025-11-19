@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_35_row_1",
+  "title": "Table 35 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-35.1",
+  "clause_text": "Core and Buffer Zone of Sahyadri Tiger Project: Area of Growth Centre / Urban Complex falling within the Buffer Zone. | Permissible users and FSI shall be as per the Development Control Regulations being prepared for this Zone by the Local Advisory Committee headed by Divisional Commissioner, Pune. Till such Regulations are framed, for the peripheral area of the gaothans falling in Buffer Zone, the users permissible in the Agriculture Zone shall be allowed with the approval of Competent Authority of the Forest Department. In the Core Zone, no development shall be permissible.: As per the Land use proposed in such Growth Centre / Urban Complex Plan. | For gaothans in Buffer Zone. Maximum permissible FSI shall be 0.75 for the lands falling within permissible peripheral distance from the gaothan. Maximum permissible FSI shall be as per Regulation No.4.11 from the lands falling beyond such permissible distance.: 0.75 FSI shall be permissible for the proposed Residential Land use Zone and for the proposed Agriculture/ No Development Zone, the FSI for users permissible shall be as per Regulation No.4.11",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Core and Buffer Zone of Sahyadri Tiger Project",
+        "Permissible users and FSI shall be as per the Development Control Regulations being prepared for this Zone by the Local Advisory Committee headed by Divisional Commissioner, Pune. Till such Regulations are framed, for the peripheral area of the gaothans falling in Buffer Zone, the users permissible in the Agriculture Zone shall be allowed with the approval of Competent Authority of the Forest Department. In the Core Zone, no development shall be permissible.",
+        "For gaothans in Buffer Zone. Maximum permissible FSI shall be 0.75 for the lands falling within permissible peripheral distance from the gaothan. Maximum permissible FSI shall be as per Regulation No.4.11 from the lands falling beyond such permissible distance."
+      ],
+      "values": [
+        "Area of Growth Centre / Urban Complex falling within the Buffer Zone.",
+        "As per the Land use proposed in such Growth Centre / Urban Complex Plan.",
+        "0.75 FSI shall be permissible for the proposed Residential Land use Zone and for the proposed Agriculture/ No Development Zone, the FSI for users permissible shall be as per Regulation No.4.11"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_35",
+    "text_snippet": "Core and Buffer Zone of Sahyadri Tiger Project: Area of Growth Centre / Urban Complex falling within the Buffer Zone. | Permissible users and FSI shall be as per the Development Control Regulations be"
+  },
+  "created_at": "2025-11-19T00:14:29.825237",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.504385",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1426",
+  "title": "The distance between any two rehab/composite buildings shall not be less than 6 m for the height up",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1426",
+  "clause_text": "The distance between any two rehab/composite buildings shall not be less than 6 m for the height up to 32 m and for the building with height more than 32 m the open spaces shall be as per Regulation No 41(5).",
+  "chapter": null,
+  "section": "RELAXATION IN BUILDING AND OTHER REQUIREMENTS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The distance between any two rehab/composite buildings shall not be less than 6 m for the height up to 32 m and for the building with"
+  },
+  "created_at": "2025-11-19T00:14:40.596040",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.390291",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

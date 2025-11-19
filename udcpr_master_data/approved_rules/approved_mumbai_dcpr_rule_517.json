@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_517",
+  "title": "if the proposed development is likely to involve damage to or have deleterious impact on or is against urban aesthetics of environment or ecology and/or on historical/architectural/aesthetical buildings and precincts unless and otherwise specified in these Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 517",
+  "clause_text": "if the proposed development is likely to involve damage to or have deleterious impact on or is against urban aesthetics of environment or ecology and/or on historical/architectural/aesthetical buildings and precincts unless and otherwise specified in these Regulations.",
+  "chapter": null,
+  "section": "Requirement of Site",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "if the proposed development is likely to involve damage to or have deleterious impact on or is against urban aesthetics of environment or ecology and/or on historical/architectural/aesthetical buildin"
+  },
+  "created_at": "2025-11-19T00:14:37.328228",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.915370",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

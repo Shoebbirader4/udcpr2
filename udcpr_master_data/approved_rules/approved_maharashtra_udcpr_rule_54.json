@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_54",
+  "title": "These regulations shall be called as ―Unified Development Control and Promotion Regulations for Maha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 54",
+  "clause_text": "These regulations shall be called as ―Unified Development Control and Promotion Regulations for Maharashtra‖ (hereinafter called ―These Regulations‖ or \"Unified Development Control and Promotion Regulations\" - ‗UDCPR‘ )",
+  "chapter": null,
+  "section": "URBAN DEVELOPMENT DEPARTMENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "These regulations shall be called as ―Unified Development Control and Promotion Regulations for Maharashtra‖ (hereinafter called ―These Regulations‖ or \"Unified Development Control and Promotion Regul"
+  },
+  "created_at": "2025-11-19T00:14:17.080044",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.678888",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

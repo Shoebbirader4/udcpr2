@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_32_row_3",
+  "title": "Table 32 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-32.3",
+  "clause_text": "Sr. No.: 3 | User: Hotel, Boarding Houses.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "User",
+        "Min. Plot Area (sq.m.)",
+        "Max. FSI",
+        "Max Height (m.)"
+      ],
+      "values": [
+        "3",
+        "Hotel, Boarding Houses.",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_32",
+    "text_snippet": "Sr. No.: 3 | User: Hotel, Boarding Houses."
+  },
+  "created_at": "2025-11-19T00:14:29.791905",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.479718",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

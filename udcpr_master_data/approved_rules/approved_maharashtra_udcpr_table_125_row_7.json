@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_125_row_7",
+  "title": "Table 125 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-125.7",
+  "clause_text": "Table No.12-K Sanitation Requirements - Hotels: iii) | Table No.12-K Sanitation Requirements - Hotels: Urinals | Table No.12-K Sanitation Requirements - Hotels: per 50 persons or part thereof | Table No.12-K Sanitation Requirements - Hotels: Nil, upto 6 persons for 7-20 persons for 21-45 persons for 46-70 persons 4 for 71-100 persons | Table No.12-K Sanitation Requirements - Hotels: Nil up to 6 for 7 to 20 for 21-45 for 46-70 for 71-100 | Table No.12-K Sanitation Requirements - Hotels: -",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels"
+      ],
+      "values": [
+        "iii)",
+        "Urinals",
+        "per 50 persons or part thereof",
+        "Nil, upto 6 persons for 7-20 persons for 21-45 persons for 46-70 persons 4 for 71-100 persons",
+        "Nil up to 6 for 7 to 20 for 21-45 for 46-70 for 71-100",
+        "-"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_125",
+    "text_snippet": "Table No.12-K Sanitation Requirements - Hotels: iii) | Table No.12-K Sanitation Requirements - Hotels: Urinals | Table No.12-K Sanitation Requirements - Hotels: per 50 persons or part thereof | Table "
+  },
+  "created_at": "2025-11-19T00:14:30.792568",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.930598",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

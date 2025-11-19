@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2190",
+  "title": "In the last column of the said list of Heritage Building, Heritage precincts, “Grades” such as I, II, or III have been indicated",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2190",
+  "clause_text": "In the last column of the said list of Heritage Building, Heritage precincts, “Grades” such as I, II, or III have been indicated. The chart showing definition of these Grades and and Precincts, objectives, scope for changes and procedure for obtaining development permissionare as follows",
+  "chapter": null,
+  "section": "Maintaining Sky-Line:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In the last column of the said list of Heritage Building, Heritage precincts, “Grades” such as I, II, or III have been indicated. The chart showing definition of these Grades and and Precincts, object"
+  },
+  "created_at": "2025-11-19T00:14:44.237369",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.534816",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

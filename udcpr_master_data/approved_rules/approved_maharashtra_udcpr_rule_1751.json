@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1751",
+  "title": "For providing the requisite infrastructure for the increased population, an infrastructure charge at the rate of 10% of the Land Rate as per the ASR of the year of approval of the redevelopment project shall be levied and charged by the N",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1751",
+  "clause_text": "For providing the requisite infrastructure for the increased population, an infrastructure charge at the rate of 10% of the Land Rate as per the ASR of the year of approval of the redevelopment project shall be levied and charged by the N.M.M.C. for the extra FSI granted for the redevelopment project, over and above the Basic Zonal FSI.",
+  "chapter": null,
+  "section": "Other requirement / Criteria :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For providing the requisite infrastructure for the increased population, an infrastructure charge at the rate of 10% of the Land Rate as per the ASR of the year of approval of the redevelopment projec"
+  },
+  "created_at": "2025-11-19T00:14:22.825832",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.977316",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

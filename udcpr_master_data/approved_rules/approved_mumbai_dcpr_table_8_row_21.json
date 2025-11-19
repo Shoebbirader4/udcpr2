@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_8_row_21",
+  "title": "Table 8 - Row 21",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-8.21",
+  "clause_text": "PART VIII GENERAL BUILDING REQUIREMENTS: (19) Canopy | PART VIII GENERAL BUILDING REQUIREMENTS: 323",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS"
+      ],
+      "values": [
+        "",
+        "(19) Canopy",
+        "323"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_8",
+    "text_snippet": "PART VIII GENERAL BUILDING REQUIREMENTS: (19) Canopy | PART VIII GENERAL BUILDING REQUIREMENTS: 323"
+  },
+  "created_at": "2025-11-19T00:14:48.072957",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.384762",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

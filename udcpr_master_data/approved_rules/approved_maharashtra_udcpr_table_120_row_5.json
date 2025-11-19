@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_120_row_5",
+  "title": "Table 120 - Row 5",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-120.5",
+  "clause_text": "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: ii) | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: Urinals | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: 1 per 50 | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: - | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: Nil up to 6 1 per 7-20 2 per 21-45 | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: -",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums"
+      ],
+      "values": [
+        "ii)",
+        "Urinals",
+        "1 per 50",
+        "-",
+        "Nil up to 6 1 per 7-20 2 per 21-45",
+        "-"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_120",
+    "text_snippet": "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: ii) | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: Urinals | Table No.12-F- Sanitation "
+  },
+  "created_at": "2025-11-19T00:14:30.487964",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.819920",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

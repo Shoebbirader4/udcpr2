@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_736",
+  "title": "The quantum of maximum permissible TDR loading mentioned above shall include slum TDR at least 20 % and maximum to the extent of 50% of column no",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 736",
+  "clause_text": "The quantum of maximum permissible TDR loading mentioned above shall include slum TDR at least 20 % and maximum to the extent of 50% of column no. 6 of Table No. 12 regulation 30(A) or as decided by Govt. time to time. Slum TDR as per this regulation and DRC generated from the very said land and/or DRC generated from other location may be utilised up to the permissible limit mention above.",
+  "chapter": null,
+  "section": ".1 Utilization of Transferable Development Rights (TDR ) and Road Width Relation will be govern by regulation 30 (A) subject to following notes:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The quantum of maximum permissible TDR loading mentioned above shall include slum TDR at least 20 % and maximum to the extent of 50% of column no. 6 of Table No. 12 regulation 30(A) or as decided by G"
+  },
+  "created_at": "2025-11-19T00:14:38.200726",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.513746",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

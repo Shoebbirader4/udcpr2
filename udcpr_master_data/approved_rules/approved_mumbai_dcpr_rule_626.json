@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_626",
+  "title": "A Development cess at the rate of 100% of Development charge, for BUA over and above the Zonal (basic) FSI/protected BUA whichever is higher (excluding fungible compensatory area ) in accordance with the Time Schedule for such payment as may be laid down by the Commissioner, MCGM shall be paid",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 626",
+  "clause_text": "A Development cess at the rate of 100% of Development charge, for BUA over and above the Zonal (basic) FSI/protected BUA whichever is higher (excluding fungible compensatory area ) in accordance with the Time Schedule for such payment as may be laid down by the Commissioner, MCGM shall be paid. This development cess shall not be applicable to BUA to be handed over to MCGM/Appropriate authority & BUA which are excluded from FSI computation. This Development cess shall be in addition to development charges levied as per section 124 of MR&TP Act 1966. This development cess shall not be applicable for proposals of Govt.",
+  "chapter": null,
+  "section": "Floor Space Indices in Residential, Commercial and Industrial Zones",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A Development cess at the rate of 100% of Development charge, for BUA over and above the Zonal (basic) FSI/protected BUA whichever is higher (excluding fungible compensatory area ) in accordance with "
+  },
+  "created_at": "2025-11-19T00:14:37.833427",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.266306",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1993",
+  "title": "NOTE:With the approval of the Corporation, the Commissioner may add, alter or amend this list of roads",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1993",
+  "clause_text": "NOTE:With the approval of the Corporation, the Commissioner may add, alter or amend this list of roads. For high rise buildings front marginal distance shall be as per Regulation No.43.",
+  "chapter": null,
+  "section": "Table No 18",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "NOTE:With the approval of the Corporation, the Commissioner may add, alter or amend this list of roads. For high rise buildings front marginal distance shall be as per Regulation No.43."
+  },
+  "created_at": "2025-11-19T00:14:43.074604",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.086171",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

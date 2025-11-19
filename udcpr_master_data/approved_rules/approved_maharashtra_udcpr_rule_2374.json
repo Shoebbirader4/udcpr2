@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2374",
+  "title": "The said Regulations shall be called as “The Development Control Regulations for the Slum Rehabilita",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2374",
+  "clause_text": "The said Regulations shall be called as “The Development Control Regulations for the Slum Rehabilitation Authority, Pune & Pimpri-Chinchwad Area, Pune, 2022 (hereinafter called ― the said regulations‖)",
+  "chapter": null,
+  "section": "SHORT TITLE, COMMENCEMENT AND EXTENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The said Regulations shall be called as “The Development Control Regulations for the Slum Rehabilitation Authority, Pune & Pimpri-Chinchwad Area, Pune, 2022 (hereinafter called ― the said regulations‖"
+  },
+  "created_at": "2025-11-19T00:14:24.396404",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.739325",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

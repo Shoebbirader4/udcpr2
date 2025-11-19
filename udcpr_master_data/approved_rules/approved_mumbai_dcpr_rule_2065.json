@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2065",
+  "title": "Common Parking Space if the total parking space required by these Regulations is provided by a group of adjoining property owners for their mutual benefit, such use of this space may be construed as meeting the off-street parking requirements under these Regulations subject to the approval of the Commissioner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2065",
+  "clause_text": "Common Parking Space if the total parking space required by these Regulations is provided by a group of adjoining property owners for their mutual benefit, such use of this space may be construed as meeting the off-street parking requirements under these Regulations subject to the approval of the Commissioner. If such common parking space is proposed for a group of buildings, the owners of such buildings shall submit a parking layout thereof and also a registered undertaking stating that the area earmarked for the parking space will not be built upon.",
+  "chapter": null,
+  "section": "Table No: 21",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Common Parking Space if the total parking space required by these Regulations is provided by a group of adjoining property owners for their mutual benefit, such use of this space may be construed as m"
+  },
+  "created_at": "2025-11-19T00:14:43.554365",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.235118",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

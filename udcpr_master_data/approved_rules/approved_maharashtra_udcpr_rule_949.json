@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_949",
+  "title": "Residential and Compatible development adjacent to Gaothan in Rural area : Residential and / or Compatible development shall be allowed within 200 m",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 949",
+  "clause_text": "Residential and Compatible development adjacent to Gaothan in Rural area : Residential and / or Compatible development shall be allowed within 200 m. from Periphery of the Gaothan Boundary with following conditions -",
+  "chapter": null,
+  "section": "Conditions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Residential and Compatible development adjacent to Gaothan in Rural area : Residential and / or Compatible development shall be allowed within 200 m. from Periphery of the Gaothan Boundary with follow"
+  },
+  "created_at": "2025-11-19T00:14:20.079851",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.947751",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

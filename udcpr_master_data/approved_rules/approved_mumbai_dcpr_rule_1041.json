@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1041",
+  "title": "The incentive FSI admissible against the FSI required for rehabilitation shall be based on the ratio (hereinafter referred to as Basic Ratio) of Land Rate (LR), in Rs/sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1041",
+  "clause_text": "The incentive FSI admissible against the FSI required for rehabilitation shall be based on the ratio (hereinafter referred to as Basic Ratio) of Land Rate (LR), in Rs/sq. m., of the lands included in the URC; as per the ASR and Rate of Construction (RC)* in Rs/sq. m, applicable to the area as per the ASR and shall be given as per the Table-B below:",
+  "chapter": null,
+  "section": "Total Permissible FSI for CDS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The incentive FSI admissible against the FSI required for rehabilitation shall be based on the ratio (hereinafter referred to as Basic Ratio) of Land Rate (LR), in Rs/sq. m., of the lands included in "
+  },
+  "created_at": "2025-11-19T00:14:39.400291",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.496449",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

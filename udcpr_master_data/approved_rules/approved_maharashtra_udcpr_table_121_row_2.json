@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_121_row_2",
+  "title": "Table 121 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-121.2",
+  "clause_text": "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Sr. No. | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Fixtures | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Male | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Female | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Male | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Female",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        ""
+      ],
+      "values": [
+        "",
+        "Sr. No.",
+        "Fixtures",
+        "Male",
+        "Female",
+        "Male",
+        "Female",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_121",
+    "text_snippet": "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Sr. No. | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: Fixtures | Table No.12-G Sanitation "
+  },
+  "created_at": "2025-11-19T00:14:30.559605",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.834943",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_126_row_13",
+  "title": "Table 126 - Row 13",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-126.13",
+  "clause_text": "Table No.12-L Sanitation Requirements – Restaurants: 3 for 46-70",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants"
+      ],
+      "values": [
+        "",
+        "",
+        "",
+        "",
+        "3 for 46-70",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_126",
+    "text_snippet": "Table No.12-L Sanitation Requirements – Restaurants: 3 for 46-70"
+  },
+  "created_at": "2025-11-19T00:14:30.859933",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.974411",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

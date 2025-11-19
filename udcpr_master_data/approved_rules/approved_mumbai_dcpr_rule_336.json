@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_336",
+  "title": "Public utility and amenity shall not be developed under AR as per Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 336",
+  "clause_text": "Public utility and amenity shall not be developed under AR as per Regulation No.17. The entire plot of amenity shall be developed entirely for the purpose of public amenity/POS as per sub regulation No 14(B)(c) ii above of this regulation.",
+  "chapter": null,
+  "section": "Conversion of Industrial Zone to Residential or Commercial Zone for the Uses permissible in Residential or Commercial Zone",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Public utility and amenity shall not be developed under AR as per Regulation No.17. The entire plot of amenity shall be developed entirely for the purpose of public amenity/POS as per sub regulation N"
+  },
+  "created_at": "2025-11-19T00:14:36.533214",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.370396",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

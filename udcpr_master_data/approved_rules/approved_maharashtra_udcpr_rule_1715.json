@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1715",
+  "title": "Reconstruction / Redevelopment, in whole or in part of a building, previously constructed by CIDCO (not being a building wholly occupied by warehousing / Industrial user and also not being an individually owned structures, which has ceased to exist for the reasons mentioned above) or a building constructed by CIDCO which has been declared dilapidatedby the Commissioner NMMC or a buildings constructed by CIDCO which is above 30 years of age, irrespective of its status of dilapidation, (hereinafter collectively referred to as ―dangerous / dilapidated building‖) shall be permissible in accordance with the following Regulations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1715",
+  "clause_text": "Reconstruction / Redevelopment, in whole or in part of a building, previously constructed by CIDCO (not being a building wholly occupied by warehousing / Industrial user and also not being an individually owned structures, which has ceased to exist for the reasons mentioned above) or a building constructed by CIDCO which has been declared dilapidatedby the Commissioner NMMC or a buildings constructed by CIDCO which is above 30 years of age, irrespective of its status of dilapidation, (hereinafter collectively referred to as ―dangerous / dilapidated building‖) shall be permissible in accordance with the following Regulations.",
+  "chapter": null,
+  "section": "Reconstruction / Redevelopment of Building in CIDCO / NMMC Areas",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Reconstruction / Redevelopment, in whole or in part of a building, previously constructed by CIDCO (not being a building wholly occupied by warehousing / Industrial user and also not being an individu"
+  },
+  "created_at": "2025-11-19T00:14:22.747280",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.895308",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

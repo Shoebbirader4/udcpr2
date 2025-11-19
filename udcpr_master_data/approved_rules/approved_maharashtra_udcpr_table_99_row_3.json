@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_99_row_3",
+  "title": "Table 99 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-99.3",
+  "clause_text": ": 2 ) Public Utilities | : 2 ) Public Utilities | The owner shall be entitled to develop remaining 30% land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI as mentioned in Sr.No.(i) above), to be utilised as per TDR Regulations. The reservation shall be allowed to be developed in parts. However, it shall be ensured that Garden and Play Ground area to be handed over to Authority shall be minimum 1000 sq.m.: 2 ) Public Utilities",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "The owner shall be entitled to develop remaining 30% land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI as mentioned in Sr.No.(i) above), to be utilised as per TDR Regulations. The reservation shall be allowed to be developed in parts. However, it shall be ensured that Garden and Play Ground area to be handed over to Authority shall be minimum 1000 sq.m."
+      ],
+      "values": [
+        "2 ) Public Utilities",
+        "2 ) Public Utilities",
+        "2 ) Public Utilities"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_99",
+    "text_snippet": ": 2 ) Public Utilities | : 2 ) Public Utilities | The owner shall be entitled to develop remaining 30% land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and "
+  },
+  "created_at": "2025-11-19T00:14:30.128054",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.635725",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

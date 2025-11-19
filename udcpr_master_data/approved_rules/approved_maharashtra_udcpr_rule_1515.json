@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1515",
+  "title": "All special buildings shall be planned, designed and constructed to ensure fire safety and this shall be done in accordance with the regulations of Maharashtra Fire Prevention and Life Safety Measures Act, 2006",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1515",
+  "clause_text": "All special buildings shall be planned, designed and constructed to ensure fire safety and this shall be done in accordance with the regulations of Maharashtra Fire Prevention and Life Safety Measures Act, 2006. For the provisions not included in these regulations and the said Act, provisions mentioned in Part IV of Fire Protection of National Building Code India, amended from time to time shall be referred and prevail.",
+  "chapter": null,
+  "section": "Refuge chute / Garbage Chute -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All special buildings shall be planned, designed and constructed to ensure fire safety and this shall be done in accordance with the regulations of Maharashtra Fire Prevention and Life Safety Measures"
+  },
+  "created_at": "2025-11-19T00:14:22.135333",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.409322",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

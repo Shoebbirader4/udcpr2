@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2219",
+  "title": "/ redevelopment shall seek prior NOC from the concerned Metro Railway Authority as required under the Metro Railways (Construction of Works) Act, 1978 from the point of view of safety of the Metro Railway and such other related matters",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2219",
+  "clause_text": "/ redevelopment shall seek prior NOC from the concerned Metro Railway Authority as required under the Metro Railways (Construction of Works) Act, 1978 from the point of view of safety of the Metro Railway and such other related matters.",
+  "chapter": null,
+  "section": "Incentive for providing Public Parking in the area falling within the radius of 200 m. from the Metro / MRTS Station.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "/ redevelopment shall seek prior NOC from the concerned Metro Railway Authority as required under the Metro Railways (Construction of Works) Act, 1978 from the point of view of safety of the Metro Rai"
+  },
+  "created_at": "2025-11-19T00:14:24.039357",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.349248",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

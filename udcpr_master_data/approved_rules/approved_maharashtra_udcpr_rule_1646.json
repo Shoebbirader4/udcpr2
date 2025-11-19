@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1646",
+  "title": "Final Plot - The plot which is reconstituted or reshaped from the Original Plot within a draft / sanctioned Improvement Scheme in a manner appropriate for development and given access from the public right of way",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1646",
+  "clause_text": "Final Plot - The plot which is reconstituted or reshaped from the Original Plot within a draft / sanctioned Improvement Scheme in a manner appropriate for development and given access from the public right of way. The Final Plots is reconstituted as per the relevant regulations / Act as Final plots for Authorities share and owners share.",
+  "chapter": null,
+  "section": "Special Regulations for the Improvement Schemes :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Final Plot - The plot which is reconstituted or reshaped from the Original Plot within a draft / sanctioned Improvement Scheme in a manner appropriate for development and given access from the public "
+  },
+  "created_at": "2025-11-19T00:14:22.548324",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.736019",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

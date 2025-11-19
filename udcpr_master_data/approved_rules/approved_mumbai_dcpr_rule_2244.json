@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2244",
+  "title": "Provided that when the rain water in exceptional circumstances will be utilised for drinking and/ or cooking purpose, it shall be ensured that proper filter arrangement and the separate outlet for by passing the first rain-water has been provided",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2244",
+  "clause_text": "Provided that when the rain water in exceptional circumstances will be utilised for drinking and/ or cooking purpose, it shall be ensured that proper filter arrangement and the separate outlet for by passing the first rain-water has been provided.",
+  "chapter": null,
+  "section": "Rain Water Harvesting(RWH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that when the rain water in exceptional circumstances will be utilised for drinking and/ or cooking purpose, it shall be ensured that proper filter arrangement and the separate outlet for by "
+  },
+  "created_at": "2025-11-19T00:14:44.455320",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.645633",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

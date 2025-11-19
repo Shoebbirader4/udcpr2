@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1690",
+  "title": "This Committee may be called “Tourism Development Area Committee” (TDAC)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1690",
+  "clause_text": "This Committee may be called “Tourism Development Area Committee” (TDAC). The persons at 5, 6& 7 of the Committee may be nominated by Secretary, Tourism Department and the tenure of these members shall change after every 3 years, provided that the same person shall be eligible for reappointment as a Member. Maximum area permissible as TDA out of a holding in SDZ shall be as follows:-",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "This Committee may be called “Tourism Development Area Committee” (TDAC). The persons at 5, 6& 7 of the Committee may be nominated by Secretary, Tourism Department and the tenure of these members shal"
+  },
+  "created_at": "2025-11-19T00:14:41.517116",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.127417",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

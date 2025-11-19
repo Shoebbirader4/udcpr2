@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1469",
+  "title": "Exit doorways shall open outwards, that is away from the room but shall not obstruct the travel along any exit",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1469",
+  "clause_text": "Exit doorways shall open outwards, that is away from the room but shall not obstruct the travel along any exit. No door, when opened shall reduce the required width of stairways or landing to less than 90 cm. Overheads or sliding doors shall not be installed.",
+  "chapter": null,
+  "section": "Width of staircase",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Exit doorways shall open outwards, that is away from the room but shall not obstruct the travel along any exit. No door, when opened shall reduce the required width of stairways or landing to less tha"
+  },
+  "created_at": "2025-11-19T00:14:21.959380",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.324906",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

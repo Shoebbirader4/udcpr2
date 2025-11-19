@@ -1,0 +1,34 @@
+{
+  "rule_id": "mumbai_dcpr_table_138_row_1",
+  "title": "Table 138 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-138.1",
+  "clause_text": "Provision & Location: Dimensions | Drop-off zones if provided should be at the same grade as the driveway: Min width of drop-off zone 1.5 m, and min length 4.5 m. Change in level between the drop-off and the plinth should be through a ramp of maximum gradient 1:12",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Provision & Location",
+        "Drop-off zones if provided should be at the same grade as the driveway"
+      ],
+      "values": [
+        "Dimensions",
+        "Min width of drop-off zone 1.5 m, and min length 4.5 m. Change in level between the drop-off and the plinth should be through a ramp of maximum gradient 1:12"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_138",
+    "text_snippet": "Provision & Location: Dimensions | Drop-off zones if provided should be at the same grade as the driveway: Min width of drop-off zone 1.5 m, and min length 4.5 m. Change in level between the drop-off "
+  },
+  "created_at": "2025-11-19T00:14:48.919173",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.824191",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

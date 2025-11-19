@@ -1,0 +1,40 @@
+{
+  "rule_id": "mumbai_dcpr_table_130_row_2",
+  "title": "Table 130 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-130.2",
+  "clause_text": "Serial No.: 1 | Extent: No limit | Percentage to be earmarked for Garden/ Playground or any other POS as specified by the Commissioner: 33 | Percentage to be earmarked and handed over for development by MHADA for Public Housing/for mill worker's housing as per guidelines approved by Government, to be shared equally: 33 | Percentage to be earmarked and to be developed for residential or commercial use (including uses permissible in residential or commercial zone as per these Regulations) or diversified Industrial uses as per Industrial Location Policy, to be developed by the owner: 34",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Serial No.",
+        "Extent",
+        "Percentage to be earmarked for Garden/ Playground or any other POS as specified by the Commissioner",
+        "Percentage to be earmarked and handed over for development by MHADA for Public Housing/for mill worker's housing as per guidelines approved by Government, to be shared equally",
+        "Percentage to be earmarked and to be developed for residential or commercial use (including uses permissible in residential or commercial zone as per these Regulations) or diversified Industrial uses as per Industrial Location Policy, to be developed by the owner"
+      ],
+      "values": [
+        "1",
+        "No limit",
+        "33",
+        "33",
+        "34"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_130",
+    "text_snippet": "Serial No.: 1 | Extent: No limit | Percentage to be earmarked for Garden/ Playground or any other POS as specified by the Commissioner: 33 | Percentage to be earmarked and handed over for development "
+  },
+  "created_at": "2025-11-19T00:14:48.860474",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.816112",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

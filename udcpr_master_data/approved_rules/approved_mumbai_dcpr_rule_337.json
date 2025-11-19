@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_337",
+  "title": "Conversion from industrial zone to residential/commercial zone shall be applicable to the part area of land holding subject to the condition that total area of the entire land holding shall be considered for deciding the payment of premium and percentage of land to be reserved for amenity , as per this Regulation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 337",
+  "clause_text": "Conversion from industrial zone to residential/commercial zone shall be applicable to the part area of land holding subject to the condition that total area of the entire land holding shall be considered for deciding the payment of premium and percentage of land to be reserved for amenity , as per this Regulation. II. In the event of DP having provided a reservation/reservations on a plot desiring conversion from Industrial Zone to Residential/Commercial Zone, the following shall apply:",
+  "chapter": null,
+  "section": "Conversion of Industrial Zone to Residential or Commercial Zone for the Uses permissible in Residential or Commercial Zone",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Conversion from industrial zone to residential/commercial zone shall be applicable to the part area of land holding subject to the condition that total area of the entire land holding shall be conside"
+  },
+  "created_at": "2025-11-19T00:14:36.534219",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.374231",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

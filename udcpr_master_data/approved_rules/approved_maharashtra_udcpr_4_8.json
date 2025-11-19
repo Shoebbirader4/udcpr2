@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_4_8",
+  "title": "All uses or mix uses may be permitted irrespective of restriction on floor or area, except uses mentioned at Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.8",
+  "clause_text": "All uses or mix uses may be permitted irrespective of restriction on floor or area, except uses mentioned at Regulation No.4.8(ii), 4.11(viii, xviii, xxi, xxii, xxxi, xxxvii), 4.21 and like;",
+  "chapter": null,
+  "section": "In this zone, the following uses, mixed uses may be permitted",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All uses or mix uses may be permitted irrespective of restriction on floor or area, except uses mentioned at Regulation No.4.8(ii), 4.11(viii, xviii, xxi, xxii, xxxi, xxxvii), 4.21 and like;"
+  },
+  "created_at": "2025-11-19T00:14:19.072579",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.150197",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

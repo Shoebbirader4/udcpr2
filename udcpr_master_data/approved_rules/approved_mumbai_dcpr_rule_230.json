@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_230",
+  "title": "The ground area of the whole property and the back-up of the covered area on each floor with the cal",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 230",
+  "clause_text": "The ground area of the whole property and the back-up of the covered area on each floor with the calculations;",
+  "chapter": null,
+  "section": "Information accompanying notice:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The ground area of the whole property and the back-up of the covered area on each floor with the calculations;"
+  },
+  "created_at": "2025-11-19T00:14:35.869838",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.126505",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

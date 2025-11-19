@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2324",
+  "title": "Hoppers under refuse chutes shall be situated in a well-ventilated position and the chutes shall be continued upwards with an outlet above roof level and with an enclosure wall of non-combustible material with fire resistance of not less than two hours",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2324",
+  "clause_text": "Hoppers under refuse chutes shall be situated in a well-ventilated position and the chutes shall be continued upwards with an outlet above roof level and with an enclosure wall of non-combustible material with fire resistance of not less than two hours. The hoppers shall not be located within the staircase enclose.",
+  "chapter": null,
+  "section": "Refuse chutes and refuse chambers.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Hoppers under refuse chutes shall be situated in a well-ventilated position and the chutes shall be continued upwards with an outlet above roof level and with an enclosure wall of non-combustible mate"
+  },
+  "created_at": "2025-11-19T00:14:44.942724",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.793169",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

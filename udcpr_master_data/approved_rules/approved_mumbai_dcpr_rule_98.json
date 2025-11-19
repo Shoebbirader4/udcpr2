@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_98",
+  "title": "\"Gallery\" means an intermediate floor or platform projecting from a wall of an auditorium or a hall, providing extra floor area, and/or additional seating accommodation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 98",
+  "clause_text": "\"Gallery\" means an intermediate floor or platform projecting from a wall of an auditorium or a hall, providing extra floor area, and/or additional seating accommodation. It also includes the structures provided for seating in stadia. “Gaothan” means portion of the land shown as such in the Revenue Records.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Gallery\" means an intermediate floor or platform projecting from a wall of an auditorium or a hall, providing extra floor area, and/or additional seating accommodation. It also includes the structure"
+  },
+  "created_at": "2025-11-19T00:14:34.904164",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.803497",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

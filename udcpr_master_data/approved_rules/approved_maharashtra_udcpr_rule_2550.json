@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2550",
+  "title": "Additional incentive for Cluster Redevelopment : The total permissible built up area for Cluster S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2550",
+  "clause_text": "Additional incentive for Cluster Redevelopment : The total permissible built up area for Cluster S.R.S. of Pune and Pimpri-Chinchwad S.R.A. areas shall be the sum total of Rehabilitation component area and Free sale component area, calculated as per the ratios",
+  "chapter": null,
+  "section": "REGULATIONS RELATING TO REHABILITATION AND FREE SALE COMPONENTS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Additional incentive for Cluster Redevelopment : The total permissible built up area for Cluster S.R.S. of Pune and Pimpri-Chinchwad S.R.A. areas shall be the sum total of Rehabilitation component are"
+  },
+  "created_at": "2025-11-19T00:14:24.823582",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.132678",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

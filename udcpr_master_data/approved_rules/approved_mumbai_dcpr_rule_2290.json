@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2290",
+  "title": "Load bearing elements of construction and elements of construction for which the required fire resistance is one hour or more shall be of non-combustible material",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2290",
+  "clause_text": "Load bearing elements of construction and elements of construction for which the required fire resistance is one hour or more shall be of non-combustible material. Interior finish materials (wall paneling, floor coverings etc.) may be permitted of materials having their rating for flame spread and smoke developed not exceeding a very low flame spread limit in accordance with IS:1642,1960 (Class I) Ceiling linings shall be non-combustible or of plasterboard. Stairways and corridors shall not contain combustible materials.",
+  "chapter": null,
+  "section": "Construction: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Load bearing elements of construction and elements of construction for which the required fire resistance is one hour or more shall be of non-combustible material. Interior finish materials (wall pane"
+  },
+  "created_at": "2025-11-19T00:14:44.704727",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.736072",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

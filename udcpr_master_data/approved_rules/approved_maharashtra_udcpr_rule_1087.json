@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1087",
+  "title": "Premium - Rate of premium for the premium F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1087",
+  "clause_text": "Premium - Rate of premium for the premium F.S.I., as mentioned in Column No.4 and 7 above shall be 35% of the rate of the said land mentioned in Annual Statement of Rates without considering the guidelines therein. Apportionment of such amount between Authority and Government shall be as decided by Government from time to time. The premium of the Government, if to be paid, shall be deposited by the Authority in the specified head of account of the Government. In the area of Regional Plans, entire premium shall be paid to the Government through the District offices of Town Planning and Valuation Department.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Premium - Rate of premium for the premium F.S.I., as mentioned in Column No.4 and 7 above shall be 35% of the rate of the said land mentioned in Annual Statement of Rates without considering the guide"
+  },
+  "created_at": "2025-11-19T00:14:20.569361",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.357425",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

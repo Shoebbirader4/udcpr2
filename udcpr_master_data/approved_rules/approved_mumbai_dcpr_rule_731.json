@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_731",
+  "title": "A holder of DRC who desires to use FSI credit therein on a particular plot of land shall attach valid DRCs to the extent required with his application for development permission",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 731",
+  "clause_text": "A holder of DRC who desires to use FSI credit therein on a particular plot of land shall attach valid DRCs to the extent required with his application for development permission. Proposal for Transferable Development Rights (TDR) utilisation shall be submitted along with the documents as may be prescribed by the Commissioner or by the Government from time to time.",
+  "chapter": null,
+  "section": "UTILISATION TRANSFERABLE DEVELOPMENT RIGHTS ( TDR ):--",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A holder of DRC who desires to use FSI credit therein on a particular plot of land shall attach valid DRCs to the extent required with his application for development permission. Proposal for Transfer"
+  },
+  "created_at": "2025-11-19T00:14:38.178444",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.504559",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

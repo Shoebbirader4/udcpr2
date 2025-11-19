@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1854",
+  "title": "In high rise residential buildings having height more than 70m, one of the lifts installed shall be a freight lift",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1854",
+  "clause_text": "In high rise residential buildings having height more than 70m, one of the lifts installed shall be a freight lift. The freight lift will be designed in such a way that it shall serve as stretcher lift also.",
+  "chapter": null,
+  "section": "Table No: 16",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In high rise residential buildings having height more than 70m, one of the lifts installed shall be a freight lift. The freight lift will be designed in such a way that it shall serve as stretcher lif"
+  },
+  "created_at": "2025-11-19T00:14:42.281953",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.712113",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

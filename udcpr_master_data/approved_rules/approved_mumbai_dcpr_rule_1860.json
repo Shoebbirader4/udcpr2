@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1860",
+  "title": "Rain water pipes shall be connected to Rain Water Harvesting system, if required to be provided under these Regulations or to a drain through a covered channel formed beneath the public footpath to connect the rain water pipes to the road side storm water drain or in any other approved manner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1860",
+  "clause_text": "Rain water pipes shall be connected to Rain Water Harvesting system, if required to be provided under these Regulations or to a drain through a covered channel formed beneath the public footpath to connect the rain water pipes to the road side storm water drain or in any other approved manner.",
+  "chapter": null,
+  "section": "Table No: 16",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Rain water pipes shall be connected to Rain Water Harvesting system, if required to be provided under these Regulations or to a drain through a covered channel formed beneath the public footpath to co"
+  },
+  "created_at": "2025-11-19T00:14:42.330626",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.725048",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

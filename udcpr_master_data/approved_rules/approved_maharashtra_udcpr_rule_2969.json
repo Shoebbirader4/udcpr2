@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2969",
+  "title": "In order to facilitate redevelopment and to decongest the redeveloped area in the URC, the Commissioner may insist on additional road width, over and above that prescribed in the sanctioned D",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2969",
+  "clause_text": "In order to facilitate redevelopment and to decongest the redeveloped area in the URC, the Commissioner may insist on additional road width, over and above that prescribed in the sanctioned D.P. or the width of the existing roads.",
+  "chapter": null,
+  "section": "Relaxation in Building and other requirements –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In order to facilitate redevelopment and to decongest the redeveloped area in the URC, the Commissioner may insist on additional road width, over and above that prescribed in the sanctioned D.P. or th"
+  },
+  "created_at": "2025-11-19T00:14:25.933032",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.282139",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

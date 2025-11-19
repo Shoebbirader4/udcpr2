@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2166",
+  "title": "Test Methods:Test method shall be as specified by these Regulations for the material or design or construction in question",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2166",
+  "clause_text": "Test Methods:Test method shall be as specified by these Regulations for the material or design or construction in question. If there are no appropriate test methods specified in these Regulations, the Commissioner shall determine the test procedure. For methods of tests for building materials, reference shall be made to the relevant Indian standards as given in the National Building Code of India published by the Bureau of Indian Standards. Test Results: Copies of the results of all such tests shall be submitted to the Commissioner.",
+  "chapter": null,
+  "section": "Quality of materials and workmanship:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Test Methods:Test method shall be as specified by these Regulations for the material or design or construction in question. If there are no appropriate test methods specified in these Regulations, the"
+  },
+  "created_at": "2025-11-19T00:14:44.143687",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.480241",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

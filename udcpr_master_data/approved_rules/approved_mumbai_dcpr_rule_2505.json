@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2505",
+  "title": "No new building or part thereof shall be occupied or allowed to be occupied or used or permitted to be used by any person until occupancy permission has been granted",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2505",
+  "clause_text": "No new building or part thereof shall be occupied or allowed to be occupied or used or permitted to be used by any person until occupancy permission has been granted.",
+  "chapter": null,
+  "section": "ANNEXURE 11Regulation (10) (5)(i)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "No new building or part thereof shall be occupied or allowed to be occupied or used or permitted to be used by any person until occupancy permission has been granted."
+  },
+  "created_at": "2025-11-19T00:14:46.412537",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.281226",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

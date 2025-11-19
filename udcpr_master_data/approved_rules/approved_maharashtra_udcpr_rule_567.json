@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_567",
+  "title": "If the land proposed to be laid out for any development is affected by any reservations of public purposes, the Authority may allow adjusting the location of such reservation to suit development without altering the area of such reservation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 567",
+  "clause_text": "If the land proposed to be laid out for any development is affected by any reservations of public purposes, the Authority may allow adjusting the location of such reservation to suit development without altering the area of such reservation. Provided that such shifting of the reservations shall not be permitted :- If the reservation proposed to be relocated is in parts;",
+  "chapter": null,
+  "section": "3.11 RELOCATION OF D.P. / R.P. SITES / ROADS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the land proposed to be laid out for any development is affected by any reservations of public purposes, the Authority may allow adjusting the location of such reservation to suit development witho"
+  },
+  "created_at": "2025-11-19T00:14:18.828901",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.056734",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

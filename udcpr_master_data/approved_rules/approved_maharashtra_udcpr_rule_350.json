@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_350",
+  "title": "The plan shall be coloured as specified in Table No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 350",
+  "clause_text": "The plan shall be coloured as specified in Table No.2-B given below and prints of plan shall be on one side of the paper only.",
+  "chapter": null,
+  "section": "Colouring Notations for Plans",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The plan shall be coloured as specified in Table No.2-B given below and prints of plan shall be on one side of the paper only."
+  },
+  "created_at": "2025-11-19T00:14:18.085072",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.481736",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

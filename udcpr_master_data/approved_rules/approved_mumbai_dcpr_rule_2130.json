@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2130",
+  "title": "An exit doorway shall open outwards i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2130",
+  "clause_text": "An exit doorway shall open outwards i.e. away from the room, but shall not obstruct the travel along any exit. No door, when opened, shall reduce the required width of a stairway or landing to less than 90 cm.",
+  "chapter": null,
+  "section": "Corridors:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "An exit doorway shall open outwards i.e. away from the room, but shall not obstruct the travel along any exit. No door, when opened, shall reduce the required width of a stairway or landing to less th"
+  },
+  "created_at": "2025-11-19T00:14:43.908106",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.409945",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

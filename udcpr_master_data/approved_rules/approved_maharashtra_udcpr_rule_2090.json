@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2090",
+  "title": "Further, (1)100% additional FSI shall be permissible on payment of premium at the rate of 10% of the weighted average land rate of the said land as prescribed in Annual Statement of Rates for the relevant year, without applying the guidelines therein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2090",
+  "clause_text": "Further, (1)100% additional FSI shall be permissible on payment of premium at the rate of 10% of the weighted average land rate of the said land as prescribed in Annual Statement of Rates for the relevant year, without applying the guidelines therein. Such premium shall be paid at the time of Building permission.",
+  "chapter": null,
+  "section": "Permissible Floor Space Index (FSI) :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Further, (1)100% additional FSI shall be permissible on payment of premium at the rate of 10% of the weighted average land rate of the said land as prescribed in Annual Statement of Rates for the rele"
+  },
+  "created_at": "2025-11-19T00:14:23.706813",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.834336",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

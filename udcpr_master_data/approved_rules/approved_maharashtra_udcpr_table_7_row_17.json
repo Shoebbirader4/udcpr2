@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_17",
+  "title": "Table 7 - Row 17",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.17",
+  "clause_text": ": 10.15 * | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Certain Regulations Cease to Operate in Future. | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Certain Regulations Cease to Operate in Future. | : 204",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "10.15 *",
+        "Certain Regulations Cease to Operate in Future.",
+        "Certain Regulations Cease to Operate in Future.",
+        "204"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": ": 10.15 * | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Certain Regulations Cease to Operate in Future. | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Certain Regulations Cease to Operate in Future. | : 204"
+  },
+  "created_at": "2025-11-19T00:14:29.661959",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.393053",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

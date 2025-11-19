@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1379",
+  "title": "1“The concerned land owning authority shall give development rights on their land to DRP (SRA) in lieu of 70% of net premium that is payable by the developers, proportionate to the Rehab Component generated on the said land",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1379",
+  "clause_text": "1“The concerned land owning authority shall give development rights on their land to DRP (SRA) in lieu of 70% of net premium that is payable by the developers, proportionate to the Rehab Component generated on the said land. In case project to be undertaken by the Public Authority, the premium payable shall be as per decision of Government. Provided that, notwithstanding anything contained above, for the land which are not usable for building construction but have to be vested with DRP/ SRA compensation shall be as decided by the Committee of Secretaries (CoS).”",
+  "chapter": null,
+  "section": "Right of the Hutment Dwellers:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "1“The concerned land owning authority shall give development rights on their land to DRP (SRA) in lieu of 70% of net premium that is payable by the developers, proportionate to the Rehab Component gen"
+  },
+  "created_at": "2025-11-19T00:14:40.475978",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.294222",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

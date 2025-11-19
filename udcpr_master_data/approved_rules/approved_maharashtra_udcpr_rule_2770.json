@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2770",
+  "title": "There shall be no size restriction for bath or water closet unit",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2770",
+  "clause_text": "There shall be no size restriction for bath or water closet unit. Moreover, for bathroom, water closet or kitchen, there shall be no stipulation of one wall abutting open space, etc. as long as artificial light & ventilation through any means are provided.",
+  "chapter": null,
+  "section": "Relaxation in Building and Other Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "There shall be no size restriction for bath or water closet unit. Moreover, for bathroom, water closet or kitchen, there shall be no stipulation of one wall abutting open space, etc. as long as artifi"
+  },
+  "created_at": "2025-11-19T00:14:25.232889",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.839024",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

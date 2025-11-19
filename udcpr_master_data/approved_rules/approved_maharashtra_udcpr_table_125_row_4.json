@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_125_row_4",
+  "title": "Table 125 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-125.4",
+  "clause_text": "Table No.12-K Sanitation Requirements - Hotels: i) | Table No.12-K Sanitation Requirements - Hotels: Toilet suite comprising one WC, washbasin with shower or a bath tub | Table No.12-K Sanitation Requirements - Hotels: Individual guest rooms with attached toilets | Table No.12-K Sanitation Requirements - Hotels: Individual guest rooms with attached toilets | Table No.12-K Sanitation Requirements - Hotels: - | Table No.12-K Sanitation Requirements - Hotels: -",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels"
+      ],
+      "values": [
+        "i)",
+        "Toilet suite comprising one WC, washbasin with shower or a bath tub",
+        "Individual guest rooms with attached toilets",
+        "Individual guest rooms with attached toilets",
+        "-",
+        "-"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_125",
+    "text_snippet": "Table No.12-K Sanitation Requirements - Hotels: i) | Table No.12-K Sanitation Requirements - Hotels: Toilet suite comprising one WC, washbasin with shower or a bath tub | Table No.12-K Sanitation Requ"
+  },
+  "created_at": "2025-11-19T00:14:30.783877",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.926132",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

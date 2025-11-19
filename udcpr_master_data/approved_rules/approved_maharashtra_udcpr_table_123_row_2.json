@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_123_row_2",
+  "title": "Table 123 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-123.2",
+  "clause_text": "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Sr. No. | Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Fixtures | Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Male | Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Female",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings",
+        "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings",
+        "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings",
+        "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings"
+      ],
+      "values": [
+        "Sr. No.",
+        "Fixtures",
+        "Male",
+        "Female"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_123",
+    "text_snippet": "Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Sr. No. | Table No.12-I Sanitation Requirements - Hospitals’ Administrative Buildings: Fixtures | Table No.12-I Sanitation "
+  },
+  "created_at": "2025-11-19T00:14:30.719372",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.890687",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

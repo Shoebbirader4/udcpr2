@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_51_row_2",
+  "title": "Table 51 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-51.2",
+  "clause_text": "Sr. No.: 2. | Authority / Area: For remaining Municipal Corporations area (2) and Area Development Authorities, Special Planning Authorities within these areas. | Permissible height (m.) excluding parking floor upto 6.0 m. height: 70",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Authority / Area",
+        "Permissible height (m.) excluding parking floor upto 6.0 m. height"
+      ],
+      "values": [
+        "2.",
+        "For remaining Municipal Corporations area (2) and Area Development Authorities, Special Planning Authorities within these areas.",
+        "70"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_51",
+    "text_snippet": "Sr. No.: 2. | Authority / Area: For remaining Municipal Corporations area (2) and Area Development Authorities, Special Planning Authorities within these areas. | Permissible height (m.) excluding par"
+  },
+  "created_at": "2025-11-19T00:14:29.891389",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.531633",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

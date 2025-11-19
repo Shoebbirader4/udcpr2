@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_456",
+  "title": "Where the area of site having non-buildable/open space reservation/Cemetery, is more than 500 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 456",
+  "clause_text": "Where the area of site having non-buildable/open space reservation/Cemetery, is more than 500 sq. m & if the land component of existing structures is more than or equal to 65% such sites may be allowed for the redevelopment subject to condition that the ground area of the land so used shall not be more than 65% of the reservation and leaving 35% rendered clear thereafter for the reservation. If the land component of existing structures is less than 65% such sites may be allowed for the redevelopment subject to condition that the ground area of the land so used shall not be more than land component of existing structures and leaving balance reservation land rendered clear thereafter for the reservation.",
+  "chapter": null,
+  "section": "17(3) Not withstanding anything contained in these Regulations Development of Reserved land falling under the various provisions of Regulation No. 33 shall be as under:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where the area of site having non-buildable/open space reservation/Cemetery, is more than 500 sq. m & if the land component of existing structures is more than or equal to 65% such sites may be allowe"
+  },
+  "created_at": "2025-11-19T00:14:37.012286",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.700981",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

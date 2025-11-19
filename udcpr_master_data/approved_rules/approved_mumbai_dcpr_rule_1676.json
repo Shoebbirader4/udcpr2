@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1676",
+  "title": "Essential residential development for the staff/officer's accommodation shall be permitted up to the extent of 33% of the permissible BUA",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1676",
+  "clause_text": "Essential residential development for the staff/officer's accommodation shall be permitted up to the extent of 33% of the permissible BUA.",
+  "chapter": null,
+  "section": "Exceptions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Essential residential development for the staff/officer's accommodation shall be permitted up to the extent of 33% of the permissible BUA."
+  },
+  "created_at": "2025-11-19T00:14:41.441538",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.098988",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

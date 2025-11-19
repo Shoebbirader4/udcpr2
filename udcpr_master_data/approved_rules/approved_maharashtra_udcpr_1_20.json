@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_1_20",
+  "title": "The surplus rain water, after storage, may be recharged into ground through percolation pits or trenches or combination of pits and trenches",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "1.20",
+  "clause_text": "The surplus rain water, after storage, may be recharged into ground through percolation pits or trenches or combination of pits and trenches. Depending on the geomorphological and topographical conditions, the pits may be of the size of 1.20 m. width X 1.20 m. length X 2.0",
+  "chapter": null,
+  "section": "Proper signage :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The surplus rain water, after storage, may be recharged into ground through percolation pits or trenches or combination of pits and trenches. Depending on the geomorphological and topographical condit"
+  },
+  "created_at": "2025-11-19T00:14:23.425097",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.427175",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

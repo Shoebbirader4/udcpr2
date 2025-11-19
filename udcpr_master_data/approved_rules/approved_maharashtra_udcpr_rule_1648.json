@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1648",
+  "title": "An agent or trustee who receives the rent of a or is entrusted with or is concerned with any buildin",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1648",
+  "clause_text": "An agent or trustee who receives the rent of a or is entrusted with or is concerned with any building devoted to religious or charitable purposes;",
+  "chapter": null,
+  "section": "Special Regulations for the Improvement Schemes :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "An agent or trustee who receives the rent of a or is entrusted with or is concerned with any building devoted to religious or charitable purposes;"
+  },
+  "created_at": "2025-11-19T00:14:22.557453",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.741701",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_20",
+  "title": "\"Automatic sprinkler system\" means an arrangement of pumps, pipes and sprinklers, set to activate automatically on detection of fire inside the building and spray water under force to douse fire, simultaneously setting an audible alarm",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 20",
+  "clause_text": "\"Automatic sprinkler system\" means an arrangement of pumps, pipes and sprinklers, set to activate automatically on detection of fire inside the building and spray water under force to douse fire, simultaneously setting an audible alarm.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Automatic sprinkler system\" means an arrangement of pumps, pipes and sprinklers, set to activate automatically on detection of fire inside the building and spray water under force to douse fire, simu"
+  },
+  "created_at": "2025-11-19T00:14:34.455555",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.662830",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

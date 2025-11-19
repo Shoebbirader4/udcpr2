@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2379",
+  "title": "“Annual Statement of Rates (A",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2379",
+  "clause_text": "“Annual Statement of Rates (A.S.R.)” is the annual statement of rates of lands and properties, prepared annually by the Inspector General of Registration and Controller of Stamps, Maharashtra State, Pune.",
+  "chapter": null,
+  "section": "DEFINITIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Annual Statement of Rates (A.S.R.)” is the annual statement of rates of lands and properties, prepared annually by the Inspector General of Registration and Controller of Stamps, Maharashtra State, P"
+  },
+  "created_at": "2025-11-19T00:14:24.411980",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.754240",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

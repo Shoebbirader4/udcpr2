@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1967",
+  "title": "Provided that if one of the wings does not depend for light and ventilation on theopen space between the two wings, the said open space shall be the one required for the higher wingor one required for deriving the light and ventilation whichever is higher",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1967",
+  "clause_text": "Provided that if one of the wings does not depend for light and ventilation on theopen space between the two wings, the said open space shall be the one required for the higher wingor one required for deriving the light and ventilation whichever is higher.",
+  "chapter": null,
+  "section": "Open Spaces within Building Plots/ Layout",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that if one of the wings does not depend for light and ventilation on theopen space between the two wings, the said open space shall be the one required for the higher wingor one required for"
+  },
+  "created_at": "2025-11-19T00:14:42.929850",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.022707",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

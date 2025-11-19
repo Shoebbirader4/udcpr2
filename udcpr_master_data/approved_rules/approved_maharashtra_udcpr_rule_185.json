@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_185",
+  "title": "finished slab surface of a room",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 185",
+  "clause_text": "finished slab surface of a room. In case of pitched roofs, the room height shall be the average height between bottom of the eaves and bottom of the ridge from the finished floor surface.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "finished slab surface of a room. In case of pitched roofs, the room height shall be the average height between bottom of the eaves and bottom of the ridge from the finished floor surface."
+  },
+  "created_at": "2025-11-19T00:14:17.473541",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.052104",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,32 @@
+{
+  "rule_id": "mumbai_dcpr_table_79_row_3",
+  "title": "Table 79 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-79.3",
+  "clause_text": "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehabilitation Schemes under this regulation, the amount of premium shall be computed as per the ASR rate prevailing at the time of issue of IOA and the same shall be recovered at the time of grant of full occupation permission to the respective building. However, this mode of payment of premium shall not be applicable for any other redevelopment scheme other than that under Regulation 33(10). All other redevelopment schemes shall be governed by their respective regulations.: 6.18 For rehabilitation tenements under regulation 33 (10) car parking at the rate mentioned in Regulation 44 table 21 shall be provided or one parking spaces - per tenement for two-wheeler shall be provided. The above parking spaces may be provided in any combination.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehabilitation Schemes under this regulation, the amount of premium shall be computed as per the ASR rate prevailing at the time of issue of IOA and the same shall be recovered at the time of grant of full occupation permission to the respective building. However, this mode of payment of premium shall not be applicable for any other redevelopment scheme other than that under Regulation 33(10). All other redevelopment schemes shall be governed by their respective regulations."
+      ],
+      "values": [
+        "6.18 For rehabilitation tenements under regulation 33 (10) car parking at the rate mentioned in Regulation 44 table 21 shall be provided or one parking spaces - per tenement for two-wheeler shall be provided. The above parking spaces may be provided in any combination."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_79",
+    "text_snippet": "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehab"
+  },
+  "created_at": "2025-11-19T00:14:48.501428",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.702666",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_118",
+  "title": "“Multiplex/Multiplex Theatre Complex (MTC)” means a place of public entertainment for the purpose of exhibition of motion picture with multiple screens and or dramas and other social or cultural programs as described in Bombay Entertainment Duty Act 1923",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 118",
+  "clause_text": "“Multiplex/Multiplex Theatre Complex (MTC)” means a place of public entertainment for the purpose of exhibition of motion picture with multiple screens and or dramas and other social or cultural programs as described in Bombay Entertainment Duty Act 1923.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Multiplex/Multiplex Theatre Complex (MTC)” means a place of public entertainment for the purpose of exhibition of motion picture with multiple screens and or dramas and other social or cultural progr"
+  },
+  "created_at": "2025-11-19T00:14:35.016175",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.845470",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

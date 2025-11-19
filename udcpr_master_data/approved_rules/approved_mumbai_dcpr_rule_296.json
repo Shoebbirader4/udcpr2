@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_296",
+  "title": "If schools which have been developed on unreserved plots and are now shown as existing amenity in DP 2034 considering their land use can be redeveloped in future with the additional benefits of FSI available in DCPR, provided that they shall comply with all other regulations of DCPR/ terms & conditions / policy of Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 296",
+  "clause_text": "If schools which have been developed on unreserved plots and are now shown as existing amenity in DP 2034 considering their land use can be redeveloped in future with the additional benefits of FSI available in DCPR, provided that they shall comply with all other regulations of DCPR/ terms & conditions / policy of Govt. Merely by virtue of showing the existing land use as existing amenity in respect of school will not give the status of authorization unless it is constructed authorisedly as per the prevailing DCR/ terms & conditions / policy of Govt.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If schools which have been developed on unreserved plots and are now shown as existing amenity in DP 2034 considering their land use can be redeveloped in future with the additional benefits of FSI av"
+  },
+  "created_at": "2025-11-19T00:14:36.314224",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.277089",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

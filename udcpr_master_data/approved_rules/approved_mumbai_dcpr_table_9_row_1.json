@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_9_row_1",
+  "title": "Table 9 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-9.1",
+  "clause_text": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: (30) Parking Floor | 326: 326",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings",
+        "326"
+      ],
+      "values": [
+        "",
+        "(30) Parking Floor",
+        "326"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_9",
+    "text_snippet": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: (30) Parking Floor | 326: 326"
+  },
+  "created_at": "2025-11-19T00:14:48.085907",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.406411",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2753",
+  "title": "The multi-storeyed temporary transit camp shall be provided on the site itself or outside the SRA project site on portion of plot which is not designated / reserved for public purpose or not affected by road widening and is preferably close to the site",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2753",
+  "clause_text": "The multi-storeyed temporary transit camp shall be provided on the site itself or outside the SRA project site on portion of plot which is not designated / reserved for public purpose or not affected by road widening and is preferably close to the site.",
+  "chapter": null,
+  "section": "Temporary Transit Camps",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The multi-storeyed temporary transit camp shall be provided on the site itself or outside the SRA project site on portion of plot which is not designated / reserved for public purpose or not affected "
+  },
+  "created_at": "2025-11-19T00:14:25.210490",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.815458",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

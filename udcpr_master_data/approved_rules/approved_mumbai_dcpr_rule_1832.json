@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1832",
+  "title": "Stairway: Stairways shall conform to the following provisions in addition to items (i) to (ix) below",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1832",
+  "clause_text": "Stairway: Stairways shall conform to the following provisions in addition to items (i) to (ix) below. In addition, in order to satisfy fire- fighting requirements, any stairway identified as an exit stairway shall conform to the requirements stipulated in Regulation 47",
+  "chapter": null,
+  "section": "Mezzanine Floor:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Stairway: Stairways shall conform to the following provisions in addition to items (i) to (ix) below. In addition, in order to satisfy fire- fighting requirements, any stairway identified as an exit s"
+  },
+  "created_at": "2025-11-19T00:14:42.178376",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.651979",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

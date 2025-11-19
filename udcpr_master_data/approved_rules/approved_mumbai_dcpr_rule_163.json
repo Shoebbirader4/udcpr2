@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_163",
+  "title": "If any question or dispute arises with regard to interpretation of any of these Regulations the matter shall be referred to the State Government which, after considering the matter and, if necessary, after giving hearing to the parties, shall give a decision on the interpretation of the provisions of these Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 163",
+  "clause_text": "If any question or dispute arises with regard to interpretation of any of these Regulations the matter shall be referred to the State Government which, after considering the matter and, if necessary, after giving hearing to the parties, shall give a decision on the interpretation of the provisions of these Regulations. The decision of the Government on the interpretation of these Regulations shall be final and binding on the concerned party or parties.",
+  "chapter": null,
+  "section": "Interpretation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If any question or dispute arises with regard to interpretation of any of these Regulations the matter shall be referred to the State Government which, after considering the matter and, if necessary, "
+  },
+  "created_at": "2025-11-19T00:14:35.320950",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.960932",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

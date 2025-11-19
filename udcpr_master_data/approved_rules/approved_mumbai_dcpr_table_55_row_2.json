@@ -1,0 +1,48 @@
+{
+  "rule_id": "mumbai_dcpr_table_55_row_2",
+  "title": "Table 55 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-55.2",
+  "clause_text": "Areas: ii | Areas: Areas of the village of Akse, Marve and CRZ affected areas of Erangal in P/North Ward and excepting gaothan proper. | Zone: Resid ential /Com merci al | Zonal (Basic ): 0.5 | Adm issib le TDR: - | Permi ssibl e FSI (4+5 +6): 0.50",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Areas",
+        "Areas",
+        "Zone",
+        "Road width",
+        "Zonal (Basic )",
+        "Additio nal FSI on payme nt of Premiu m",
+        "Adm issib le TDR",
+        "Permi ssibl e FSI (4+5 +6)"
+      ],
+      "values": [
+        "",
+        "ii",
+        "Areas of the village of Akse, Marve and CRZ affected areas of Erangal in P/North Ward and excepting gaothan proper.",
+        "Resid ential /Com merci al",
+        "",
+        "0.5",
+        "",
+        "-",
+        "0.50"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_55",
+    "text_snippet": "Areas: ii | Areas: Areas of the village of Akse, Marve and CRZ affected areas of Erangal in P/North Ward and excepting gaothan proper. | Zone: Resid ential /Com merci al | Zonal (Basic ): 0.5 | Adm is"
+  },
+  "created_at": "2025-11-19T00:14:48.385633",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.583541",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

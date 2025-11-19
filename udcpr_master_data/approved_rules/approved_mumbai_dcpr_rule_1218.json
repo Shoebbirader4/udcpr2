@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1218",
+  "title": "Applicability: The following provisions will apply for redevelopment/construction of accommodation for hutment/pavement- dwellers through owners/developers/co-operative housing societies of hutment/pavement-dwellers/public authorities such as MHADA, MIDC, MMRDA etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1218",
+  "clause_text": "Applicability: The following provisions will apply for redevelopment/construction of accommodation for hutment/pavement- dwellers through owners/developers/co-operative housing societies of hutment/pavement-dwellers/public authorities such as MHADA, MIDC, MMRDA etc./Non-Governmental Organizations anywhere within the limits of MCGM. However, NGO should be registered under the Maharashtra Public Charitable Trusts Act, 1961 and the Societies Registration Act, 1960 at least for the last five years should also be got approved by SRA.",
+  "chapter": null,
+  "section": "Definition of Slum, Pavement, and Structure of hut:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Applicability: The following provisions will apply for redevelopment/construction of accommodation for hutment/pavement- dwellers through owners/developers/co-operative housing societies of hutment/pa"
+  },
+  "created_at": "2025-11-19T00:14:39.880477",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.929758",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

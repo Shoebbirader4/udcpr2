@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1246",
+  "title": "Premium to be received by the Planning Authority against availing additional FSI for IT & ITES industries / Data Center as per provisions in this regulation shall be deposited in a separate account head as provided by State Government as a separate fund viz",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1246",
+  "clause_text": "Premium to be received by the Planning Authority against availing additional FSI for IT & ITES industries / Data Center as per provisions in this regulation shall be deposited in a separate account head as provided by State Government as a separate fund viz. \"Critical Infrastructure Fund for IT / ITES Industries\" and this fund shall be utilized only for creation of Critical Infrastructure for IT / ITES Industries / Data center. The matching contribution from the State Government / MIDC (as a special Planning Authority) will be deposited in the same infrastructure fund.",
+  "chapter": null,
+  "section": "(1) 7.8.1 For Municipal Corporations in Mumbai Metropolitan Region and Pune Metropolitan Region.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Premium to be received by the Planning Authority against availing additional FSI for IT & ITES industries / Data Center as per provisions in this regulation shall be deposited in a separate account he"
+  },
+  "created_at": "2025-11-19T00:14:21.083389",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.773016",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

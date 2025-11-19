@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1779",
+  "title": "Under the Affordable Housing Scheme, Off-Site Infrastructure Charges at the rate of 5% of the land rate as given in the Annual Statement of Rates (ASR) prepared by the Inspector General of Registration, Maharashtra State, for the year in which Commencement Certificate is issued, subject to a minimum of Rs",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1779",
+  "clause_text": "Under the Affordable Housing Scheme, Off-Site Infrastructure Charges at the rate of 5% of the land rate as given in the Annual Statement of Rates (ASR) prepared by the Inspector General of Registration, Maharashtra State, for the year in which Commencement Certificate is issued, subject to a minimum of Rs.2000 per sq.m., shall be paid by the Developer for the built up area, over and above the normal permissible FSI. This amount shall be paid to the Special Planning Authority for Bhiwandi Surrounding Notified Area. Release of FSI under the Scheme shall be as follows :-",
+  "chapter": null,
+  "section": "REGULATIONS FOR AFFORDABLE HOUSING SCHEME :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Under the Affordable Housing Scheme, Off-Site Infrastructure Charges at the rate of 5% of the land rate as given in the Annual Statement of Rates (ASR) prepared by the Inspector General of Registratio"
+  },
+  "created_at": "2025-11-19T00:14:22.884244",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.023526",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

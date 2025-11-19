@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2895",
+  "title": "FSI shall be calculated over the gross area of the URC, deducting area falling in CRZ and Forest areas if any",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2895",
+  "clause_text": "FSI shall be calculated over the gross area of the URC, deducting area falling in CRZ and Forest areas if any. However, if the area in CRZ-II is upto 25% of the URC then the FSI shall be allowed to be used in non CRZ area. However no FSI shall be allowed for the area from CRZ-1. Out of the construction area allowed as per Global FSI, FSI that cannot be actually utilized in URC, due to constraints imposed by different provisions of UDCPR, or otherwise, shall be converted into Urban Renewal TDR (URT) which shall be utilisable on a receiving plot. (1)",
+  "chapter": null,
+  "section": "The permissible FSI for URC –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "FSI shall be calculated over the gross area of the URC, deducting area falling in CRZ and Forest areas if any. However, if the area in CRZ-II is upto 25% of the URC then the FSI shall be allowed to be"
+  },
+  "created_at": "2025-11-19T00:14:25.663308",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.036219",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

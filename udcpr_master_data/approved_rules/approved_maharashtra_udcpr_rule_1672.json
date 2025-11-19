@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1672",
+  "title": "However, such development should not be permitted on lands which deserve preservation or protection from Environmental considerations viz",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1672",
+  "clause_text": "However, such development should not be permitted on lands which deserve preservation or protection from Environmental considerations viz. Hills and Hill tops and within the required Buffer Zone / Prohibited Zone from river, lakes and reservoirs of minor and major project of water resource department. (1)",
+  "chapter": null,
+  "section": "Permissible FSI For Final Plot -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "However, such development should not be permitted on lands which deserve preservation or protection from Environmental considerations viz. Hills and Hill tops and within the required Buffer Zone / Pro"
+  },
+  "created_at": "2025-11-19T00:14:22.628489",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.797126",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

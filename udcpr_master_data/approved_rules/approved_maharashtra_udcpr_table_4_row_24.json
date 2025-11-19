@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_24",
+  "title": "Table 4 - Row 24",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.24",
+  "clause_text": ": 6.1 | 5.1.2: Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans | 84: 105",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "6.1",
+        "Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans",
+        "Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans",
+        "Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans",
+        "105"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": ": 6.1 | 5.1.2: Regulations for Congested Area in Development Plans / Gaothan of Village Settlements in Metropolitan Region Development Authorities and Regional Plans | Regulations for Development of T"
+  },
+  "created_at": "2025-11-19T00:14:29.524831",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.142398",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

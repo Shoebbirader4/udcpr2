@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1775",
+  "title": "However the lands reserved for public purposes which is owned or held by Cotton Textile Mills, shall",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1775",
+  "clause_text": "However the lands reserved for public purposes which is owned or held by Cotton Textile Mills, shall not be regulated by the provisions of this regulations and reserved lands shall be handed over to MCGM or the Appropriate Authority in lieu of TDR or shall be developed as per the provisions laid down under Regulation No 17",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "However the lands reserved for public purposes which is owned or held by Cotton Textile Mills, shall not be regulated by the provisions of this regulations and reserved lands shall be handed over to M"
+  },
+  "created_at": "2025-11-19T00:14:41.824517",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.498340",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

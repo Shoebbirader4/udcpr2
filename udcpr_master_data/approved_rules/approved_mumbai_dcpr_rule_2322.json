@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2322",
+  "title": "If the cross-sectional area of a duct exceeds 1 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2322",
+  "clause_text": "If the cross-sectional area of a duct exceeds 1 sq. m it shall be sealed where it passes a floor with non-combustible light material. The seal within the duct maybe pierced for any service pipe or ventilated trunk and shall fit as closely as possible around any such pipe or trunk.",
+  "chapter": null,
+  "section": "Service ducts.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the cross-sectional area of a duct exceeds 1 sq. m it shall be sealed where it passes a floor with non-combustible light material. The seal within the duct maybe pierced for any service pipe or ven"
+  },
+  "created_at": "2025-11-19T00:14:44.938577",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.789336",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

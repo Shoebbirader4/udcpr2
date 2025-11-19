@@ -1,0 +1,34 @@
+{
+  "rule_id": "mumbai_dcpr_table_173_row_1",
+  "title": "Table 173 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-173.1",
+  "clause_text": "13: 14 | Authorisation to Authority:- In case of any deviations/irregularities noticed in the process or after completion, the Planning Authority may immediately issue notice to the owner and or to the concerned licensee to suspend the further work and rectify the deviations/irregularities. Only after satisfaction of rectification made by the owner or concerned licensee, the Planning Authority issue intimation to start the work. In major violations, the Planning Authority shall authorise to take appropriate action against Architect/L.S./Engineer as the case may be, as per the DCR or as per respective Acts and Laws. Municipal Commissioner/Chief Officer, as the case may be,of the respective Authority are authorised to prepare common application forms, proformas, affidavit etc. wherever required for the smooth implementation of this regulation. The above procedure shall be integrated with the Online Building Permission Management System (BPMS) by the concerned Authority.: Exceptions from this Procedure:-The above Procedure for Building Permission shall not bar the owner/ Architect/L.S./Engineer to obtain development permission as per Regular provisions of the DCPR. Also this stipulations shall not be applicable to the proposals who desired to obtain Development Permission as per Type Design Pattern which was issued by Government vide TPS-1813/3200/CR 520/13/UD 13, Dated 03/01/2015.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "13",
+        "Authorisation to Authority:- In case of any deviations/irregularities noticed in the process or after completion, the Planning Authority may immediately issue notice to the owner and or to the concerned licensee to suspend the further work and rectify the deviations/irregularities. Only after satisfaction of rectification made by the owner or concerned licensee, the Planning Authority issue intimation to start the work. In major violations, the Planning Authority shall authorise to take appropriate action against Architect/L.S./Engineer as the case may be, as per the DCR or as per respective Acts and Laws. Municipal Commissioner/Chief Officer, as the case may be,of the respective Authority are authorised to prepare common application forms, proformas, affidavit etc. wherever required for the smooth implementation of this regulation. The above procedure shall be integrated with the Online Building Permission Management System (BPMS) by the concerned Authority."
+      ],
+      "values": [
+        "14",
+        "Exceptions from this Procedure:-The above Procedure for Building Permission shall not bar the owner/ Architect/L.S./Engineer to obtain development permission as per Regular provisions of the DCPR. Also this stipulations shall not be applicable to the proposals who desired to obtain Development Permission as per Type Design Pattern which was issued by Government vide TPS-1813/3200/CR 520/13/UD 13, Dated 03/01/2015."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_173",
+    "text_snippet": "13: 14 | Authorisation to Authority:- In case of any deviations/irregularities noticed in the process or after completion, the Planning Authority may immediately issue notice to the owner and or to th"
+  },
+  "created_at": "2025-11-19T00:14:49.160465",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.886127",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

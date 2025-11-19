@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2413",
+  "title": "Notice under section 342 of MMC Act and notice under section 44/69 of MR & TP Act 1966 duly signed by owner/NOC Holder",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2413",
+  "clause_text": "Notice under section 342 of MMC Act and notice under section 44/69 of MR & TP Act 1966 duly signed by owner/NOC Holder. Structural audit report/Statutory Notice issued by MCGM/MHADA Photographs showing condition of building as under: Front roadside view from ground to top floor in one or more photographs as possible. Plan showing block plan, location plan and all the details existing on site",
+  "chapter": null,
+  "section": "Repairs to be carried out can be categorized as detailed below:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notice under section 342 of MMC Act and notice under section 44/69 of MR & TP Act 1966 duly signed by owner/NOC Holder."
+  },
+  "created_at": "2025-11-19T00:14:45.545801",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.056445",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

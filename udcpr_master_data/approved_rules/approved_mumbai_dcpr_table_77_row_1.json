@@ -1,0 +1,32 @@
+{
+  "rule_id": "mumbai_dcpr_table_77_row_1",
+  "title": "Table 77 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-77.1",
+  "clause_text": "Provision: 6.1 Separate kitchen shall not be necessary. Cooking space (alcove) shall be allowed without any minimum size restrictions. Where a kitchen is provided, the minimum area shall be 5 sq. m provided the width shall be at least 1.5 m.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Provision"
+      ],
+      "values": [
+        "6.1 Separate kitchen shall not be necessary. Cooking space (alcove) shall be allowed without any minimum size restrictions. Where a kitchen is provided, the minimum area shall be 5 sq. m provided the width shall be at least 1.5 m."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_77",
+    "text_snippet": "Provision: 6.1 Separate kitchen shall not be necessary. Cooking space (alcove) shall be allowed without any minimum size restrictions. Where a kitchen is provided, the minimum area shall be 5 sq. m pr"
+  },
+  "created_at": "2025-11-19T00:14:48.484189",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.663404",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

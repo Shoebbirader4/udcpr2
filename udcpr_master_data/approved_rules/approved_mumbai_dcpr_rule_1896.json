@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1896",
+  "title": "In case of educational development by Educational Institution on their land, if additional FSI is dueand if the existing open area is less than 40%of the plot area, additional FSI can be sanctioned as per these regulations without reducing the open area further and without increasing the plinth coverage area, by ensuring structural stability of the existing building",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1896",
+  "clause_text": "In case of educational development by Educational Institution on their land, if additional FSI is dueand if the existing open area is less than 40%of the plot area, additional FSI can be sanctioned as per these regulations without reducing the open area further and without increasing the plinth coverage area, by ensuring structural stability of the existing building. Further where existing open area is more than 40%, then minimum 40% of plot area shall be maintained as open area (inclusive of recreational area as required under Regulation No 27) while allowing additional FSI as per these Regulations. Note- 1) The permissible FSI shall be on the entire plot.",
+  "chapter": null,
+  "section": "Educational Building:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of educational development by Educational Institution on their land, if additional FSI is dueand if the existing open area is less than 40%of the plot area, additional FSI can be sanctioned as"
+  },
+  "created_at": "2025-11-19T00:14:42.542316",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.824938",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

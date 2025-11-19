@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1927",
+  "title": "Workplaces where crèches are provided, they shall be provided with one WC for 10 persons or part thereof, one washbasin for 15 persons or part thereof, one kitchen sink with floor tap for preparing food / milk preparations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1927",
+  "clause_text": "Workplaces where crèches are provided, they shall be provided with one WC for 10 persons or part thereof, one washbasin for 15 persons or part thereof, one kitchen sink with floor tap for preparing food / milk preparations. The sink provided shall be with a drinking water tap.",
+  "chapter": null,
+  "section": "For Buildings other than Residences",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Workplaces where crèches are provided, they shall be provided with one WC for 10 persons or part thereof, one washbasin for 15 persons or part thereof, one kitchen sink with floor tap for preparing fo"
+  },
+  "created_at": "2025-11-19T00:14:23.283944",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.333008",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

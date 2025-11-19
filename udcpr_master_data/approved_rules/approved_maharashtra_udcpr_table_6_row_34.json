@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_6_row_34",
+  "title": "Table 6 - Row 34",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-6.34",
+  "clause_text": ": 9.28 * # | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Exit Requirements | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Exit Requirements | : 162",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        ""
+      ],
+      "values": [
+        "9.28 * #",
+        "Exit Requirements",
+        "Exit Requirements",
+        "162"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_6",
+    "text_snippet": ": 9.28 * # | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Exit Requirements | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Exit Requirements | : 162"
+  },
+  "created_at": "2025-11-19T00:14:29.618752",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.271932",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

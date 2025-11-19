@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2495",
+  "title": "However before such an eviction is done, the slum dweller residing in such structure shall be given notice u/s 33-A read with sub section (8) of section 12 and an opportunity of being heard by the C",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2495",
+  "clause_text": "However before such an eviction is done, the slum dweller residing in such structure shall be given notice u/s 33-A read with sub section (8) of section 12 and an opportunity of being heard by the C.E.O., S.R.A. or the Competent Authority authorized by the C.E.O., S.R.A. The Clearance Order of C.E.O., S.R.A. or order u/s 33-A read with sub section (8) of section",
+  "chapter": null,
+  "section": "SANCTION TO THE SRS The following procedure shall be adopted while examining and sanctioning any S.R.S. in accordance with the provisions of the said Regulations,",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "However before such an eviction is done, the slum dweller residing in such structure shall be given notice u/s 33-A read with sub section (8) of section 12 and an opportunity of being heard by the C.E"
+  },
+  "created_at": "2025-11-19T00:14:24.714670",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.984802",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

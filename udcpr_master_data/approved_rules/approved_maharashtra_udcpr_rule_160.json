@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_160",
+  "title": "Assembly Building means any building or part of a building where groups of people congregate or gather for amusement, recreation or social, religious, patriotic, civil, travel and similar purposes, e",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 160",
+  "clause_text": "Assembly Building means any building or part of a building where groups of people congregate or gather for amusement, recreation or social, religious, patriotic, civil, travel and similar purposes, e.g. theatres, motion picture houses, drive-in-theatres, multiplexes, assembly halls, city halls, town halls, auditoria, exhibition halls, museums, mangal-karyalayas, cultural centres, skating rinks, places of worship, dance theatres, clubs & gymkhanas, malls, passenger stations and terminals of air, surface and other public transportation services, recreation piers and stadia;",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Assembly Building means any building or part of a building where groups of people congregate or gather for amusement, recreation or social, religious, patriotic, civil, travel and similar purposes, e."
+  },
+  "created_at": "2025-11-19T00:14:17.355767",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.943021",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

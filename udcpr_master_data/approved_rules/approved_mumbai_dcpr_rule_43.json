@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_43",
+  "title": "\"Storage building\" means a building or part thereof used primarily for storage or shelter of goods, wares or merchandise, warehouse, cold storage, freight depot, transit shed, store house, public garage hangar, truck terminal, grain elevator and barn",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 43",
+  "clause_text": "\"Storage building\" means a building or part thereof used primarily for storage or shelter of goods, wares or merchandise, warehouse, cold storage, freight depot, transit shed, store house, public garage hangar, truck terminal, grain elevator and barn.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Storage building\" means a building or part thereof used primarily for storage or shelter of goods, wares or merchandise, warehouse, cold storage, freight depot, transit shed, store house, public gara"
+  },
+  "created_at": "2025-11-19T00:14:34.603975",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.709332",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

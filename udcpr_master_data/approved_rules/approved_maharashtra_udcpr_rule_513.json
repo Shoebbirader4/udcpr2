@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_513",
+  "title": "A swimming pool may also be permitted in such a recreational open space",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 513",
+  "clause_text": "A swimming pool may also be permitted in such a recreational open space. The ownership of such structures and other appurtenant users shall vest in all the owners on account of whose cumulative holdings the recreational open space is required to be kept in the land.",
+  "chapter": null,
+  "section": "Structures permitted in Open Space",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A swimming pool may also be permitted in such a recreational open space. The ownership of such structures and other appurtenant users shall vest in all the owners on account of whose cumulative holdin"
+  },
+  "created_at": "2025-11-19T00:14:18.612629",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.865213",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

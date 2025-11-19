@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2848",
+  "title": "Explanation - 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2848",
+  "clause_text": "Explanation - 1. - Age of a building shall be as on the 1st of January of the year in which URC involving such building, complete in all respect is submitted to the Commissioner or prepared and notified by the Commissioner and shall be calculated from the date of occupation certificate or, where such occupation certificate is not available, from the date of assessment as per the property tax record in respect of such building, available with the Municipal Corporation.",
+  "chapter": null,
+  "section": "Urban Renewal Scheme (URS) for Municipal Corporation Area –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Explanation - 1. - Age of a building shall be as on the 1st of January of the year in which URC involving such building, complete in all respect is submitted to the Commissioner or prepared and notifi"
+  },
+  "created_at": "2025-11-19T00:14:25.514713",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.954364",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

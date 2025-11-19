@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_495",
+  "title": "In the case of development of land for educational purpose, in lieu of 10% recreational open space, following percentage of the gross area (or as decided by the Government from time to time), excluding the area under Development / Regional Plan road and Development Plan reservations, shall be earmarked for play ground",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 495",
+  "clause_text": "In the case of development of land for educational purpose, in lieu of 10% recreational open space, following percentage of the gross area (or as decided by the Government from time to time), excluding the area under Development / Regional Plan road and Development Plan reservations, shall be earmarked for play ground. Notwithstanding anything contained in this regulation, the shape and location of such open space shall be such that it can be properly used as a playground. The area of such play ground shall not be deducted for computation of FSI. The independent play ground of the institution attached with the school building shall also be entitled for computation of FSI.",
+  "chapter": null,
+  "section": "Recreational Open Space",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In the case of development of land for educational purpose, in lieu of 10% recreational open space, following percentage of the gross area (or as decided by the Government from time to time), excludin"
+  },
+  "created_at": "2025-11-19T00:14:18.568168",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.828046",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

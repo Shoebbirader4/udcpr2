@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2219",
+  "title": "On plots having non-buildable/POS reservation/existing amenity and having area more than 4,000 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2219",
+  "clause_text": "On plots having non-buildable/POS reservation/existing amenity and having area more than 4,000 sq. m, 2 toilets and 2 urinals each for ladies and gents and preferably one toilet for differently abled persons and one urinal for children shall be constructed.",
+  "chapter": null,
+  "section": "Public Sanitary Convenience (PSC) Blocks/Toilets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "On plots having non-buildable/POS reservation/existing amenity and having area more than 4,000 sq. m, 2 toilets and 2 urinals each for ladies and gents and preferably one toilet for differently abled "
+  },
+  "created_at": "2025-11-19T00:14:44.379561",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.590434",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

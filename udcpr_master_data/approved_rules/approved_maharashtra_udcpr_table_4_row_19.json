@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_19",
+  "title": "Table 4 - Row 19",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.19",
+  "clause_text": ": 5.10 | 5.1.2: Certain Regulations cease to operate in future. | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Certain Regulations cease to operate in future. | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Certain Regulations cease to operate in future. | 84: 103",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "5.10",
+        "Certain Regulations cease to operate in future.",
+        "Certain Regulations cease to operate in future.",
+        "Certain Regulations cease to operate in future.",
+        "103"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": ": 5.10 | 5.1.2: Certain Regulations cease to operate in future. | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Cert"
+  },
+  "created_at": "2025-11-19T00:14:29.518137",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.110618",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_225",
+  "title": "all adjacent streets, buildings (with number of stories and height) and premises within a distance o",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 225",
+  "clause_text": "all adjacent streets, buildings (with number of stories and height) and premises within a distance of 12 m of the work site and of the contiguous land(if any) referred to in (iv)(a); and",
+  "chapter": null,
+  "section": "Information accompanying notice:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "all adjacent streets, buildings (with number of stories and height) and premises within a distance of 12 m of the work site and of the contiguous land(if any) referred to in (iv)(a); and"
+  },
+  "created_at": "2025-11-19T00:14:35.831724",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.113973",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

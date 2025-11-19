@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_548",
+  "title": "sub-rule, the Commissioner may, by written notice, direct the owner or owners of the several premises fronting or adjoining the said street or other means of access or abutting thereon or to which access is obtained through such street or other means of access or which shall benefit by works executed, to carry out any or all of the aforesaid requirements in such manner and within such time as he shall direct",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 548",
+  "clause_text": "sub-rule, the Commissioner may, by written notice, direct the owner or owners of the several premises fronting or adjoining the said street or other means of access or abutting thereon or to which access is obtained through such street or other means of access or which shall benefit by works executed, to carry out any or all of the aforesaid requirements in such manner and within such time as he shall direct. If the owner or owners fail to comply with this direction, the Commissioner may arrange for its execution and recover the expenses incurred from the owner or owners.",
+  "chapter": null,
+  "section": "Means of Access to be Constructed & Maintained",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "sub-rule, the Commissioner may, by written notice, direct the owner or owners of the several premises fronting or adjoining the said street or other means of access or abutting thereon or to which acc"
+  },
+  "created_at": "2025-11-19T00:14:37.533077",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.995944",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

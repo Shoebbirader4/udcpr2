@@ -1,0 +1,38 @@
+{
+  "rule_id": "mumbai_dcpr_table_176_row_1",
+  "title": "Table 176 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-176.1",
+  "clause_text": "Sr.: Sr. | Requirements: Water Supply | Requirements: Pump Capacity",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr.",
+        "",
+        "Requirements",
+        "Requirements"
+      ],
+      "values": [
+        "Sr.",
+        "",
+        "Water Supply",
+        "Pump Capacity"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_176",
+    "text_snippet": "Sr.: Sr. | Requirements: Water Supply | Requirements: Pump Capacity"
+  },
+  "created_at": "2025-11-19T00:14:49.167222",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.887496",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

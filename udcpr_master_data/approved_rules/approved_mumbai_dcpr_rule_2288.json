@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2288",
+  "title": "Owner/Developer/Project proponent at his option may opt for the certification of Indian Green Building code (IGBC)/Energy Conservation Building Conservation Code(ECBC)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2288",
+  "clause_text": "Owner/Developer/Project proponent at his option may opt for the certification of Indian Green Building code (IGBC)/Energy Conservation Building Conservation Code(ECBC). The provisions of appliances/fitting as per IGBC/ECBC shall be as per direction of GOI/GOM if any from time to time.",
+  "chapter": null,
+  "section": "Energy Efficient Buildings",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Owner/Developer/Project proponent at his option may opt for the certification of Indian Green Building code (IGBC)/Energy Conservation Building Conservation Code(ECBC). The provisions of appliances/fi"
+  },
+  "created_at": "2025-11-19T00:14:44.686299",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.731135",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_1_0",
+  "title": "(1) prescribed hereinabove plus additional 10% F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "1.0",
+  "clause_text": "(1) prescribed hereinabove plus additional 10% F.S.I. of free sale component area as an incentive for undertaking cluster redevelopment of slums will be permissible. Cluster here shall mean the slum area of at least 1.0 hectare of contiguous land, (3) (---) (3) irrespective of number of land parcels and ownership etc. (3)",
+  "chapter": null,
+  "section": "REGULATIONS RELATING TO REHABILITATION AND FREE SALE COMPONENTS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "(1) prescribed hereinabove plus additional 10% F.S.I. of free sale component area as an incentive for undertaking cluster redevelopment of slums will be permissible. Cluster here shall mean the slum a"
+  },
+  "created_at": "2025-11-19T00:14:24.823582",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.133978",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

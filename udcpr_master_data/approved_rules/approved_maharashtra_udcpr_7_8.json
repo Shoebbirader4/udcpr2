@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_7_8",
+  "title": "Mixed use in the form of residential and commercial may be permissible on the residential plot in TOD zone fronting on the road width of 12 m",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "7.8",
+  "clause_text": "Mixed use in the form of residential and commercial may be permissible on the residential plot in TOD zone fronting on the road width of 12 m., and above and mix use on plot / plots in commercial plot in TOD zone shall be permissible as per the Principal DCPR and the maximum permissible FSI under this regulation shall be allowed on the payment of premium. Purely Mercantile building office building, schools, colleges, hospitals, hotels, assembly buildings will be permissible on independent plot & Information Technology building will be permissible on independent plot subject to payment of premium. For I.T. Buildings the rate of premium for additional FSI up to 200 % shall be as per regulation No.7.8 of Principal DCPR and for additional FSI over it shall be as required under this regulation. Marginal Distances Shall be applicable as per provisions in principle DCPR. Parking provisions in the TOD Zone shall be at 50% of those as mentioned in UDCPR.",
+  "chapter": null,
+  "section": "Permissible mixed use in TOD zone",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Mixed use in the form of residential and commercial may be permissible on the residential plot in TOD zone fronting on the road width of 12 m., and above and mix use on plot / plots in commercial plot"
+  },
+  "created_at": "2025-11-19T00:14:24.013693",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.310947",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

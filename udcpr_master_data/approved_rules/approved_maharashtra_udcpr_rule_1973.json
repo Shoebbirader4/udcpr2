@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1973",
+  "title": "All such new buildings installed with SWH shall have an installed hot water line from the rooftop and insulated distribution pipelines to each of the points where hot water is required in the building",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1973",
+  "clause_text": "All such new buildings installed with SWH shall have an installed hot water line from the rooftop and insulated distribution pipelines to each of the points where hot water is required in the building. The provision for Rain Water Harvesting shall be made as under :-",
+  "chapter": null,
+  "section": "Proper signage :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All such new buildings installed with SWH shall have an installed hot water line from the rooftop and insulated distribution pipelines to each of the points where hot water is required in the building"
+  },
+  "created_at": "2025-11-19T00:14:23.413229",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.413538",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

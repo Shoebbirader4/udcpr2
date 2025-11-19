@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_449",
+  "title": "increasing ease of doing business, no individual applicant should be required to approach the concerned departments for NOC",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 449",
+  "clause_text": "increasing ease of doing business, no individual applicant should be required to approach the concerned departments for NOC. However it is the duty of the applicant to ensure that restrictions informed by the above said authorities are followed scrupulously. The Authority shall make a reference to this effect to the concerned authorities and ensure compliance with the restriction informed by them while sanctioning the development permission.",
+  "chapter": null,
+  "section": "Authorities to Supply Complete Information about Restrictions to the Authority",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "increasing ease of doing business, no individual applicant should be required to approach the concerned departments for NOC. However it is the duty of the applicant to ensure that restrictions informe"
+  },
+  "created_at": "2025-11-19T00:14:18.349357",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.691228",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

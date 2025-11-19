@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_124_row_4",
+  "title": "Table 124 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-124.4",
+  "clause_text": "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: i) | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: Water-closets | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: 1 per 4 persons or part thereof | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: 1per 4 persons or part thereof | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: 1 per 4 persons or part thereof 2 for 16-35 | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: 1per 4 persons or part thereof 2 for 16-35",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes",
+        ""
+      ],
+      "values": [
+        "",
+        "i)",
+        "Water-closets",
+        "1 per 4 persons or part thereof",
+        "1per 4 persons or part thereof",
+        "1 per 4 persons or part thereof 2 for 16-35",
+        "1per 4 persons or part thereof 2 for 16-35",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_124",
+    "text_snippet": "Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: i) | Table No.12-J Sanitation Requirements - Hospitals’ Staff Quarters and Nurses Homes: Water-closets | Table No.12"
+  },
+  "created_at": "2025-11-19T00:14:30.767234",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.917981",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

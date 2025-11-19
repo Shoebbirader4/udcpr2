@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_135",
+  "title": "Habitable Room - means a room constructed or intended for human habitation and uses incidental thereto, including kitchen if used as a living room but excluding a bathroom, water closet compartment, laundry, serving and storing pantry, corridor, cellar, attic and spaces not frequently used",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 135",
+  "clause_text": "Habitable Room - means a room constructed or intended for human habitation and uses incidental thereto, including kitchen if used as a living room but excluding a bathroom, water closet compartment, laundry, serving and storing pantry, corridor, cellar, attic and spaces not frequently used.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Habitable Room - means a room constructed or intended for human habitation and uses incidental thereto, including kitchen if used as a living room but excluding a bathroom, water closet compartment, l"
+  },
+  "created_at": "2025-11-19T00:14:17.304426",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.859903",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,45 @@
+========================================
+UDCPR MASTER - CONFIGURATION NEEDED
+========================================
+
+Your MongoDB Atlas connection string:
+mongodb+srv://shoebbirader_db_user:<db_password>@udcpr.kny14nb.mongodb.net/?appName=UDCPR
+
+STEP 1: Replace <db_password> with your actual password
+----------------------------------------
+Example: If your password is "MyPass123", the connection string becomes:
+mongodb+srv://shoebbirader_db_user:MyPass123@udcpr.kny14nb.mongodb.net/udcpr_master?retryWrites=true&w=majority&appName=UDCPR
+
+STEP 2: Update the configuration files
+----------------------------------------
+You need to update 2 files:
+
+FILE 1: backend/.env
+Replace the MONGO_URI line with your connection string (with password filled in)
+
+FILE 2: ai_services/.env  
+Replace the MONGO_URI line with your connection string (with password filled in)
+
+STEP 3: (Optional) Add OpenAI API Key
+----------------------------------------
+If you have an OpenAI API key, add it to both .env files:
+OPENAI_API_KEY=sk-your-key-here
+
+STEP 4: Whitelist IP in MongoDB Atlas
+----------------------------------------
+1. Go to https://cloud.mongodb.com/
+2. Select your cluster
+3. Go to "Network Access"
+4. Click "Add IP Address"
+5. Choose "Allow Access from Anywhere" (0.0.0.0/0) for testing
+
+STEP 5: Start the app!
+----------------------------------------
+Run: .\start-services-fixed.ps1
+
+Then open: http://localhost:3000
+
+========================================
+
+QUICK OPTION: Tell me your password and I'll configure everything automatically!
+Just reply with: "My password is: [your-password]"

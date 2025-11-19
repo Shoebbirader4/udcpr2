@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1794",
+  "title": "at least a window not less than 1 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1794",
+  "clause_text": "at least a window not less than 1 sq.m in area, opening directly on to an interior or exterior open space.",
+  "chapter": null,
+  "section": "TableNo: 15",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "at least a window not less than 1 sq.m in area, opening directly on to an interior or exterior open space."
+  },
+  "created_at": "2025-11-19T00:14:41.932566",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.557852",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

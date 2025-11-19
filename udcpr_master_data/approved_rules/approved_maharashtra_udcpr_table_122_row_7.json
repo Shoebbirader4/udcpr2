@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_122_row_7",
+  "title": "Table 122 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-122.7",
+  "clause_text": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department"
+      ],
+      "values": [
+        "Note - Male population may be assumed as two-third and female population as one-third.",
+        "Note - Male population may be assumed as two-third and female population as one-third.",
+        "Note - Male population may be assumed as two-third and female population as one-third.",
+        "Note - Male population may be assumed as two-third and female population as one-third.",
+        "Note - Male population may be assumed as two-third and female population as one-third.",
+        "Note - Male population may be assumed as two-third and female population as one-third."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_122",
+    "text_snippet": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Note - Male population may be assumed as two-third and female population as one-third. | Table No.12-H Sanitation Requir"
+  },
+  "created_at": "2025-11-19T00:14:30.708523",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.880508",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,180 @@
+# Production Docker Compose Configuration
+version: '3.8'
+
+services:
+  # MongoDB Database
+  mongodb:
+    image: mongo:7.0
+    container_name: udcpr-mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD:-changeme}
+    volumes:
+      - mongodb-data:/data/db
+      - mongodb-config:/data/configdb
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: echo 'db.runCommand("ping").ok' | mongosh localhost:27017/test --quiet
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # Backend API (Node.js)
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: udcpr-backend
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      NODE_ENV: production
+      MONGODB_URI: mongodb://admin:${MONGO_PASSWORD:-changeme}@mongodb:27017/udcpr?authSource=admin
+      JWT_SECRET: ${JWT_SECRET:-your-secret-key}
+      RULE_ENGINE_URL: http://rule-engine:5001
+    depends_on:
+      - mongodb
+      - rule-engine
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Rule Engine (Python)
+  rule-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile.rule-engine
+    container_name: udcpr-rule-engine
+    restart: always
+    ports:
+      - "5001:5001"
+    environment:
+      PYTHONUNBUFFERED: 1
+    volumes:
+      - ./udcpr_master_data:/app/udcpr_master_data:ro
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:5001/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # RAG Service (AI Assistant)
+  rag-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.rag
+    container_name: udcpr-rag
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      PYTHONUNBUFFERED: 1
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      - ./udcpr_master_data:/app/udcpr_master_data:ro
+      - chroma-data:/app/chroma_db
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Vision Service (Drawing Processing)
+  vision-service:
+    build:
+      context: .
+      dockerfile: Dockerfile.vision
+    container_name: udcpr-vision
+    restart: always
+    ports:
+      - "8001:8001"
+    environment:
+      PYTHONUNBUFFERED: 1
+    volumes:
+      - vision-uploads:/app/uploads
+      - vision-results:/app/results
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "python", "-c", "import requests; requests.get('http://localhost:8001/api/vision/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Frontend (React)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: udcpr-frontend
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      REACT_APP_API_URL: http://localhost:5000
+      REACT_APP_RULE_ENGINE_URL: http://localhost:5001
+      REACT_APP_RAG_URL: http://localhost:8000
+      REACT_APP_VISION_URL: http://localhost:8001
+    depends_on:
+      - backend
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # Nginx Reverse Proxy
+  nginx:
+    image: nginx:alpine
+    container_name: udcpr-nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./deploy/nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./deploy/nginx/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - frontend
+      - backend
+      - rule-engine
+      - rag-service
+      - vision-service
+    networks:
+      - udcpr-network
+    healthcheck:
+      test: ["CMD", "nginx", "-t"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+networks:
+  udcpr-network:
+    driver: bridge
+
+volumes:
+  mongodb-data:
+    driver: local
+  mongodb-config:
+    driver: local
+  chroma-data:
+    driver: local
+  vision-uploads:
+    driver: local
+  vision-results:
+    driver: local

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_520",
+  "title": "this regulation shall not be applicable where separate amenity space is mandated by the Government, while sanctioning modification proposal under section 37 or 20 of the Act",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 520",
+  "clause_text": "this regulation shall not be applicable where separate amenity space is mandated by the Government, while sanctioning modification proposal under section 37 or 20 of the Act. In such cases, development of the amenity shall be governed by the conditions mentioned in the said notification.",
+  "chapter": null,
+  "section": "3.5 PROVISION FOR AMENITY SPACE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "this regulation shall not be applicable where separate amenity space is mandated by the Government, while sanctioning modification proposal under section 37 or 20 of the Act. In such cases, developmen"
+  },
+  "created_at": "2025-11-19T00:14:18.654531",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.911302",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

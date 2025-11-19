@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_107",
+  "title": "“High Rise Building” means a building having height more than 32mabove the average surrounding ground level",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 107",
+  "clause_text": "“High Rise Building” means a building having height more than 32mabove the average surrounding ground level.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“High Rise Building” means a building having height more than 32mabove the average surrounding ground level."
+  },
+  "created_at": "2025-11-19T00:14:34.949387",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.818231",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

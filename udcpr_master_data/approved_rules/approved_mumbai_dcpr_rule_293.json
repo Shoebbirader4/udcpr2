@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_293",
+  "title": "Provided further that if a land is shown as existing amenity pursuant to valid development permission (except in case of PPL), as per LOI issued/ granted under the principle of AR/I to R &C, prior to coming into force of these Regulations, and when such amenity is not developed/under development on site, then at the option of owner /developer, the land under reference shall be developed as per the development permission granted or may be developed under these regulations considering reservation area as per then DP",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 293",
+  "clause_text": "Provided further that if a land is shown as existing amenity pursuant to valid development permission (except in case of PPL), as per LOI issued/ granted under the principle of AR/I to R &C, prior to coming into force of these Regulations, and when such amenity is not developed/under development on site, then at the option of owner /developer, the land under reference shall be developed as per the development permission granted or may be developed under these regulations considering reservation area as per then DP. The Commissioner with the special written permission may decide that the said amenity if no longer required in view of the available amenity in the vicinity, then the amenity shall be developed for other public purpose considering the deficiency in the administrative ward.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that if a land is shown as existing amenity pursuant to valid development permission (except in case of PPL), as per LOI issued/ granted under the principle of AR/I to R &C, prior to "
+  },
+  "created_at": "2025-11-19T00:14:36.296363",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.270387",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

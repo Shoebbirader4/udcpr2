@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_808",
+  "title": "The free sale component shall preferably be constructed in a separate block",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 808",
+  "clause_text": "The free sale component shall preferably be constructed in a separate block. Sub-division of plots shall be permissible on the basis of equitable distribution of FSI, in case construction of free sale component is permitted by Commissioner.",
+  "chapter": null,
+  "section": "33(3) Buildings of Government/MCGM/Statutory Bodies, Semi- Government and PSU Offices:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The free sale component shall preferably be constructed in a separate block. Sub-division of plots shall be permissible on the basis of equitable distribution of FSI, in case construction of free sale"
+  },
+  "created_at": "2025-11-19T00:14:38.471522",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.783859",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

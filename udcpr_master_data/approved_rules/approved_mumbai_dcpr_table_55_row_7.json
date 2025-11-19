@@ -1,0 +1,48 @@
+{
+  "rule_id": "mumbai_dcpr_table_55_row_7",
+  "title": "Table 55 - Row 7",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-55.7",
+  "clause_text": "Areas: ii i | Areas: The remaining area in Suburbs and Extended Suburbs | Zone: Resid ential /Com merci al | Road width: 27 m and above | Zonal (Basic ): 1.0 | Additio nal FSI on payme nt of Premiu m: 0.5 | Adm issib le TDR: 1.0 | Permi ssibl e FSI (4+5 +6): 2.5",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Areas",
+        "Areas",
+        "Zone",
+        "Road width",
+        "Zonal (Basic )",
+        "Additio nal FSI on payme nt of Premiu m",
+        "Adm issib le TDR",
+        "Permi ssibl e FSI (4+5 +6)"
+      ],
+      "values": [
+        "",
+        "ii i",
+        "The remaining area in Suburbs and Extended Suburbs",
+        "Resid ential /Com merci al",
+        "27 m and above",
+        "1.0",
+        "0.5",
+        "1.0",
+        "2.5"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_55",
+    "text_snippet": "Areas: ii i | Areas: The remaining area in Suburbs and Extended Suburbs | Zone: Resid ential /Com merci al | Road width: 27 m and above | Zonal (Basic ): 1.0 | Additio nal FSI on payme nt of Premiu m:"
+  },
+  "created_at": "2025-11-19T00:14:48.406328",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.596692",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

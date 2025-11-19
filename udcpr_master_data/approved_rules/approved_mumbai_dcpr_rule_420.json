@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_420",
+  "title": "No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 420",
+  "clause_text": "No.110(pt.),117(pt.),118(pt.),122(pt.),123(pt.) of Village Sahar be reserved for the Park not to be acquired, as shown on DP and remaining 50% of the land be deleted and included in C Zone only for Hotel plus commercial purpose subject to condition that the parties should develop and maintain the parks and shall keep it open for general public during restricted hours or the owner may at his option handover 20% of this area to MCGM be kept permanently open as Park/ Play Ground for General public without any compensation in any form and maintain rest of the Park as Parks always. NO FSI/TDR/Compensation in any form shall be allowed for the area kept permanently open as park and even for area to be handed over to MCGM",
+  "chapter": null,
+  "section": "Table No: 4",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "No.110(pt.),117(pt.),118(pt.),122(pt.),123(pt.) of Village Sahar be reserved for the Park not to be acquired, as shown on DP and remaining 50% of the land be deleted and included in C Zone only for Ho"
+  },
+  "created_at": "2025-11-19T00:14:36.861528",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.612731",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

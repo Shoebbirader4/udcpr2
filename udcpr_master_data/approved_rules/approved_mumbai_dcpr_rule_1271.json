@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1271",
+  "title": "Provided that notwithstanding anything mentioned above, project affected persons ) due to any vital Public Projects undertaken by MMRDA including PAP’s under Mumbai Urban Transport Project (MUTP)being resettled as per the provisions contained in Government Resolution, Housing and Special Assistance Department, by order no",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1271",
+  "clause_text": "Provided that notwithstanding anything mentioned above, project affected persons ) due to any vital Public Projects undertaken by MMRDA including PAP’s under Mumbai Urban Transport Project (MUTP)being resettled as per the provisions contained in Government Resolution, Housing and Special Assistance Department, by order no. 700/CR 31/slum-2 dated 12/12/2000 and certified by the Project Director, MUTP will also be eligible for redevelopment scheme under this Regulation, as amended from time to time.",
+  "chapter": null,
+  "section": "Rehabilitation and Free-Sale Component:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that notwithstanding anything mentioned above, project affected persons ) due to any vital Public Projects undertaken by MMRDA including PAP’s under Mumbai Urban Transport Project (MUTP)being"
+  },
+  "created_at": "2025-11-19T00:14:40.042670",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.045120",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

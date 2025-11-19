@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_235",
+  "title": "The location of drains, sewers, STP, tanks, wells, trees, public facilities and services, electric lines, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 235",
+  "clause_text": "The location of drains, sewers, STP, tanks, wells, trees, public facilities and services, electric lines, etc.; A table indicating the size, area and use of all the plots in the sub-division/lay-out plan;",
+  "chapter": null,
+  "section": "Contour plan of site, wherever necessary .",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The location of drains, sewers, STP, tanks, wells, trees, public facilities and services, electric lines, etc.;"
+  },
+  "created_at": "2025-11-19T00:14:35.896370",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.137028",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,39 @@
+{
+  "rule_id": "udcpr_tod_bonus_001",
+  "title": "TOD Zone FSI Bonus",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "6.1.5",
+  "clause_text": "Projects within TOD (Transit Oriented Development) zones are eligible for an additional FSI bonus of 0.5.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "tod_zone",
+          "op": "==",
+          "value": true
+        }
+      ],
+      "outputs": [
+        {
+          "field": "fsi_bonus",
+          "value": 0.5,
+          "units": "ratio"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 112,
+    "text_snippet": "TOD incentives..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.925377",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

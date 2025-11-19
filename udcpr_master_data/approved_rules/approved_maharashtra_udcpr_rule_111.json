@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_111",
+  "title": "External Wall - means an outer wall of a building not being a party wall even though adjoining to a wall of another building and also means a wall abutting on an interior open space of any building",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 111",
+  "clause_text": "External Wall - means an outer wall of a building not being a party wall even though adjoining to a wall of another building and also means a wall abutting on an interior open space of any building.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "External Wall - means an outer wall of a building not being a party wall even though adjoining to a wall of another building and also means a wall abutting on an interior open space of any building."
+  },
+  "created_at": "2025-11-19T00:14:17.255962",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.800564",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

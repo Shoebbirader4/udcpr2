@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1052",
+  "title": "\"tolerated structures\" encroaching upon roads in nearby vicinity shall be allowed to be included in the CDS and its BUA shall be included in rehabilitation area, provided such structures are permanently removed",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1052",
+  "clause_text": "\"tolerated structures\" encroaching upon roads in nearby vicinity shall be allowed to be included in the CDS and its BUA shall be included in rehabilitation area, provided such structures are permanently removed.",
+  "chapter": null,
+  "section": "Total Permissible FSI for CDS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"tolerated structures\" encroaching upon roads in nearby vicinity shall be allowed to be included in the CDS and its BUA shall be included in rehabilitation area, provided such structures are permanent"
+  },
+  "created_at": "2025-11-19T00:14:39.443630",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.525445",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

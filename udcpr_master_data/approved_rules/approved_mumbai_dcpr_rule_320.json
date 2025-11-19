@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_320",
+  "title": "Such amenities or facilities (i) and (ii) above shall be deemed to be designations or reservations in the DP thereafter",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 320",
+  "clause_text": "Such amenities or facilities (i) and (ii) above shall be deemed to be designations or reservations in the DP thereafter.",
+  "chapter": null,
+  "section": "In Plots/lay-outs of the land admeasuring 4000 sq. m or more:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such amenities or facilities (i) and (ii) above shall be deemed to be designations or reservations in the DP thereafter."
+  },
+  "created_at": "2025-11-19T00:14:36.451721",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.335646",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

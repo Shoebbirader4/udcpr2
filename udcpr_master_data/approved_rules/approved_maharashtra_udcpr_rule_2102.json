@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2102",
+  "title": "The entire area of the project shall have a proper road pattern, taking into consideration the linkages with existing roads (1) or proposed Regional Plan / Development Plan roads, within the project and outside area as well",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2102",
+  "clause_text": "The entire area of the project shall have a proper road pattern, taking into consideration the linkages with existing roads (1) or proposed Regional Plan / Development Plan roads, within the project and outside area as well. All such roads shall be developed by the Project Proponent/s as per standard prescribed by the Indian Road Congress. Classified Road should not be less than as may be prescribed by concerned public authority;",
+  "chapter": null,
+  "section": "Transport & Communication :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The entire area of the project shall have a proper road pattern, taking into consideration the linkages with existing roads (1) or proposed Regional Plan / Development Plan roads, within the project a"
+  },
+  "created_at": "2025-11-19T00:14:23.741205",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.895994",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_674",
+  "title": "Elevation feature or dome like structure above water tank/lift machine room/staircase room up to 2 m for building with height beyond 32 m & up to 70 m, 6 m for the building height beyond 70 m and up to 120 m and up to 9 m for building with height beyond 120 m with 60% voids in surface area/profile may be allowed",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 674",
+  "clause_text": "Elevation feature or dome like structure above water tank/lift machine room/staircase room up to 2 m for building with height beyond 32 m & up to 70 m, 6 m for the building height beyond 70 m and up to 120 m and up to 9 m for building with height beyond 120 m with 60% voids in surface area/profile may be allowed.",
+  "chapter": null,
+  "section": "Exemption from FSI",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Elevation feature or dome like structure above water tank/lift machine room/staircase room up to 2 m for building with height beyond 32 m & up to 70 m, 6 m for the building height beyond 70 m and up t"
+  },
+  "created_at": "2025-11-19T00:14:37.984470",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.366696",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_170",
+  "title": "Information Technology Building / Establishment (ITE) means an establishment which is in the business of developing either software or hardware relating to computers or computer technology as approved by Director of Industries",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 170",
+  "clause_text": "Information Technology Building / Establishment (ITE) means an establishment which is in the business of developing either software or hardware relating to computers or computer technology as approved by Director of Industries.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Information Technology Building / Establishment (ITE) means an establishment which is in the business of developing either software or hardware relating to computers or computer technology as approved"
+  },
+  "created_at": "2025-11-19T00:14:17.380205",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.015180",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

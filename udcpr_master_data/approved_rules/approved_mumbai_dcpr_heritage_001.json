@@ -1,0 +1,39 @@
+{
+  "rule_id": "mumbai_dcpr_heritage_001",
+  "title": "Heritage Building Restrictions",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "dcpr_2034",
+  "clause_number": "11.2.1",
+  "clause_text": "Buildings within 300m of Grade I heritage structures shall not exceed height of heritage building or 15m, whichever is lower.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "heritage_proximity_m",
+          "op": "<=",
+          "value": 300
+        }
+      ],
+      "outputs": [
+        {
+          "field": "max_height",
+          "value": 15.0,
+          "units": "m"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUMBAI_DCPR_2034.pdf",
+    "page": 201,
+    "text_snippet": "Heritage conservation provisions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:19.393963",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

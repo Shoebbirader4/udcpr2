@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_314",
+  "title": "Art and Culture: The Commissioner may permit temporary use of POS such as Gardens, Leisure Parks, multi-purpose community centers, libraries, reading rooms, public halls, Heritage area and Heritage Precincts, educational complexes, parking lots, institutional areas and the like for the purpose of Art and Culture including circus, jatra, folk dance, meditation and related activities in defined time slots, when the primary functions and uses of such spaces are not being performed",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 314",
+  "clause_text": "Art and Culture: The Commissioner may permit temporary use of POS such as Gardens, Leisure Parks, multi-purpose community centers, libraries, reading rooms, public halls, Heritage area and Heritage Precincts, educational complexes, parking lots, institutional areas and the like for the purpose of Art and Culture including circus, jatra, folk dance, meditation and related activities in defined time slots, when the primary functions and uses of such spaces are not being performed. . In allowing such use, it should be ensured that the primary use is not compromised/ impaired.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Art and Culture: The Commissioner may permit temporary use of POS such as Gardens, Leisure Parks, multi-purpose community centers, libraries, reading rooms, public halls, Heritage area and Heritage Pr"
+  },
+  "created_at": "2025-11-19T00:14:36.413698",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.322239",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

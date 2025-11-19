@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1333",
+  "title": "The fire protection arrangement as per storage building will be made applicable to such parking towers as per Table - 7 of Part - 4 of NBC - 2016",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1333",
+  "clause_text": "The fire protection arrangement as per storage building will be made applicable to such parking towers as per Table - 7 of Part - 4 of NBC - 2016.",
+  "chapter": null,
+  "section": "Other Parking Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The fire protection arrangement as per storage building will be made applicable to such parking towers as per Table - 7 of Part - 4 of NBC - 2016."
+  },
+  "created_at": "2025-11-19T00:14:21.309990",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.978262",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

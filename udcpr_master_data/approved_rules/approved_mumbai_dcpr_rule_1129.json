@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1129",
+  "title": "Ownership and Terms of lease – If land on which the RRC of DRP is to be constructed is part of Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1129",
+  "clause_text": "Ownership and Terms of lease – If land on which the RRC of DRP is to be constructed is part of Govt./MCGM/MHADA/MMRDA/Any Undertaking land, the same shall be leased to the Co-operative Housing Society of the occupants on 30 years’ lease with a rent as decided by GoM from time to time and shall be renewable for a further period of 30 years. The same conditions shall prevail for land under the free sale component and the land shall be leased directly to the Society/Association of the purchasers in the free sale component and not through the society of renewal rehab occupants.",
+  "chapter": null,
+  "section": "Applicability of the provisions:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Ownership and Terms of lease – If land on which the RRC of DRP is to be constructed is part of Govt./MCGM/MHADA/MMRDA/Any Undertaking land, the same shall be leased to the Co-operative Housing Society"
+  },
+  "created_at": "2025-11-19T00:14:39.649382",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.665834",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

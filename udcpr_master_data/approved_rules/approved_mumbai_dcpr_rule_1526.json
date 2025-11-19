@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1526",
+  "title": "The Commissioner may permit additional FSI up to 200 % over and above the basic permissible F",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1526",
+  "clause_text": "The Commissioner may permit additional FSI up to 200 % over and above the basic permissible F.S.I. to Smart Fin Tech Centre located in Residential / Industrial/Commercial Zone, which have been approved by the Directorate of Information Technology, proposed to be set up (hereinafter referred to as the \"said unit\") by charging premium of 40 % of the land rate for the said land as prescribed in Annual Statement of Rates for the relevant year of granting such additional F.S.I.",
+  "chapter": null,
+  "section": "33(13)(A) Buildings of Smart Fin Tech Centre",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Commissioner may permit additional FSI up to 200 % over and above the basic permissible F.S.I. to Smart Fin Tech Centre located in Residential / Industrial/Commercial Zone, which have been approve"
+  },
+  "created_at": "2025-11-19T00:14:40.877572",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.625257",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

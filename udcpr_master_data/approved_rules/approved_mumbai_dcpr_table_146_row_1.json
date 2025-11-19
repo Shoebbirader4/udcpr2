@@ -1,0 +1,34 @@
+{
+  "rule_id": "mumbai_dcpr_table_146_row_1",
+  "title": "Table 146 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-146.1",
+  "clause_text": "Provision &Location: Dimensions | In cinemas, theaters, concert halls, stadia or other places of public recreation where permanent fixed seating arrangement is provided, a minimum of two wheelchair spaces shall be provided for every 200 seats or less. Additional one wheel chair space shall be provided for every subsequent addition of 200 seats or part thereof accessible seating should be distributed and integrated throughout seating areas of assembly rooms with different vantage points accessible to all persons with disabilities. Guideline: All entertainment and assembly areas should be able to cater for and accommodate Differently abled persons using various mobility aids. Wheelchair spaces should be an integral part of any seating plan. Efforts must be made to distribute such seating spaces throughout the seating area and in each pricing tier, arranged so as not to obstruct the view of persons who may be seated behind: The wheelchair spaces, each measuring 0.9 m x 1.2 m shall be located alongside the fixed seats to enable wheelchair users to sit together with their able bodied or ambulant companion.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Provision &Location",
+        "In cinemas, theaters, concert halls, stadia or other places of public recreation where permanent fixed seating arrangement is provided, a minimum of two wheelchair spaces shall be provided for every 200 seats or less. Additional one wheel chair space shall be provided for every subsequent addition of 200 seats or part thereof accessible seating should be distributed and integrated throughout seating areas of assembly rooms with different vantage points accessible to all persons with disabilities. Guideline: All entertainment and assembly areas should be able to cater for and accommodate Differently abled persons using various mobility aids. Wheelchair spaces should be an integral part of any seating plan. Efforts must be made to distribute such seating spaces throughout the seating area and in each pricing tier, arranged so as not to obstruct the view of persons who may be seated behind"
+      ],
+      "values": [
+        "Dimensions",
+        "The wheelchair spaces, each measuring 0.9 m x 1.2 m shall be located alongside the fixed seats to enable wheelchair users to sit together with their able bodied or ambulant companion."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_146",
+    "text_snippet": "Provision &Location: Dimensions | In cinemas, theaters, concert halls, stadia or other places of public recreation where permanent fixed seating arrangement is provided, a minimum of two wheelchair sp"
+  },
+  "created_at": "2025-11-19T00:14:48.993452",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.833804",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

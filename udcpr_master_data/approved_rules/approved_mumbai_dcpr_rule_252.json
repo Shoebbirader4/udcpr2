@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_252",
+  "title": "Security deposit - To ensure compliance with these Regulations and the directions given in the sanctioned plan and other conditions, a security deposit, shall be charged at rates specified by the Commissioner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 252",
+  "clause_text": "Security deposit - To ensure compliance with these Regulations and the directions given in the sanctioned plan and other conditions, a security deposit, shall be charged at rates specified by the Commissioner. It shall be returned to the owner immediately after the issue of the full occupancy certificate after the Commissioner is satisfied with the compliance with various conditions stipulated in the said full occupancy certificate.",
+  "chapter": null,
+  "section": "Contour plan of site, wherever necessary .",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Security deposit - To ensure compliance with these Regulations and the directions given in the sanctioned plan and other conditions, a security deposit, shall be charged at rates specified by the Comm"
+  },
+  "created_at": "2025-11-19T00:14:36.054221",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.171345",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

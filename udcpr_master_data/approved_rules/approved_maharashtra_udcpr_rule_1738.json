@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1738",
+  "title": "For the purpose of calculating the FSI, the entire area of the layout including widening of existing roads and internal roads but excluding the land earmarked for public amenities shall be considered",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1738",
+  "clause_text": "For the purpose of calculating the FSI, the entire area of the layout including widening of existing roads and internal roads but excluding the land earmarked for public amenities shall be considered. Sub-division as well as amalgamation of plots shall be permissible. Amalgamation of more than one Apartment Owners‘ Association / Co.op. Hsg. Society (CHS) / Residents‘ Association shall be permissible and after such amalgamation, the amalgamated plot should be in the name of the applicant CHS with legal ownership title, without considering the provision made in the Regulation of the DCR. However consent of at least 70% leaseholders / occupants who intend to amalgamate such condominium shall be necessary.",
+  "chapter": null,
+  "section": "Other requirement / Criteria :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For the purpose of calculating the FSI, the entire area of the layout including widening of existing roads and internal roads but excluding the land earmarked for public amenities shall be considered."
+  },
+  "created_at": "2025-11-19T00:14:22.785213",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.936267",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

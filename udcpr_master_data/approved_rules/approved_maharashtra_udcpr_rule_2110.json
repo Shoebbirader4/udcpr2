@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2110",
+  "title": "For determining eligibility of ITP, the above 2% area shall be considered in area calculation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2110",
+  "clause_text": "For determining eligibility of ITP, the above 2% area shall be considered in area calculation. This area shall not contain area under hill slopes, and shall be accessible by major road. Base FSI of such 2% land shall be made available to the (1) project proponent/s on remaining land (1) of the ITP area.",
+  "chapter": null,
+  "section": "Residential Activities :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For determining eligibility of ITP, the above 2% area shall be considered in area calculation. This area shall not contain area under hill slopes, and shall be accessible by major road. Base FSI of su"
+  },
+  "created_at": "2025-11-19T00:14:23.757373",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.916227",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

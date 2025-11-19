@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_27_55",
+  "title": "Is the plot proposed to be filled upto the level of the abutting road or Reduced Level (R",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "27.55",
+  "clause_text": "Is the plot proposed to be filled upto the level of the abutting road or Reduced Level (R.L.) 27.55 m Town Hall Datum, whichever is more? The details of the materials to be used in construction with specifications are as follows:",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Is the plot proposed to be filled upto the level of the abutting road or Reduced Level (R.L.) 27.55 m Town Hall Datum, whichever is more?"
+  },
+  "created_at": "2025-11-19T00:14:45.987830",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.194659",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

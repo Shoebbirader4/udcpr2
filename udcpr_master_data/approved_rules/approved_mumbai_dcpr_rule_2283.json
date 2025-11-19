@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2283",
+  "title": "at the rate of 5 trees per 100 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2283",
+  "clause_text": "at the rate of 5 trees per 100 sq.m or part thereof of the said recreational space, to begrown within the entire plot.",
+  "chapter": null,
+  "section": "Tree Plantation Provisions for Enhancing/Conserving",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "at the rate of 5 trees per 100 sq.m or part thereof of the said recreational space, to begrown within the entire plot."
+  },
+  "created_at": "2025-11-19T00:14:44.660813",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.724143",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

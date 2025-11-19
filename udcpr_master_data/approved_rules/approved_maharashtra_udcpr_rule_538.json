@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_538",
+  "title": "in the form of plot / plots equivalent to 20% plot area for constructing EWS / LIG tenements to be handed over to MHADA",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 538",
+  "clause_text": "in the form of plot / plots equivalent to 20% plot area for constructing EWS / LIG tenements to be handed over to MHADA. Within this 20% area, proportionate road and recreational open space area of this 20% space, shall be included, OR",
+  "chapter": null,
+  "section": "For the sub-division or layout of the land :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "in the form of plot / plots equivalent to 20% plot area for constructing EWS / LIG tenements to be handed over to MHADA. Within this 20% area, proportionate road and recreational open space area of th"
+  },
+  "created_at": "2025-11-19T00:14:18.704496",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.936140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

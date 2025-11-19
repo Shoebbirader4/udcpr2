@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_9_3",
+  "title": "9",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "9.3",
+  "clause_text": "9.3 The part of land premium to be made available to the land-owning authority as per rates to be decided by GoM shall be exclusively used for schemes to be prepared for the improvement of infrastructural developments in the benefit of DRP.",
+  "chapter": null,
+  "section": "PAYMENTS TO BE MADE TO SRA AND INSTALMENTS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "9.3 The part of land premium to be made available to the land-owning authority as per rates to be decided by GoM shall be exclusively used for schemes to be prepared for the improvement of infrastruct"
+  },
+  "created_at": "2025-11-19T00:14:40.730575",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.470526",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

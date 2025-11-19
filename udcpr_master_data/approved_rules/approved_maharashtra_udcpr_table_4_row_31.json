@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_31",
+  "title": "Table 4 - Row 31",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.31",
+  "clause_text": "5.1.2: 6.2.2 # | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Other Building. | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Other Building. | 84: 110",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "",
+        "6.2.2 #",
+        "Other Building.",
+        "Other Building.",
+        "110"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": "5.1.2: 6.2.2 # | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Other Building. | Regulations for Development of Tour"
+  },
+  "created_at": "2025-11-19T00:14:29.552427",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.161009",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

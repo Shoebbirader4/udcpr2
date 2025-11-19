@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_158_row_6",
+  "title": "Table 158 - Row 6",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-158.6",
+  "clause_text": "Sr. No. (1): 10. | Occupancy (2): Shopping/Convenienc e Shopping (not included under Mercantile Occupancy) | Parking Space required (3): One parking space for every 150-sq.m of total floor area in the case of shopping user with each shop up to 20 sq. m in area and one parking space for every 50 sq.m of total floor area for shops each over 20 sq. m area.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "10.",
+        "Shopping/Convenienc e Shopping (not included under Mercantile Occupancy)",
+        "One parking space for every 150-sq.m of total floor area in the case of shopping user with each shop up to 20 sq. m in area and one parking space for every 50 sq.m of total floor area for shops each over 20 sq. m area."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_158",
+    "text_snippet": "Sr. No. (1): 10. | Occupancy (2): Shopping/Convenienc e Shopping (not included under Mercantile Occupancy) | Parking Space required (3): One parking space for every 150-sq.m of total floor area in the"
+  },
+  "created_at": "2025-11-19T00:14:49.093832",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.871910",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2249",
+  "title": "Moreover, the owner shall have option of either to opt for UDCPR provisions in toto or opt for TOD regulations in toto",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2249",
+  "clause_text": "Moreover, the owner shall have option of either to opt for UDCPR provisions in toto or opt for TOD regulations in toto. In case, the owner opts for development as per UDCPR provisions, then he may be allowed to utilise FSI as per TOD regulations over and above the maximum potential mentioned in Table 6-A or 6-G.",
+  "chapter": null,
+  "section": "Impact Assessment and Integrated Mobility Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Moreover, the owner shall have option of either to opt for UDCPR provisions in toto or opt for TOD regulations in toto. In case, the owner opts for development as per UDCPR provisions, then he may be "
+  },
+  "created_at": "2025-11-19T00:14:24.108683",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.448373",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

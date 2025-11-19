@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_241",
+  "title": "Include sectional drawing showing clearly the sizes of the footings, thickness of basement wall, wall construction, size and spacing of framing members, floor slabs and roof slabs with their materials",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 241",
+  "clause_text": "Include sectional drawing showing clearly the sizes of the footings, thickness of basement wall, wall construction, size and spacing of framing members, floor slabs and roof slabs with their materials. The section shall indicate the heights of the building and rooms and also the height of the parapet and the drainage and the slope of the roof. At least one section should be taken through the staircase &Lift well. The certified structural plan by Structural Engineer/Consultant giving details of all structural elements and materials used along with structural calculations can be submitted separately, but under any circumstances, before the issue of the development permission/commencement certificate; Give dimensions of the portions projecting beyond the permissible building line; Include a terrace plan indicating the drainage and the slope of the roof; Show the pump rooms, Rain Water Harvesting System, Sewage Treatment Plant, if any. Provide such other particulars as may be prescribed by the Commissioner;",
+  "chapter": null,
+  "section": "Contour plan of site, wherever necessary .",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Include sectional drawing showing clearly the sizes of the footings, thickness of basement wall, wall construction, size and spacing of framing members, floor slabs and roof slabs with their materials"
+  },
+  "created_at": "2025-11-19T00:14:35.953535",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.148207",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

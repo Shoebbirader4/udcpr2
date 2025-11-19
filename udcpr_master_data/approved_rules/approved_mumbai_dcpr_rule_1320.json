@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1320",
+  "title": "percent of the free-sale component would be given only after all the required amount is deposited in full with SRA",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1320",
+  "clause_text": "percent of the free-sale component would be given only after all the required amount is deposited in full with SRA.",
+  "chapter": null,
+  "section": "Payments to be made to SRA and Instalments:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "percent of the free-sale component would be given only after all the required amount is deposited in full with SRA."
+  },
+  "created_at": "2025-11-19T00:14:40.198837",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.159519",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

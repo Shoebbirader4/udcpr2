@@ -1,0 +1,48 @@
+{
+  "rule_id": "mumbai_dcpr_table_54_row_1",
+  "title": "Table 54 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-54.1",
+  "clause_text": "Areas: 1 | Areas: 1 | Zone: 2 | Road width: 3 | Zonal (Basic ): 4 | Additio nal FSI on payme nt of Premiu m: 5 | Adm issib le TDR: 6 | Permi ssibl e FSI (4+5 +6): 7",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Areas",
+        "Areas",
+        "Zone",
+        "Road width",
+        "Zonal (Basic )",
+        "Additio nal FSI on payme nt of Premiu m",
+        "Adm issib le TDR",
+        "Permi ssibl e FSI (4+5 +6)"
+      ],
+      "values": [
+        "",
+        "1",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_54",
+    "text_snippet": "Areas: 1 | Areas: 1 | Zone: 2 | Road width: 3 | Zonal (Basic ): 4 | Additio nal FSI on payme nt of Premiu m: 5 | Adm issib le TDR: 6 | Permi ssibl e FSI (4+5 +6): 7"
+  },
+  "created_at": "2025-11-19T00:14:48.325207",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.543500",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

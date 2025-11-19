@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1897",
+  "title": "2) If existing Municipal Play Ground/POS is abutting to the plot of Educational Institute or may be across the road, then the provision of 40% of play area within plot of Educational Institution may not be insisted upon if the combined play area available is at least 40% of plot area",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1897",
+  "clause_text": "2) If existing Municipal Play Ground/POS is abutting to the plot of Educational Institute or may be across the road, then the provision of 40% of play area within plot of Educational Institution may not be insisted upon if the combined play area available is at least 40% of plot area. Provided further, if ownership of Play Ground/POS having area at least 40% of area abutting to the plot of Educational Institute is vesting with the Educational Institution, then the provision of 40% of play area within plot of Educational Institution may not be insisted upon.",
+  "chapter": null,
+  "section": "Educational Building:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "2) If existing Municipal Play Ground/POS is abutting to the plot of Educational Institute or may be across the road, then the provision of 40% of play area within plot of Educational Institution may n"
+  },
+  "created_at": "2025-11-19T00:14:42.545813",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.824938",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

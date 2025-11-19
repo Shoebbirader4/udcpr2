@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_541",
+  "title": "Minimum road width vis-à-vis the area served- Plots which do not abut on a street shall abut/front on a means of access, the width and other requirements of which shall be as given in Table No 7 hereunder for residential and commercial zones and as given in Table No8 hereunder for an industrial zone",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 541",
+  "clause_text": "Minimum road width vis-à-vis the area served- Plots which do not abut on a street shall abut/front on a means of access, the width and other requirements of which shall be as given in Table No 7 hereunder for residential and commercial zones and as given in Table No8 hereunder for an industrial zone. Width of access for Residential and Commercial Zones for plot area to be served",
+  "chapter": null,
+  "section": "Internal means of access",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Minimum road width vis-à-vis the area served- Plots which do not abut on a street shall abut/front on a means of access, the width and other requirements of which shall be as given in Table No 7 hereu"
+  },
+  "created_at": "2025-11-19T00:14:37.467726",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.982009",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

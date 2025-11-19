@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1596",
+  "title": "The entire AH/ R&R components including Base FSI may be categorized as AH/ R&R component as applicable and the corresponding sale components from the additional FSI amongst two or more schemes under this regulation can be permitted to be interchanged",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1596",
+  "clause_text": "The entire AH/ R&R components including Base FSI may be categorized as AH/ R&R component as applicable and the corresponding sale components from the additional FSI amongst two or more schemes under this regulation can be permitted to be interchanged. A developer",
+  "chapter": null,
+  "section": "l) Clubbing :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The entire AH/ R&R components including Base FSI may be categorized as AH/ R&R component as applicable and the corresponding sale components from the additional FSI amongst two or more schemes under t"
+  },
+  "created_at": "2025-11-19T00:14:41.064554",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.910140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

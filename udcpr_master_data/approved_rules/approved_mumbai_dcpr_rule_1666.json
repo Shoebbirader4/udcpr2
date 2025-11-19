@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1666",
+  "title": "Notwithstanding anything contained in these Regulations, no permission shall be granted for establis",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1666",
+  "clause_text": "Notwithstanding anything contained in these Regulations, no permission shall be granted for establishing any factory, workshop or work place (for the establishment of which previous permission is required under Section 390 of the MMC Act, 1888) wholly or partly on lands used for residential purposes even if such use is in conformity with these Regulations and the aforesaid Act;",
+  "chapter": null,
+  "section": "Exceptions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notwithstanding anything contained in these Regulations, no permission shall be granted for establishing any factory, workshop or work place (for the establishment of which previous permission is requ"
+  },
+  "created_at": "2025-11-19T00:14:41.397421",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.080629",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

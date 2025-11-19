@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_347",
+  "title": "The first instalment shall not be less than 50 lakhs in case of A, B, C Class Municipal Corporations and 25 lakhs in case of other areas",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 347",
+  "clause_text": "The first instalment shall not be less than 50 lakhs in case of A, B, C Class Municipal Corporations and 25 lakhs in case of other areas. (2) However the Planning Authority may reduce the first instalment limit as a policy by considering local conditions. (2) In such case, the remaining amount shall be apportioned in remaining instalments.",
+  "chapter": null,
+  "section": "Option - 2",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The first instalment shall not be less than 50 lakhs in case of A, B, C Class Municipal Corporations and 25 lakhs in case of other areas. (2) However the Planning Authority may reduce the first instal"
+  },
+  "created_at": "2025-11-19T00:14:18.071899",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.466062",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,34 @@
+{
+  "rule_id": "mumbai_dcpr_table_140_row_2",
+  "title": "Table 140 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-140.2",
+  "clause_text": "Provision and Location: Slope | At least one continuous unobstructed accessible route or accessible path of travel shall be provided which connects all accessible elements and spaces in a building or facility for Differently Abled individuals. An accessible route shall be provided from public transportation stops, accessible parking, passenger loading zones and public streets or sidewalks to the accessible building entrances and lifts served. Directional signs bearing the symbol shall be displayed at all other non-accessible entrances to direct to the accessible entrance. The access path should have an even surface without any slope.: Slope if any shall not have gradient greater than 1 in 20. Such access shall be free from protrusion, hazards, steps, kerbs other than dropper kerbs, doors or doorways which will impede the passage of a wheelchair, or other form of barrier which will prevent access by Differently Abled persons.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Provision and Location",
+        "At least one continuous unobstructed accessible route or accessible path of travel shall be provided which connects all accessible elements and spaces in a building or facility for Differently Abled individuals. An accessible route shall be provided from public transportation stops, accessible parking, passenger loading zones and public streets or sidewalks to the accessible building entrances and lifts served. Directional signs bearing the symbol shall be displayed at all other non-accessible entrances to direct to the accessible entrance. The access path should have an even surface without any slope."
+      ],
+      "values": [
+        "Slope",
+        "Slope if any shall not have gradient greater than 1 in 20. Such access shall be free from protrusion, hazards, steps, kerbs other than dropper kerbs, doors or doorways which will impede the passage of a wheelchair, or other form of barrier which will prevent access by Differently Abled persons."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_140",
+    "text_snippet": "Provision and Location: Slope | At least one continuous unobstructed accessible route or accessible path of travel shall be provided which connects all accessible elements and spaces in a building or "
+  },
+  "created_at": "2025-11-19T00:14:48.936093",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.826976",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2073",
+  "title": "Note: Provided that if due to the aforesaid restrictions, the Zonal (Basic) FSI/Protected BUA as per Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2073",
+  "clause_text": "Note: Provided that if due to the aforesaid restrictions, the Zonal (Basic) FSI/Protected BUA as per Regulation No. 30 (C) cannot be consumed fully, then the unconsumed Zonal (Basic) FSI/Protected BUA can be availed in the form of TDR .",
+  "chapter": null,
+  "section": "Height restrictions in the vicinity of aerodromes",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note: Provided that if due to the aforesaid restrictions, the Zonal (Basic) FSI/Protected BUA as per Regulation No. 30 (C) cannot be consumed fully, then the unconsumed Zonal (Basic) FSI/Protected BUA"
+  },
+  "created_at": "2025-11-19T00:14:43.614849",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.258691",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

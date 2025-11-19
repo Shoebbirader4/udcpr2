@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_880",
+  "title": "Premium at the as applicable for area covered under Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 880",
+  "clause_text": "Premium at the as applicable for area covered under Regulation No. 31(1) &31(3) beyond the existing FSI/BUA shall be paid.",
+  "chapter": null,
+  "section": "33(6) Reconstruction of buildings destroyed by fire or which have collapsed or which have been demolished under lawful order",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Premium at the as applicable for area covered under Regulation No. 31(1) &31(3) beyond the existing FSI/BUA shall be paid."
+  },
+  "created_at": "2025-11-19T00:14:38.810565",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.018359",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

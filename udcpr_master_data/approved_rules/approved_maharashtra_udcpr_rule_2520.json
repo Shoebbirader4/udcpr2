@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2520",
+  "title": "The built up area for grant of D",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2520",
+  "clause_text": "The built up area for grant of D.R.C. shall be equal to the built-up area of the sanctioned slum rehabilitation scheme, allowed to be taken in the form of Slum T.D.R.",
+  "chapter": null,
+  "section": "Notwithstanding the provisions in clause mentioned above, if the developer does not desire to consume the full permissible in-situ F.S.I. on the same site, in such a case :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The built up area for grant of D.R.C. shall be equal to the built-up area of the sanctioned slum rehabilitation scheme, allowed to be taken in the form of Slum T.D.R."
+  },
+  "created_at": "2025-11-19T00:14:24.774862",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.035566",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

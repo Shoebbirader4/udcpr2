@@ -1,0 +1,32 @@
+{
+  "rule_id": "mumbai_dcpr_table_79_row_1",
+  "title": "Table 79 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-79.1",
+  "clause_text": "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehabilitation Schemes under this regulation, the amount of premium shall be computed as per the ASR rate prevailing at the time of issue of IOA and the same shall be recovered at the time of grant of full occupation permission to the respective building. However, this mode of payment of premium shall not be applicable for any other redevelopment scheme other than that under Regulation 33(10). All other redevelopment schemes shall be governed by their respective regulations.: 6.16Relaxations for the free sale component – Relaxation contained in sub regulation No. 6.9 above, as well as other necessary relaxation shall be given to the free sale components on payment of premium at the rate of 2.5% of Ready Reckoner Rate or 10% of normal premium whichever is more.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehabilitation Schemes under this regulation, the amount of premium shall be computed as per the ASR rate prevailing at the time of issue of IOA and the same shall be recovered at the time of grant of full occupation permission to the respective building. However, this mode of payment of premium shall not be applicable for any other redevelopment scheme other than that under Regulation 33(10). All other redevelopment schemes shall be governed by their respective regulations."
+      ],
+      "values": [
+        "6.16Relaxations for the free sale component – Relaxation contained in sub regulation No. 6.9 above, as well as other necessary relaxation shall be given to the free sale components on payment of premium at the rate of 2.5% of Ready Reckoner Rate or 10% of normal premium whichever is more."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_79",
+    "text_snippet": "relaxation in open spaces is granted by Chief Executive Officer then the same shall be subject to compliance of CFO requirement and recovery of premium at the rate 2.5% of ASR. . In case of Slum Rehab"
+  },
+  "created_at": "2025-11-19T00:14:48.489352",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.702666",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

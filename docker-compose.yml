@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:6.0
+    container_name: udcpr_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: udcpr_master
+    volumes:
+      - mongo_data:/data/db
+
+  backend:
+    build: ./backend
+    container_name: udcpr_backend
+    ports:
+      - "3001:3001"
+    environment:
+      MONGO_URI: mongodb://admin:password@mongodb:27017/udcpr_master?authSource=admin
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      JWT_SECRET: ${JWT_SECRET:-change-me-in-production}
+      NODE_ENV: development
+    depends_on:
+      - mongodb
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+
+  frontend:
+    build: ./frontend
+    container_name: udcpr_frontend
+    ports:
+      - "3000:3000"
+    environment:
+      REACT_APP_API_URL: http://localhost:3001
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+
+  admin_ui:
+    build: ./admin_ui
+    container_name: udcpr_admin
+    ports:
+      - "3002:3002"
+    environment:
+      MONGO_URI: mongodb://admin:password@mongodb:27017/udcpr_master?authSource=admin
+      JWT_SECRET: ${JWT_SECRET:-change-me-in-production}
+    depends_on:
+      - mongodb
+    volumes:
+      - ./admin_ui:/app
+      - /app/node_modules
+
+volumes:
+  mongo_data:

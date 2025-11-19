@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1019",
+  "title": "The list of occupants and the area occupied by each of them in municipal buildings and their irrevocable written consents shall be certified by the MCGM",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1019",
+  "clause_text": "The list of occupants and the area occupied by each of them in municipal buildings and their irrevocable written consents shall be certified by the MCGM. The list of occupants in other buildings excluding slums and the area occupied by each of them and their irrevocable written consents as specified in clause 4(a) shall be certified by the MBRRB.",
+  "chapter": null,
+  "section": "For Buildings:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The list of occupants and the area occupied by each of them in municipal buildings and their irrevocable written consents shall be certified by the MCGM. The list of occupants in other buildings exclu"
+  },
+  "created_at": "2025-11-19T00:14:39.309439",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.438832",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

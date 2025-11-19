@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_98",
+  "title": "Development - Development with its grammatical variations means the carrying out of buildings, engineering, mining or other operations in or over, or under land or the making of any material change, in any building or land or in the use of any building or land or any material or structural change in any Heritage building or its precinct and includes demolition of any existing building, structure or erection of part of such building, structure or erection and reclamation, redevelopment and layout or sub-division of any land and to develop shall be construed accordingly",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 98",
+  "clause_text": "Development - Development with its grammatical variations means the carrying out of buildings, engineering, mining or other operations in or over, or under land or the making of any material change, in any building or land or in the use of any building or land or any material or structural change in any Heritage building or its precinct and includes demolition of any existing building, structure or erection of part of such building, structure or erection and reclamation, redevelopment and layout or sub-division of any land and to develop shall be construed accordingly.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development - Development with its grammatical variations means the carrying out of buildings, engineering, mining or other operations in or over, or under land or the making of any material change, i"
+  },
+  "created_at": "2025-11-19T00:14:17.221386",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.780140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

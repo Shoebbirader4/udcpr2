@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2369",
+  "title": "The fund may also be used to support the cost of listing of heritage sites and cost towards expert guidance and fees for architects, engineers and other expert",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2369",
+  "clause_text": "The fund may also be used to support the cost of listing of heritage sites and cost towards expert guidance and fees for architects, engineers and other expert.",
+  "chapter": null,
+  "section": "Heritage Conservation Fund",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The fund may also be used to support the cost of listing of heritage sites and cost towards expert guidance and fees for architects, engineers and other expert."
+  },
+  "created_at": "2025-11-19T00:14:24.384411",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.728575",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

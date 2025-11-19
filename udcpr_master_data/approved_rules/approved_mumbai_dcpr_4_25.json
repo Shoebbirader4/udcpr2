@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_4_25",
+  "title": "(ii) In case of high rise buildings having height more than 32 m, first refuge area shall be provided at 24 m or at 1st habitable floor, whichever is higher",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.25",
+  "clause_text": "(ii) In case of high rise buildings having height more than 32 m, first refuge area shall be provided at 24 m or at 1st habitable floor, whichever is higher. Thereafter, the refuge area shall be provided at every 7th habitable floor. The refuge area shall be 4% of the habitable floor area it serves, and will be free of FSI. With the permission of Commissioner due to planning constraints it may be allowed to be exceeded up to maximum limit of 4.25%. If it exceeds 4.25%, the excess area shall be counted in FSI.",
+  "chapter": null,
+  "section": "Refuge area",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "(ii) In case of high rise buildings having height more than 32 m, first refuge area shall be provided at 24 m or at 1st habitable floor, whichever is higher. Thereafter, the refuge area shall be provi"
+  },
+  "created_at": "2025-11-19T00:14:44.060850",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.445757",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

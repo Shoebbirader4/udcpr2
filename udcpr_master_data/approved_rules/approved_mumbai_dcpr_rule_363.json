@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_363",
+  "title": "The completion of IH tenements under the said Scheme, along with necessary particulars, including a copy of the Occupation Certificate granted by the Planning Authority in respect thereof, shall be immediately intimated by the Landowner/Developer to concerned department of MCGM",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 363",
+  "clause_text": "The completion of IH tenements under the said Scheme, along with necessary particulars, including a copy of the Occupation Certificate granted by the Planning Authority in respect thereof, shall be immediately intimated by the Landowner/Developer to concerned department of MCGM. The disbursement of such 20 % IH tenements shall be as under:",
+  "chapter": null,
+  "section": "Inclusive Housing (IH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The completion of IH tenements under the said Scheme, along with necessary particulars, including a copy of the Occupation Certificate granted by the Planning Authority in respect thereof, shall be im"
+  },
+  "created_at": "2025-11-19T00:14:36.617092",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.435546",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_955",
+  "title": "Applicability :- These regulations shall apply to the privately owned (not applicable to forest land) lands situated within 5 km",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 955",
+  "clause_text": "Applicability :- These regulations shall apply to the privately owned (not applicable to forest land) lands situated within 5 km. or the distance as shown in the STR Conservation Plan, whichever is more, from the boundaries of wild life sanctuaries and national parks.The provisions of existing Regional Plans / Development Plans will prevail over these regulations, wherever lands are marked for urbanisable zones in such plans.",
+  "chapter": null,
+  "section": "Conditions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Applicability :- These regulations shall apply to the privately owned (not applicable to forest land) lands situated within 5 km. or the distance as shown in the STR Conservation Plan, whichever is mo"
+  },
+  "created_at": "2025-11-19T00:14:20.096007",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.972793",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

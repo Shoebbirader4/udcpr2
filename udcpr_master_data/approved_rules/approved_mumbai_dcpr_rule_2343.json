@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2343",
+  "title": "Transformers housed at ground floor level shall be cut-off from the other portion of the premises by fire resisting walls of four hours' fire resistance",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2343",
+  "clause_text": "Transformers housed at ground floor level shall be cut-off from the other portion of the premises by fire resisting walls of four hours' fire resistance. They shall not be housed on upper floors except stilt at upper level & podium if dry type.",
+  "chapter": null,
+  "section": "Transformer",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Transformers housed at ground floor level shall be cut-off from the other portion of the premises by fire resisting walls of four hours' fire resistance."
+  },
+  "created_at": "2025-11-19T00:14:45.087823",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.854834",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

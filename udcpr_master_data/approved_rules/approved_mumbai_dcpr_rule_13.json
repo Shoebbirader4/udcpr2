@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_13",
+  "title": "\"Advertising sign\" means any surface or structure with characters, letter or illustrations applied thereto and displayed in any manner whatsoever out of doors for the purpose of advertising or giving information regarding or to attract the public to any place, person, public performance, article or merchandise, and which surface or structure is attached to, forms part of, or is connected with any building, or is fixed to a tree, or to the ground or to any pole, screen, fence or hoarding or displayed in space or in or over any water body included in the limits of Greater Mumbai i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 13",
+  "clause_text": "\"Advertising sign\" means any surface or structure with characters, letter or illustrations applied thereto and displayed in any manner whatsoever out of doors for the purpose of advertising or giving information regarding or to attract the public to any place, person, public performance, article or merchandise, and which surface or structure is attached to, forms part of, or is connected with any building, or is fixed to a tree, or to the ground or to any pole, screen, fence or hoarding or displayed in space or in or over any water body included in the limits of Greater Mumbai i.e. Island City, Suburbs or extended Suburbs as defined in section 3 of the Mumbai Municipal Corporation Act, 1888, and area specified in Part II to IV of Schedule `A` to the Greater Mumbai Laws and Mumbai High Court (Declaration of Limits) Act,1945.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Advertising sign\" means any surface or structure with characters, letter or illustrations applied thereto and displayed in any manner whatsoever out of doors for the purpose of advertising or giving "
+  },
+  "created_at": "2025-11-19T00:14:34.431437",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.648331",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

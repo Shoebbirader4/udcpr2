@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2117",
+  "title": "For those aspects which are not covered under this regulation, the prevailing provisions as prescribed in the (1) sanctioned UDCPR, as modified from time to time for Regional Plan or Development Plan, as the case may be, shall apply mutatis-mutandis",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2117",
+  "clause_text": "For those aspects which are not covered under this regulation, the prevailing provisions as prescribed in the (1) sanctioned UDCPR, as modified from time to time for Regional Plan or Development Plan, as the case may be, shall apply mutatis-mutandis. The provisions of MoEF CRZ notifications amended from time to time shall also be applicable.",
+  "chapter": null,
+  "section": "Development Control Regulations :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For those aspects which are not covered under this regulation, the prevailing provisions as prescribed in the (1) sanctioned UDCPR, as modified from time to time for Regional Plan or Development Plan,"
+  },
+  "created_at": "2025-11-19T00:14:23.799076",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.936749",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

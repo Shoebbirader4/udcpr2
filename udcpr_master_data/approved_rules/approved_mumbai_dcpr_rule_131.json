@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_131",
+  "title": "\"Porch\" means a covered surface supported on pillars or otherwise for the purpose of a pedestrian or vehicular approach to a building",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 131",
+  "clause_text": "\"Porch\" means a covered surface supported on pillars or otherwise for the purpose of a pedestrian or vehicular approach to a building.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Porch\" means a covered surface supported on pillars or otherwise for the purpose of a pedestrian or vehicular approach to a building."
+  },
+  "created_at": "2025-11-19T00:14:35.099289",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.869056",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

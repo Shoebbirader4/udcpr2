@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2174",
+  "title": "Relaxation from Mumbai Tenancy and Agriculture Land Act :- The condition that, only the agriculturist will be eligible to buy the agriculture land shall not be applicable to the Project Proponent/s for purchasing agriculture land for Integrated Township under this Regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2174",
+  "clause_text": "Relaxation from Mumbai Tenancy and Agriculture Land Act :- The condition that, only the agriculturist will be eligible to buy the agriculture land shall not be applicable to the Project Proponent/s for purchasing agriculture land for Integrated Township under this Regulation.",
+  "chapter": null,
+  "section": "Special Concessions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Relaxation from Mumbai Tenancy and Agriculture Land Act :- The condition that, only the agriculturist will be eligible to buy the agriculture land shall not be applicable to the Project Proponent/s fo"
+  },
+  "created_at": "2025-11-19T00:14:23.924290",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.141576",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

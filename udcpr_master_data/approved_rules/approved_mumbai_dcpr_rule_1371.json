@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1371",
+  "title": "In respect of those eligible hutment dwellers on site who do not join the Project willingly the foll",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1371",
+  "clause_text": "In respect of those eligible hutment dwellers on site who do not join the Project willingly the following steps shall be taken: Provision for all of them shall be made in the renewal/rehabilitation component of the scheme.",
+  "chapter": null,
+  "section": "Right of the Hutment Dwellers:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In respect of those eligible hutment dwellers on site who do not join the Project willingly the following steps shall be taken:"
+  },
+  "created_at": "2025-11-19T00:14:40.447169",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.278479",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

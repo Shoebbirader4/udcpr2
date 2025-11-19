@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_3",
+  "title": "Table 4 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.3",
+  "clause_text": "5.1.2: 5.1.5 | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Highways notified by State / Central Government. | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Highways notified by State / Central Government. | 84: 85",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "",
+        "5.1.5",
+        "Highways notified by State / Central Government.",
+        "Highways notified by State / Central Government.",
+        "85"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": "5.1.2: 5.1.5 | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Highways notified by State / Central Government. | Regu"
+  },
+  "created_at": "2025-11-19T00:14:29.475045",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.051292",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_898",
+  "title": "Note :- The layouts which are approved before publication of the Regional Plan but not fulfilling the requirements of the then DCR such as road width, open space etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 898",
+  "clause_text": "Note :- The layouts which are approved before publication of the Regional Plan but not fulfilling the requirements of the then DCR such as road width, open space etc. but saved as per above special regulation, in such cases the building permission shall be granted with 75% of FSI permissible in such zones.",
+  "chapter": null,
+  "section": "Committed Development",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note :- The layouts which are approved before publication of the Regional Plan but not fulfilling the requirements of the then DCR such as road width, open space etc. but saved as per above special re"
+  },
+  "created_at": "2025-11-19T00:14:19.931775",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.788581",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

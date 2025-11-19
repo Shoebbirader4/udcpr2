@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1441",
+  "title": "The provision of sub-regulations (i) and (ii) above shall not be applicable to boundary walls of jails",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1441",
+  "clause_text": "The provision of sub-regulations (i) and (ii) above shall not be applicable to boundary walls of jails.",
+  "chapter": null,
+  "section": "Artificial Lightning and Mechanical ventilation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The provision of sub-regulations (i) and (ii) above shall not be applicable to boundary walls of jails."
+  },
+  "created_at": "2025-11-19T00:14:21.818658",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.223800",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

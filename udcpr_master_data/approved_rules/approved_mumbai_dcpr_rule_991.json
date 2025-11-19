@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_991",
+  "title": "Advance possession of all lands other than the Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 991",
+  "clause_text": "Advance possession of all lands other than the Govt./Semi- Govt./Appropriate Authority’s Share t as detailed inthe table above shall be handed over to MCGM at the time of approval of layout. The ownership shall be transferred in the name of MCGM within one year from the date of advance possession or seeking commencement certificate beyond plinth of the development of Govt./Semi- Govt./Appropriate Authority’s share, whichever is earlier. The Govt./Semi-Govt./Appropriate Authority may opt for development of the AH plot on their own as stated in clause 4(b) below.",
+  "chapter": null,
+  "section": "Planning Considerations /Submission of Proposal",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Advance possession of all lands other than the Govt./Semi- Govt./Appropriate Authority’s Share t as detailed inthe table above shall be handed over to MCGM at the time of approval of layout. The owner"
+  },
+  "created_at": "2025-11-19T00:14:39.166537",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.346177",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

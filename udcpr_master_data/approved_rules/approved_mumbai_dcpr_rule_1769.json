@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1769",
+  "title": "Without prejudice to the generality of the functions provided for in clause (a) of this Sub-Regulati",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1769",
+  "clause_text": "Without prejudice to the generality of the functions provided for in clause (a) of this Sub-Regulation, the Monitoring Committee shall:--",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Without prejudice to the generality of the functions provided for in clause (a) of this Sub-Regulation, the Monitoring Committee shall:--"
+  },
+  "created_at": "2025-11-19T00:14:41.812671",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.463457",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

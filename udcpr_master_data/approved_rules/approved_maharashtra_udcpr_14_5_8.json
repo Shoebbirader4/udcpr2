@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_5_8",
+  "title": "While preparing the list, the authority shall strictly insure that such structure / precinct has heritage value and is liable for inclusion in the list in view of its national, regional, or local importance as specified in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.5.8",
+  "clause_text": "While preparing the list, the authority shall strictly insure that such structure / precinct has heritage value and is liable for inclusion in the list in view of its national, regional, or local importance as specified in Regulation No.14.5.8. The structure / precinct which do not comply the requirements specified in the said regulation shall not be included in the list. Generally, the following aspects shall be ascertained while preparing the list. Its value for architectural, historical or cultural reasons. The date and/or period and / or design and / or unique use of the building or artefact.",
+  "chapter": null,
+  "section": "Preparation of List of Heritage Buildings, Heritage Precincts and Natural Features",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "While preparing the list, the authority shall strictly insure that such structure / precinct has heritage value and is liable for inclusion in the list in view of its national, regional, or local impo"
+  },
+  "created_at": "2025-11-19T00:14:24.276796",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.634623",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

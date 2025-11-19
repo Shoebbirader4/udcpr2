@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_333",
+  "title": "in case where minor amendment to the plotted layout approved prior to 10/8/1992 are proposed or where development charge for land development has already been collected in past, no development charge should be levied for such amendment of plotted layout provided no construction was proposed in the said layout i",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 333",
+  "clause_text": "in case where minor amendment to the plotted layout approved prior to 10/8/1992 are proposed or where development charge for land development has already been collected in past, no development charge should be levied for such amendment of plotted layout provided no construction was proposed in the said layout i.e. only plotted layout was approved.",
+  "chapter": null,
+  "section": "(#) Development Charges",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "in case where minor amendment to the plotted layout approved prior to 10/8/1992 are proposed or where development charge for land development has already been collected in past, no development charge "
+  },
+  "created_at": "2025-11-19T00:14:18.035031",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.412650",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

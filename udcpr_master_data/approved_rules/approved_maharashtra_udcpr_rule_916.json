@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_916",
+  "title": "All projects of public interest undertaken by Central and State Government bodies or Public Authorities controlled by the Government",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 916",
+  "clause_text": "All projects of public interest undertaken by Central and State Government bodies or Public Authorities controlled by the Government. Plantations / Afforestation shall not be permitted. Any activity restricting / obstructing Natural water flows shall not be permitted. New man made water bodies as well as expansion of existing water bodies shall not be permitted.",
+  "chapter": null,
+  "section": "Core Zone of Conservation Zone :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All projects of public interest undertaken by Central and State Government bodies or Public Authorities controlled by the Government."
+  },
+  "created_at": "2025-11-19T00:14:19.978174",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.829835",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

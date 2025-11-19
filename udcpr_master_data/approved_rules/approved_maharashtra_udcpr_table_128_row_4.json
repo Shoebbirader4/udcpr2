@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_128_row_4",
+  "title": "Table 128 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-128.4",
+  "clause_text": "Table No.12-N Sanitation Requirements – Hostels: i) | Table No.12-N Sanitation Requirements – Hostels: Water Closet | Table No.12-N Sanitation Requirements – Hostels: 1 per 8 or part thereof | Table No.12-N Sanitation Requirements – Hostels: 1 per 6 or part thereof | Table No.12-N Sanitation Requirements – Hostels: for up to 15 for 16-35 for 36-65 for 66-100 | Table No.12-N Sanitation Requirements – Hostels: for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100 | Table No.12-N Sanitation Requirements – Hostels: per 100 up to 400 Over 400 add at 1 per 250 | Table No.12-N Sanitation Requirements – Hostels: per 200 up to 200 Over 200 add at 1 per 100",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels"
+      ],
+      "values": [
+        "i)",
+        "Water Closet",
+        "1 per 8 or part thereof",
+        "1 per 6 or part thereof",
+        "for up to 15 for 16-35 for 36-65 for 66-100",
+        "for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100",
+        "per 100 up to 400 Over 400 add at 1 per 250",
+        "per 200 up to 200 Over 200 add at 1 per 100"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_128",
+    "text_snippet": "Table No.12-N Sanitation Requirements – Hostels: i) | Table No.12-N Sanitation Requirements – Hostels: Water Closet | Table No.12-N Sanitation Requirements – Hostels: 1 per 8 or part thereof | Table N"
+  },
+  "created_at": "2025-11-19T00:14:30.923069",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.005127",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

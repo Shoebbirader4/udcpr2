@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2939",
+  "title": "Whenever there is no URP made by Commissioner or wherever there is no URS floated by the Commissioner over one or more URCs falling under URP made by Commissioner, any Private Promoter, MHADA, Co-operative Housing Society, federation of occupants etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2939",
+  "clause_text": "Whenever there is no URP made by Commissioner or wherever there is no URS floated by the Commissioner over one or more URCs falling under URP made by Commissioner, any Private Promoter, MHADA, Co-operative Housing Society, federation of occupants etc. may approach Commissioner with consent of owners / stakeholders of 51%of any area requiring Urban Renewal, for implementation of URS thereon and Commissioner may, after satisfying himself that conditions mentioned herein, which make an area fit for redevelopment under URS are met, decide to implement URS thereon and, subject to other",
+  "chapter": null,
+  "section": "URS by Private Promoters / MHADA / Co-operative Housing Societies –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Whenever there is no URP made by Commissioner or wherever there is no URS floated by the Commissioner over one or more URCs falling under URP made by Commissioner, any Private Promoter, MHADA, Co-oper"
+  },
+  "created_at": "2025-11-19T00:14:25.821571",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.218754",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2039",
+  "title": "Private forest land that have been restored back after completion of section 22(a) Enquiry of Maharashtra Private Forest Act, 1975 shall be allowed to be part of the ITP with the condition that development permission shall be granted on such land only after necessary permission under the provision of Forest Conservation Act,1980",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2039",
+  "clause_text": "Private forest land that have been restored back after completion of section 22(a) Enquiry of Maharashtra Private Forest Act, 1975 shall be allowed to be part of the ITP with the condition that development permission shall be granted on such land only after necessary permission under the provision of Forest Conservation Act,1980.",
+  "chapter": null,
+  "section": "Requirements of Site :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Private forest land that have been restored back after completion of section 22(a) Enquiry of Maharashtra Private Forest Act, 1975 shall be allowed to be part of the ITP with the condition that develo"
+  },
+  "created_at": "2025-11-19T00:14:23.549026",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.645528",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

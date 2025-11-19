@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_6_row_1",
+  "title": "Table 6 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-6.1",
+  "clause_text": ": 8.1 * | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Parking Spaces | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Parking Spaces | : 145",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        ""
+      ],
+      "values": [
+        "8.1 *",
+        "Parking Spaces",
+        "Parking Spaces",
+        "145"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_6",
+    "text_snippet": ": 8.1 * | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Parking Spaces | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Parking Spaces | : 145"
+  },
+  "created_at": "2025-11-19T00:14:29.569236",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.167726",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

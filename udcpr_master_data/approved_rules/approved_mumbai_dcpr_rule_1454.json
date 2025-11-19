@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1454",
+  "title": "/institution for public use",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1454",
+  "clause_text": "/institution for public use. Balwadi shall also be provided for on a similar scale. An office for the Co-operative housing society shall be also constructed for every 100 rehab tenements in accordance will D.C. Regulations No. 37(9). However, if the number of rehab tenements exceeds 100 then for every 100 rehab tenements such additional society office shall be constructed. There shall be a community hall for rehab bldg. of the Project as a part of the rehabilitation component. The area of such hall shall be 2% of rehab built up area of all the buildings or 200 sq. m whichever is less.",
+  "chapter": null,
+  "section": "SLUMS AND DEVELOPMENT PLAN RESERVATIONS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "/institution for public use. Balwadi shall also be provided for on a similar scale. An office for the Co-operative housing society shall be also constructed for every 100 rehab tenements in accordance"
+  },
+  "created_at": "2025-11-19T00:14:40.692517",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.449178",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

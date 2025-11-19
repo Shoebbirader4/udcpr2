@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_985",
+  "title": "Within the distance of 5 km",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 985",
+  "clause_text": "Within the distance of 5 km. to 30 km., from boundary of the site, no reciprocating activity, requiring the use of sustained heavy equipments including mining, blasting or such other similar activities requiring more than 20 HP power, shall be allowed.",
+  "chapter": null,
+  "section": "1.0 LAND USE CLASSIFICATION AND PERMISSIBLE USES",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Within the distance of 5 km. to 30 km., from boundary of the site, no reciprocating activity, requiring the use of sustained heavy equipments including mining, blasting or such other similar activitie"
+  },
+  "created_at": "2025-11-19T00:14:20.214811",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.025648",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

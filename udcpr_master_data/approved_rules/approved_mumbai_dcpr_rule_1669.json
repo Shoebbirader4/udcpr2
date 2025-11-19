@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1669",
+  "title": "Provided that, if development is proposed by MCGM on its own, then the payment of premium for BUA beyond zonal (basic) FSI, shall not be applicable",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1669",
+  "clause_text": "Provided that, if development is proposed by MCGM on its own, then the payment of premium for BUA beyond zonal (basic) FSI, shall not be applicable. However, payment of premium shall be applicable if the project is developed through PPP model/ allowed to be developed through any other agency excluding the area to be handed over to MCGM.",
+  "chapter": null,
+  "section": "Exceptions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, if development is proposed by MCGM on its own, then the payment of premium for BUA beyond zonal (basic) FSI, shall not be applicable. However, payment of premium shall be applicable if "
+  },
+  "created_at": "2025-11-19T00:14:41.407048",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.090896",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

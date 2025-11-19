@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_717",
+  "title": "In cases where layout has already been sanctioned prior to these regulations and layout roads are incorporated as Development Plan roads",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 717",
+  "clause_text": "In cases where layout has already been sanctioned prior to these regulations and layout roads are incorporated as Development Plan roads .",
+  "chapter": null,
+  "section": "3.0 CASES NOT ELIGIBLE FOR TRANSFERABLE DEVELOPMENT RIGHTS ( TDR ):-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In cases where layout has already been sanctioned prior to these regulations and layout roads are incorporated as Development Plan roads ."
+  },
+  "created_at": "2025-11-19T00:14:38.096218",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.463090",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

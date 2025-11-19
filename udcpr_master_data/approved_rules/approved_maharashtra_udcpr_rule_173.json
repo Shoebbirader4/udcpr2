@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_173",
+  "title": "Owner - means a person who has legal title to land or building and includes any person for the time",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 173",
+  "clause_text": "Owner - means a person who has legal title to land or building and includes any person for the time being receiving or entitled to receive, whether on his own account or as agent, trustee, guardian, manager or receiver for another person or for any religious or charitable purposes the rents or profits of the property in connection with which it is used; Parapet - means low wall or railing built along the edge of a roof, terraces, balcony, varandah etc.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Owner - means a person who has legal title to land or building and includes any person for the time being receiving or entitled to receive, whether on his own account or as agent, trustee, guardian, m"
+  },
+  "created_at": "2025-11-19T00:14:17.408814",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.022521",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3119",
+  "title": "To carry out day to day supervision in order to ensure that the work on site is carried out in accordance with the development permissions, approved plans, drawings given by Licensed personnel / Architect of the project, structural drawings given by structural engineer",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3119",
+  "clause_text": "To carry out day to day supervision in order to ensure that the work on site is carried out in accordance with the development permissions, approved plans, drawings given by Licensed personnel / Architect of the project, structural drawings given by structural engineer.",
+  "chapter": null,
+  "section": "Duties and Responsibilities :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "To carry out day to day supervision in order to ensure that the work on site is carried out in accordance with the development permissions, approved plans, drawings given by Licensed personnel / Archi"
+  },
+  "created_at": "2025-11-19T00:14:26.831757",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.599970",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

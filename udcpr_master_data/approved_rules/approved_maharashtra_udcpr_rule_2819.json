@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2819",
+  "title": "Wherever the S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2819",
+  "clause_text": "Wherever the S.R. Scheme sanctioned by CEO (SRA) is under progress on reservations shall be valid & continue.",
+  "chapter": null,
+  "section": "Exceptions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Wherever the S.R. Scheme sanctioned by CEO (SRA) is under progress on reservations shall be valid & continue."
+  },
+  "created_at": "2025-11-19T00:14:25.428080",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.902847",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

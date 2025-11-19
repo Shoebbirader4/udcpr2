@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_500",
+  "title": "On sanction of the development permission, the recreational open space shall be deemed to have been vested in the society / association of the residents / occupants of the layout / building unit except as specified otherwise",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 500",
+  "clause_text": "On sanction of the development permission, the recreational open space shall be deemed to have been vested in the society / association of the residents / occupants of the layout / building unit except as specified otherwise. In case such society or association is yet to be formed, the owner shall give undertaking to the Authority at the time of occupation certificate in case of Group Housing Scheme and at the time of final approval in case of plotted layout, that he will transfer the recreational open space at a nominal cost of Re.1/- to the society / association whenever it is formed. The recreational open space shall not be sold",
+  "chapter": null,
+  "section": "Recreational Open Space - Owner’s Undertaking",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "On sanction of the development permission, the recreational open space shall be deemed to have been vested in the society / association of the residents / occupants of the layout / building unit excep"
+  },
+  "created_at": "2025-11-19T00:14:18.569166",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.846449",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

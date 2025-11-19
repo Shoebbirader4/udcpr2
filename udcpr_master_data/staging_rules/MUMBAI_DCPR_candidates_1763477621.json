@@ -1,0 +1,75 @@
+[
+  {
+    "rule_id": "mumbai_dcpr_height_001",
+    "title": "Maximum Height for Road Width >= 18m",
+    "jurisdiction": "mumbai_dcpr",
+    "version": "dcpr_2034",
+    "clause_number": "7.2.1",
+    "clause_text": "For roads with width 18 meters or more, the maximum permissible height is 70 meters.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "road_width_m",
+            "op": ">=",
+            "value": 18
+          }
+        ],
+        "outputs": [
+          {
+            "field": "max_height",
+            "value": 70.0,
+            "units": "m"
+          }
+        ]
+      }
+    },
+    "examples": [],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "MUMBAI_DCPR_2034.pdf",
+      "page": 134,
+      "text_snippet": "Height restrictions..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "mumbai_dcpr_corner_plot_001",
+    "title": "Corner Plot Setback Relaxation",
+    "jurisdiction": "mumbai_dcpr",
+    "version": "dcpr_2034",
+    "clause_number": "4.5.3",
+    "clause_text": "Corner plots are eligible for 25% relaxation in front setback requirements.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "corner_plot",
+            "op": "==",
+            "value": true
+          }
+        ],
+        "outputs": [
+          {
+            "field": "setback_relaxation",
+            "value": 0.25,
+            "units": "ratio"
+          }
+        ],
+        "notes": "Apply 0.75 multiplier to standard front setback"
+      }
+    },
+    "examples": [],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "MUMBAI_DCPR_2034.pdf",
+      "page": 78,
+      "text_snippet": "Corner plot provisions..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  }
+]

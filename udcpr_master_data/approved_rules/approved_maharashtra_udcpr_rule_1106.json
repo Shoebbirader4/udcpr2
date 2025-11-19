@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1106",
+  "title": "A projection of maximum 30 cm",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1106",
+  "clause_text": "A projection of maximum 30 cm. on roof top terrace level may be allowed through out the periphery of the building. In case of pitched roof projection of maximum 45 cm. at rooftop level throughout periphery of the building shall be allowed.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A projection of maximum 30 cm. on roof top terrace level may be allowed through out the periphery of the building. In case of pitched roof projection of maximum 45 cm. at rooftop level throughout peri"
+  },
+  "created_at": "2025-11-19T00:14:20.638351",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.424354",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

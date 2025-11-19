@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1864",
+  "title": "A = cost of construction of amenity in rupees (2) for all type of buildings and roads, should be calculated as per the (2) DSR prepared by (2) Public Works Department for the year in which construction of amenity is commenced",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1864",
+  "clause_text": "A = cost of construction of amenity in rupees (2) for all type of buildings and roads, should be calculated as per the (2) DSR prepared by (2) Public Works Department for the year in which construction of amenity is commenced. (2) While preparing the estimate, the Planning Authority may consider the cost of the project comprehensively including cost of construction (for the civil works, electrical works, water supply, drainage, infrastructure, development works like site levelling, compound wall, parking, drive ways, ramps for the basement, infrastructure for the compliance of the Environment / MPCB Department etc.) as well as incidental costs for completion of project (all types of premium & charges payable to the",
+  "chapter": null,
+  "section": "Construction Amenity TDR in Sq.m. = A / B * (2) 1.35 Where,",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A = cost of construction of amenity in rupees (2) for all type of buildings and roads, should be calculated as per the (2) DSR prepared by (2) Public Works Department for the year in which constructio"
+  },
+  "created_at": "2025-11-19T00:14:23.074562",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.217709",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

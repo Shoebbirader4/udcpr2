@@ -1,0 +1,34 @@
+{
+  "rule_id": "mumbai_dcpr_table_172_row_3",
+  "title": "Table 172 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-172.3",
+  "clause_text": "d)Building completion certificate :-On completion of work, the concern Architect/L.S./Engineer shall issue the Building completion certificate and Occupation certificate, as required as per the provision of DCPR to the completed building/structure and submit two set of completion plan along with the required certificate and all site inspection report to the authority. The concerned Engineer authorized by Municipal Commissioner / CEO MHADA/ SRA shall countersign the said Completion Plan along with Occupancy Certificate within 10 days without any scrutiny and site inspection.: b)It will be the responsibility of the concern Architect /L.S/Engineer, Site Supervisor & Structural Engineer appointed for the proposed development, jointly or severally to ensure that all plans shall be in consonance with provisions of Development Control Regulations. All the requirements of the DCR / DCPR shall have to be complied with due care and the work is carried out as per the approval only. Any deviation required during the construction shall be approved by Architect/L.S./Engineer before execution. The concerned Architect /L.S./Engineer shall be empowered for any amendments in the plan in process of construction within the purview of DCR.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "d)Building completion certificate :-On completion of work, the concern Architect/L.S./Engineer shall issue the Building completion certificate and Occupation certificate, as required as per the provision of DCPR to the completed building/structure and submit two set of completion plan along with the required certificate and all site inspection report to the authority. The concerned Engineer authorized by Municipal Commissioner / CEO MHADA/ SRA shall countersign the said Completion Plan along with Occupancy Certificate within 10 days without any scrutiny and site inspection."
+      ],
+      "values": [
+        "",
+        "b)It will be the responsibility of the concern Architect /L.S/Engineer, Site Supervisor & Structural Engineer appointed for the proposed development, jointly or severally to ensure that all plans shall be in consonance with provisions of Development Control Regulations. All the requirements of the DCR / DCPR shall have to be complied with due care and the work is carried out as per the approval only. Any deviation required during the construction shall be approved by Architect/L.S./Engineer before execution. The concerned Architect /L.S./Engineer shall be empowered for any amendments in the plan in process of construction within the purview of DCR."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_172",
+    "text_snippet": "d)Building completion certificate :-On completion of work, the concern Architect/L.S./Engineer shall issue the Building completion certificate and Occupation certificate, as required as per the provis"
+  },
+  "created_at": "2025-11-19T00:14:49.140331",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.878952",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_62_row_1",
+  "title": "Table 62 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-62.1",
+  "clause_text": "Table No.8-A - Parking Space Requirement: Sr. No. | Table No.8-A - Parking Space Requirement: Type of Vehicle | Table No.8-A - Parking Space Requirement: Minimum size / area of parking space",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.8-A - Parking Space Requirement",
+        "Table No.8-A - Parking Space Requirement",
+        "Table No.8-A - Parking Space Requirement"
+      ],
+      "values": [
+        "Sr. No.",
+        "Type of Vehicle",
+        "Minimum size / area of parking space"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_62",
+    "text_snippet": "Table No.8-A - Parking Space Requirement: Sr. No. | Table No.8-A - Parking Space Requirement: Type of Vehicle | Table No.8-A - Parking Space Requirement: Minimum size / area of parking space"
+  },
+  "created_at": "2025-11-19T00:14:29.925058",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.552165",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

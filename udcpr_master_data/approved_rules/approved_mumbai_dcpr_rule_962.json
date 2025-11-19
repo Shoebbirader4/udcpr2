@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_962",
+  "title": "i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 962",
+  "clause_text": "i.e. owners share of land. If OA/POS/AH to be handed over to MCGM is not abutting the municipal road, the same shall be provided with uninterrupted access as per table no 7 of Regulation No 23(1).The area of the land after deduction of the area covered under road/uninterrupted access proposed as above, shall be apportioned among Owner’s Share, AH, POS, and OA as detailed below. These roads/uninterrupted access shall be handed over to MCGM and will be eligible for additional BUA equal to area of land surrendered/transferred over and above FSI as stipulated below in Sr. No. D",
+  "chapter": null,
+  "section": "Planning Considerations /Submission of Proposal",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "i.e. owners share of land. If OA/POS/AH to be handed over to MCGM is not abutting the municipal road, the same shall be provided with uninterrupted access as per table no 7 of Regulation No 23(1).The "
+  },
+  "created_at": "2025-11-19T00:14:39.060369",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.275496",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

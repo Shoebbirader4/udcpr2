@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_424",
+  "title": "If the area between the river bank and blue flood line forms part of the entire plot in Development Zone, then, FSI of such part of land may be allowed to be utilised on the remaining land",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 424",
+  "clause_text": "If the area between the river bank and blue flood line forms part of the entire plot in Development Zone, then, FSI of such part of land may be allowed to be utilised on the remaining land.",
+  "chapter": null,
+  "section": "Construction within Blue and Red Flood Line",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the area between the river bank and blue flood line forms part of the entire plot in Development Zone, then, FSI of such part of land may be allowed to be utilised on the remaining land."
+  },
+  "created_at": "2025-11-19T00:14:18.251518",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.643012",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

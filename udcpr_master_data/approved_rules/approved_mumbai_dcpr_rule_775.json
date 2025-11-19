@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_775",
+  "title": "For generating TDR, agreement with MCGM shall be executed stating that the heritage structure will be maintained by the Owner as decided by the Commissioner along with a clause of penalty for breach of conditions of agreement as may be decided by Commissioner and potential of the plot shall be perpetually reduced to the extent of existing BUA of the structure",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 775",
+  "clause_text": "For generating TDR, agreement with MCGM shall be executed stating that the heritage structure will be maintained by the Owner as decided by the Commissioner along with a clause of penalty for breach of conditions of agreement as may be decided by Commissioner and potential of the plot shall be perpetually reduced to the extent of existing BUA of the structure.",
+  "chapter": null,
+  "section": "Additional regulations for the grant of TDR to owners/lessees of heritage buildings/heritage precincts and conditions for grant of such rights",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For generating TDR, agreement with MCGM shall be executed stating that the heritage structure will be maintained by the Owner as decided by the Commissioner along with a clause of penalty for breach o"
+  },
+  "created_at": "2025-11-19T00:14:38.319562",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.680297",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

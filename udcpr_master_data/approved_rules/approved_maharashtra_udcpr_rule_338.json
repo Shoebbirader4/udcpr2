@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_338",
+  "title": "In case no development work is carried out in pursuance of permission and permission is lapsed or permission is cancelled on the request of the owner, the development charges paid, shall be adjusted in permission that may be granted in future",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 338",
+  "clause_text": "In case no development work is carried out in pursuance of permission and permission is lapsed or permission is cancelled on the request of the owner, the development charges paid, shall be adjusted in permission that may be granted in future.",
+  "chapter": null,
+  "section": "(#) Development Charges",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case no development work is carried out in pursuance of permission and permission is lapsed or permission is cancelled on the request of the owner, the development charges paid, shall be adjusted i"
+  },
+  "created_at": "2025-11-19T00:14:18.045806",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.425888",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

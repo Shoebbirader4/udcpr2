@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2089",
+  "title": "\"For sale\" or \"For rent” signs for real estate, not exceeding 2 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2089",
+  "clause_text": "\"For sale\" or \"For rent” signs for real estate, not exceeding 2 sq. m in area provided they are located on the premises offered for sale or rent.",
+  "chapter": null,
+  "section": "Signs and Outdoor Display Structures",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"For sale\" or \"For rent” signs for real estate, not exceeding 2 sq. m in area provided they are located on the premises offered for sale or rent."
+  },
+  "created_at": "2025-11-19T00:14:43.707323",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.308514",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

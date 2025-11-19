@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2043",
+  "title": "Quantitative Requirements-Four wheeled auto-vehicles-Parking spaces for four wheeled auto vehicles shall be provided as in Table No 21 below, any fractional space of more than half resulting from the ratios in column (3) thereof being rounded off upward to the nearest integer",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2043",
+  "clause_text": "Quantitative Requirements-Four wheeled auto-vehicles-Parking spaces for four wheeled auto vehicles shall be provided as in Table No 21 below, any fractional space of more than half resulting from the ratios in column (3) thereof being rounded off upward to the nearest integer. Provided that the Government may change parking requirements, as per the recommendations of the committee constituted by the Government in this regard.",
+  "chapter": null,
+  "section": "Parking Spaces",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Quantitative Requirements-Four wheeled auto-vehicles-Parking spaces for four wheeled auto vehicles shall be provided as in Table No 21 below, any fractional space of more than half resulting from the "
+  },
+  "created_at": "2025-11-19T00:14:43.406584",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.194578",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

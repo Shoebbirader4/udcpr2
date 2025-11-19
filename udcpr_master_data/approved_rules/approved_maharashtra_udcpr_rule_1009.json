@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1009",
+  "title": "Any person aggrieved by an order / communication made by an authority / Collector under these Regulations may prefer an appeal before the Board of Appeals",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1009",
+  "clause_text": "Any person aggrieved by an order / communication made by an authority / Collector under these Regulations may prefer an appeal before the Board of Appeals. The board shall be constituted at division level consisting of the Divisional Head of Town Planning Department of the concerned division as President and concerned A.D.T.P. / T.P. of the district as a member.",
+  "chapter": null,
+  "section": "REGULATIONS FOR KUNE - PANGALOLI - KURWANDE PLANNING AREA OF",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Any person aggrieved by an order / communication made by an authority / Collector under these Regulations may prefer an appeal before the Board of Appeals. The board shall be constituted at division l"
+  },
+  "created_at": "2025-11-19T00:14:20.269857",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.122341",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

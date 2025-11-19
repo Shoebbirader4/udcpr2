@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1344",
+  "title": "This part sets out the standard space requirements of various parts of building, light and ventilation, the building services, fire safety, etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1344",
+  "clause_text": "This part sets out the standard space requirements of various parts of building, light and ventilation, the building services, fire safety, etc. The following parts of a building, wherever present, shall conform to the requirements given herein:",
+  "chapter": null,
+  "section": "Off street parking requirement for various Planning Authorities / Areas",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "This part sets out the standard space requirements of various parts of building, light and ventilation, the building services, fire safety, etc. The following parts of a building, wherever present, sh"
+  },
+  "created_at": "2025-11-19T00:14:21.393287",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.009654",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

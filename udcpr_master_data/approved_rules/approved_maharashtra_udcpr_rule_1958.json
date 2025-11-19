@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1958",
+  "title": "The interior of the cage shall be provided with a device that audibly indicates the floor, the cage has reached indicates that the door of the cage of entrance/exit is either open or closed",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1958",
+  "clause_text": "The interior of the cage shall be provided with a device that audibly indicates the floor, the cage has reached indicates that the door of the cage of entrance/exit is either open or closed.",
+  "chapter": null,
+  "section": "Building Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The interior of the cage shall be provided with a device that audibly indicates the floor, the cage has reached indicates that the door of the cage of entrance/exit is either open or closed."
+  },
+  "created_at": "2025-11-19T00:14:23.358752",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.382168",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

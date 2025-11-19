@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2185",
+  "title": "After getting completion certificate for the conservation of the heritage structure from the appropriate authority and on recommendation of the MHCC, whatever is considered appropriate of the residual or entire residual DRC will be granted by the Municipal Commissioner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2185",
+  "clause_text": "After getting completion certificate for the conservation of the heritage structure from the appropriate authority and on recommendation of the MHCC, whatever is considered appropriate of the residual or entire residual DRC will be granted by the Municipal Commissioner.",
+  "chapter": null,
+  "section": "Grant of Transferable Development Rights in case of loss of Development Rights",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After getting completion certificate for the conservation of the heritage structure from the appropriate authority and on recommendation of the MHCC, whatever is considered appropriate of the residual"
+  },
+  "created_at": "2025-11-19T00:14:44.210585",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.521490",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

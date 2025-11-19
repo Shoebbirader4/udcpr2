@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_6_25",
+  "title": "A permanent vent shall be provided at the top of the service shaft of cross-sectional area not less than 460 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "6.25",
+  "clause_text": "A permanent vent shall be provided at the top of the service shaft of cross-sectional area not less than 460 sq. cm or 6.25 cm. for each 900-sq. cm of the area of the shaft, whichever is more.",
+  "chapter": null,
+  "section": "Service ducts.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A permanent vent shall be provided at the top of the service shaft of cross-sectional area not less than 460 sq. cm or 6.25 cm. for each 900-sq. cm of the area of the shaft, whichever is more."
+  },
+  "created_at": "2025-11-19T00:14:44.942724",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.791117",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

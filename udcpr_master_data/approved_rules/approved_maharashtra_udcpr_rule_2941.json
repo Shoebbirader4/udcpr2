@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2941",
+  "title": "In case where there are some owners (pertaining to less than 30% area) who have not given their consent to the Private Promoter, MHADA, Co-operative Housing Societies etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2941",
+  "clause_text": "In case where there are some owners (pertaining to less than 30% area) who have not given their consent to the Private Promoter, MHADA, Co-operative Housing Societies etc. for URS, who are appointed as per Clause (i) above by Commissioner as Implementing Agency, the Commissioner shall offer remaining owners and right holders consideration for their rights as mentioned in the provisions for URS being designed and implemented by Commissioner, and if these considerations are rejected by these dissenting owners or right holders the Commissioner shall forward proposals for Land Acquisition to competent authority. In such cases, if final compensation is in terms of money, the same shall be recovered from the Implementation Agency and if final compensation is in terms of TDR, market value of such plots as per ASR rates shall be recovered from the Implementation Agency, in addition to the Base Premium.",
+  "chapter": null,
+  "section": "URS by Private Promoters / MHADA / Co-operative Housing Societies –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case where there are some owners (pertaining to less than 30% area) who have not given their consent to the Private Promoter, MHADA, Co-operative Housing Societies etc. for URS, who are appointed a"
+  },
+  "created_at": "2025-11-19T00:14:25.844725",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.218754",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

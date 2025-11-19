@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2151",
+  "title": "Application for obtaining the Occupancy Certificate for buildings in project, in full or part shall be submitted by Project Proponent/s to the concerned branch Officer of Town Planning (1) or to the concerned Authority, as the case may be",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2151",
+  "clause_text": "Application for obtaining the Occupancy Certificate for buildings in project, in full or part shall be submitted by Project Proponent/s to the concerned branch Officer of Town Planning (1) or to the concerned Authority, as the case may be. Such application shall be accompanied by -",
+  "chapter": null,
+  "section": "Occupancy Certificate :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Application for obtaining the Occupancy Certificate for buildings in project, in full or part shall be submitted by Project Proponent/s to the concerned branch Officer of Town Planning (1) or to the c"
+  },
+  "created_at": "2025-11-19T00:14:23.875867",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.043990",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

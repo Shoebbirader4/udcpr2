@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_307",
+  "title": "Provided that, if the plot is reserved for some public purpose with plus (+) sign, then at least 50% of the plot area shall be developed for the purpose for which it is reserved in DP and rest of the plot can be developed for other purposes related to plus (+) sign considering the deficiency in that ward",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 307",
+  "clause_text": "Provided that, if the plot is reserved for some public purpose with plus (+) sign, then at least 50% of the plot area shall be developed for the purpose for which it is reserved in DP and rest of the plot can be developed for other purposes related to plus (+) sign considering the deficiency in that ward.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, if the plot is reserved for some public purpose with plus (+) sign, then at least 50% of the plot area shall be developed for the purpose for which it is reserved in DP and rest of the "
+  },
+  "created_at": "2025-11-19T00:14:36.369914",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.307710",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

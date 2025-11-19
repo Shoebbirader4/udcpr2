@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1032",
+  "title": "Each occupant/tenant shall be rehabilitated and given on ownership basis, carpet area equivalent to",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1032",
+  "clause_text": "Each occupant/tenant shall be rehabilitated and given on ownership basis, carpet area equivalent to the area occupied by such",
+  "chapter": null,
+  "section": "Conditions of Rehabilitation:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Each occupant/tenant shall be rehabilitated and given on ownership basis, carpet area equivalent to the area occupied by such"
+  },
+  "created_at": "2025-11-19T00:14:39.372132",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.472166",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_183_row_1",
+  "title": "Table 183 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-183.1",
+  "clause_text": ": 10 | : Issue of Commencement Certificate/ Approval. | owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed personal stating that the proposal is strictly in accordance with the provisions of UDCPR. No more details shall be necessary.: The receipt of application along with the required documents and fees / charges mentioned in 9 above, by the authority shall be treated as permission for development. | : After receipt of the application, the Demand Note regarding payment of Development Charges and other Charges based on the proposed Plans/ Drawing submitted, shall be given by the concerned Engineer of the authority within 10 days. After the receipt of payment, the Authority shall issue Commencement Certificate within 10 days from receipt of such plans without any scrutiny, solely based on the certificate of the licensed personal.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed personal stating that the proposal is strictly in accordance with the provisions of UDCPR. No more details shall be necessary.",
+        ""
+      ],
+      "values": [
+        "",
+        "10",
+        "Issue of Commencement Certificate/ Approval.",
+        "The receipt of application along with the required documents and fees / charges mentioned in 9 above, by the authority shall be treated as permission for development.",
+        "After receipt of the application, the Demand Note regarding payment of Development Charges and other Charges based on the proposed Plans/ Drawing submitted, shall be given by the concerned Engineer of the authority within 10 days. After the receipt of payment, the Authority shall issue Commencement Certificate within 10 days from receipt of such plans without any scrutiny, solely based on the certificate of the licensed personal."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_183",
+    "text_snippet": ": 10 | : Issue of Commencement Certificate/ Approval. | owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed "
+  },
+  "created_at": "2025-11-19T00:14:31.478099",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.309129",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

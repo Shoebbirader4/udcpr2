@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1760",
+  "title": "In case of dispute the matter shall be referred to the Monitoring Committee and the decision of the committee shall be binding on all parties",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1760",
+  "clause_text": "In case of dispute the matter shall be referred to the Monitoring Committee and the decision of the committee shall be binding on all parties.",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of dispute the matter shall be referred to the Monitoring Committee and the decision of the committee shall be binding on all parties."
+  },
+  "created_at": "2025-11-19T00:14:41.779965",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.406935",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

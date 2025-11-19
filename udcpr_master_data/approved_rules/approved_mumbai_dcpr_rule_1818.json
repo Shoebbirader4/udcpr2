@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1818",
+  "title": "Provided that the uses mentioned at (a), (g), (h) & (j) above shall be permitted in the 1st basement",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1818",
+  "clause_text": "Provided that the uses mentioned at (a), (g), (h) & (j) above shall be permitted in the 1st basementand the uses as mentioned in (f) aboveshall be permitted in lower basement only by counting in FSI subject to compliance of requirements of habitable rooms subject to following conditions:",
+  "chapter": null,
+  "section": "Mezzanine Floor:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that the uses mentioned at (a), (g), (h) & (j) above shall be permitted in the 1st basementand the uses as mentioned in (f) aboveshall be permitted in lower basement only by counting in FSI s"
+  },
+  "created_at": "2025-11-19T00:14:42.114027",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.619118",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

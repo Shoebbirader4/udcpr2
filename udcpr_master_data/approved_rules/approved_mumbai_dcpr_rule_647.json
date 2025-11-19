@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_647",
+  "title": "Areas covered by features permitted in open spaces as listed in Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 647",
+  "clause_text": "Areas covered by features permitted in open spaces as listed in Regulation No.42 except for Regulation 42(i) (b), 42(ii)(d),42(ii) (e) (ii) 42(ii) (f) (ii) Areas covered by staircase rooms, lift machine rooms above topmost storey, staircase/lift wells and passages in stilt, basement and floors exclusively used for parking and other ancillary uses as permitted in this Regulation No.31(1)",
+  "chapter": null,
+  "section": "Exemption from FSI",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Areas covered by features permitted in open spaces as listed in Regulation No.42 except for Regulation 42(i) (b), 42(ii)(d),42(ii) (e) (ii) 42(ii) (f) (ii) Areas covered by staircase rooms, lift machi"
+  },
+  "created_at": "2025-11-19T00:14:37.917579",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.309880",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

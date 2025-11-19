@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_803",
+  "title": "Auditorium / Drama Theatre - In addition to Auditorium, Drama theatre / Natyagriha, Art Gallery, Exhibition Hall, Library, small restaurant to the extent of 20 sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 803",
+  "clause_text": "Auditorium / Drama Theatre - In addition to Auditorium, Drama theatre / Natyagriha, Art Gallery, Exhibition Hall, Library, small restaurant to the extent of 20 sq.m. (forevery 4000 sq.m. reservation area) and allied uses such as guest rooms for the artists may be permitted.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Auditorium / Drama Theatre - In addition to Auditorium, Drama theatre / Natyagriha, Art Gallery, Exhibition Hall, Library, small restaurant to the extent of 20 sq.m. (forevery 4000 sq.m. reservation a"
+  },
+  "created_at": "2025-11-19T00:14:19.716637",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.568675",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

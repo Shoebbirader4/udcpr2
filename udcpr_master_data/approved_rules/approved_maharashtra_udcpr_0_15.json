@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_0_15",
+  "title": "Play ground – In play ground reservation, minimum 90% area shall be kept open for open play activities",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "0.15",
+  "clause_text": "Play ground – In play ground reservation, minimum 90% area shall be kept open for open play activities. In remaining 10% of area, covered swimming pool & allied construction, gymnasium, covered badminton court, pavilion, (with or without shops, offices beneath), watchman‘s quarter, small restaurant or food stalls to the extent of 20 sq.m. (for every 4000 sq.m. reservation area) may be permitted. The maximum FSI permissible shall be 0.15.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Play ground – In play ground reservation, minimum 90% area shall be kept open for open play activities. In remaining 10% of area, covered swimming pool & allied construction, gymnasium, covered badmin"
+  },
+  "created_at": "2025-11-19T00:14:19.715641",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.556428",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

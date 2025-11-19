@@ -1,0 +1,39 @@
+{
+  "rule_id": "udcpr_accessibility_001",
+  "title": "Accessibility Requirements",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "9.3.1",
+  "clause_text": "All buildings shall provide ramps with maximum 1:12 slope, accessible toilets, and lifts for buildings above ground+3 floors.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "floors",
+          "op": ">",
+          "value": 4
+        }
+      ],
+      "outputs": [
+        {
+          "field": "lift_required",
+          "value": true,
+          "units": "boolean"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 178,
+    "text_snippet": "Accessibility provisions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.941143",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

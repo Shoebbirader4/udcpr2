@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2235",
+  "title": "Top 10% of the pits/ trenches will be empty and a splash is to be provided in this portion in such a way that roof top water falls on the splash pad",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2235",
+  "clause_text": "Top 10% of the pits/ trenches will be empty and a splash is to be provided in this portion in such a way that roof top water falls on the splash pad.",
+  "chapter": null,
+  "section": "Rain Water Harvesting(RWH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Top 10% of the pits/ trenches will be empty and a splash is to be provided in this portion in such a way that roof top water falls on the splash pad."
+  },
+  "created_at": "2025-11-19T00:14:44.428326",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.622769",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

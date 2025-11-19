@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_805",
+  "title": "Hospital / Maternity Home, etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 805",
+  "clause_text": "Hospital / Maternity Home, etc. - Respective uses with their lower / ancillary uses and any sort of medical facilities along with ancillary construction such as staff quarters, chemist shop, restaurant, ATM, PCO, cyber café of not more than 20 sq.m., etc. and sleeping accommodation for guests in case of bigger hospitals of built up area not less than 2000 sq.m. may be permitted.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Hospital / Maternity Home, etc. - Respective uses with their lower / ancillary uses and any sort of medical facilities along with ancillary construction such as staff quarters, chemist shop, restauran"
+  },
+  "created_at": "2025-11-19T00:14:19.716637",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.571327",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

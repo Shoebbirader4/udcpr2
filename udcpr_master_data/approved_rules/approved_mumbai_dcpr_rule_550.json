@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_550",
+  "title": "when more than one building (except for building accessory to the main building) is proposed on any",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 550",
+  "clause_text": "when more than one building (except for building accessory to the main building) is proposed on any land;",
+  "chapter": null,
+  "section": "Circumstances warranting preparation of a layout or sub- division/amalgamation: A layout or subdivision/amalgamation shall be submitted for the following:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "when more than one building (except for building accessory to the main building) is proposed on any land;"
+  },
+  "created_at": "2025-11-19T00:14:37.544197",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.000825",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

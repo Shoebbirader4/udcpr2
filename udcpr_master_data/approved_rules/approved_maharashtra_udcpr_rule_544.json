@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_544",
+  "title": "The built up area of the EWS / LIG tenements constructed under the Scheme shall not be counted towards FSI and such built-up area of EWS / LIG tenements (20%) shall be over and above the permissible FSI / TDR as per UDCPR",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 544",
+  "clause_text": "The built up area of the EWS / LIG tenements constructed under the Scheme shall not be counted towards FSI and such built-up area of EWS / LIG tenements (20%) shall be over and above the permissible FSI / TDR as per UDCPR.",
+  "chapter": null,
+  "section": "For Group Housing Scheme :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The built up area of the EWS / LIG tenements constructed under the Scheme shall not be counted towards FSI and such built-up area of EWS / LIG tenements (20%) shall be over and above the permissible F"
+  },
+  "created_at": "2025-11-19T00:14:18.739327",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.944650",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

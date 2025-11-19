@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2146",
+  "title": "It shall be provided with wall type sprinklers at every floor level",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2146",
+  "clause_text": "It shall be provided with wall type sprinklers at every floor level. Note: Fire Escape balcony shall be counted in FSI.",
+  "chapter": null,
+  "section": "Fire Escape Balcony:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "It shall be provided with wall type sprinklers at every floor level. Note: Fire Escape balcony shall be counted in FSI."
+  },
+  "created_at": "2025-11-19T00:14:44.044195",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.440157",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

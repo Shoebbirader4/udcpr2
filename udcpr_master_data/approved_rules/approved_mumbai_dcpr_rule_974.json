@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_974",
+  "title": "The Owner would also be compensated for all infrastructure developed by him that is not attributable to infrastructure pertaining to Owner’s share of land and construction of the AH tenements & OA as described below",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 974",
+  "clause_text": "The Owner would also be compensated for all infrastructure developed by him that is not attributable to infrastructure pertaining to Owner’s share of land and construction of the AH tenements & OA as described below.",
+  "chapter": null,
+  "section": "Permissible FSI",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Owner would also be compensated for all infrastructure developed by him that is not attributable to infrastructure pertaining to Owner’s share of land and construction of the AH tenements & OA as "
+  },
+  "created_at": "2025-11-19T00:14:39.115021",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.304164",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

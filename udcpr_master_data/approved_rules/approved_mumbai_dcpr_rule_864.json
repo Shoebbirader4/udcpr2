@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_864",
+  "title": "A corpus fund, as may be decided by MHADA, shall be created by the Developer which shall remain with the Co- operative Housing Societies for the maintenance of the new buildings under the Rehabilitation Component",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 864",
+  "clause_text": "A corpus fund, as may be decided by MHADA, shall be created by the Developer which shall remain with the Co- operative Housing Societies for the maintenance of the new buildings under the Rehabilitation Component. 9 ) Convenience Shopping shall be permitted along layout roads with 9mto 18m width.",
+  "chapter": null,
+  "section": "33(5)Development/Redevelopment of Housing Schemes of Maharashtra Housing & Area Development Authority (MHADA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A corpus fund, as may be decided by MHADA, shall be created by the Developer which shall remain with the Co- operative Housing Societies for the maintenance of the new buildings under the Rehabilitati"
+  },
+  "created_at": "2025-11-19T00:14:38.747063",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.947041",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

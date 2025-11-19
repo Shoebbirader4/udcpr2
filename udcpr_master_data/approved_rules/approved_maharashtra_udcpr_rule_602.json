@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_602",
+  "title": "The following uses and accessory uses to the principal use shall be permitted in buildings or premis",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 602",
+  "clause_text": "The following uses and accessory uses to the principal use shall be permitted in buildings or premises in purely Residential Zone, subject to other regulations:- Hostels for students / working men/ women, lodging with or without boarding facilities. Old age home, sanatorium, orphanage, night shelter dormitories.",
+  "chapter": null,
+  "section": "4.3 RESIDENTIAL ZONE - R-1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The following uses and accessory uses to the principal use shall be permitted in buildings or premises in purely Residential Zone, subject to other regulations:-"
+  },
+  "created_at": "2025-11-19T00:14:18.995340",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.134227",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

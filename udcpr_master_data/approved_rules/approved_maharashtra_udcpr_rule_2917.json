@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2917",
+  "title": "After approval of detailed plans of URC(s) as aforesaid, the Commissioner shall proceed to select an Implementation Agency for executing URS in the manner described herein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2917",
+  "clause_text": "After approval of detailed plans of URC(s) as aforesaid, the Commissioner shall proceed to select an Implementation Agency for executing URS in the manner described herein. Proposal to finalise Implementation Agency shall be put to HPC which will forward the same with the recommendations to the State Government for final approval.",
+  "chapter": null,
+  "section": "Preparation and Approval of URS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After approval of detailed plans of URC(s) as aforesaid, the Commissioner shall proceed to select an Implementation Agency for executing URS in the manner described herein. Proposal to finalise Implem"
+  },
+  "created_at": "2025-11-19T00:14:25.730698",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.132572",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

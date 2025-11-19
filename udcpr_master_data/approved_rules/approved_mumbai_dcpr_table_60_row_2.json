@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_60_row_2",
+  "title": "Table 60 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-60.2",
+  "clause_text": "Plot Area: 4000 sq. m or more | Minimum Road Width: 18m | Maximum permissible FSI: 4.00",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Plot Area",
+        "Minimum Road Width",
+        "Maximum permissible FSI"
+      ],
+      "values": [
+        "4000 sq. m or more",
+        "18m",
+        "4.00"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_60",
+    "text_snippet": "Plot Area: 4000 sq. m or more | Minimum Road Width: 18m | Maximum permissible FSI: 4.00"
+  },
+  "created_at": "2025-11-19T00:14:48.428978",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.613072",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

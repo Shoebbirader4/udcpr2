@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2404",
+  "title": "All the buildings having glass façade shall comply with fire safety requirements as per Model Buildi",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2404",
+  "clause_text": "All the buildings having glass façade shall comply with fire safety requirements as per Model Building Bye Laws/NBC",
+  "chapter": null,
+  "section": "Glass Façade",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All the buildings having glass façade shall comply with fire safety requirements as per Model Building Bye Laws/NBC"
+  },
+  "created_at": "2025-11-19T00:14:45.475588",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.028566",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

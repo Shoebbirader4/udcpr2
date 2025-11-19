@@ -1,0 +1,48 @@
+{
+  "rule_id": "mumbai_dcpr_table_54_row_8",
+  "title": "Table 54 - Row 8",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-54.8",
+  "clause_text": "Areas: i | Areas: The area earmarked for BARC from M Ward | Zone: Resid ential /Com | Zonal (Basic ): 0.75 | Adm issib le TDR: - | Permi ssibl e FSI (4+5 +6): 0.75",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Areas",
+        "Areas",
+        "Zone",
+        "Road width",
+        "Zonal (Basic )",
+        "Additio nal FSI on payme nt of Premiu m",
+        "Adm issib le TDR",
+        "Permi ssibl e FSI (4+5 +6)"
+      ],
+      "values": [
+        "",
+        "i",
+        "The area earmarked for BARC from M Ward",
+        "Resid ential /Com",
+        "",
+        "0.75",
+        "",
+        "-",
+        "0.75"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_54",
+    "text_snippet": "Areas: i | Areas: The area earmarked for BARC from M Ward | Zone: Resid ential /Com | Zonal (Basic ): 0.75 | Adm issib le TDR: - | Permi ssibl e FSI (4+5 +6): 0.75"
+  },
+  "created_at": "2025-11-19T00:14:48.373887",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.578990",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

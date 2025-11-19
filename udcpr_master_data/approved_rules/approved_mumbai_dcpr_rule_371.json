@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_371",
+  "title": "“Provided that there shall be no obligation to construct IH tenements in the redevelopment project of any Co-operative Housing Society/federation of societies/association/condominium/apartment owner’s association in which the carpet area of all existing individual residential tenements does not exceed 80 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 371",
+  "clause_text": "“Provided that there shall be no obligation to construct IH tenements in the redevelopment project of any Co-operative Housing Society/federation of societies/association/condominium/apartment owner’s association in which the carpet area of all existing individual residential tenements does not exceed 80 sq. m.",
+  "chapter": null,
+  "section": "Inclusive Housing (IH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Provided that there shall be no obligation to construct IH tenements in the redevelopment project of any Co-operative Housing Society/federation of societies/association/condominium/apartment owner’s"
+  },
+  "created_at": "2025-11-19T00:14:36.634346",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.453384",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

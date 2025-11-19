@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1719",
+  "title": "Identification of dangerous / dilapidated buildings shall be done by a Committee under the Chairmanship of the Municipal Commissioner, N",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1719",
+  "clause_text": "Identification of dangerous / dilapidated buildings shall be done by a Committee under the Chairmanship of the Municipal Commissioner, N.M.M.C., comprising Superintendent Engineer, Public Works Department, Thane; Joint Director, Town Planning, Konkan Division; City Engineer, N.M.M.C.; Chief Engineer, CIDCO; Chief Planner, CIDCO and such other members as may be appointed by the Municipal Commissioner, N.M.M.C., having regard to their academic qualifications, technical competence and previous experience in the field of Structural Engineering.",
+  "chapter": null,
+  "section": "Regulation for Reconstruction / Redevelopment :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Identification of dangerous / dilapidated buildings shall be done by a Committee under the Chairmanship of the Municipal Commissioner, N.M.M.C., comprising Superintendent Engineer, Public Works Depart"
+  },
+  "created_at": "2025-11-19T00:14:22.759927",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.901214",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

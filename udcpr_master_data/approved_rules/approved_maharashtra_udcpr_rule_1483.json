@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1483",
+  "title": "Care shall be taken to ensure that no wall opening or window opens on to or close to an external stairs",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1483",
+  "clause_text": "Care shall be taken to ensure that no wall opening or window opens on to or close to an external stairs. The route to the external stairs shall be free of obstructions at all times.",
+  "chapter": null,
+  "section": "Fire escape or external stairs",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Care shall be taken to ensure that no wall opening or window opens on to or close to an external stairs."
+  },
+  "created_at": "2025-11-19T00:14:22.020698",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.345027",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

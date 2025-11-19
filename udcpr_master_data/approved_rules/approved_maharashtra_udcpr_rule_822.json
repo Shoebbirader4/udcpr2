@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_822",
+  "title": "x) Other reservations - Other reservations may be developed for the respective purposes along with compatible, ancillary uses",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 822",
+  "clause_text": "x) Other reservations - Other reservations may be developed for the respective purposes along with compatible, ancillary uses.",
+  "chapter": null,
+  "section": "Composite development of Bus Terminal / Bus Depot / Truck Terminal for cities having population of 5 lacs and above –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "x) Other reservations - Other reservations may be developed for the respective purposes along with compatible, ancillary uses."
+  },
+  "created_at": "2025-11-19T00:14:19.767653",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.606105",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

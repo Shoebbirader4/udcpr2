@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_316",
+  "title": "Art & Culture, Temporary Vending Zone/Bajar-hat/Athawadi Bazar/Equal Street: The Municipal Commissioner shall identify and provide space for Art & Culture, Recreational/Play area/Temporary Vending Zone or Bazar-hat/Athawadi Bazar/Equal Street, on street/road, on weekend/holidays etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 316",
+  "clause_text": "Art & Culture, Temporary Vending Zone/Bajar-hat/Athawadi Bazar/Equal Street: The Municipal Commissioner shall identify and provide space for Art & Culture, Recreational/Play area/Temporary Vending Zone or Bazar-hat/Athawadi Bazar/Equal Street, on street/road, on weekend/holidays etc. On such days, as specified by the Municipal Commissioner, such streets/roads or stretch of streets/roads, can be used as recreational/play area & space for activity as stated herein above. The Municipal Commissioner shall also identify public spaces, including roads for night bazar to be conducted. The powers of identification of such spaces shall not be delegated.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Art & Culture, Temporary Vending Zone/Bajar-hat/Athawadi Bazar/Equal Street: The Municipal Commissioner shall identify and provide space for Art & Culture, Recreational/Play area/Temporary Vending Zon"
+  },
+  "created_at": "2025-11-19T00:14:36.418820",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.325826",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

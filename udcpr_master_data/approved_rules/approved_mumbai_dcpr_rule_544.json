@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_544",
+  "title": "Notwithstanding the above, in partially built-up plots where the area still to be built upon does not exceed 5,000 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 544",
+  "clause_text": "Notwithstanding the above, in partially built-up plots where the area still to be built upon does not exceed 5,000 sq. m an access of 3.6m width may be considered adequate. If such an access is through a built over arch, this access shall have a height of not less than 4.5m.",
+  "chapter": null,
+  "section": "Access in Partially Built up Plots:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notwithstanding the above, in partially built-up plots where the area still to be built upon does not exceed 5,000 sq. m an access of 3.6m width may be considered adequate. If such an access is throug"
+  },
+  "created_at": "2025-11-19T00:14:37.512053",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.985269",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

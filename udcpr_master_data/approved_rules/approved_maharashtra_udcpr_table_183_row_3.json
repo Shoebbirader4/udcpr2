@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_183_row_3",
+  "title": "Table 183 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-183.3",
+  "clause_text": ": 12 | : Occupation Certificate. | owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed personal stating that the proposal is strictly in accordance with the provisions of UDCPR. No more details shall be necessary.: After completion of the work, the owner shall intimate to the Authority about the occupation of the building. | : Licensed personal shall submit the completion certificate in Appendix - H to the Authority. The licensed personal shall not issue the completion certificate unless the construction is completed strictly as per plan. The Authority shall issue the occupation certificate within 10 days after site inspection.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed personal stating that the proposal is strictly in accordance with the provisions of UDCPR. No more details shall be necessary.",
+        ""
+      ],
+      "values": [
+        "",
+        "12",
+        "Occupation Certificate.",
+        "After completion of the work, the owner shall intimate to the Authority about the occupation of the building.",
+        "Licensed personal shall submit the completion certificate in Appendix - H to the Authority. The licensed personal shall not issue the completion certificate unless the construction is completed strictly as per plan. The Authority shall issue the occupation certificate within 10 days after site inspection."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_183",
+    "text_snippet": ": 12 | : Occupation Certificate. | owner and licensed personal. Copy of receipt of development charges including labour cess paid to Authority, if any The certificate of licensed personal stating that"
+  },
+  "created_at": "2025-11-19T00:14:31.486993",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.312063",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

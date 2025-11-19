@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_346",
+  "title": "The owner / developer shall deposit post-dated cheques for instalment amount with an interest due drawn on scheduled bank, as per the scheduled date of payment",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 346",
+  "clause_text": "The owner / developer shall deposit post-dated cheques for instalment amount with an interest due drawn on scheduled bank, as per the scheduled date of payment. Occupation Certificate shall be granted in proportion to the payments made.",
+  "chapter": null,
+  "section": "Option - 2",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner / developer shall deposit post-dated cheques for instalment amount with an interest due drawn on scheduled bank, as per the scheduled date of payment."
+  },
+  "created_at": "2025-11-19T00:14:18.068859",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.466062",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

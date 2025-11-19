@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_3_75",
+  "title": "In addition to the parking spaces provided for building of Mercantile (Commercial) like office, market, departmental store, shopping mall and building of industrial and storage, loading and unloading spaces shall be provided at the rate of one space for each 1000 sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "3.75",
+  "clause_text": "In addition to the parking spaces provided for building of Mercantile (Commercial) like office, market, departmental store, shopping mall and building of industrial and storage, loading and unloading spaces shall be provided at the rate of one space for each 1000 sq.m. of floor carpet area or fraction thereof exceeding the first 200 sq.m. of floor area, shall be provided. The space shall not be less than 3.75 m. x 7.5 m. (1) subject to maximum requirement of 4 such parking spaces for office buildings and 6 parking spaces for other buildings. However, in case of office building, such parking spaces shall not exceed more than 4. Parking lock up garages shall be included in the calculation for F.S.I. calculations.",
+  "chapter": null,
+  "section": "Other Parking Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In addition to the parking spaces provided for building of Mercantile (Commercial) like office, market, departmental store, shopping mall and building of industrial and storage, loading and unloading "
+  },
+  "created_at": "2025-11-19T00:14:21.283841",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.969221",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

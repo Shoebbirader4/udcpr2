@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_203",
+  "title": "In case of such plots or layouts that started with due permission before DCPR 2034 have come into force, and if the owner /developer, at his option, thereafter seeks further development of plot/layout/buildings as per DCPR 2034, then the provision of DCPR 2034 shall apply to the balance development",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 203",
+  "clause_text": "In case of such plots or layouts that started with due permission before DCPR 2034 have come into force, and if the owner /developer, at his option, thereafter seeks further development of plot/layout/buildings as per DCPR 2034, then the provision of DCPR 2034 shall apply to the balance development. The development potential of such entire plot shall be computed as per DCPR 2034 from which the sanctioned FSI of buildings/part of buildings which are proposed to be retained as per approved plan, as per then Regulations, shall be deducted to arrive at the balance development potential of such plot or layout.",
+  "chapter": null,
+  "section": "Applicability to partially completed works:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of such plots or layouts that started with due permission before DCPR 2034 have come into force, and if the owner /developer, at his option, thereafter seeks further development of plot/layout"
+  },
+  "created_at": "2025-11-19T00:14:35.621652",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.065115",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

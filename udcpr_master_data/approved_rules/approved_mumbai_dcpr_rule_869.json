@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_869",
+  "title": "Corpus fund: An amount of Rs",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 869",
+  "clause_text": "Corpus fund: An amount of Rs.40000 or as may be decided by SRA as per Regulation No 33(10) shall be deposited with MHADA Authority for each eligible slum dwellers. Reconstruction of buildings that existed on or after 10th June",
+  "chapter": null,
+  "section": "33(5)Development/Redevelopment of Housing Schemes of Maharashtra Housing & Area Development Authority (MHADA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Corpus fund: An amount of Rs.40000 or as may be decided by SRA as per Regulation No 33(10) shall be deposited with MHADA Authority for each eligible slum dwellers."
+  },
+  "created_at": "2025-11-19T00:14:38.764817",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.959770",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

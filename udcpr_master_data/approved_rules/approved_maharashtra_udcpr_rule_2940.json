@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2940",
+  "title": "conditions and processes mentioned in this Regulation, appoint such applicant as implementation agency at the Base Premium",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2940",
+  "clause_text": "conditions and processes mentioned in this Regulation, appoint such applicant as implementation agency at the Base Premium.(1)The Authority shall decide base premium with the approval of High Power Committee (HPC).",
+  "chapter": null,
+  "section": "URS by Private Promoters / MHADA / Co-operative Housing Societies –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "conditions and processes mentioned in this Regulation, appoint such applicant as implementation agency at the Base Premium.(1)The Authority shall decide base premium with the approval of High Power Co"
+  },
+  "created_at": "2025-11-19T00:14:25.843727",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.218754",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

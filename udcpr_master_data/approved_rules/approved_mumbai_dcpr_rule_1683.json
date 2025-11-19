@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1683",
+  "title": "Construction of buildings for IT/ITES shall be permitted to the extent of 20% on 10% of the total plot area and shall be located such that, as much of remaining open space is available in a contiguous manner and on remaining 90% of plot area, trees shall be planted at the rate of at least 500 trees per ha",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1683",
+  "clause_text": "Construction of buildings for IT/ITES shall be permitted to the extent of 20% on 10% of the total plot area and shall be located such that, as much of remaining open space is available in a contiguous manner and on remaining 90% of plot area, trees shall be planted at the rate of at least 500 trees per ha. The permission from the Director of Industries to set up IT/ITES Parks/Units shall be necessary.",
+  "chapter": null,
+  "section": "Information Technology & Information Technology Enabled Services (IT/ITES) & Biotech units",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Construction of buildings for IT/ITES shall be permitted to the extent of 20% on 10% of the total plot area and shall be located such that, as much of remaining open space is available in a contiguous"
+  },
+  "created_at": "2025-11-19T00:14:41.473152",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.114488",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

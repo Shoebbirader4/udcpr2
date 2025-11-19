@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2375",
+  "title": "The said Regulations shall be applicable to the area under jurisdiction of SRA, Pune i",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2375",
+  "clause_text": "The said Regulations shall be applicable to the area under jurisdiction of SRA, Pune i.e. the entire area of Pune Municipal Corporation (P.M.C.), Pimpri-Chinchwad Municipal Corporation (P.C.M.C.) and P.M.R.D.A. (restricted to earlier P.C.N.T.D.A. Area) and",
+  "chapter": null,
+  "section": "SHORT TITLE, COMMENCEMENT AND EXTENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The said Regulations shall be applicable to the area under jurisdiction of SRA, Pune i.e. the entire area of Pune Municipal Corporation (P.M.C.), Pimpri-Chinchwad Municipal Corporation (P.C.M.C.) and "
+  },
+  "created_at": "2025-11-19T00:14:24.398438",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.739325",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

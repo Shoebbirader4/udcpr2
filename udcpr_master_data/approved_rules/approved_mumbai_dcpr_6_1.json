@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_6_1",
+  "title": "6",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "6.1",
+  "clause_text": "6.1 to 6.17 of Regulation No. 33(10) (A).",
+  "chapter": null,
+  "section": "Applicability of the provisions:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "6.1 to 6.17 of Regulation No. 33(10) (A)."
+  },
+  "created_at": "2025-11-19T00:14:39.649382",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.661131",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2593",
+  "title": "The ordinal number of each floor shall be conspicuously displayed in figures of the size of at least 15 cm",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2593",
+  "clause_text": "The ordinal number of each floor shall be conspicuously displayed in figures of the size of at least 15 cm. on the wall facing the flights of a stairway or at such suitable place as is distinctly visible from the flights.",
+  "chapter": null,
+  "section": "BUILDING CONTROL REGULATIONS FOR S.R.S.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The ordinal number of each floor shall be conspicuously displayed in figures of the size of at least 15 cm. on the wall facing the flights of a stairway or at such suitable place as is distinctly visi"
+  },
+  "created_at": "2025-11-19T00:14:24.890395",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.337962",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

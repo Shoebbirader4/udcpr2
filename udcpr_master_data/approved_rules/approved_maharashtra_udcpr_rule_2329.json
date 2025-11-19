@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2329",
+  "title": "A building or groups of buildings and / or areas of a distinct architectural design and / or style, historic period or way of life having sociological interest and / or community value",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2329",
+  "clause_text": "A building or groups of buildings and / or areas of a distinct architectural design and / or style, historic period or way of life having sociological interest and / or community value.",
+  "chapter": null,
+  "section": "Preparation of List of Heritage Buildings, Heritage Precincts and Natural Features",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A building or groups of buildings and / or areas of a distinct architectural design and / or style, historic period or way of life having sociological interest and / or community value."
+  },
+  "created_at": "2025-11-19T00:14:24.279970",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.635623",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

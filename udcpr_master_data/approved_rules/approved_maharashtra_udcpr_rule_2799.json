@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2799",
+  "title": "In case of land reserved for Municipal School, Primary and secondary school in the D",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2799",
+  "clause_text": "In case of land reserved for Municipal School, Primary and secondary school in the D.P., a building for accommodating such number of students as may be decided by the Municipal Commissioner, nor in any case for less than 500 students, shall be constructed by the owner or developer at his cost according to the size, design, specification and conditions prescribed by the Municipal Commissioner. The built-up area occupied by the constructed building shall be excluded for the purpose of FSI computation, and where it is intended for a Municipal School, the building or part thereof intended for the school use shall be handed over free of cost and charge to the Corporation. Thereafter, the land may be allowed to be redeveloped with the full permissible FSI of the plot according to this Regulation.",
+  "chapter": null,
+  "section": "Slums and Development Plan Reservations :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of land reserved for Municipal School, Primary and secondary school in the D.P., a building for accommodating such number of students as may be decided by the Municipal Commissioner, nor in an"
+  },
+  "created_at": "2025-11-19T00:14:25.390724",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.875337",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

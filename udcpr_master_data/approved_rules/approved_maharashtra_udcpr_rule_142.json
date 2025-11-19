@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_142",
+  "title": "Ledge or Tand - means a shelf like projection, supported in any manner whatsoever, except by vertical supports within a room",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 142",
+  "clause_text": "Ledge or Tand - means a shelf like projection, supported in any manner whatsoever, except by vertical supports within a room.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Ledge or Tand - means a shelf like projection, supported in any manner whatsoever, except by vertical supports within a room."
+  },
+  "created_at": "2025-11-19T00:14:17.321323",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.873730",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

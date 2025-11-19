@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_93",
+  "title": "\"Floor space index (FSI)\" means the quotient of the ratio of the combined gross floor area of all floors, excepting areas specifically exempted under these Regulations, to the area of the plot, viz",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 93",
+  "clause_text": "\"Floor space index (FSI)\" means the quotient of the ratio of the combined gross floor area of all floors, excepting areas specifically exempted under these Regulations, to the area of the plot, viz.:",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Floor space index (FSI)\" means the quotient of the ratio of the combined gross floor area of all floors, excepting areas specifically exempted under these Regulations, to the area of the plot, viz.:"
+  },
+  "created_at": "2025-11-19T00:14:34.880328",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.797269",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

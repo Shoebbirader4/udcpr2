@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_140",
+  "title": "family residing on the premises without employing hired labour, and for which there is no display to indicate from the exterior of the building that it is being utilised in whole or in part for any purpose other than a residential or dwelling use, and in connection with which no article or service is sold or exhibited for sale except that which is produced therein, which shall be non-hazardous and not affecting the safety of the inhabitants of the building and the neighbourhood, and provided that no mechanical equipment is used except that as is customarily used for purely domestic or household purposes and / or employing licensable goods",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 140",
+  "clause_text": "family residing on the premises without employing hired labour, and for which there is no display to indicate from the exterior of the building that it is being utilised in whole or in part for any purpose other than a residential or dwelling use, and in connection with which no article or service is sold or exhibited for sale except that which is produced therein, which shall be non-hazardous and not affecting the safety of the inhabitants of the building and the neighbourhood, and provided that no mechanical equipment is used except that as is customarily used for purely domestic or household purposes and / or employing licensable goods. Home Occupation may also include such similar occupations as may be specified by the Authority.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "family residing on the premises without employing hired labour, and for which there is no display to indicate from the exterior of the building that it is being utilised in whole or in part for any pu"
+  },
+  "created_at": "2025-11-19T00:14:17.318171",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.867852",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

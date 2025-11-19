@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1272",
+  "title": "Tree plantation shall be done at the rate of 500 Trees / Ha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1272",
+  "clause_text": "Tree plantation shall be done at the rate of 500 Trees / Ha. on the remaining land excluding the built up area and the surrounding open space / utility space.",
+  "chapter": null,
+  "section": "Biotechnology Units / Park to be allowed in No Development Zone earmarked in the Development / Regional Plan.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Tree plantation shall be done at the rate of 500 Trees / Ha. on the remaining land excluding the built up area and the surrounding open space / utility space."
+  },
+  "created_at": "2025-11-19T00:14:21.130946",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.835067",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

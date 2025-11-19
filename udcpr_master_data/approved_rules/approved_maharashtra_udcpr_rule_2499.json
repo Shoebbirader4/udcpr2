@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2499",
+  "title": "The unwilling eligible hutment dwellers shall not be held entitled either for allotment of transit tenement or the allotment of rehabilitation tenements by draw of lots",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2499",
+  "clause_text": "The unwilling eligible hutment dwellers shall not be held entitled either for allotment of transit tenement or the allotment of rehabilitation tenements by draw of lots. They shall only be entitled for what is available after others have exercised their choices through lottery, which may be or may not be on the same site.",
+  "chapter": null,
+  "section": "In respect of those eligible hutment-dwellers who are not willing to join the S.R.S., the following steps shall be taken :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The unwilling eligible hutment dwellers shall not be held entitled either for allotment of transit tenement or the allotment of rehabilitation tenements by draw of lots. They shall only be entitled fo"
+  },
+  "created_at": "2025-11-19T00:14:24.728187",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.992948",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

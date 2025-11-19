@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_2_2_2",
+  "title": "2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "2.2.2",
+  "clause_text": "2. Such notice shall be accompanied by the payment receipt of required scrutiny fee and any other fee / charges prescribed by the Authority from time to time and the plans and statements in sufficient copies (See Regulation No.2.2.2), and as per the requirements under Regulation No.2.2.2 to 2.2.19. One set of plans shall be retained in the office of the Authority for record after the issue of permission or refusal. The plans may be submitted in electronic form as may be specified by the Authority from time to time. The Authority may set a date after which all submissions, approvals and communication in regard to development permission shall be online.",
+  "chapter": null,
+  "section": "Notice / Application",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "2. Such notice shall be accompanied by the payment receipt of required scrutiny fee and any other fee / charges prescribed by the Authority from time to time and the plans and statements in sufficient"
+  },
+  "created_at": "2025-11-19T00:14:17.840567",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.270139",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

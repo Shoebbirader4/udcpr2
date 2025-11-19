@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2498",
+  "title": "The details of the actual tenements to be allotted by lottery system and the transit tenements to be allotted or the compensation in lieu of transit accommodation to such unwilling hutment dwellers shall be communicated to them by the Developer, in writing, so as to show the benefit on the same basis as for those who have joined the scheme to gain their willing participation in the scheme",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2498",
+  "clause_text": "The details of the actual tenements to be allotted by lottery system and the transit tenements to be allotted or the compensation in lieu of transit accommodation to such unwilling hutment dwellers shall be communicated to them by the Developer, in writing, so as to show the benefit on the same basis as for those who have joined the scheme to gain their willing participation in the scheme. However, in case of any dispute regarding the same, decision of the C.E.O., S.R.A. shall be final and binding on all the parties concerned. The Developer shall ensure that no obstruction is caused to the Scheme of the majority of hutment-dwellers who have participated willingly.",
+  "chapter": null,
+  "section": "In respect of those eligible hutment-dwellers who are not willing to join the S.R.S., the following steps shall be taken :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The details of the actual tenements to be allotted by lottery system and the transit tenements to be allotted or the compensation in lieu of transit accommodation to such unwilling hutment dwellers sh"
+  },
+  "created_at": "2025-11-19T00:14:24.728187",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.990294",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

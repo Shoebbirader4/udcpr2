@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_126_row_15",
+  "title": "Table 126 - Row 15",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-126.15",
+  "clause_text": "Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants"
+      ],
+      "values": [
+        "NOTE : Male population may be assumed as two-third and female population as one-third.",
+        "NOTE : Male population may be assumed as two-third and female population as one-third.",
+        "NOTE : Male population may be assumed as two-third and female population as one-third.",
+        "NOTE : Male population may be assumed as two-third and female population as one-third.",
+        "NOTE : Male population may be assumed as two-third and female population as one-third.",
+        "NOTE : Male population may be assumed as two-third and female population as one-third."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_126",
+    "text_snippet": "Table No.12-L Sanitation Requirements – Restaurants: NOTE : Male population may be assumed as two-third and female population as one-third. | Table No.12-L Sanitation Requirements – Restaurants: NOTE "
+  },
+  "created_at": "2025-11-19T00:14:30.873096",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.979310",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

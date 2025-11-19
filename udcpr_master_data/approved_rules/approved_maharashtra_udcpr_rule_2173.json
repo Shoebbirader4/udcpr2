@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2173",
+  "title": "Exemption in payment of Development Charges :- 50% of the amount of Development Charges under sub-section (3) of Section 124-F of the said Act shall be exempted for institution use or, change of use of any land or building or, development of any land or building, proposed for project undertaken by a Project Proponent/s under this Regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2173",
+  "clause_text": "Exemption in payment of Development Charges :- 50% of the amount of Development Charges under sub-section (3) of Section 124-F of the said Act shall be exempted for institution use or, change of use of any land or building or, development of any land or building, proposed for project undertaken by a Project Proponent/s under this Regulation.",
+  "chapter": null,
+  "section": "Special Concessions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Exemption in payment of Development Charges :- 50% of the amount of Development Charges under sub-section (3) of Section 124-F of the said Act shall be exempted for institution use or, change of use o"
+  },
+  "created_at": "2025-11-19T00:14:23.921673",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.141576",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1731",
+  "title": "Authority and subject to compliance of conditions as mentioned in the notifications issued by the Ministry of Environment and Forest, if any, as amended from time to time",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1731",
+  "clause_text": "Authority and subject to compliance of conditions as mentioned in the notifications issued by the Ministry of Environment and Forest, if any, as amended from time to time.",
+  "chapter": null,
+  "section": "Green Zone (GZ)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Authority and subject to compliance of conditions as mentioned in the notifications issued by the Ministry of Environment and Forest, if any, as amended from time to time."
+  },
+  "created_at": "2025-11-19T00:14:41.698286",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.276901",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

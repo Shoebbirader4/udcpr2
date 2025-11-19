@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3043",
+  "title": "Proposed excavation plan and cross sections at 1:500 or larger scale showing proposed phasing; terracing; stepping; benching slopes; locations of process equipment; diversion of water courses; impounding lake; storage areas for top soil, waste material, quarried material; workers housing; landscaping including screen planting, mounding and measures against visual intrusion etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3043",
+  "clause_text": "Proposed excavation plan and cross sections at 1:500 or larger scale showing proposed phasing; terracing; stepping; benching slopes; locations of process equipment; diversion of water courses; impounding lake; storage areas for top soil, waste material, quarried material; workers housing; landscaping including screen planting, mounding and measures against visual intrusion etc.;",
+  "chapter": null,
+  "section": "Permissible Height",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Proposed excavation plan and cross sections at 1:500 or larger scale showing proposed phasing; terracing; stepping; benching slopes; locations of process equipment; diversion of water courses; impound"
+  },
+  "created_at": "2025-11-19T00:14:26.289768",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.420006",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

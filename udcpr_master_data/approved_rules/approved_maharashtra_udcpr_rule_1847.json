@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1847",
+  "title": "In cases where layout has already been sanctioned and layout roads are incorporated as Development Plan roads prior to these regulations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1847",
+  "clause_text": "In cases where layout has already been sanctioned and layout roads are incorporated as Development Plan roads prior to these regulations. If the compensation in the form of FSI / or by any means has already been granted to the owner.",
+  "chapter": null,
+  "section": "Cases not eligible for Transferable Development Rights (TDR)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In cases where layout has already been sanctioned and layout roads are incorporated as Development Plan roads prior to these regulations."
+  },
+  "created_at": "2025-11-19T00:14:23.031292",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.166326",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_967",
+  "title": "The development of AH & OA shall be as per specifications laid down by the Commissioner, within thre",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 967",
+  "clause_text": "The development of AH & OA shall be as per specifications laid down by the Commissioner, within three years from date of approval to the",
+  "chapter": null,
+  "section": "Planning Considerations /Submission of Proposal",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The development of AH & OA shall be as per specifications laid down by the Commissioner, within three years from date of approval to the"
+  },
+  "created_at": "2025-11-19T00:14:39.076824",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.282730",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

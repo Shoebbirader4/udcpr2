@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_891",
+  "title": "Regarding Committed Development outside previously Sanctioned Regional Plan of Kolhapur - Ichalkaran",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 891",
+  "clause_text": "Regarding Committed Development outside previously Sanctioned Regional Plan of Kolhapur - Ichalkaranji Region :- All development permissions / layout approval granted by the District Collector / Concerned Revenue Authority or any development proposal for which tentative or final approval has been recommended by the concerned Town Planning Office and is pending with the concerned Revenue Authority for demarcation or for final",
+  "chapter": null,
+  "section": "Committed Development",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Regarding Committed Development outside previously Sanctioned Regional Plan of Kolhapur - Ichalkaranji Region :- All development permissions / layout approval granted by the District Collector / Conce"
+  },
+  "created_at": "2025-11-19T00:14:19.918069",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.769847",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_125_row_6",
+  "title": "Table 125 - Row 6",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-125.6",
+  "clause_text": "Table No.12-K Sanitation Requirements - Hotels: ii) | Table No.12-K Sanitation Requirements - Hotels: Water-closets | Table No.12-K Sanitation Requirements - Hotels: 1 per 100 persons up to 400 Over 400 add at 1 per 250 or part thereof | Table No.12-K Sanitation Requirements - Hotels: 2 per 100 persons up to 200 Over 200 add at 1 per 100 or part thereof | Table No.12-K Sanitation Requirements - Hotels: for up to 15 for 16-35 for 36-65 for 66-100 | Table No.12-K Sanitation Requirements - Hotels: for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels",
+        "Table No.12-K Sanitation Requirements - Hotels"
+      ],
+      "values": [
+        "ii)",
+        "Water-closets",
+        "1 per 100 persons up to 400 Over 400 add at 1 per 250 or part thereof",
+        "2 per 100 persons up to 200 Over 200 add at 1 per 100 or part thereof",
+        "for up to 15 for 16-35 for 36-65 for 66-100",
+        "for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_125",
+    "text_snippet": "Table No.12-K Sanitation Requirements - Hotels: ii) | Table No.12-K Sanitation Requirements - Hotels: Water-closets | Table No.12-K Sanitation Requirements - Hotels: 1 per 100 persons up to 400 Over 4"
+  },
+  "created_at": "2025-11-19T00:14:30.792568",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.929431",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

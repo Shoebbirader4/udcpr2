@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1423",
+  "title": "Meter room shall be provided as per the requirement of M",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1423",
+  "clause_text": "Meter room shall be provided as per the requirement of M.S.E.D.C.L. or power supply company as per the number of tenements / units.",
+  "chapter": null,
+  "section": "9.17 CHIMNEYS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Meter room shall be provided as per the requirement of M.S.E.D.C.L. or power supply company as per the number of tenements / units."
+  },
+  "created_at": "2025-11-19T00:14:21.765185",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.192231",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

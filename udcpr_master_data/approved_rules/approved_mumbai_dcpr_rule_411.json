@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_411",
+  "title": "Where a private plot is notified by GOM or reserved in DP for infrastructure related facilities in respect of public transportation authorities (such as MRVC, MMRDA, BEST etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 411",
+  "clause_text": "Where a private plot is notified by GOM or reserved in DP for infrastructure related facilities in respect of public transportation authorities (such as MRVC, MMRDA, BEST etc.) & specialized public amenity such as National Law University, the said authority shall have the option of acquiring plot under AR where 50% of plot shall be handed over to the authority. The balance plot will be available for development for the Owner as permissible under these regulations.",
+  "chapter": null,
+  "section": "Table No: 4",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where a private plot is notified by GOM or reserved in DP for infrastructure related facilities in respect of public transportation authorities (such as MRVC, MMRDA, BEST etc.) & specialized public am"
+  },
+  "created_at": "2025-11-19T00:14:36.813338",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.587239",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

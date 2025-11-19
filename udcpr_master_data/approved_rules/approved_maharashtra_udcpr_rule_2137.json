@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2137",
+  "title": "Arranging generation of power through non-conventional energy sources like solar, wind and other sha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2137",
+  "clause_text": "Arranging generation of power through non-conventional energy sources like solar, wind and other shall be mandatorily provided with at least 10% of total requirement of common physical infrastructure of the project;",
+  "chapter": null,
+  "section": "Liability of Project Proponent/s :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Arranging generation of power through non-conventional energy sources like solar, wind and other shall be mandatorily provided with at least 10% of total requirement of common physical infrastructure "
+  },
+  "created_at": "2025-11-19T00:14:23.846821",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.001602",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

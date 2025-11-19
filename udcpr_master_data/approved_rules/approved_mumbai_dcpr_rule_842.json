@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_842",
+  "title": "For the purpose, “existing Carpet area/carpet area” means the net usable floor area within a tenement excluding that covered by the walls or any other areas specifically exempted from floor space index computation as per then/ prevailing Regulation but including the areas of balcony, if allowed free of FSI as per then Regulation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 842",
+  "clause_text": "For the purpose, “existing Carpet area/carpet area” means the net usable floor area within a tenement excluding that covered by the walls or any other areas specifically exempted from floor space index computation as per then/ prevailing Regulation but including the areas of balcony, if allowed free of FSI as per then Regulation.",
+  "chapter": null,
+  "section": "33(5)Development/Redevelopment of Housing Schemes of Maharashtra Housing & Area Development Authority (MHADA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For the purpose, “existing Carpet area/carpet area” means the net usable floor area within a tenement excluding that covered by the walls or any other areas specifically exempted from floor space inde"
+  },
+  "created_at": "2025-11-19T00:14:38.633652",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.890065",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

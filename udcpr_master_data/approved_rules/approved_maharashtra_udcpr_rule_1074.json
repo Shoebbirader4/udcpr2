@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1074",
+  "title": "Distance between two buildings :- The distance between two buildings shall be the side / rear marginal distance required for the taller building between the two adjoining buildings",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1074",
+  "clause_text": "Distance between two buildings :- The distance between two buildings shall be the side / rear marginal distance required for the taller building between the two adjoining buildings. Provided that, the pathway / internal road may be allowed to be proposed in such marginal distance.",
+  "chapter": null,
+  "section": "Marginal distances for buildings of heights more than mentioned in Table No.6-D of Regulation No.6.2.1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Distance between two buildings :- The distance between two buildings shall be the side / rear marginal distance required for the taller building between the two adjoining buildings."
+  },
+  "created_at": "2025-11-19T00:14:20.527817",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.317441",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

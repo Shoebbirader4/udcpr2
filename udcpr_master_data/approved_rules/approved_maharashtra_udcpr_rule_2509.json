@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2509",
+  "title": "Provided further that exemption of areas like staircase, lift, lobbies, machine room, passage, refuge area, (3) balcony from computation of F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2509",
+  "clause_text": "Provided further that exemption of areas like staircase, lift, lobbies, machine room, passage, refuge area, (3) balcony from computation of F.S.I. shall be restricted to (3) 60% of built-up area (i.e. carpet area of rehabilitation component including (3) (---) area under walls (3) but excluding balcony(3)) of rehabilitation component and any rehabilitation component area, claimed above this restriction, shall not be eligible for any incentive towards the free sale component area to be calculated.",
+  "chapter": null,
+  "section": "DEVELOPMENT CONTROL REGULATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that exemption of areas like staircase, lift, lobbies, machine room, passage, refuge area, (3) balcony from computation of F.S.I. shall be restricted to (3) 60% of built-up area (i.e."
+  },
+  "created_at": "2025-11-19T00:14:24.744726",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.011675",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

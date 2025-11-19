@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2364",
+  "title": "To advise on special designs and elements and guidelines for listed buildings and control of height and essential façade characteristics such as maintenance of the buildings and to suggest suitable design adopting new materials for replacements keeping the old form intact to the extent possible",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2364",
+  "clause_text": "To advise on special designs and elements and guidelines for listed buildings and control of height and essential façade characteristics such as maintenance of the buildings and to suggest suitable design adopting new materials for replacements keeping the old form intact to the extent possible.",
+  "chapter": null,
+  "section": "The Terms of reference of the Committee :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "To advise on special designs and elements and guidelines for listed buildings and control of height and essential façade characteristics such as maintenance of the buildings and to suggest suitable de"
+  },
+  "created_at": "2025-11-19T00:14:24.376657",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.718286",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_383",
+  "title": "Neither granting of the development permission nor the approval of the drawings and specifications, nor the inspections, made by the Authority during erection of the building shall, in any way relieve the Owner / Developer /Architect / Town Planner / Engineer / Structural Engineer / Supervisor or any licensed technical person, of such building / development from full responsibility for carrying out the work in accordance with the requirements of these regulations and safety norms as prescribed by the bureau of Indian Standards",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 383",
+  "clause_text": "Neither granting of the development permission nor the approval of the drawings and specifications, nor the inspections, made by the Authority during erection of the building shall, in any way relieve the Owner / Developer /Architect / Town Planner / Engineer / Structural Engineer / Supervisor or any licensed technical person, of such building / development from full responsibility for carrying out the work in accordance with the requirements of these regulations and safety norms as prescribed by the bureau of Indian Standards.",
+  "chapter": null,
+  "section": "Owner / Developer / Architect / Town Planner / Engineer / Structural Engineer / Supervisor or any licensed technical person's Responsibilities in their respective domain.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Neither granting of the development permission nor the approval of the drawings and specifications, nor the inspections, made by the Authority during erection of the building shall, in any way relieve"
+  },
+  "created_at": "2025-11-19T00:14:18.172680",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.559145",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

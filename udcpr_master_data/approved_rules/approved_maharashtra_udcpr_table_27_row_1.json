@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_27_row_1",
+  "title": "Table 27 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-27.1",
+  "clause_text": "Sr. No.: 1 | Plot Area: Plot above 2000 sq.m. | Maximum requirements: One single transformer sub-station of the size of 5.0 m. x 5.0 m. and height of not more than 5.0 m.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Plot Area",
+        "Maximum requirements"
+      ],
+      "values": [
+        "1",
+        "Plot above 2000 sq.m.",
+        "One single transformer sub-station of the size of 5.0 m. x 5.0 m. and height of not more than 5.0 m."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_27",
+    "text_snippet": "Sr. No.: 1 | Plot Area: Plot above 2000 sq.m. | Maximum requirements: One single transformer sub-station of the size of 5.0 m. x 5.0 m. and height of not more than 5.0 m."
+  },
+  "created_at": "2025-11-19T00:14:29.774718",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.469204",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

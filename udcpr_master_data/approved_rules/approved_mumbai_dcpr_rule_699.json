@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_699",
+  "title": "The premium paid for fungible FSI prior to coming into force of this Regulation particularly in case",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 699",
+  "clause_text": "The premium paid for fungible FSI prior to coming into force of this Regulation particularly in case of Commercial/Industrial development will not be adjusted for grant of additional fungible compensatory area under this regulation, and premium if any, as per this Regulation shall have to",
+  "chapter": null,
+  "section": "Fungible Compensatory Area:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The premium paid for fungible FSI prior to coming into force of this Regulation particularly in case of Commercial/Industrial development will not be adjusted for grant of additional fungible compensa"
+  },
+  "created_at": "2025-11-19T00:14:38.050175",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.417083",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

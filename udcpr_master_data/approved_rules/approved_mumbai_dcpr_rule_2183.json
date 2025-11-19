@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2183",
+  "title": "Owners of heritage buildings, structures, sites will, on application for preservation /conservation/restoration of the heritage buildings/structures/sites orif any application for development of Heritage Building/s is refused under this Regulation and conditions are imposed while permitting such development which deprive the owner/lessee of any unconsumed DRswill be entitled for grant of DRC in terms of TDR as provided in these Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2183",
+  "clause_text": "Owners of heritage buildings, structures, sites will, on application for preservation /conservation/restoration of the heritage buildings/structures/sites orif any application for development of Heritage Building/s is refused under this Regulation and conditions are imposed while permitting such development which deprive the owner/lessee of any unconsumed DRswill be entitled for grant of DRC in terms of TDR as provided in these Regulations.The extent of TDR permissible will be the difference between Zonal (basic) FSI plus area of plot and the consumed BUA of the Heritage structure. The grant of TDR shall be subject to a contract between the owner/lessee and MCGM binding the owner/lessee to conserve the heritage building in the prescribed manner as recommended by MHCC and approved by Municipal Commissioner. In such cases the potential of the plot shall be perpetually reduced to the extent of existing BUA of the Structure.The TDR may be given in two stages",
+  "chapter": null,
+  "section": "Grant of Transferable Development Rights in case of loss of Development Rights",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Owners of heritage buildings, structures, sites will, on application for preservation /conservation/restoration of the heritage buildings/structures/sites orif any application for development of Herit"
+  },
+  "created_at": "2025-11-19T00:14:44.210585",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.518882",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

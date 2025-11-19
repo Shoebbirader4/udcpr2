@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1742",
+  "title": "The existing residential premises (other than R + C premises) shall be permitted to be redeveloped for residential user only",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1742",
+  "clause_text": "The existing residential premises (other than R + C premises) shall be permitted to be redeveloped for residential user only. No change of use from Residential to Residential cum Commercial shall be permitted. However, in such premises, if area of such plot is more than 1000 sq.m. and the same is fronting on a road having width of 20 mt. and above then it shall be permissible to construct convenience shopping to the extent of 5% of the plot area and if the plot area is more than1000 sq.m. and the plot is fronting on a road having width of 30 mtrs and above then this limit for convenience shopping will be upto 10%.",
+  "chapter": null,
+  "section": "Other requirement / Criteria :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The existing residential premises (other than R + C premises) shall be permitted to be redeveloped for residential user only. No change of use from Residential to Residential cum Commercial shall be p"
+  },
+  "created_at": "2025-11-19T00:14:22.799632",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.956582",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

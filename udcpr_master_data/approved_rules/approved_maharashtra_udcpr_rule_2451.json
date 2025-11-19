@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2451",
+  "title": "The Registered Developer with acquired rights from the owner/s of the slum land and who hold consent of 51% slum dwellers shall be allowed to submit the scheme as prescribed in preceding regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2451",
+  "clause_text": "The Registered Developer with acquired rights from the owner/s of the slum land and who hold consent of 51% slum dwellers shall be allowed to submit the scheme as prescribed in preceding regulation. Such a scheme shall be accepted by C.E.O. and the C.E.O. will order Competent Authority to prepare eligibility list of slum dwellers in Annexure II.",
+  "chapter": null,
+  "section": "Registered Developer",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Registered Developer with acquired rights from the owner/s of the slum land and who hold consent of 51% slum dwellers shall be allowed to submit the scheme as prescribed in preceding regulation. S"
+  },
+  "created_at": "2025-11-19T00:14:24.631870",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.917221",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

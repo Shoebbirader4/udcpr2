@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_957",
+  "title": "Fungible compensatory area admissible under Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 957",
+  "clause_text": "Fungible compensatory area admissible under Regulation No. 31(3)on the existing authorised BUA shall be without charging premium and over the incentive additional BUA by charging of premium.",
+  "chapter": null,
+  "section": "33(7)(B) Additional FSI for Redevelopment of existing residential housing societies excluding buildings covered under regulation 33(7) and 33(7)(A):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Fungible compensatory area admissible under Regulation No. 31(3)on the existing authorised BUA shall be without charging premium and over the incentive additional BUA by charging of premium."
+  },
+  "created_at": "2025-11-19T00:14:39.043626",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.256378",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3030",
+  "title": "For Integrated Logistic Parks & Logistic Parks, the FSI permissible for Industrial Zone as per these regulations shall be applicable",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3030",
+  "clause_text": "For Integrated Logistic Parks & Logistic Parks, the FSI permissible for Industrial Zone as per these regulations shall be applicable. Upto 200% of additional FSI shall be admissible over and above the basic FSI for development of Integrated Logistic Park & Logistics Park with or without premium as follows :-",
+  "chapter": null,
+  "section": "Upto 200% Additional FSI for Integrated Logistics Park & Logistics Park",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For Integrated Logistic Parks & Logistic Parks, the FSI permissible for Industrial Zone as per these regulations shall be applicable. Upto 200% of additional FSI shall be admissible over and above the"
+  },
+  "created_at": "2025-11-19T00:14:26.271491",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.399269",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

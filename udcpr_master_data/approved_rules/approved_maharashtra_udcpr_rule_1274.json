@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1274",
+  "title": "The Authority may permit the floor space indices specified in these regulations to be exceeded to th",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1274",
+  "clause_text": "The Authority may permit the floor space indices specified in these regulations to be exceeded to the extent of 100% over and above the permissible basicFSI for biotechnology units / parks subject to following conditions :-",
+  "chapter": null,
+  "section": "Additional FSI to Biotechnology Units / Park",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Authority may permit the floor space indices specified in these regulations to be exceeded to the extent of 100% over and above the permissible basicFSI for biotechnology units / parks subject to "
+  },
+  "created_at": "2025-11-19T00:14:21.135465",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.843735",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

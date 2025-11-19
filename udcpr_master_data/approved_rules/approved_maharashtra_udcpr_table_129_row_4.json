@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_129_row_4",
+  "title": "Table 129 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-129.4",
+  "clause_text": "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: i) | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: Water Closets | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: 1 per 8 persons or part thereof | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: 1 per 8 persons or part thereof | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: for up to 15 for 16-35 for 36-65 for 66-100 | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100 | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: per 50 (Minimum 2) | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: per 50 (Minimum 2)",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets",
+        "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets"
+      ],
+      "values": [
+        "i)",
+        "Water Closets",
+        "1 per 8 persons or part thereof",
+        "1 per 8 persons or part thereof",
+        "for up to 15 for 16-35 for 36-65 for 66-100",
+        "for up to 12 for 13-25 for 26-40 for 41-57 for 58-77 for 78-100",
+        "per 50 (Minimum 2)",
+        "per 50 (Minimum 2)"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_129",
+    "text_snippet": "Table No.12-O Sanitation Requirements – Mercantile Buildings, Commercial Complexes, Shopping Malls, Fruit & Vegetable Markets: i) | Table No.12-O Sanitation Requirements – Mercantile Buildings, Commer"
+  },
+  "created_at": "2025-11-19T00:14:30.968610",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.012931",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

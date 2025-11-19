@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_216",
+  "title": "In case of properties owned by co-operative societies, certificate from an Advocate who has experience, in this field, of a minimum 10 years, confirming that the registered society/society on the plot of redevelopment have entered into registered agreement with the developer wherein it has granted permission for redevelopment of the project and at least 70% of member of the society present in a Special General Body Meeting convened for the purpose, have approved redevelopment and have consented in favour of the redevelopment by the applicant as per provision of relevant Act",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 216",
+  "clause_text": "In case of properties owned by co-operative societies, certificate from an Advocate who has experience, in this field, of a minimum 10 years, confirming that the registered society/society on the plot of redevelopment have entered into registered agreement with the developer wherein it has granted permission for redevelopment of the project and at least 70% of member of the society present in a Special General Body Meeting convened for the purpose, have approved redevelopment and have consented in favour of the redevelopment by the applicant as per provision of relevant Act.",
+  "chapter": null,
+  "section": "Information accompanying notice:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of properties owned by co-operative societies, certificate from an Advocate who has experience, in this field, of a minimum 10 years, confirming that the registered society/society on the plot"
+  },
+  "created_at": "2025-11-19T00:14:35.765076",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.092740",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1096",
+  "title": "HPC, headed by Municipal Commissioner and constituted by the Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1096",
+  "clause_text": "HPC, headed by Municipal Commissioner and constituted by the Govt., shall be competent to approve the CDS with the previous sanction of the Govt under this Regulation. On approval by HPC, the proposal shall be submitted to the Municipal Commissioner, MCGM for approval of plans.The decision of HPC shall be appealable as if it is an appeal under section 47 of the MR&TP Act, 1966.",
+  "chapter": null,
+  "section": "Relaxation in Building and other requirements:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "HPC, headed by Municipal Commissioner and constituted by the Govt., shall be competent to approve the CDS with the previous sanction of the Govt under this Regulation. On approval by HPC, the proposal"
+  },
+  "created_at": "2025-11-19T00:14:39.558920",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.605040",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

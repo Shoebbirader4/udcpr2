@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_22",
+  "title": "Table 12 - Row 22",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.22",
+  "clause_text": "PART X SPECIAL PROVISIONS: 61 | PART X SPECIAL PROVISIONS: Public Sanitary Convenience (PSC) Blocks/Toilets | PART X SPECIAL PROVISIONS: 393",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "61",
+        "Public Sanitary Convenience (PSC) Blocks/Toilets",
+        "393"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: 61 | PART X SPECIAL PROVISIONS: Public Sanitary Convenience (PSC) Blocks/Toilets | PART X SPECIAL PROVISIONS: 393"
+  },
+  "created_at": "2025-11-19T00:14:48.156817",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.535453",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

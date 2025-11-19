@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_950",
+  "title": "In case of redevelopment of existing residential housing societies excluding buildings covered under regulation 33(7) and 33(7)(A) proposed by Housing societies/land lords or through their proponents where existing members are proposed to be re-accommodated on the same plot, incentive additional BUA to the extent of 15% of existing BUA or 10 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 950",
+  "clause_text": "In case of redevelopment of existing residential housing societies excluding buildings covered under regulation 33(7) and 33(7)(A) proposed by Housing societies/land lords or through their proponents where existing members are proposed to be re-accommodated on the same plot, incentive additional BUA to the extent of 15% of existing BUA or 10 sq. m per tenement whichever is more shall be permissible without premium. Provided further that if the existing authorized BUA and incentive thereon as stated aboveis less than the permissible FSIas per regulation 30(A)(1), then society may avail ‘Additional FSI on payment of premium/TDR’ up to limit of permissible FSI .",
+  "chapter": null,
+  "section": "33(7)(B) Additional FSI for Redevelopment of existing residential housing societies excluding buildings covered under regulation 33(7) and 33(7)(A):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of redevelopment of existing residential housing societies excluding buildings covered under regulation 33(7) and 33(7)(A) proposed by Housing societies/land lords or through their proponents "
+  },
+  "created_at": "2025-11-19T00:14:39.033118",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.242977",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

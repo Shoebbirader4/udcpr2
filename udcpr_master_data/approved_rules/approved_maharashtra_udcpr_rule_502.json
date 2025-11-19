@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_502",
+  "title": "If the Authority is convinced that, either the owner has failed to abide by the undertaking or such",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 502",
+  "clause_text": "If the Authority is convinced that, either the owner has failed to abide by the undertaking or such open space is being used in violation of the provisions as prescribed in these regulations, then the Authority shall take over possession of such land of recreational open",
+  "chapter": null,
+  "section": "Recreational Open Space - Owner’s Undertaking",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the Authority is convinced that, either the owner has failed to abide by the undertaking or such open space is being used in violation of the provisions as prescribed in these regulations, then the"
+  },
+  "created_at": "2025-11-19T00:14:18.569166",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.854455",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

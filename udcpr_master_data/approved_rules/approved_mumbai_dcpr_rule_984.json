@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_984",
+  "title": "The Commencement Certificate beyond 75 % of the admissible BUA may be released once the Occupation Certificate for AH tenements/Amenities is granted",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 984",
+  "clause_text": "The Commencement Certificate beyond 75 % of the admissible BUA may be released once the Occupation Certificate for AH tenements/Amenities is granted.",
+  "chapter": null,
+  "section": "Compensation for development of infrastructure in lands handed over to MCGM and constructed BUA.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Commencement Certificate beyond 75 % of the admissible BUA may be released once the Occupation Certificate for AH tenements/Amenities is granted."
+  },
+  "created_at": "2025-11-19T00:14:39.145202",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.322801",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

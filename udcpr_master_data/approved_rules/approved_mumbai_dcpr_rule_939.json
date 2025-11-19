@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_939",
+  "title": "New building shall be reconstructed in accordance with these Regulations and all other Regulations and orders as applicable from time to time",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 939",
+  "clause_text": "New building shall be reconstructed in accordance with these Regulations and all other Regulations and orders as applicable from time to time. The Municipal Commissioner may exercise his powers under Regulation No 6 for condonation of minor variations in respect of such reconstruction.",
+  "chapter": null,
+  "section": "33(6) Reconstruction of buildings destroyed by fire or which have collapsed or which have been demolished under lawful order",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "New building shall be reconstructed in accordance with these Regulations and all other Regulations and orders as applicable from time to time. The Municipal Commissioner may exercise his powers under "
+  },
+  "created_at": "2025-11-19T00:14:38.998619",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.222440",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

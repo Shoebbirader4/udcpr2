@@ -1,0 +1,48 @@
+{
+  "rule_id": "maharashtra_udcpr_table_167_row_11",
+  "title": "Table 167 - Row 11",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-167.11",
+  "clause_text": "10.: 16. | Whether area for inclusive housing is required as per Regulation No.3.8 ? Please state the details.: If the height of the building is more than 15 meter above the average ground level, is provision for lifts made ?",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "10.",
+        "Whether area for inclusive housing is required as per Regulation No.3.8 ? Please state the details.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "values": [
+        "16.",
+        "If the height of the building is more than 15 meter above the average ground level, is provision for lifts made ?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_167",
+    "text_snippet": "10.: 16. | Whether area for inclusive housing is required as per Regulation No.3.8 ? Please state the details.: If the height of the building is more than 15 meter above the average ground level, is p"
+  },
+  "created_at": "2025-11-19T00:14:31.309900",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.245032",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

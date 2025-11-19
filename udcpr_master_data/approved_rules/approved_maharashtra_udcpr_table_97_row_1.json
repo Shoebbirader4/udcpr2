@@ -1,0 +1,34 @@
+{
+  "rule_id": "maharashtra_udcpr_table_97_row_1",
+  "title": "Table 97 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-97.1",
+  "clause_text": "Road width: Equal to or above 20.0 mtr and along the service road in Pushpak node | Maximum Permissible Utilization of TDR in addition to basic FSI under these regulations.: Upto 0.5 FSI on receiving plot.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Road width",
+        "Maximum Permissible Utilization of TDR in addition to basic FSI under these regulations."
+      ],
+      "values": [
+        "Equal to or above 20.0 mtr and along the service road in Pushpak node",
+        "Upto 0.5 FSI on receiving plot."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_97",
+    "text_snippet": "Road width: Equal to or above 20.0 mtr and along the service road in Pushpak node | Maximum Permissible Utilization of TDR in addition to basic FSI under these regulations.: Upto 0.5 FSI on receiving "
+  },
+  "created_at": "2025-11-19T00:14:30.109875",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.625470",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

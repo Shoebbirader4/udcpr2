@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_35",
+  "title": "Table 7 - Row 35",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.35",
+  "clause_text": "CHAPTER - 10 CITY SPECIFIC REGULATIONS: 11.2.13 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Effect of this Regulation | : 225",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "",
+        "11.2.13",
+        "Effect of this Regulation",
+        "225"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": "CHAPTER - 10 CITY SPECIFIC REGULATIONS: 11.2.13 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Effect of this Regulation | : 225"
+  },
+  "created_at": "2025-11-19T00:14:29.707588",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.467691",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

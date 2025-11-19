@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1095",
+  "title": "If HPC approves areas for amenities such as Fire Stations/Hospitals/Police Stations/Schools, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1095",
+  "clause_text": "If HPC approves areas for amenities such as Fire Stations/Hospitals/Police Stations/Schools, etc. other than reservations/designations under theDP, such amenities shall be handed over to the concerned Authority free of cost. The BUA of such amenity shall be considered towards rehabilitation FSI, and incentive FSI as admissible under this Regulation shall be permissible.",
+  "chapter": null,
+  "section": "Relaxation in Building and other requirements:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If HPC approves areas for amenities such as Fire Stations/Hospitals/Police Stations/Schools, etc. other than reservations/designations under theDP, such amenities shall be handed over to the concerned"
+  },
+  "created_at": "2025-11-19T00:14:39.547656",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.604265",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

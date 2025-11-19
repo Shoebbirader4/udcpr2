@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3076",
+  "title": "* This factor may not be applied in case of individual plot, if quantum of FSI to be apportioned on various plots is varied",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3076",
+  "clause_text": "* This factor may not be applied in case of individual plot, if quantum of FSI to be apportioned on various plots is varied. In such case, column (e) shall read as \"quantum of pro-rata FSI to be utilised\" and total of this column shall be equal to or less than the quantum at Sr. No.5.",
+  "chapter": null,
+  "section": "CERTIFICATE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "* This factor may not be applied in case of individual plot, if quantum of FSI to be apportioned on various plots is varied. In such case, column (e) shall read as \"quantum of pro-rata FSI to be utili"
+  },
+  "created_at": "2025-11-19T00:14:26.455823",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.478840",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

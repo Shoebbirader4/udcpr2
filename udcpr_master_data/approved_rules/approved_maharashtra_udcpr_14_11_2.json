@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_11_2",
+  "title": "Logistics park / building with a minimum of 20000 sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.11.2",
+  "clause_text": "Logistics park / building with a minimum of 20000 sq. feet Built up Area with basic FSI will be designated as Logistics Park (LP). The 80% of the total area of ‗Logistic Park‘ should be used for providing logistic services and up to 20% of the total area will be permitted for support services and common facilities mentioned in Regulation No.14.11.2 (iii and iv). Logistics Parks will be allowed applicable FSI in these Regulations. The letter of Intent for development of a Logistics Park shall be issued by Directorate of Industries. The development in the said Logistics Park shall be completed within 3 years from date of issue of Letter of Intent (LOI). The extension to time limit upto a minimum of one year at a time and not more than 3 times may be granted on merits. Directorate of Industries will be the registering agency for all logistic parks. The procedure adopted for registration would be in line with that adopted under the IT / ITES Policy 2015. The developer of Logistics Park will have to develop the infrastructure and create and maintain the facilities. Such facilities can be hired / leased / rented or put to own use by the Developer.",
+  "chapter": null,
+  "section": "Logistics Park (LP)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Logistics park / building with a minimum of 20000 sq. feet Built up Area with basic FSI will be designated as Logistics Park (LP). The 80% of the total area of ‗Logistic Park‘ should be used for provi"
+  },
+  "created_at": "2025-11-19T00:14:26.262025",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.398043",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

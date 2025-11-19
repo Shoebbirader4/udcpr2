@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_384",
+  "title": "The owner will be entitled to avail the permissible BUA of Y % of reserved plot for other permissible uses in the zone under these Regulations on the remaining land [(100- ‘Y’) % of the land] as permitted under this regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 384",
+  "clause_text": "The owner will be entitled to avail the permissible BUA of Y % of reserved plot for other permissible uses in the zone under these Regulations on the remaining land [(100- ‘Y’) % of the land] as permitted under this regulations.",
+  "chapter": null,
+  "section": "Conditions for Development of reserved land under Accommodation Reservation (AR)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner will be entitled to avail the permissible BUA of Y % of reserved plot for other permissible uses in the zone under these Regulations on the remaining land [(100- ‘Y’) % of the land] as permi"
+  },
+  "created_at": "2025-11-19T00:14:36.706235",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.486811",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

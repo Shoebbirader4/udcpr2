@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2996",
+  "title": "Provided that, the area of lands in such Hill-Top and Hill-Slope Zone and a forestation Zone shall not exceed 40 percent of the gross area of the project and such area shall be shown towards 50% area to be kept permanently open where no development activity shall be permissible under such project",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2996",
+  "clause_text": "Provided that, the area of lands in such Hill-Top and Hill-Slope Zone and a forestation Zone shall not exceed 40 percent of the gross area of the project and such area shall be shown towards 50% area to be kept permanently open where no development activity shall be permissible under such project. The said areas shall be developed for tree plantation as per the norms specified. However, for the purpose of calculation of Floor Space Index (FSI), such areas shall be excluded.",
+  "chapter": null,
+  "section": "Area Requirement",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, the area of lands in such Hill-Top and Hill-Slope Zone and a forestation Zone shall not exceed 40 percent of the gross area of the project and such area shall be shown towards 50% area "
+  },
+  "created_at": "2025-11-19T00:14:26.062703",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.338097",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

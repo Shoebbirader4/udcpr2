@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1696",
+  "title": "All the infrastructural facilities required on site and as specified by the MCGM shall be provided by the developer at his own cost on the site",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1696",
+  "clause_text": "All the infrastructural facilities required on site and as specified by the MCGM shall be provided by the developer at his own cost on the site. Proper arrangement for treatment and disposal of sewage and sullage and solid wastes shall be made to the satisfaction of the MCGM and MPCB. No untreated effluent shall be allowed to pass into the sea or any water body.",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All the infrastructural facilities required on site and as specified by the MCGM shall be provided by the developer at his own cost on the site. Proper arrangement for treatment and disposal of sewage"
+  },
+  "created_at": "2025-11-19T00:14:41.558826",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.140816",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

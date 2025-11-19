@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1764",
+  "title": "For purposes of clause (b) above, the cotton textile mill owner shall undertake and complete training of candidates for employment before the recruitment of personnel and starting of the relocated mill or diversified industry takes place",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1764",
+  "clause_text": "For purposes of clause (b) above, the cotton textile mill owner shall undertake and complete training of candidates for employment before the recruitment of personnel and starting of the relocated mill or diversified industry takes place.",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For purposes of clause (b) above, the cotton textile mill owner shall undertake and complete training of candidates for employment before the recruitment of personnel and starting of the relocated mil"
+  },
+  "created_at": "2025-11-19T00:14:41.779965",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.437672",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

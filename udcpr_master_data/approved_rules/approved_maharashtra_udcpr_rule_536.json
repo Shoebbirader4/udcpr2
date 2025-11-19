@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_536",
+  "title": "For the sub-division or layout of the land admeasuring 4000 Sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 536",
+  "clause_text": "For the sub-division or layout of the land admeasuring 4000 Sq.m. or more (after deducting area under D.P. / R.P. Roads, D.P. Reservations including deemed reservations under these regulations, if any) for residential purpose, minimum 20% of the plot area shall have to be provided either :-",
+  "chapter": null,
+  "section": "For the sub-division or layout of the land :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For the sub-division or layout of the land admeasuring 4000 Sq.m. or more (after deducting area under D.P. / R.P. Roads, D.P. Reservations including deemed reservations under these regulations, if any"
+  },
+  "created_at": "2025-11-19T00:14:18.704496",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.936140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

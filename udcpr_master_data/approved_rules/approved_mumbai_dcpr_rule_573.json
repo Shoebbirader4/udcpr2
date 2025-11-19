@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_573",
+  "title": "In a LOSof 1000 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 573",
+  "clause_text": "In a LOSof 1000 sq. m or more in area (in one piece and in one place), structures for pavilions, gymnasia, club houses, swimming pools and other structures for the purpose of sports and recreation activities may be permitted with BUA not exceeding 15 per cent of the total required LOS, . The area of the plinth of such a structure shall be restricted to 10 per cent of the area of the total required LOS in these regulations. The total height of any such structure, which may be Ground + one storey shall not exceed 8 m. The height may be increased to 13 m to accommodate badminton court/squash court. Where club house is proposed in LOS, then provision for gymnasium/fitness centre/yogalaya in club house shall be insisted upon. Structures for such sports and recreation activities shall conform to the following requirements: -",
+  "chapter": null,
+  "section": "Structures/uses permitted in LOS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In a LOSof 1000 sq. m or more in area (in one piece and in one place), structures for pavilions, gymnasia, club houses, swimming pools and other structures for the purpose of sports and recreation act"
+  },
+  "created_at": "2025-11-19T00:14:37.653553",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.117132",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

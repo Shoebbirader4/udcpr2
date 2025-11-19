@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1926",
+  "title": "All buildings used for human habitation for dwelling work, occupation, medical care or any purpose detailed in the various tables, abutting a public sewer or a private sewage disposal system, shall be provided with minimum sanitary facilities as per the schedule in the tables",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1926",
+  "clause_text": "All buildings used for human habitation for dwelling work, occupation, medical care or any purpose detailed in the various tables, abutting a public sewer or a private sewage disposal system, shall be provided with minimum sanitary facilities as per the schedule in the tables. In case the disposal facilities are not available, they shall be provided as a part of the building design for ensuring high standards of sanitary conditions in accordance with this section.",
+  "chapter": null,
+  "section": "For Buildings other than Residences",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All buildings used for human habitation for dwelling work, occupation, medical care or any purpose detailed in the various tables, abutting a public sewer or a private sewage disposal system, shall be"
+  },
+  "created_at": "2025-11-19T00:14:23.283944",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.331419",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

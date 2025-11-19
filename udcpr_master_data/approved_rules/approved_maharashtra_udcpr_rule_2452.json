@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2452",
+  "title": "In case the Registered Developer have consent of 51% slum dwellers, but does not hold right to develop the land; C",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2452",
+  "clause_text": "In case the Registered Developer have consent of 51% slum dwellers, but does not hold right to develop the land; C.E.O., S.R.A. shall give him preference and the land owner shall be entitled to compensation payable under the provisions of Slum Act or the said Regulations. In case of dissent of the land owner for this valuation, C.E.O., S.R.A. may forward the land acquisition proposal to the State Government on behalf of the applicant developer and the Hutment Dwellers‘ Co-operative Housing Society. Simultaneously, the C.E.O. will order Competent Authority to prepare eligibility list of slum dwellers in Annexure II.",
+  "chapter": null,
+  "section": "Registered Developer",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case the Registered Developer have consent of 51% slum dwellers, but does not hold right to develop the land; C.E.O., S.R.A. shall give him preference and the land owner shall be entitled to compen"
+  },
+  "created_at": "2025-11-19T00:14:24.640137",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.918905",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

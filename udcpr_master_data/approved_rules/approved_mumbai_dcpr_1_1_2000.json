@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_1_1_2000",
+  "title": "For URS, the existing tenants/occupants residing as on 1st January, 2000 shall be considered eligible",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "1.1.2000",
+  "clause_text": "For URS, the existing tenants/occupants residing as on 1st January, 2000 shall be considered eligible. A certified inspection extract of the MCGM for the year 1999-2000 or Courts Order proving the existence of tenements prior to 1.1.2000 shall be considered adequate evidence to establish number and size of tenements. No new tenancy/occupancy created after 1.1.2000 shall be considered. Further unauthorized construction made in buildings/chawls, and unauthorized extensions to the tenements shall not be considered for any computation.",
+  "chapter": null,
+  "section": "Applicability of the provisions:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For URS, the existing tenants/occupants residing as on 1st January, 2000 shall be considered eligible. A certified inspection extract of the MCGM for the year 1999-2000 or Courts Order proving the exi"
+  },
+  "created_at": "2025-11-19T00:14:39.615935",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.638922",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

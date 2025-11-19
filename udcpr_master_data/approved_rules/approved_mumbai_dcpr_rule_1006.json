@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1006",
+  "title": "Provided further that HPC may consider after veryfing traffing simulation study to allow CDS on a plot having access from existing minimum 12m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1006",
+  "clause_text": "Provided further that HPC may consider after veryfing traffing simulation study to allow CDS on a plot having access from existing minimum 12m. wide dead end road originating from 18",
+  "chapter": null,
+  "section": "33(9) Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)(CDS):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that HPC may consider after veryfing traffing simulation study to allow CDS on a plot having access from existing minimum 12m. wide dead end road originating from 18"
+  },
+  "created_at": "2025-11-19T00:14:39.232668",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.405034",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

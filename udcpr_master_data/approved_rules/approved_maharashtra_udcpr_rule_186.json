@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_186",
+  "title": "Roof Top Photovoltaic (RTPV) System - means any of the two Photovoltaic Systems installed on the roof of any building, i",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 186",
+  "clause_text": "Roof Top Photovoltaic (RTPV) System - means any of the two Photovoltaic Systems installed on the roof of any building, i.e. (i) RTPV System with storage facility using battery, and (ii) Grid Connected RTPV System.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Roof Top Photovoltaic (RTPV) System - means any of the two Photovoltaic Systems installed on the roof of any building, i.e. (i) RTPV System with storage facility using battery, and (ii) Grid Connected"
+  },
+  "created_at": "2025-11-19T00:14:17.474543",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.055381",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

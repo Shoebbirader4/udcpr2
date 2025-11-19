@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_467",
+  "title": "For other buildable reservations on land, BUA equal to 60% of the Zonal (basic) FSI under such reservations or existing BUA of the amenity(existing) whichever is more, on that plot shall be made available free of FSI and free of cost to the MCGM or the Appropriate Authority",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 467",
+  "clause_text": "For other buildable reservations on land, BUA equal to 60% of the Zonal (basic) FSI under such reservations or existing BUA of the amenity(existing) whichever is more, on that plot shall be made available free of FSI and free of cost to the MCGM or the Appropriate Authority. The reservations of compatible nature can be preferably constructed in one or more separate blocks, depending on the area and nature of such reservations and Municipal Commissioner may permit composite development of reservations in case of such reservations. However, if the HPC/Planning Authority requires BUA under any Existing Amenity",
+  "chapter": null,
+  "section": "(I) Development of reservation in Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)under Regulation No. 33(9):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For other buildable reservations on land, BUA equal to 60% of the Zonal (basic) FSI under such reservations or existing BUA of the amenity(existing) whichever is more, on that plot shall be made avail"
+  },
+  "created_at": "2025-11-19T00:14:37.062268",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.722800",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

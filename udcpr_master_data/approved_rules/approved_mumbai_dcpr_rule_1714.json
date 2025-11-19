@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1714",
+  "title": "Sufficient parking facilities and ancillary facilities for cars, buses, transport vehicles etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1714",
+  "clause_text": "Sufficient parking facilities and ancillary facilities for cars, buses, transport vehicles etc. shall be provided on site as prescribed by and to the satisfaction of the Commissioner and Commissioner of Police.",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Sufficient parking facilities and ancillary facilities for cars, buses, transport vehicles etc. shall be provided on site as prescribed by and to the satisfaction of the Commissioner and Commissioner "
+  },
+  "created_at": "2025-11-19T00:14:41.630636",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.226719",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

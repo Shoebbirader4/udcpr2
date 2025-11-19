@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_156_row_3",
+  "title": "Table 156 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-156.3",
+  "clause_text": "Parking Space required (3): In addition to the parking spaces specified in (a), (b), (c) & (d) above,",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "",
+        "",
+        "In addition to the parking spaces specified in (a), (b), (c) & (d) above,"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_156",
+    "text_snippet": "Parking Space required (3): In addition to the parking spaces specified in (a), (b), (c) & (d) above,"
+  },
+  "created_at": "2025-11-19T00:14:49.041775",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.838062",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

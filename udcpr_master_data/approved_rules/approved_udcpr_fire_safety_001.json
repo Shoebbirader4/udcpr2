@@ -1,0 +1,39 @@
+{
+  "rule_id": "udcpr_fire_safety_001",
+  "title": "Fire Safety Requirements for High-Rise",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "8.5.1",
+  "clause_text": "Buildings above 15m height shall provide fire escape staircases, sprinkler systems, and fire NOC from fire department.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "height_m",
+          "op": ">",
+          "value": 15
+        }
+      ],
+      "outputs": [
+        {
+          "field": "fire_safety_required",
+          "value": true,
+          "units": "boolean"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 156,
+    "text_snippet": "Fire safety provisions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.940140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

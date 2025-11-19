@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_788",
+  "title": "The Medical Institution shall maintain records of free/concessional medical treatment furnish such records periodically and make them available to the Director of Health Services on demand",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 788",
+  "clause_text": "The Medical Institution shall maintain records of free/concessional medical treatment furnish such records periodically and make them available to the Director of Health Services on demand.",
+  "chapter": null,
+  "section": "Terms and Conditions for Medical Institutions and Institutional Building",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Medical Institution shall maintain records of free/concessional medical treatment furnish such records periodically and make them available to the Director of Health Services on demand."
+  },
+  "created_at": "2025-11-19T00:14:38.367371",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.749285",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

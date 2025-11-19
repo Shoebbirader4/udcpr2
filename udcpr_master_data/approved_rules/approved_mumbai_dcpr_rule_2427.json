@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2427",
+  "title": "Sub: -Handing over and taking over the advance possession of plot/Area of D",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2427",
+  "clause_text": "Sub: -Handing over and taking over the advance possession of plot/Area of D.P. Road/Reservation/amenity area etc. as per provisions of DCR 2034 out of Survey No./H.No. , CTS No. /C.S. No./ F.P. No. .................................... of village /Division/ T.P. Scheme No. ........................... in Ward.",
+  "chapter": null,
+  "section": "ADVANCE POSSESSION RECEIPT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Sub: -Handing over and taking over the advance possession of plot/Area of D.P. Road/Reservation/amenity area etc. as per provisions of DCR 2034 out of Survey No./H.No. , CTS"
+  },
+  "created_at": "2025-11-19T00:14:45.605614",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.087807",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

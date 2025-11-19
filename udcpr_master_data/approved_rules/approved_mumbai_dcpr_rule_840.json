@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_840",
+  "title": "a basic entitlement equivalent to the carpet area of the existing tenement plus 35% thereof, subject to a minimum carpet area of35 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 840",
+  "clause_text": "a basic entitlement equivalent to the carpet area of the existing tenement plus 35% thereof, subject to a minimum carpet area of35 sq. m, and",
+  "chapter": null,
+  "section": "33(5)Development/Redevelopment of Housing Schemes of Maharashtra Housing & Area Development Authority (MHADA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "a basic entitlement equivalent to the carpet area of the existing tenement plus 35% thereof, subject to a minimum carpet area of35 sq. m, and"
+  },
+  "created_at": "2025-11-19T00:14:38.621313",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.884619",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

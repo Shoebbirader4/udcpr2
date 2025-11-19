@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1282",
+  "title": "To achieve rehabilitation of all slum dwellers together including those declared eligible at the later stages by Competent or Appellate Authorities and for speedy implementation of the scheme the Slum Rehabilitation Scheme shall be sanctioned by taking into account all Slum dwellers as per certified slum plan, and Draft Annexure-II",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1282",
+  "clause_text": "To achieve rehabilitation of all slum dwellers together including those declared eligible at the later stages by Competent or Appellate Authorities and for speedy implementation of the scheme the Slum Rehabilitation Scheme shall be sanctioned by taking into account all Slum dwellers as per certified slum plan, and Draft Annexure-II.",
+  "chapter": null,
+  "section": "Rehabilitation and Free-Sale Component:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "To achieve rehabilitation of all slum dwellers together including those declared eligible at the later stages by Competent or Appellate Authorities and for speedy implementation of the scheme the Slum"
+  },
+  "created_at": "2025-11-19T00:14:40.077130",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.071919",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

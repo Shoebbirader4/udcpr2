@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_675",
+  "title": "Shop / permit rooms for liquor / wine / beer, pan, cigarette, tobacco, lottery tickets and such other uses which do not serve public purpose, similarly storage of domestic gas cylinders, kerosene etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 675",
+  "clause_text": "Shop / permit rooms for liquor / wine / beer, pan, cigarette, tobacco, lottery tickets and such other uses which do not serve public purpose, similarly storage of domestic gas cylinders, kerosene etc., which are dangerous to public health, shall not be permitted.",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Shop / permit rooms for liquor / wine / beer, pan, cigarette, tobacco, lottery tickets and such other uses which do not serve public purpose, similarly storage of domestic gas cylinders, kerosene etc."
+  },
+  "created_at": "2025-11-19T00:14:19.335590",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.325007",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

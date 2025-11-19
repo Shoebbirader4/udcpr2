@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_70",
+  "title": "\"Enclosed staircase\" means a staircase separated by fire resistant walls and door from the rest of the building",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 70",
+  "clause_text": "\"Enclosed staircase\" means a staircase separated by fire resistant walls and door from the rest of the building. “Energy Efficient Building” means the building (having connected load",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Enclosed staircase\" means a staircase separated by fire resistant walls and door from the rest of the building."
+  },
+  "created_at": "2025-11-19T00:14:34.770466",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.756690",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

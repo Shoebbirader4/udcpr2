@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2144",
+  "title": "The fire escape staircase other than one required per building/wing shall be free of FSI without charging premium",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2144",
+  "clause_text": "The fire escape staircase other than one required per building/wing shall be free of FSI without charging premium.",
+  "chapter": null,
+  "section": "(A) Additional Staircase:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The fire escape staircase other than one required per building/wing shall be free of FSI without charging premium."
+  },
+  "created_at": "2025-11-19T00:14:44.027895",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.437986",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

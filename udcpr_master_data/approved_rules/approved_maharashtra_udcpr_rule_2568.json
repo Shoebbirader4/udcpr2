@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2568",
+  "title": "Charges for common use of electricity and water tax shall be borne by the developer",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2568",
+  "clause_text": "Charges for common use of electricity and water tax shall be borne by the developer. The charges for electricity and water for individual tenements shall be borne by slum dweller. However If slum dweller fails to pay such charges the developer shall pay to the concerned authority.",
+  "chapter": null,
+  "section": "REGULATIONS RELATING TO REHABILITATION AND FREE SALE COMPONENTS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Charges for common use of electricity and water tax shall be borne by the developer. The charges for electricity and water for individual tenements shall be borne by slum dweller. However If slum dwel"
+  },
+  "created_at": "2025-11-19T00:14:24.850711",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.169471",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

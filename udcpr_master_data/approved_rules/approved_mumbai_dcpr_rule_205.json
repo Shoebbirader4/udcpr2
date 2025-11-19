@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_205",
+  "title": "Notice of intention: Every person who intends to carry out development or redevelopment, erect or re-erect a building or alter any building or part of a building shall give notice in writing to the Commissioner of his said intention in the form in Appendix II and such notice shall be accompanied by plans and statements with sufficient number of copies, as required by sub-Regulations (2) and (3) hereunder",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 205",
+  "clause_text": "Notice of intention: Every person who intends to carry out development or redevelopment, erect or re-erect a building or alter any building or part of a building shall give notice in writing to the Commissioner of his said intention in the form in Appendix II and such notice shall be accompanied by plans and statements with sufficient number of copies, as required by sub-Regulations (2) and (3) hereunder. The plans may be ordinary prints. One set of such plans shall be retained in the office of the Commissioner for record after the issue of permission or refusal. The Commissioner may set a policy by which all submissions, approvals and communication in regard to development permission shall be on line. Notice: The notice referred to in sub Regulations (2) of Regulation No",
+  "chapter": null,
+  "section": "Procedure for obtaining Development Permission and Commencement Certificate.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notice of intention: Every person who intends to carry out development or redevelopment, erect or re-erect a building or alter any building or part of a building shall give notice in writing to the Co"
+  },
+  "created_at": "2025-11-19T00:14:35.649224",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.068148",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

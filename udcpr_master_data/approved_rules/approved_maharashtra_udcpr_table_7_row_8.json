@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_8",
+  "title": "Table 7 - Row 8",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.8",
+  "clause_text": ": 10.7 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Mira-Bhayandar Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Mira-Bhayandar Municipal Corporation | : 186",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "10.7",
+        "Mira-Bhayandar Municipal Corporation",
+        "Mira-Bhayandar Municipal Corporation",
+        "186"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": ": 10.7 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Mira-Bhayandar Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Mira-Bhayandar Municipal Corporation | : 186"
+  },
+  "created_at": "2025-11-19T00:14:29.645376",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.309856",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

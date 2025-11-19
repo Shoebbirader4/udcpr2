@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1059",
+  "title": "From the total FSI available under Clause 6, entire FSI towards rehabilitation component and MHADA's share shall have to be utilized on plot/plots under the Scheme",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1059",
+  "clause_text": "From the total FSI available under Clause 6, entire FSI towards rehabilitation component and MHADA's share shall have to be utilized on plot/plots under the Scheme. In case a part of incentive FSI is not proposed to be utilized on the same plot, the benefit of TDR as per",
+  "chapter": null,
+  "section": "Total Permissible FSI for CDS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "From the total FSI available under Clause 6, entire FSI towards rehabilitation component and MHADA's share shall have to be utilized on plot/plots under the Scheme. In case a part of incentive FSI is "
+  },
+  "created_at": "2025-11-19T00:14:39.459372",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.540221",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

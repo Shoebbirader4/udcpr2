@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_6_row_5",
+  "title": "Table 6 - Row 5",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-6.5",
+  "clause_text": "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        ""
+      ],
+      "values": [
+        "",
+        "CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING",
+        "CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_6",
+    "text_snippet": "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: CHAPTER - 9 REQUIREMENTS OF PART OF BUILDING"
+  },
+  "created_at": "2025-11-19T00:14:29.577848",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.179241",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

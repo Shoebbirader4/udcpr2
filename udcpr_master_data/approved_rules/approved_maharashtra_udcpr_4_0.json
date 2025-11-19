@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_4_0",
+  "title": "Irrespectiveofits land-use classification under Development Plan, construction of temporary transit tenements made of light detachable material such as tubular / prefabricated light structures shall be allowed upto an FSI of 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.0",
+  "clause_text": "Irrespectiveofits land-use classification under Development Plan, construction of temporary transit tenements made of light detachable material such as tubular / prefabricated light structures shall be allowed upto an FSI of 4.0 on any nearby vacant site without any reservation in the Development Plan, with the consent of the land-owner.",
+  "chapter": null,
+  "section": "URS by Private Promoters / MHADA / Co-operative Housing Societies –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Irrespectiveofits land-use classification under Development Plan, construction of temporary transit tenements made of light detachable material such as tubular / prefabricated light structures shall b"
+  },
+  "created_at": "2025-11-19T00:14:25.846613",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.230563",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1857",
+  "title": "Provided that the quantum of generation of TDR as prescribed above, shall not be applicable for TDR generated from construction of amenity or construction of reservation / (1) deemed reservations / roads, Slum TDR, Heritage TDR",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1857",
+  "clause_text": "Provided that the quantum of generation of TDR as prescribed above, shall not be applicable for TDR generated from construction of amenity or construction of reservation / (1) deemed reservations / roads, Slum TDR, Heritage TDR.",
+  "chapter": null,
+  "section": "Generation of the Transferable Development Rights (TDR)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that the quantum of generation of TDR as prescribed above, shall not be applicable for TDR generated from construction of amenity or construction of reservation / (1) deemed reservations / ro"
+  },
+  "created_at": "2025-11-19T00:14:23.049409",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.204614",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2268",
+  "title": "The output water quality shall conform to the standards of non-potable water as may be prescribed by the MPCB",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2268",
+  "clause_text": "The output water quality shall conform to the standards of non-potable water as may be prescribed by the MPCB.",
+  "chapter": null,
+  "section": "Waste (Grey)Water Recycling and Reuse",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The output water quality shall conform to the standards of non-potable water as may be prescribed by the MPCB."
+  },
+  "created_at": "2025-11-19T00:14:44.572608",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.695216",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

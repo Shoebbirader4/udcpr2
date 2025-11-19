@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_783",
+  "title": "& MCGM, premium for BUA, at the rate of 10% of the land rates as per ASR (for FSI 1) for educational institutions, at the rate of 15% of the land rates as per ASR (for FSI 1)for medical institutions, at the rate of 20% of the land rates as per ASR (for FSI 1)for the private hospitals, medical Institutions and at the rate of 30% of the land rates as per ASR (for FSI 1)for other institutional buildings shall have to be paid, beyond Zonal (basic) FSI",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 783",
+  "clause_text": "& MCGM, premium for BUA, at the rate of 10% of the land rates as per ASR (for FSI 1) for educational institutions, at the rate of 15% of the land rates as per ASR (for FSI 1)for medical institutions, at the rate of 20% of the land rates as per ASR (for FSI 1)for the private hospitals, medical Institutions and at the rate of 30% of the land rates as per ASR (for FSI 1)for other institutional buildings shall have to be paid, beyond Zonal (basic) FSI. Govt. may from time to time change the rate of premium. The amount of premium shall be equally shared between Govt. and MCGM.",
+  "chapter": null,
+  "section": "(IV) (17) (g): -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "& MCGM, premium for BUA, at the rate of 10% of the land rates as per ASR (for FSI 1) for educational institutions, at the rate of 15% of the land rates as per ASR (for FSI 1)for medical institutions, "
+  },
+  "created_at": "2025-11-19T00:14:38.349445",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.733645",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

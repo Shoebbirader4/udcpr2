@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2106",
+  "title": "Note-The additional fire safety requirements shall be as per fire manual approved by Municipal Commissioner based on the Fire Act and Fire Protection Chapter of NBC amended time to time",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2106",
+  "clause_text": "Note-The additional fire safety requirements shall be as per fire manual approved by Municipal Commissioner based on the Fire Act and Fire Protection Chapter of NBC amended time to time.",
+  "chapter": null,
+  "section": "Provided, if the building abuts two roads of 9 m or more, then clear open space of 9 m at ground level on one side deemed to be sufficient.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note-The additional fire safety requirements shall be as per fire manual approved by Municipal Commissioner based on the Fire Act and Fire Protection Chapter of NBC amended time to time."
+  },
+  "created_at": "2025-11-19T00:14:43.778368",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.348378",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

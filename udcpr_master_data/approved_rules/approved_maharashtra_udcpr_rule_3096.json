@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3096",
+  "title": "Provide lists of tests to be carried out at each stage of work and allow the further work only after satisfying with the same",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3096",
+  "clause_text": "Provide lists of tests to be carried out at each stage of work and allow the further work only after satisfying with the same. To verify the structural elements in compliance with structural drawings.",
+  "chapter": null,
+  "section": "C-4.3 Duties and Responsibilities of Structural Engineer",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provide lists of tests to be carried out at each stage of work and allow the further work only after satisfying with the same."
+  },
+  "created_at": "2025-11-19T00:14:26.641025",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.510687",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

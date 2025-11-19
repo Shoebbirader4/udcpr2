@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1287",
+  "title": "GRIHA Five star / IGBC Platinum / LEED Platinum / (1) The ASSOCHAM GEM or equivalent rating - 7% incentive FSI on basic FSI",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1287",
+  "clause_text": "GRIHA Five star / IGBC Platinum / LEED Platinum / (1) The ASSOCHAM GEM or equivalent rating - 7% incentive FSI on basic FSI.",
+  "chapter": null,
+  "section": "7.10 INCENTIVE FOR GREEN BUILDINGS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "GRIHA Five star / IGBC Platinum / LEED Platinum / (1) The ASSOCHAM GEM or equivalent rating - 7% incentive FSI on basic FSI."
+  },
+  "created_at": "2025-11-19T00:14:21.160308",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.870283",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

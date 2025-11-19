@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_7_6_2",
+  "title": "If tenanted building/s and building/s of co-operative housing society / non-tenanted building/s coexist on the plot under development, then proportionate land component as per existing authorized built up area of existing tenanted building on the plot shall be developed as per Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "7.6.2",
+  "clause_text": "If tenanted building/s and building/s of co-operative housing society / non-tenanted building/s coexist on the plot under development, then proportionate land component as per existing authorized built up area of existing tenanted building on the plot shall be developed as per Regulation No.7.6.2. and remainder notional plot shall be developed as per this regulation.",
+  "chapter": null,
+  "section": "(2) Redevelopment of Old Dilapidated / Dangerous Buildings",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If tenanted building/s and building/s of co-operative housing society / non-tenanted building/s coexist on the plot under development, then proportionate land component as per existing authorized buil"
+  },
+  "created_at": "2025-11-19T00:14:22.477889",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.658803",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

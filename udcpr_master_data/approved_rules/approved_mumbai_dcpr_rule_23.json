@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_23",
+  "title": "\"Building” means a structure, constructed with any materials whatsoever for any purpose, whether use",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 23",
+  "clause_text": "\"Building” means a structure, constructed with any materials whatsoever for any purpose, whether used for human habitation or not, and includes- Foundation, plinth, walls, floors, roofs, chimneys, plumbing and building services, fixed platforms; any wall enclosing or intended to enclose any land or space, signs and outdoor display structures; tanks constructed for storage of chemicals or chemicals in liquid form;",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Building” means a structure, constructed with any materials whatsoever for any purpose, whether used for human habitation or not, and includes-"
+  },
+  "created_at": "2025-11-19T00:14:34.466386",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.670327",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1689",
+  "title": "Proposals for lands to be specified as Tourism Development Area shall be recommended for considerati",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1689",
+  "clause_text": "Proposals for lands to be specified as Tourism Development Area shall be recommended for consideration of Government in Urban Development Department by a Committee consisting of:",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Proposals for lands to be specified as Tourism Development Area shall be recommended for consideration of Government in Urban Development Department by a Committee consisting of:"
+  },
+  "created_at": "2025-11-19T00:14:41.515113",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.126072",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

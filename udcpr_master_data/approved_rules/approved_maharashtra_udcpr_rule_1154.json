@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1154",
+  "title": "f) If the owner / developer desires to avail such higher F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1154",
+  "clause_text": "f) If the owner / developer desires to avail such higher F.S.I. in future for new buildings, then while seeking building permission at first instance, the building plan shall be submitted considering the marginal distances as required for the height of buildings for such higher",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "f) If the owner / developer desires to avail such higher F.S.I. in future for new buildings, then while seeking building permission at first instance, the building plan shall be submitted considering "
+  },
+  "created_at": "2025-11-19T00:14:20.795929",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.523716",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

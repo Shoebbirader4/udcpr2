@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2213",
+  "title": "Submission of Proposal:-The proposal shall comprise of application u/s 44/69 of MR&TP Act, 1966, in format prescribed by Municipal Commissioner/Chief Officer/Chief Executive Officer, along with documents and undertakings required for the proposal as per regulation & required by the Municipal Commissioner/Chief Officer/Chief Executive Officer from time to time",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2213",
+  "clause_text": "Submission of Proposal:-The proposal shall comprise of application u/s 44/69 of MR&TP Act, 1966, in format prescribed by Municipal Commissioner/Chief Officer/Chief Executive Officer, along with documents and undertakings required for the proposal as per regulation & required by the Municipal Commissioner/Chief Officer/Chief Executive Officer from time to time. All the required documents shall be certified and signed by the Architect /L.S./Engineer confirming with the original documents. The documents required shall be as per the DCPR of the said Authority.",
+  "chapter": null,
+  "section": "Forest Land",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Submission of Proposal:-The proposal shall comprise of application u/s 44/69 of MR&TP Act, 1966, in format prescribed by Municipal Commissioner/Chief Officer/Chief Executive Officer, along with docume"
+  },
+  "created_at": "2025-11-19T00:14:44.356914",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.577648",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_9_29_6",
+  "title": "Rockery, Well and well structures, Plant Nursery, Water Pool, platform around a tree, Fountain, bench, Chabutara with open top and unenclosed sides, Ramps, Compound wall, Gate, slide / swing, Steps outside the buildings, Domestic working place (open to sky), Overhead water tank on top of the building, Refuge area for high rise buildings as specified in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "9.29.6",
+  "clause_text": "Rockery, Well and well structures, Plant Nursery, Water Pool, platform around a tree, Fountain, bench, Chabutara with open top and unenclosed sides, Ramps, Compound wall, Gate, slide / swing, Steps outside the buildings, Domestic working place (open to sky), Overhead water tank on top of the building, Refuge area for high rise buildings as specified in Regulation No.9.29.6 Telecommunication tower, antenna and allied activities.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Rockery, Well and well structures, Plant Nursery, Water Pool, platform around a tree, Fountain, bench, Chabutara with open top and unenclosed sides, Ramps, Compound wall, Gate, slide / swing, Steps ou"
+  },
+  "created_at": "2025-11-19T00:14:20.670406",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.472616",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

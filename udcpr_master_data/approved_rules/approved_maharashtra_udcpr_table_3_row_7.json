@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_7",
+  "title": "Table 3 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.7",
+  "clause_text": "Net Plot Area and Computation of FSI: CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES | Net Plot Area and Computation of FSI: CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "",
+        "CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES",
+        "CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "Net Plot Area and Computation of FSI: CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES | Net Plot Area and Computation of FSI: CHAPTER - 4 LAND USE CLASSIFICATION AND PERMISSIBLE USES"
+  },
+  "created_at": "2025-11-19T00:14:29.393832",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.907798",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

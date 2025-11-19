@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3090",
+  "title": "Diploma in Civil Engineering or Diploma in Architectural Assistance ship or equivalent qualification, having experience of 10 years in the field of land and building planning",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3090",
+  "clause_text": "Diploma in Civil Engineering or Diploma in Architectural Assistance ship or equivalent qualification, having experience of 10 years in the field of land and building planning. To carry out work related to development permission as given below and shall be entitled to submit- All plans and related information connected with development permission. Structural details and calculations for building on plot up to 500 Sq.m. and up to 3 storeys or",
+  "chapter": null,
+  "section": "C-3.1 Qualifications -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Diploma in Civil Engineering or Diploma in Architectural Assistance ship or equivalent qualification, having experience of 10 years in the field of land and building planning."
+  },
+  "created_at": "2025-11-19T00:14:26.582692",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.500805",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

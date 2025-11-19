@@ -1,0 +1,48 @@
+{
+  "rule_id": "maharashtra_udcpr_table_65_row_3",
+  "title": "Table 65 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-65.3",
+  "clause_text": ": Coaching Classes / Tuition Classes / Hobby Classes. | For every 3 class rooms: For every 20 students. | (1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.: 1 | (1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.: 9 | (1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.: 1 | (1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.: 9 | : --",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "For every 3 class rooms",
+        "(1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.",
+        "(1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.",
+        "(1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.",
+        "(1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at the rate of bus for every 40 numbers of students for 50% strength of students may be provided at the option of owner / developer. Mini bus parking shall be permitted on playground except during school timing.",
+        ""
+      ],
+      "values": [
+        "",
+        "",
+        "Coaching Classes / Tuition Classes / Hobby Classes.",
+        "For every 20 students.",
+        "1",
+        "9",
+        "1",
+        "9",
+        "--"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_65",
+    "text_snippet": ": Coaching Classes / Tuition Classes / Hobby Classes. | For every 3 class rooms: For every 20 students. | (1) 1) 5 two wheelers for every three class rooms. The number of mini bus parking shall be at "
+  },
+  "created_at": "2025-11-19T00:14:29.989800",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.595270",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

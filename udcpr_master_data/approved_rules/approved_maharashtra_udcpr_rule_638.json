@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_638",
+  "title": "Drive-in-Theatres, cinema or theatres, subject to provisions of the Maharashtra Cinemas (Regulation)",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 638",
+  "clause_text": "Drive-in-Theatres, cinema or theatres, subject to provisions of the Maharashtra Cinemas (Regulation) Act, Highway amenities as permitted in Agriculture zone with FSI at par with Industrial zone, Information Technology Establishments. (IT / ITES),",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Drive-in-Theatres, cinema or theatres, subject to provisions of the Maharashtra Cinemas (Regulation) Act,"
+  },
+  "created_at": "2025-11-19T00:14:19.235769",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.250495",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

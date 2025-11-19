@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1258",
+  "title": "*RC is the rate of construction in respect of RCC Construction and Land Rate (LR) is the rate of open Land for FSI 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1258",
+  "clause_text": "*RC is the rate of construction in respect of RCC Construction and Land Rate (LR) is the rate of open Land for FSI 1. FSI to be sanctioned on a Slum Rehabilitation scheme site may exceed 3.",
+  "chapter": null,
+  "section": "Rehabilitation and Free-Sale Component:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "*RC is the rate of construction in respect of RCC Construction and Land Rate (LR) is the rate of open Land for FSI 1."
+  },
+  "created_at": "2025-11-19T00:14:39.994337",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.013544",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

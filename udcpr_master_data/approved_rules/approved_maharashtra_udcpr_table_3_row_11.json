@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_11",
+  "title": "Table 3 - Row 11",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.11",
+  "clause_text": "3.9: 4.4 * | Net Plot Area and Computation of FSI: Residential Zone - R-2 | Net Plot Area and Computation of FSI: Residential Zone - R-2 | 56: 63",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "4.4 *",
+        "Residential Zone - R-2",
+        "Residential Zone - R-2",
+        "63"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 4.4 * | Net Plot Area and Computation of FSI: Residential Zone - R-2 | Net Plot Area and Computation of FSI: Residential Zone - R-2 | 56: 63"
+  },
+  "created_at": "2025-11-19T00:14:29.403195",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.919983",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

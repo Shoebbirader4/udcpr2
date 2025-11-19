@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3106",
+  "title": "As a Structural Engineer for design my responsibilities are limited to providing structural design structural drawings and details in accordance with the provisions of relevant prevailing Indian Standard codes, and visits to site at specified stages called for by the Supervising Structural Engineer / Supervising Engineer / site Engineer for verification of reinforcement laid",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3106",
+  "clause_text": "As a Structural Engineer for design my responsibilities are limited to providing structural design structural drawings and details in accordance with the provisions of relevant prevailing Indian Standard codes, and visits to site at specified stages called for by the Supervising Structural Engineer / Supervising Engineer / site Engineer for verification of reinforcement laid. All issues related to Supervision, Materials, Workmanship and execution are the sole responsibility of the Supervising Structural Engineer/Supervising Engineer / site Engineer. Visit made by me as Structural Engineer are not for Supervision since, I / we are not responsible for supervision and quality of work. This certificate is issued on the clear understanding that my overall design responsibility for safe and proper performance of structural design ceases, the moment any addition and / or alteration or any damage to the structural frame is caused by accident or by tampering with the geometrical sections of structural members for any purpose whatsoever or due to overloading of the structure or lack of maintenance or any act that is detrimental to the structure as a whole.",
+  "chapter": null,
+  "section": "CERTIFICATE AS PER APPENDIX C-4.3(viii)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "As a Structural Engineer for design my responsibilities are limited to providing structural design structural drawings and details in accordance with the provisions of relevant prevailing Indian Stand"
+  },
+  "created_at": "2025-11-19T00:14:26.706331",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.525405",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

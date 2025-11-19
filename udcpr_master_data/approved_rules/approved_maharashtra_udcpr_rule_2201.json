@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2201",
+  "title": "The impact assessment analysis shall be done by Planning Authority within 4 months containing the remedial measures required regarding upgradation of infrastructure etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2201",
+  "clause_text": "The impact assessment analysis shall be done by Planning Authority within 4 months containing the remedial measures required regarding upgradation of infrastructure etc. taking into consideration the impact analysis and provisions of sanctioned Development Plan and need of such area falling in TOD Zone. Local Area Plans shall be prepared by Planning Authority with participation of local residents within a period of four (4) months. Such Local Area Plans shall contain complete street design to achieve optimum densities and also to ensure complete pedestrianisation.",
+  "chapter": null,
+  "section": "Impact Assessment and Integrated Mobility Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The impact assessment analysis shall be done by Planning Authority within 4 months containing the remedial measures required regarding upgradation of infrastructure etc. taking into consideration the "
+  },
+  "created_at": "2025-11-19T00:14:23.980907",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.258003",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

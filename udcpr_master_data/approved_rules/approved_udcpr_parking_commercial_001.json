@@ -1,0 +1,39 @@
+{
+  "rule_id": "udcpr_parking_commercial_001",
+  "title": "Parking for Commercial Buildings",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "5.3.2",
+  "clause_text": "Commercial buildings shall provide 1 ECS per 50 sqm of built-up area. For malls and shopping centers, 1 ECS per 30 sqm is required.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "use_type",
+          "op": "==",
+          "value": "Commercial"
+        }
+      ],
+      "outputs": [
+        {
+          "field": "parking_ratio",
+          "value": 0.02,
+          "units": "ECS/sqm"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 90,
+    "text_snippet": "Commercial parking norms..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.935702",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

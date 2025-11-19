@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_9",
+  "title": "Table 3 - Row 9",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.9",
+  "clause_text": "3.9: 4.2 * + | Net Plot Area and Computation of FSI: Land Use Classification and Equivalency of Zones | Net Plot Area and Computation of FSI: Land Use Classification and Equivalency of Zones | 56: 59",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "4.2 * +",
+        "Land Use Classification and Equivalency of Zones",
+        "Land Use Classification and Equivalency of Zones",
+        "59"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 4.2 * + | Net Plot Area and Computation of FSI: Land Use Classification and Equivalency of Zones | Net Plot Area and Computation of FSI: Land Use Classification and Equivalency of Zones | 56: 59"
+  },
+  "created_at": "2025-11-19T00:14:29.393832",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.915424",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

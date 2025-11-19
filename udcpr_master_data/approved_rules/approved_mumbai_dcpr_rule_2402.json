@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2402",
+  "title": "The refuge areas shall not be allowed to be used for any other purpose and it shall be the responsibility of the owner/occupier to maintain the same clean and free of encumbrances and encroachments at all times",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2402",
+  "clause_text": "The refuge areas shall not be allowed to be used for any other purpose and it shall be the responsibility of the owner/occupier to maintain the same clean and free of encumbrances and encroachments at all times. Adequate emergency lighting facility shall be provided. The necessary facilities such as emergency lighting, drinking water etc. shall be provided.",
+  "chapter": null,
+  "section": "Use of refuge area: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The refuge areas shall not be allowed to be used for any other purpose and it shall be the responsibility of the owner/occupier to maintain the same clean and free of encumbrances and encroachments at"
+  },
+  "created_at": "2025-11-19T00:14:45.458975",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.026271",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

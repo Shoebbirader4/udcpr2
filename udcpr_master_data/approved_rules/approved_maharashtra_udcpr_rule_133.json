@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_133",
+  "title": "Grey Water - means waste water from kitchen sink, bathrooms, tubs, showers, wash basins, washing machines and dish washers excluding the waste water from water closets (W",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 133",
+  "clause_text": "Grey Water - means waste water from kitchen sink, bathrooms, tubs, showers, wash basins, washing machines and dish washers excluding the waste water from water closets (W.C.).",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Grey Water - means waste water from kitchen sink, bathrooms, tubs, showers, wash basins, washing machines and dish washers excluding the waste water from water closets (W.C.)."
+  },
+  "created_at": "2025-11-19T00:14:17.297669",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.857597",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1888",
+  "title": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Authority with an application along with relevant documents as may be prescribed by the Authority and a registered agreement which is duly signed by Transferor and Transferee, for seeking endorsement of the new holders name, i",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1888",
+  "clause_text": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Authority with an application along with relevant documents as may be prescribed by the Authority and a registered agreement which is duly signed by Transferor and Transferee, for seeking endorsement of the new holders name, i.e., the transferee, on the said certificate. The transfer shall not be valid without endorsement by the Authority and in such circumstances the Certificate shall be available for use only to the holder / transferor. The utilisation of TDR from such certificate shall not be permissible during transfer procedure. The Authority may refrain the DRC holder from utilizing the DRC in the following circumstances :- Where the Authority has reason to believe that the DRC is obtained by producing fraudulent documents b) by misrepresentation,",
+  "chapter": null,
+  "section": "Transfer of DRC",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Authority with an application along with relevant documents as may be prescribed by the Authority"
+  },
+  "created_at": "2025-11-19T00:14:23.157855",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.262170",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

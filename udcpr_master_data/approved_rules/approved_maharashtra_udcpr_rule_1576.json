@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1576",
+  "title": "fit and proper",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1576",
+  "clause_text": "fit and proper. However in any condition such PPL shall not be allotted to concerned land owners / housing society / association of apartment owners of occupiers in the plot of PPL.",
+  "chapter": null,
+  "section": "a) Development of Multi Storey Public Parking Lot (PPL) near Metro Stations",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "fit and proper. However in any condition such PPL shall not be allotted to concerned land owners / housing society / association of apartment owners of occupiers in the plot of PPL."
+  },
+  "created_at": "2025-11-19T00:14:22.374216",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.600509",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

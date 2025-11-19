@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_558",
+  "title": "The subplot/plots whose potential proposed to be utilized on the other subplot/plots shall become devoid of any potential and shall be handed over to MCGM and ownership of the same shall be transferred in the name of MCGM in P",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 558",
+  "clause_text": "The subplot/plots whose potential proposed to be utilized on the other subplot/plots shall become devoid of any potential and shall be handed over to MCGM and ownership of the same shall be transferred in the name of MCGM in P.R. Card, free of cost, free of encumbrances, as per the terms and conditions specified by Municipal Commissioner.",
+  "chapter": null,
+  "section": "Circumstances warranting preparation of a layout or sub- division/amalgamation: A layout or subdivision/amalgamation shall be submitted for the following:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The subplot/plots whose potential proposed to be utilized on the other subplot/plots shall become devoid of any potential and shall be handed over to MCGM and ownership of the same shall be transferre"
+  },
+  "created_at": "2025-11-19T00:14:37.582658",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.028509",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

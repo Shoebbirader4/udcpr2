@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_324",
+  "title": "Such amenity shall be deducted from the plot for the calculation of FSI permissible on the balance plot",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 324",
+  "clause_text": "Such amenity shall be deducted from the plot for the calculation of FSI permissible on the balance plot.",
+  "chapter": null,
+  "section": "In Plots/lay-outs of the land admeasuring 4000 sq. m or more:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such amenity shall be deducted from the plot for the calculation of FSI permissible on the balance plot."
+  },
+  "created_at": "2025-11-19T00:14:36.469860",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.343275",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

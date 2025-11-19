@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1594",
+  "title": "The owner shall be allowed to utilize the Zonal (basic) FSI and BUA as per column no (7) of above table for the uses permissible in the zone",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1594",
+  "clause_text": "The owner shall be allowed to utilize the Zonal (basic) FSI and BUA as per column no (7) of above table for the uses permissible in the zone. (k)In case of layout, 25% of Zonal (basic) FSI shall be exclusively used for the purpose of convenience shopping along layout road This provision shall not apply to the plots wherein permissible Zonal",
+  "chapter": null,
+  "section": "Development of AH/R&Ron private plot or plot of authority other than Govt./MCGM/Appropriate Authority.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner shall be allowed to utilize the Zonal (basic) FSI and BUA as per column no (7) of above table for the uses permissible in the zone. (k)In case of layout, 25% of Zonal (basic) FSI shall be ex"
+  },
+  "created_at": "2025-11-19T00:14:41.060173",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.910140",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

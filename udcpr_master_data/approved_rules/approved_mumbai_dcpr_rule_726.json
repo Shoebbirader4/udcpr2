@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_726",
+  "title": "If any contiguous land of the same owner/developer, in addition to the land under surrender for which Transferable Development Rights (TDR) is to be granted, remains unbuildable, the Municipal Commissioner may grant Transferable Development Rights (TDR) for such remaining unbuildable land also if the owner / developer hands it over free of cost and free from all encumbrance and encroachment",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 726",
+  "clause_text": "If any contiguous land of the same owner/developer, in addition to the land under surrender for which Transferable Development Rights (TDR) is to be granted, remains unbuildable, the Municipal Commissioner may grant Transferable Development Rights (TDR) for such remaining unbuildable land also if the owner / developer hands it over free of cost and free from all encumbrance and encroachment. If such land is from the proposed roads then such land shall be utilized for road side parking, garden, open space or road side amenities including bus bays, public toilets or any compatible user as the Commissioner may decide and if the such land is from the proposed reservation then same shall be included in such proposed reservation and shall be developed for the same purpose. The Municipal Commissioner shall quarterly report such cases to Government.",
+  "chapter": null,
+  "section": "GENERATION OF THE TRANSFERABLE DEVELOPMENT RIGHTS ( TDR )",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If any contiguous land of the same owner/developer, in addition to the land under surrender for which Transferable Development Rights (TDR) is to be granted, remains unbuildable, the Municipal Commiss"
+  },
+  "created_at": "2025-11-19T00:14:38.162889",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.487019",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

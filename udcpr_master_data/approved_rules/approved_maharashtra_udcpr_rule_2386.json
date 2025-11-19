@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2386",
+  "title": "T",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2386",
+  "clause_text": "T.D.R. out of the total permissible F.S.I. of the S.R.S. (rehabilitation component plus incentive sale component as per the ratios prescribed in the said Regulations) after deducting",
+  "chapter": null,
+  "section": "DEFINITIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "T.D.R. out of the total permissible F.S.I. of the S.R.S. (rehabilitation component plus incentive sale component as per the ratios prescribed in the said Regulations) after deducting"
+  },
+  "created_at": "2025-11-19T00:14:24.426031",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.780643",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

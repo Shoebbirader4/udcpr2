@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2156",
+  "title": "Note- Both the smoke check lobby with evacuation lift shall have positive level difference of minimum 75 mm with respect to staircase landing or mid- landing level to avoid ingress of water in fireman lift shaft",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2156",
+  "clause_text": "Note- Both the smoke check lobby with evacuation lift shall have positive level difference of minimum 75 mm with respect to staircase landing or mid- landing level to avoid ingress of water in fireman lift shaft.",
+  "chapter": null,
+  "section": "Fire Escape Chutes/ Controlled Lowering Device for evacuation-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note- Both the smoke check lobby with evacuation lift shall have positive level difference of minimum 75 mm with respect to staircase landing or mid- landing level to avoid ingress of water in fireman"
+  },
+  "created_at": "2025-11-19T00:14:44.077434",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.460709",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

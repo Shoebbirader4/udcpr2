@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2229",
+  "title": "These TOD provisions will also be made applicable to other MRTS projects such as BRTS",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2229",
+  "clause_text": "These TOD provisions will also be made applicable to other MRTS projects such as BRTS. The scale of FSI availability will be notified later by the Government for such other projects.(1)",
+  "chapter": null,
+  "section": "Incentive for providing Public Parking in the area falling within the radius of 200 m. from the Metro / MRTS Station.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "These TOD provisions will also be made applicable to other MRTS projects such as BRTS. The scale of FSI availability will be notified later by the Government for such other projects.(1)"
+  },
+  "created_at": "2025-11-19T00:14:24.062863",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.398396",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_8_1",
+  "title": "/ library existing eligible religious structure, school, dispensary, gymnasium run by Public Authority or Charitable Trust etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "8.1",
+  "clause_text": "/ library existing eligible religious structure, school, dispensary, gymnasium run by Public Authority or Charitable Trust etc. as per provision of 8.1 & 8.2 and additional amenities & facilities to be provided as per regulation no. 7.1 below.",
+  "chapter": null,
+  "section": "Rehabilitation and Free Sale Component",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "/ library existing eligible religious structure, school, dispensary, gymnasium run by Public Authority or Charitable Trust etc. as per provision of 8.1 & 8.2 and additional amenities & facilities to b"
+  },
+  "created_at": "2025-11-19T00:14:40.515808",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.323452",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_61_row_2",
+  "title": "Table 61 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-61.2",
+  "clause_text": "Sr. No.: 2 | Minimum: 18.0 m. | Maximum Permissible FSI: 4",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Minimum",
+        "Maximum Permissible FSI"
+      ],
+      "values": [
+        "2",
+        "18.0 m.",
+        "4"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_61",
+    "text_snippet": "Sr. No.: 2 | Minimum: 18.0 m. | Maximum Permissible FSI: 4"
+  },
+  "created_at": "2025-11-19T00:14:29.917956",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.548508",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

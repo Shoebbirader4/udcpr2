@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_72_row_1",
+  "title": "Table 72 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-72.1",
+  "clause_text": "Basic Ratio (LR / RC)*: Basic Ratio (LR / RC)* | Sharing of Balance FSI: Promoter/Developer Share | Sharing of Balance FSI: MHADA Share",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Basic Ratio (LR / RC)*",
+        "Sharing of Balance FSI",
+        "Sharing of Balance FSI"
+      ],
+      "values": [
+        "Basic Ratio (LR / RC)*",
+        "Promoter/Developer Share",
+        "MHADA Share"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_72",
+    "text_snippet": "Basic Ratio (LR / RC)*: Basic Ratio (LR / RC)* | Sharing of Balance FSI: Promoter/Developer Share | Sharing of Balance FSI: MHADA Share"
+  },
+  "created_at": "2025-11-19T00:14:48.458160",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.642105",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

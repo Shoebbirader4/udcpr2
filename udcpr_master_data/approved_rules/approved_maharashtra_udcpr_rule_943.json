@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_943",
+  "title": "Development of buildings of health resort, educational and medical activities, with G + 1 or Stilt +",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 943",
+  "clause_text": "Development of buildings of health resort, educational and medical activities, with G + 1 or Stilt + 2 structure, subject to plantation of indigenous trees at the rate of 5 trees per",
+  "chapter": null,
+  "section": "Conditions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development of buildings of health resort, educational and medical activities, with G + 1 or Stilt + 2 structure, subject to plantation of indigenous trees at the rate of 5 trees per"
+  },
+  "created_at": "2025-11-19T00:14:20.062809",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.912581",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

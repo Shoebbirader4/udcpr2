@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2967",
+  "title": "All relaxations outlined hereinabove shall be admissible only to buildings in the Rehabilitation Component of URS and also to the composite buildings therein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2967",
+  "clause_text": "All relaxations outlined hereinabove shall be admissible only to buildings in the Rehabilitation Component of URS and also to the composite buildings therein. Premium at the concessional rate shall be charged by the Municipal Commissioner for all or any of the relaxations given hereinabove or for any other mentioned in UDCPR. The parking in the URS shall be provided as per the provisions of UDCPR.",
+  "chapter": null,
+  "section": "Relaxation in Building and other requirements –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All relaxations outlined hereinabove shall be admissible only to buildings in the Rehabilitation Component of URS and also to the composite buildings therein. Premium at the concessional rate shall be"
+  },
+  "created_at": "2025-11-19T00:14:25.908679",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.277883",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

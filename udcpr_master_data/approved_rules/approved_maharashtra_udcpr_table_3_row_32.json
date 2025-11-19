@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_32",
+  "title": "Table 3 - Row 32",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.32",
+  "clause_text": "3.9: 4.24 | Net Plot Area and Computation of FSI: Special Economic Zone. | Net Plot Area and Computation of FSI: Special Economic Zone. | 56: 78",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "4.24",
+        "Special Economic Zone.",
+        "Special Economic Zone.",
+        "78"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 4.24 | Net Plot Area and Computation of FSI: Special Economic Zone. | Net Plot Area and Computation of FSI: Special Economic Zone. | 56: 78"
+  },
+  "created_at": "2025-11-19T00:14:29.444697",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.031086",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

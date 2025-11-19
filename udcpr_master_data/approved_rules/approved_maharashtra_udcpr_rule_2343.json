@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2343",
+  "title": "After the commencement of this Regulation, the Heritage Precincts or the Listed Buildings shall not be permitted to be used for any commercial or office purpose except with the concurrence of the Heritage Conservation Committee",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2343",
+  "clause_text": "After the commencement of this Regulation, the Heritage Precincts or the Listed Buildings shall not be permitted to be used for any commercial or office purpose except with the concurrence of the Heritage Conservation Committee. However, in cases of buildings included in the Heritage Conservation List, if the owner /owners agree to maintain the listed Heritage Building in an ideal state of preservation with due repairs / restorations and if the owner / owners give a written undertaking to that effect, may be allowed by the Authority in consultation with Heritage Conservation Committee to convert part or the whole of the building to commercial / office use / any other different use that is beneficial to the preservation of the same Provided that, if the heritage building is not maintained suitably or if the heritage value of the building is allowed to be spoiled in any manner, the Authority shall withdraw the permission forthwith.",
+  "chapter": null,
+  "section": "Incentive uses for Heritage Buildings",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After the commencement of this Regulation, the Heritage Precincts or the Listed Buildings shall not be permitted to be used for any commercial or office purpose except with the concurrence of the Heri"
+  },
+  "created_at": "2025-11-19T00:14:24.319315",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.662526",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1460",
+  "title": "The gross floor area shall include, in addition to the main assembly rooms or space, any occupied connecting room or space in the same storey or in the storeys above or below where entrance is common to such rooms and spaces and they are available for use by the occupants of the assembly place",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1460",
+  "clause_text": "The gross floor area shall include, in addition to the main assembly rooms or space, any occupied connecting room or space in the same storey or in the storeys above or below where entrance is common to such rooms and spaces and they are available for use by the occupants of the assembly place. No deductions shall be made in the area for corridors, closets or other subdivisions, that area shall include all space serving the particular assembly occupancy.",
+  "chapter": null,
+  "section": "Occupant Load",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The gross floor area shall include, in addition to the main assembly rooms or space, any occupied connecting room or space in the same storey or in the storeys above or below where entrance is common "
+  },
+  "created_at": "2025-11-19T00:14:21.917265",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.291382",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

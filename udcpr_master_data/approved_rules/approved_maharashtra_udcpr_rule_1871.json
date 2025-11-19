@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1871",
+  "title": "If any person, with the consent of the authority, constructs D",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1871",
+  "clause_text": "If any person, with the consent of the authority, constructs D.P. road by obtaining development rights / consent of the other owners whose land is covered under the D.P. road, then such person may be entitled for construction amenity TDR subject to – This provision shall only apply to construction of new road proposed in the Development Plan. One end of road should meet other existing public road. The specifications for construction of road shall be as decided by the Authority.",
+  "chapter": null,
+  "section": "Construction Amenity TDR in Sq.m. = A / B * (2) 1.35 Where,",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If any person, with the consent of the authority, constructs D.P. road by obtaining development rights / consent of the other owners whose land is covered under the D.P. road, then such person may be "
+  },
+  "created_at": "2025-11-19T00:14:23.096530",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.230423",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

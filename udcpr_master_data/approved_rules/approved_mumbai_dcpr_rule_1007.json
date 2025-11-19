@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1007",
+  "title": "Under the Cluster DevelopmentPlan (CDP) for the concerned area, to be prepared by the Commissioner,",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1007",
+  "clause_text": "Under the Cluster DevelopmentPlan (CDP) for the concerned area, to be prepared by the Commissioner, who may revise the same as and when required; or Under the Development Plan (DP), where the DP contains such well- defined cluster",
+  "chapter": null,
+  "section": "33(9) Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)(CDS):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Under the Cluster DevelopmentPlan (CDP) for the concerned area, to be prepared by the Commissioner, who may revise the same as and when required; or"
+  },
+  "created_at": "2025-11-19T00:14:39.232668",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.407402",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

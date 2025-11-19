@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_142_row_2",
+  "title": "Table 142 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-142.2",
+  "clause_text": "Sr. No.: 1 | Road width in m.: 9.0 m. and up to 12.0 m. | Maximum Permissible FSI: 2.50",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Road width in m.",
+        "Maximum Permissible FSI"
+      ],
+      "values": [
+        "1",
+        "9.0 m. and up to 12.0 m.",
+        "2.50"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_142",
+    "text_snippet": "Sr. No.: 1 | Road width in m.: 9.0 m. and up to 12.0 m. | Maximum Permissible FSI: 2.50"
+  },
+  "created_at": "2025-11-19T00:14:31.067801",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.030354",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

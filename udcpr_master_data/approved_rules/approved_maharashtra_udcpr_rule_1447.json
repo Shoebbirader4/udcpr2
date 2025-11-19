@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1447",
+  "title": "All the floors shall be accessible for 24 hours by the lifts",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1447",
+  "clause_text": "All the floors shall be accessible for 24 hours by the lifts. The lifts provided in the buildings shall not be considered as a means of escape in case of emergency. Grounding switch at ground floor level to enable the fire service to ground the lift cars in an emergency shall also be provided. The lift machine rooms shall be separate and no other machinery shall be installed therein.",
+  "chapter": null,
+  "section": "(#) Planning and Design",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All the floors shall be accessible for 24 hours by the lifts. The lifts provided in the buildings shall not be considered as a means of escape in case of emergency. Grounding switch at ground floor le"
+  },
+  "created_at": "2025-11-19T00:14:21.829750",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.244547",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

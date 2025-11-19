@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_34_row_2",
+  "title": "Table 34 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-34.2",
+  "clause_text": "Proposed Land-use Zone: Agriculture / No Development Zone | Permissible Users: All users permissible in Agriculture Zone as per Regulation No.4.11. | Permissible FSI: a) Maximum permissible FSI shall be 0.75 for the lands falling within permissible peripheral distance from the gaothan. b) Maximum permissible FSI shall be as per Regulation No.4.11 from the lands falling beyond such permissible distance.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Proposed Land-use Zone",
+        "Permissible Users",
+        "Permissible FSI"
+      ],
+      "values": [
+        "Agriculture / No Development Zone",
+        "All users permissible in Agriculture Zone as per Regulation No.4.11.",
+        "a) Maximum permissible FSI shall be 0.75 for the lands falling within permissible peripheral distance from the gaothan. b) Maximum permissible FSI shall be as per Regulation No.4.11 from the lands falling beyond such permissible distance."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_34",
+    "text_snippet": "Proposed Land-use Zone: Agriculture / No Development Zone | Permissible Users: All users permissible in Agriculture Zone as per Regulation No.4.11. | Permissible FSI: a) Maximum permissible FSI shall "
+  },
+  "created_at": "2025-11-19T00:14:29.818942",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.495760",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_122_row_4",
+  "title": "Table 122 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-122.4",
+  "clause_text": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: i) | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Toilet suite comprising one WC and one washbasin (with optional shower stall if building used for 24 h) | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: For up to 4 patients | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: For up to 4 patients | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: For individual doctor‘s / officer‘s rooms | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: For individual doctor‘s / officer‘s rooms",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department"
+      ],
+      "values": [
+        "i)",
+        "Toilet suite comprising one WC and one washbasin (with optional shower stall if building used for 24 h)",
+        "For up to 4 patients",
+        "For up to 4 patients",
+        "For individual doctor‘s / officer‘s rooms",
+        "For individual doctor‘s / officer‘s rooms"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_122",
+    "text_snippet": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: i) | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Toilet suite comprising one WC and "
+  },
+  "created_at": "2025-11-19T00:14:30.675141",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.877983",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

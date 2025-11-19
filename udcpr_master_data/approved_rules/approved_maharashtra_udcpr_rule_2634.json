@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2634",
+  "title": "The eligible hutment dwellers, including the P",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2634",
+  "clause_text": "The eligible hutment dwellers, including the P.A.P.s nominated by the C.E.O., S.R.A., will have to form a Co-operative Housing Society after all members have fully paid their dues to the Corporation, MHADA etc. All the cost involved in connection with registration of the Co-operative Housing Society will be borne by the eligible hutment dwellers and the Developer shall register a Co-operative Housing Society (C.H.S.) of the rehabilitated hutment dwellers within 60 days from the date of issuance of the commencement certificate to the project of Rehabilitation Tenements by the hutment dwellers. Stamp Duty payable under Bombay Stamp Act, 1958 for registration of documents of allotment of such rehabilitation tenements or registration of Co-operative Housing Society shall be fully exempted.",
+  "chapter": null,
+  "section": "FORMATION OF CO-OPERATIVE SOCIETY",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The eligible hutment dwellers, including the P.A.P.s nominated by the C.E.O., S.R.A., will have to form a Co-operative Housing Society after all members have fully paid their dues to the Corporation, "
+  },
+  "created_at": "2025-11-19T00:14:24.974433",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.500435",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

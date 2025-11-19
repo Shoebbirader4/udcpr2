@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_398",
+  "title": "The Authority shall have the power to carry out inspection of the work under the provisions of the Act, at various stages to ascertain whether the work is proceeding as per the provisions of regulations and sanctioned plan",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 398",
+  "clause_text": "The Authority shall have the power to carry out inspection of the work under the provisions of the Act, at various stages to ascertain whether the work is proceeding as per the provisions of regulations and sanctioned plan.",
+  "chapter": null,
+  "section": "2.10 OCCUPANCY CERTIFICATE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Authority shall have the power to carry out inspection of the work under the provisions of the Act, at various stages to ascertain whether the work is proceeding as per the provisions of regulatio"
+  },
+  "created_at": "2025-11-19T00:14:18.203051",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.597716",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

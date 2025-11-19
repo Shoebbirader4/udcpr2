@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1527",
+  "title": "Provided that additional FSI shall be permissible only on plots having an access road of minimum 18 meters width and subject to approval by committee chaired by the Principal Secretary, Information Technology and comprising representatives of Industries, Finance and Urban Development Department (UD-1)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1527",
+  "clause_text": "Provided that additional FSI shall be permissible only on plots having an access road of minimum 18 meters width and subject to approval by committee chaired by the Principal Secretary, Information Technology and comprising representatives of Industries, Finance and Urban Development Department (UD-1).",
+  "chapter": null,
+  "section": "33(13)(A) Buildings of Smart Fin Tech Centre",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that additional FSI shall be permissible only on plots having an access road of minimum 18 meters width and subject to approval by committee chaired by the Principal Secretary, Information Te"
+  },
+  "created_at": "2025-11-19T00:14:40.879568",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.626299",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_3",
+  "title": "Table 3 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.3",
+  "clause_text": "3.9: 3.12 | Net Plot Area and Computation of FSI: Amalgamation of Plots | Net Plot Area and Computation of FSI: Amalgamation of Plots | 56: 58",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "3.12",
+        "Amalgamation of Plots",
+        "Amalgamation of Plots",
+        "58"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 3.12 | Net Plot Area and Computation of FSI: Amalgamation of Plots | Net Plot Area and Computation of FSI: Amalgamation of Plots | 56: 58"
+  },
+  "created_at": "2025-11-19T00:14:29.385927",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.872315",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

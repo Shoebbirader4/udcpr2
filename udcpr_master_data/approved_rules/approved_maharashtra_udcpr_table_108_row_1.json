@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_108_row_1",
+  "title": "Table 108 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-108.1",
+  "clause_text": ": 11) Reservations which are not included in these regulations but are compatible to other similar type of reservation. | : Planning Authority / Appropriate Authority / Owner | each user shall be considered equal i.e. 50 - 50% and for Town Hall & Library, area of Library shall be 10% of area of Town Hall and such area shall be allowed to be developed as per the norms applicable for such reservation as mentioned in these regulations.: Planning Authority / Appropriate Authority may acquire the reserved land and develop for the same purpose. OR The development permissions for such type of user under this Regulation may be granted by the Authority in consultation with the Divisional Joint Director of Town Planning, subject to verification of compatibility of both the users and as per the norms applicable for such reservation as mentioned in these regulations.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "each user shall be considered equal i.e. 50 - 50% and for Town Hall & Library, area of Library shall be 10% of area of Town Hall and such area shall be allowed to be developed as per the norms applicable for such reservation as mentioned in these regulations.",
+        ""
+      ],
+      "values": [
+        "",
+        "11) Reservations which are not included in these regulations but are compatible to other similar type of reservation.",
+        "Planning Authority / Appropriate Authority / Owner",
+        "Planning Authority / Appropriate Authority may acquire the reserved land and develop for the same purpose. OR The development permissions for such type of user under this Regulation may be granted by the Authority in consultation with the Divisional Joint Director of Town Planning, subject to verification of compatibility of both the users and as per the norms applicable for such reservation as mentioned in these regulations.",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_108",
+    "text_snippet": ": 11) Reservations which are not included in these regulations but are compatible to other similar type of reservation. | : Planning Authority / Appropriate Authority / Owner | each user shall be cons"
+  },
+  "created_at": "2025-11-19T00:14:30.239905",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.667771",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_749",
+  "title": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are re",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 749",
+  "clause_text": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are retainable and not vested or handed over to the",
+  "chapter": null,
+  "section": "GENERAL STIPULATION:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are retainable and not vested or handed over to the"
+  },
+  "created_at": "2025-11-19T00:14:38.233657",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.577397",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

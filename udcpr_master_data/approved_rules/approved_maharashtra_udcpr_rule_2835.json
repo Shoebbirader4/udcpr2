@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2835",
+  "title": "In case of demonstrable hardship such as natural sub division by roads, Nallahs, river, railway lines, the area of the cluster can be allowed up to an area of 8000 Sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2835",
+  "clause_text": "In case of demonstrable hardship such as natural sub division by roads, Nallahs, river, railway lines, the area of the cluster can be allowed up to an area of 8000 Sq.m. in non- congested area which shall be allowed by Municipal Commissioner in consultation with H.P.C. However no forest land shall be included in such URS.",
+  "chapter": null,
+  "section": "Urban Renewal Scheme (URS) for Municipal Corporation Area –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of demonstrable hardship such as natural sub division by roads, Nallahs, river, railway lines, the area of the cluster can be allowed up to an area of 8000 Sq.m. in non- congested area which s"
+  },
+  "created_at": "2025-11-19T00:14:25.461968",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.930992",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

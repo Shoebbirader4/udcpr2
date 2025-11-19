@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_448",
+  "title": "The Built-up amenity shall be in the form of the activity related to the public entertainment as decided by the Commissioner such as Opera theater/Mini-theater/Production studio for cinema & or Tele- serial/Dubbing & Recording studio/ Preview theater",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 448",
+  "clause_text": "The Built-up amenity shall be in the form of the activity related to the public entertainment as decided by the Commissioner such as Opera theater/Mini-theater/Production studio for cinema & or Tele- serial/Dubbing & Recording studio/ Preview theater. In case of plots up to 2000 sq. m, such activity shall preferably be located in a separate wing and with the separate access.",
+  "chapter": null,
+  "section": "17 (2) Redevelopment of existing Cinema/Theater:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Built-up amenity shall be in the form of the activity related to the public entertainment as decided by the Commissioner such as Opera theater/Mini-theater/Production studio for cinema & or Tele- "
+  },
+  "created_at": "2025-11-19T00:14:36.969970",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.684510",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

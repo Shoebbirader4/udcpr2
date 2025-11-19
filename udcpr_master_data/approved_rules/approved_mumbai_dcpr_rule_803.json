@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_803",
+  "title": "Provided further that in case of Public Sector Undertaking the premium for FSI beyond Zonal (basic) FSI shall be payable as decided by Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 803",
+  "clause_text": "Provided further that in case of Public Sector Undertaking the premium for FSI beyond Zonal (basic) FSI shall be payable as decided by Govt. from time to time.",
+  "chapter": null,
+  "section": "33(3) Buildings of Government/MCGM/Statutory Bodies, Semi- Government and PSU Offices:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that in case of Public Sector Undertaking the premium for FSI beyond Zonal (basic) FSI shall be payable as decided by Govt. from time to time."
+  },
+  "created_at": "2025-11-19T00:14:38.433918",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.783859",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

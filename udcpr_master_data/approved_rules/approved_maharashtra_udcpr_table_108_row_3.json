@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_108_row_3",
+  "title": "Table 108 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-108.3",
+  "clause_text": ": 13) Reservations for the Appropriate Authority other than Planning Authority | : Planning Authority / Appropriate Authority / Owner | each user shall be considered equal i.e. 50 - 50% and for Town Hall & Library, area of Library shall be 10% of area of Town Hall and such area shall be allowed to be developed as per the norms applicable for such reservation as mentioned in these regulations.: Planning Authority / Appropriate Authority may acquire the reserved land and develop for the same purpose. OR",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "each user shall be considered equal i.e. 50 - 50% and for Town Hall & Library, area of Library shall be 10% of area of Town Hall and such area shall be allowed to be developed as per the norms applicable for such reservation as mentioned in these regulations.",
+        ""
+      ],
+      "values": [
+        "",
+        "13) Reservations for the Appropriate Authority other than Planning Authority",
+        "Planning Authority / Appropriate Authority / Owner",
+        "Planning Authority / Appropriate Authority may acquire the reserved land and develop for the same purpose. OR",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_108",
+    "text_snippet": ": 13) Reservations for the Appropriate Authority other than Planning Authority | : Planning Authority / Appropriate Authority / Owner | each user shall be considered equal i.e. 50 - 50% and for Town H"
+  },
+  "created_at": "2025-11-19T00:14:30.239905",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.672830",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

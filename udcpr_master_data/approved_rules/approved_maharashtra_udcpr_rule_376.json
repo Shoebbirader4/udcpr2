@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_376",
+  "title": "After sanction of development permission, the authority shall make available all plans relating to such permission on its web-site, if available",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 376",
+  "clause_text": "After sanction of development permission, the authority shall make available all plans relating to such permission on its web-site, if available. Such documents shall be kept on web-site till one month from the date of issuance of last occupation certificate.",
+  "chapter": null,
+  "section": "Display of Sanctioned Permissions on Authority's Web-Site",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After sanction of development permission, the authority shall make available all plans relating to such permission on its web-site, if available. Such documents shall be kept on web-site till one mont"
+  },
+  "created_at": "2025-11-19T00:14:18.152376",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.546832",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

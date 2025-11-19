@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_64",
+  "title": "“Demonstrable Hardship” Demonstrable hardship means plot under development/ redevelopment affected due to Nalla, Nallah/river buffer, road widening, height restriction due to statutory restriction as per these Regulations such as railway buffer, height restrictions in the vicinity of Airport, height restriction in the vicinity of defence establishments, and/or any other restrictions as per the provisions of these Regulations affecting the project, odd shape plot, rehabilitation of existing tenants/occupants on small size plot/s etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 64",
+  "clause_text": "“Demonstrable Hardship” Demonstrable hardship means plot under development/ redevelopment affected due to Nalla, Nallah/river buffer, road widening, height restriction due to statutory restriction as per these Regulations such as railway buffer, height restrictions in the vicinity of Airport, height restriction in the vicinity of defence establishments, and/or any other restrictions as per the provisions of these Regulations affecting the project, odd shape plot, rehabilitation of existing tenants/occupants on small size plot/s etc.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Demonstrable Hardship” Demonstrable hardship means plot under development/ redevelopment affected due to Nalla, Nallah/river buffer, road widening, height restriction due to statutory restriction as "
+  },
+  "created_at": "2025-11-19T00:14:34.738768",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.746964",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

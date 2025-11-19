@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2424",
+  "title": "The repairs to the non-tallying portion which forms part of common amenities such as toilet block, washing places, common passage, and staircase can be considered at Dy",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2424",
+  "clause_text": "The repairs to the non-tallying portion which forms part of common amenities such as toilet block, washing places, common passage, and staircase can be considered at Dy. Ch. E (BP)'s level.",
+  "chapter": null,
+  "section": "Guidelines",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The repairs to the non-tallying portion which forms part of common amenities such as toilet block, washing places, common passage, and staircase can be considered at Dy. Ch. E (BP)'s level."
+  },
+  "created_at": "2025-11-19T00:14:45.593399",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.080386",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

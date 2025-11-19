@@ -1,0 +1,48 @@
+{
+  "rule_id": "mumbai_dcpr_table_55_row_8",
+  "title": "Table 55 - Row 8",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-55.8",
+  "clause_text": "Sr No: III | Areas: Island City | Zone: Indus trial | Zonal (Basic ): 1.0 | Permi ssibl e FSI (4+5 +6): 1.0",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Areas",
+        "Areas",
+        "Zone",
+        "Road width",
+        "Zonal (Basic )",
+        "Additio nal FSI on payme nt of Premiu m",
+        "Adm issib le TDR",
+        "Permi ssibl e FSI (4+5 +6)"
+      ],
+      "values": [
+        "III",
+        "",
+        "Island City",
+        "Indus trial",
+        "",
+        "1.0",
+        "",
+        "",
+        "1.0"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_55",
+    "text_snippet": "Sr No: III | Areas: Island City | Zone: Indus trial | Zonal (Basic ): 1.0 | Permi ssibl e FSI (4+5 +6): 1.0"
+  },
+  "created_at": "2025-11-19T00:14:48.406328",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.599312",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

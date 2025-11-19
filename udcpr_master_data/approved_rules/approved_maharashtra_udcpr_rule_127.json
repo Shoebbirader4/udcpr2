@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_127",
+  "title": "Footing - means a foundation unit constructed in brick work, masonry or concrete, steel or any other material permissible as per IS Code under the base of a wall or column for the purpose of distributing the load over a large area",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 127",
+  "clause_text": "Footing - means a foundation unit constructed in brick work, masonry or concrete, steel or any other material permissible as per IS Code under the base of a wall or column for the purpose of distributing the load over a large area.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Footing - means a foundation unit constructed in brick work, masonry or concrete, steel or any other material permissible as per IS Code under the base of a wall or column for the purpose of distribut"
+  },
+  "created_at": "2025-11-19T00:14:17.283857",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.850045",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

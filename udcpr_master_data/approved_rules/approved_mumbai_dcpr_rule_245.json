@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_245",
+  "title": "Details of air-conditioning system with position of fire dampers, mechanical ventilation system, electrical services (with dimensions of electrical transforming sub-stations etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 245",
+  "clause_text": "Details of air-conditioning system with position of fire dampers, mechanical ventilation system, electrical services (with dimensions of electrical transforming sub-stations etc.) boilers, gas pipes, meter rooms etc.; Details of exits, including ramps, etc. for hospitals and special risks; Location of generator, transformer and switch gear room;",
+  "chapter": null,
+  "section": "Contour plan of site, wherever necessary .",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Details of air-conditioning system with position of fire dampers, mechanical ventilation system, electrical services (with dimensions of electrical transforming sub-stations etc.) boilers, gas pipes, "
+  },
+  "created_at": "2025-11-19T00:14:36.003433",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.158043",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

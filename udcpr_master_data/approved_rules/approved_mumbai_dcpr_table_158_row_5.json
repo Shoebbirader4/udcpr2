@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_158_row_5",
+  "title": "Table 158 - Row 5",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-158.5",
+  "clause_text": "Sr. No. (1): 9. | Occupancy (2): Cinemas and theatres | Parking Space required (3): Parking spaces equivalent to eight per cent of the total number of seats with additional parking as otherwise also required for other permissible users in conjunction with that of cinema/theatre.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "9.",
+        "Cinemas and theatres",
+        "Parking spaces equivalent to eight per cent of the total number of seats with additional parking as otherwise also required for other permissible users in conjunction with that of cinema/theatre."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_158",
+    "text_snippet": "Sr. No. (1): 9. | Occupancy (2): Cinemas and theatres | Parking Space required (3): Parking spaces equivalent to eight per cent of the total number of seats with additional parking as otherwise also r"
+  },
+  "created_at": "2025-11-19T00:14:49.090523",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.870625",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

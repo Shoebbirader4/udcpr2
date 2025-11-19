@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2155",
+  "title": "The (1) concerned Collector (1) or the Authority, as the case may be, before issuing the Occupancy Certificate for the project as a whole, shall verify and satisfy himself about the completion of erection / development / construction of all the basic required infrastructure in Master Layout plan",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2155",
+  "clause_text": "The (1) concerned Collector (1) or the Authority, as the case may be, before issuing the Occupancy Certificate for the project as a whole, shall verify and satisfy himself about the completion of erection / development / construction of all the basic required infrastructure in Master Layout plan. In case, an application for part occupancy, such completion shall be as prescribed in phase programme.",
+  "chapter": null,
+  "section": "Occupancy Certificate :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The (1) concerned Collector (1) or the Authority, as the case may be, before issuing the Occupancy Certificate for the project as a whole, shall verify and satisfy himself about the completion of erec"
+  },
+  "created_at": "2025-11-19T00:14:23.879821",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.061385",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

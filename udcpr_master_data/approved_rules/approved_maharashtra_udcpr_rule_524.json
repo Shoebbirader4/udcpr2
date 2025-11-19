@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_524",
+  "title": "this regulation shall not be applicable where entire development permission is for amenities specified in definition of amenity space in these Regulations and also for uses other than residential permissible in agricultural zone",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 524",
+  "clause_text": "this regulation shall not be applicable where entire development permission is for amenities specified in definition of amenity space in these Regulations and also for uses other than residential permissible in agricultural zone. This regulation shall also not be applicable, if construction on entire plot is for hotel building or IT establishment / building. this regulation shall not be applicable to the Town Planning Scheme area under M. R. & T. P. Act, 1966 or similar scheme permitted in agricultural zone.",
+  "chapter": null,
+  "section": "3.5 PROVISION FOR AMENITY SPACE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "this regulation shall not be applicable where entire development permission is for amenities specified in definition of amenity space in these Regulations and also for uses other than residential perm"
+  },
+  "created_at": "2025-11-19T00:14:18.661073",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.918840",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

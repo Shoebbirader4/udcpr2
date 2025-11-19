@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_87",
+  "title": "\"Fire resistance\" means the duration of time which a fire resistant material i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 87",
+  "clause_text": "\"Fire resistance\" means the duration of time which a fire resistant material i.e. material having a certain degree of fire resistance, fulfills its function of contributing to the fire safety of a building when subjected to prescribed conditions of heat and load or restraint. The fire resistance test of structures shall be done in accordance with IS: 3809-1966 Fire Resistance Test of Structure.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Fire resistance\" means the duration of time which a fire resistant material i.e. material having a certain degree of fire resistance, fulfills its function of contributing to the fire safety of a bui"
+  },
+  "created_at": "2025-11-19T00:14:34.848000",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.784376",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

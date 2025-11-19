@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2988",
+  "title": "If in cases, where lack of compliance is observed, the concerned authority should issue a notice to the resort owner / operator for corrective action within 15 days, failing to do so or having not been satisfied with the action taken or reply / justification received, any decision to shut down the unit may be taken, by the respective authority",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2988",
+  "clause_text": "If in cases, where lack of compliance is observed, the concerned authority should issue a notice to the resort owner / operator for corrective action within 15 days, failing to do so or having not been satisfied with the action taken or reply / justification received, any decision to shut down the unit may be taken, by the respective authority.",
+  "chapter": null,
+  "section": "The norms for buildings shall be as follows -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If in cases, where lack of compliance is observed, the concerned authority should issue a notice to the resort owner / operator for corrective action within 15 days, failing to do so or having not bee"
+  },
+  "created_at": "2025-11-19T00:14:26.030629",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.322058",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

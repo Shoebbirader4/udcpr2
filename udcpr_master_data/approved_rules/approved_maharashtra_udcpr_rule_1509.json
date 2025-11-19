@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1509",
+  "title": "The owner shall submit the undertaking to the authority that, such architectural projection shall not be converted to any habitable or other purpose",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1509",
+  "clause_text": "The owner shall submit the undertaking to the authority that, such architectural projection shall not be converted to any habitable or other purpose. Following amenities shall be provided in any housing scheme and shall be counted in FSI.",
+  "chapter": null,
+  "section": "Refuge chute / Garbage Chute -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner shall submit the undertaking to the authority that, such architectural projection shall not be converted to any habitable or other purpose."
+  },
+  "created_at": "2025-11-19T00:14:22.104437",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.403394",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

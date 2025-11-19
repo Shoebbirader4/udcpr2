@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_442",
+  "title": "Whether the area affected by the notification under Works of Defense Act - 1903, is earmarked in Development Plan / Regional Plan or not, it shall be permissible to treat the area under such restrictive zone as marginal distance at the time of construction of any building proposed on contiguous unaffected area",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 442",
+  "clause_text": "Whether the area affected by the notification under Works of Defense Act - 1903, is earmarked in Development Plan / Regional Plan or not, it shall be permissible to treat the area under such restrictive zone as marginal distance at the time of construction of any building proposed on contiguous unaffected area.",
+  "chapter": null,
+  "section": "Restriction under the Works of Defence Act, 1903",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Whether the area affected by the notification under Works of Defense Act - 1903, is earmarked in Development Plan / Regional Plan or not, it shall be permissible to treat the area under such restricti"
+  },
+  "created_at": "2025-11-19T00:14:18.301122",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.679737",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

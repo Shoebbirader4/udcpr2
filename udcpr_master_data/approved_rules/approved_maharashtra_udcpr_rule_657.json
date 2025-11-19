@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_657",
+  "title": "If the area under reservation in development plan is more than the area required for public amenity space as per this regulation, then the area for public amenity space shall be provided equal to area required under this regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 657",
+  "clause_text": "If the area under reservation in development plan is more than the area required for public amenity space as per this regulation, then the area for public amenity space shall be provided equal to area required under this regulation.",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the area under reservation in development plan is more than the area required for public amenity space as per this regulation, then the area for public amenity space shall be provided equal to area"
+  },
+  "created_at": "2025-11-19T00:14:19.287483",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.296284",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

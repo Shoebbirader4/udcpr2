@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_23",
+  "title": "Table 12 - Row 23",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.23",
+  "clause_text": "PART X SPECIAL PROVISIONS: 62 | PART X SPECIAL PROVISIONS: Rain Water Harvesting (RWH) | PART X SPECIAL PROVISIONS: 394",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "62",
+        "Rain Water Harvesting (RWH)",
+        "394"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: 62 | PART X SPECIAL PROVISIONS: Rain Water Harvesting (RWH) | PART X SPECIAL PROVISIONS: 394"
+  },
+  "created_at": "2025-11-19T00:14:48.168440",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.539151",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

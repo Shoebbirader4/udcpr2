@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_156_row_2",
+  "title": "Table 156 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-156.2",
+  "clause_text": "Parking Space required (3): One parking space for every. 4 tenements having carpet area upto45 sq.m each. 2 tenements with carpet area exceeding 45sq.m but not exceeding 60sq.m each. Provided further that in case of (a) & (b), at the option of owner/developer, may provide one parking for each tenement. 1 tenement with carpet area exceeding 60sq.m but not exceeding 90sq.m 1/2 tenement with carpet area exceeding 90 sq.m In addition to the parking spaces specified in (a), (b),(c)& (d) above, parking for visitors shall be provided to the extent of 25 per cent of the number stipulated above, subject to minimum of one. Provided that for the redevelopment under Regulation 33(5), 33(6), 33(7), 33(7)(A),33(9),33(9)(B), 33(10) 33(10)(A),33(11) (A),33(15) & 33(20) the parking shall be as follows. One parking space for every. 8 tenements having carpet area upto45sq.m each 4 tenements with carpet area exceeding 45sq.m but not exceeding 60 sq.m each 2 tenements with carpet area exceeding 60 sq.m but not exceeding 90sq.m each. 1 tenement with carpet area exceeding 90sq.m",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "",
+        "",
+        "One parking space for every. 4 tenements having carpet area upto45 sq.m each. 2 tenements with carpet area exceeding 45sq.m but not exceeding 60sq.m each. Provided further that in case of (a) & (b), at the option of owner/developer, may provide one parking for each tenement. 1 tenement with carpet area exceeding 60sq.m but not exceeding 90sq.m 1/2 tenement with carpet area exceeding 90 sq.m In addition to the parking spaces specified in (a), (b),(c)& (d) above, parking for visitors shall be provided to the extent of 25 per cent of the number stipulated above, subject to minimum of one. Provided that for the redevelopment under Regulation 33(5), 33(6), 33(7), 33(7)(A),33(9),33(9)(B), 33(10) 33(10)(A),33(11) (A),33(15) & 33(20) the parking shall be as follows. One parking space for every. 8 tenements having carpet area upto45sq.m each 4 tenements with carpet area exceeding 45sq.m but not exceeding 60 sq.m each 2 tenements with carpet area exceeding 60 sq.m but not exceeding 90sq.m each. 1 tenement with carpet area exceeding 90sq.m"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_156",
+    "text_snippet": "Parking Space required (3): One parking space for every. 4 tenements having carpet area upto45 sq.m each. 2 tenements with carpet area exceeding 45sq.m but not exceeding 60sq.m each. Provided further "
+  },
+  "created_at": "2025-11-19T00:14:49.041775",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.836634",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

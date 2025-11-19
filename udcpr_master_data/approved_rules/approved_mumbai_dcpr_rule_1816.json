@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1816",
+  "title": "Ventilation- The extent of ventilation shall be the same as required by the particular occupancy for which the basement is used",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1816",
+  "clause_text": "Ventilation- The extent of ventilation shall be the same as required by the particular occupancy for which the basement is used. Any deficiency must be made good by resort to a mechanical system, viz. blowers, exhaust fans, air-conditioning system, according to the standards in Part VIII Building Services Section I-Lighting and Ventilation, NBC. Uses permitted – A basement may be put to the following uses only: Air conditioning equipment/AHU and other machines used for services and utilities of the building; DG set, meter room and Electric substation (which will conform to specified safety requirements);",
+  "chapter": null,
+  "section": "Mezzanine Floor:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Ventilation- The extent of ventilation shall be the same as required by the particular occupancy for which the basement is used. Any deficiency must be made good by resort to a mechanical system, viz."
+  },
+  "created_at": "2025-11-19T00:14:42.079780",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.611496",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

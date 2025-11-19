@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2413",
+  "title": "Owner of the land who is competent and have resources to develop slum on land owned by him shall be allowed to register himself as registered developer, but only for development of slum on land belonging to him",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2413",
+  "clause_text": "Owner of the land who is competent and have resources to develop slum on land owned by him shall be allowed to register himself as registered developer, but only for development of slum on land belonging to him.",
+  "chapter": null,
+  "section": "DEVELOPER’S REGISTRATION",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Owner of the land who is competent and have resources to develop slum on land owned by him shall be allowed to register himself as registered developer, but only for development of slum on land belong"
+  },
+  "created_at": "2025-11-19T00:14:24.531481",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.847251",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

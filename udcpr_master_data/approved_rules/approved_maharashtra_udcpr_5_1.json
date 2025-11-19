@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_5_1",
+  "title": "In case of development of reservation of Bus Stand at Sr",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "5.1",
+  "clause_text": "In case of development of reservation of Bus Stand at Sr.No.5.1, the construction area for allied activities and uses permissible in Residential Zone may be allowed to be constructed up to FSI of 2.00 of the surrendered plot with the consent of owner. In such cases, the owner shall be entitled for amenity TDR to that extent. If the plot along with construction is handed over to MSRTC, the regulations applicable to the plot owned by MSRTC shall be applicable to the said plot.",
+  "chapter": null,
+  "section": "General conditions / notes to allow development under above regulations :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of development of reservation of Bus Stand at Sr.No.5.1, the construction area for allied activities and uses permissible in Residential Zone may be allowed to be constructed up to FSI of 2.00"
+  },
+  "created_at": "2025-11-19T00:14:22.991924",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.110886",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

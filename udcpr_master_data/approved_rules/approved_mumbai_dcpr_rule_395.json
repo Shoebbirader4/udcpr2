@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_395",
+  "title": "0)(A), 33(21)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 395",
+  "clause_text": "0)(A), 33(21).b) The BUA handed over to MCGM shall be free of FSI and balance plot will be allowed to be developed as per these Regulations, without taking into account said BUA so handed over",
+  "chapter": null,
+  "section": "Table No: 4",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "0)(A), 33(21).b) The BUA handed over to MCGM shall be free of FSI and balance plot will be allowed to be developed as per these Regulations, without taking into account said BUA so handed over"
+  },
+  "created_at": "2025-11-19T00:14:36.750607",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.535517",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_463",
+  "title": "The length of Internal road shall be measured from the farthest plot (or building) to the public street",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 463",
+  "clause_text": "The length of Internal road shall be measured from the farthest plot (or building) to the public street. The length of the subsidiary access way shall be measured from the point of its origin to the next wider road on which it meets.",
+  "chapter": null,
+  "section": "Length of Internal Roads, How to be Measured",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The length of Internal road shall be measured from the farthest plot (or building) to the public street. The length of the subsidiary access way shall be measured from the point of its origin to the n"
+  },
+  "created_at": "2025-11-19T00:14:18.448881",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.712990",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

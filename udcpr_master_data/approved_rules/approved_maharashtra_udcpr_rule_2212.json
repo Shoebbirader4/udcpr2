@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2212",
+  "title": "Such parking area shall be in the built-upform and shall be handed over to Planning Authority free of cost before granting the Occupation Certificate to the project",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2212",
+  "clause_text": "Such parking area shall be in the built-upform and shall be handed over to Planning Authority free of cost before granting the Occupation Certificate to the project. The Planning Authority should enter into an agreement with owner / developer for such parking space at the time of granting Commencement Certificate to the project. Such Public Parking area shall be clearly shown on the proposed building plan / layout and a condition to above effect shall be incorporated in the Commencement Certificate.",
+  "chapter": null,
+  "section": "Incentive for providing Public Parking in the area falling within the radius of 200 m. from the Metro / MRTS Station.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such parking area shall be in the built-upform and shall be handed over to Planning Authority free of cost before granting the Occupation Certificate to the project. The Planning Authority should ente"
+  },
+  "created_at": "2025-11-19T00:14:24.026866",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.314966",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

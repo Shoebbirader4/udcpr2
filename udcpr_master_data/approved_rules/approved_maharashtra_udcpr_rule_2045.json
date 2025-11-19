@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2045",
+  "title": "Provided that Government land or land belonging to tribal can be considered for the purpose of road if there is a registered Agreement",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2045",
+  "clause_text": "Provided that Government land or land belonging to tribal can be considered for the purpose of road if there is a registered Agreement. However development permission shall be granted only after due permission of appropriate authority is given. Notified forest, (excluding the private forest land subject to NOCs of forest Department)",
+  "chapter": null,
+  "section": "Requirements of Site :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that Government land or land belonging to tribal can be considered for the purpose of road if there is a registered Agreement. However development permission shall be granted only after due p"
+  },
+  "created_at": "2025-11-19T00:14:23.560817",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.677206",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

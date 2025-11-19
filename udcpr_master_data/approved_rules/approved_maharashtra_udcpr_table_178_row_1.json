@@ -1,0 +1,48 @@
+{
+  "rule_id": "maharashtra_udcpr_table_178_row_1",
+  "title": "Table 178 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-178.1",
+  "clause_text": "Plot No.: (a) | Plot area (Sq.m.): (b) | Corner Rounding area of Road (if any) (Sq.m.): (c) | Remaining Plot area (b-c) (Sq.m.): (d) | Pro- Rata FSI factor: (e) | Built up area on pro-rata basis i.e. (d x e) *: (f) | Front Road width (m.): (g) | Basic FSI: (h) | Permissible Built-up area on Basic FSI (1) (f x h) (Sq.m.): (i)",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Plot No.",
+        "Plot area (Sq.m.)",
+        "Corner Rounding area of Road (if any) (Sq.m.)",
+        "Remaining Plot area (b-c) (Sq.m.)",
+        "Pro- Rata FSI factor",
+        "Built up area on pro-rata basis i.e. (d x e) *",
+        "Front Road width (m.)",
+        "Basic FSI",
+        "Permissible Built-up area on Basic FSI (1) (f x h) (Sq.m.)"
+      ],
+      "values": [
+        "(a)",
+        "(b)",
+        "(c)",
+        "(d)",
+        "(e)",
+        "(f)",
+        "(g)",
+        "(h)",
+        "(i)"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_178",
+    "text_snippet": "Plot No.: (a) | Plot area (Sq.m.): (b) | Corner Rounding area of Road (if any) (Sq.m.): (c) | Remaining Plot area (b-c) (Sq.m.): (d) | Pro- Rata FSI factor: (e) | Built up area on pro-rata basis i.e. "
+  },
+  "created_at": "2025-11-19T00:14:31.447752",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.308082",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

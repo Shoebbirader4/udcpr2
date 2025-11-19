@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1024",
+  "title": "Provided that if the Promoter wishes to include any building or land belonging to the State Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1024",
+  "clause_text": "Provided that if the Promoter wishes to include any building or land belonging to the State Govt. or MCGM or MHADA or any Agency under the control of State Govt. (hereinafter collectively referred as \"Public Authority\"), then he shall make a written request in this regard through the Municipal Commissioner to an Empowered Committee (EC) headed by the Chief Secretary. This EC shall be as formulated by GoM.",
+  "chapter": null,
+  "section": "For Slum Areas:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that if the Promoter wishes to include any building or land belonging to the State Govt. or MCGM or MHADA or any Agency under the control of State Govt. (hereinafter collectively referred as "
+  },
+  "created_at": "2025-11-19T00:14:39.315136",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.447758",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

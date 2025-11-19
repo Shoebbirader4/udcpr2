@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2199",
+  "title": "After finalization of site for Metro Car shed by the Competent Authority, the portion of land reserved/earmarked for the Metro Car Shed in DP, if not required by the Competent Authority subsequently, shall be deemed to be deleted from the said reservation and included in adjoining predominant zone",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2199",
+  "clause_text": "After finalization of site for Metro Car shed by the Competent Authority, the portion of land reserved/earmarked for the Metro Car Shed in DP, if not required by the Competent Authority subsequently, shall be deemed to be deleted from the said reservation and included in adjoining predominant zone. In such case, the Municipal Commissioner shall issue a written, well reasoned, speaking order modifying the DP to that effect and copy of such order along with certified part plan, shall be forwarded to Govt. and Director of Town Planning, Pune for record.",
+  "chapter": null,
+  "section": "Alignment of Metro/Mono/Coastal Road /Elevated Corridors/Corridors of Mass and Rapid Transport System",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After finalization of site for Metro Car shed by the Competent Authority, the portion of land reserved/earmarked for the Metro Car Shed in DP, if not required by the Competent Authority subsequently, "
+  },
+  "created_at": "2025-11-19T00:14:44.262379",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.550133",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

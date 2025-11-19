@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_89_row_2",
+  "title": "Table 89 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-89.2",
+  "clause_text": "Sr No: 2 | Minimum Road Width: 18m | Maximum Permissible FSI: Up to 4",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr No",
+        "Minimum Road Width",
+        "Maximum Permissible FSI"
+      ],
+      "values": [
+        "2",
+        "18m",
+        "Up to 4"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_89",
+    "text_snippet": "Sr No: 2 | Minimum Road Width: 18m | Maximum Permissible FSI: Up to 4"
+  },
+  "created_at": "2025-11-19T00:14:48.555797",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.748765",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

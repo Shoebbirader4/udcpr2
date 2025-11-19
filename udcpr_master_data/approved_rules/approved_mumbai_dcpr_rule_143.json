@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_143",
+  "title": "\"Stair–cover/Stair case Room\" means a structure with a covering roof over a staircase and its landing built to enclose only the stairs for the purpose of providing protection from the weather and not used for human habitation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 143",
+  "clause_text": "\"Stair–cover/Stair case Room\" means a structure with a covering roof over a staircase and its landing built to enclose only the stairs for the purpose of providing protection from the weather and not used for human habitation.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Stair–cover/Stair case Room\" means a structure with a covering roof over a staircase and its landing built to enclose only the stairs for the purpose of providing protection from the weather and not "
+  },
+  "created_at": "2025-11-19T00:14:35.206724",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.893219",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

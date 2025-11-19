@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_51_row_3",
+  "title": "Table 51 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-51.3",
+  "clause_text": "Sr. No.: 3. | Authority / Area: For All Municipal Councils, Nagar Panchayats, Non Municipal Council D.P. and Regional Plan areas. | Permissible height (m.) excluding parking floor upto 6.0 m. height: 50",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Authority / Area",
+        "Permissible height (m.) excluding parking floor upto 6.0 m. height"
+      ],
+      "values": [
+        "3.",
+        "For All Municipal Councils, Nagar Panchayats, Non Municipal Council D.P. and Regional Plan areas.",
+        "50"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_51",
+    "text_snippet": "Sr. No.: 3. | Authority / Area: For All Municipal Councils, Nagar Panchayats, Non Municipal Council D.P. and Regional Plan areas. | Permissible height (m.) excluding parking floor upto 6.0 m. height: "
+  },
+  "created_at": "2025-11-19T00:14:29.891389",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.533695",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

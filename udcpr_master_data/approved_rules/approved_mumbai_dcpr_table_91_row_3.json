@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_91_row_3",
+  "title": "Table 91 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-91.3",
+  "clause_text": "Sr. No: 3 | Minimum Road Width: 27m | Maximum Permissible FSI: 5",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No",
+        "Minimum Road Width",
+        "Maximum Permissible FSI"
+      ],
+      "values": [
+        "3",
+        "27m",
+        "5"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_91",
+    "text_snippet": "Sr. No: 3 | Minimum Road Width: 27m | Maximum Permissible FSI: 5"
+  },
+  "created_at": "2025-11-19T00:14:48.567326",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.784718",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

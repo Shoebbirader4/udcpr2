@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_2_1_2",
+  "title": "In case of plot / plots falling partly within the TOD zone, the FSI permissible shall be as follows, provided that the total area of the plot (plot falling within TOD zone plus plot falling outside TOD zone) shall be as prescribed in the table in regulation no",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.2.1.2",
+  "clause_text": "In case of plot / plots falling partly within the TOD zone, the FSI permissible shall be as follows, provided that the total area of the plot (plot falling within TOD zone plus plot falling outside TOD zone) shall be as prescribed in the table in regulation no.14.2.1.2 :-",
+  "chapter": null,
+  "section": "Impact Assessment and Integrated Mobility Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of plot / plots falling partly within the TOD zone, the FSI permissible shall be as follows, provided that the total area of the plot (plot falling within TOD zone plus plot falling outside TO"
+  },
+  "created_at": "2025-11-19T00:14:23.988369",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.266007",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

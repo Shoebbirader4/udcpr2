@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_774",
+  "title": "As provided in Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 774",
+  "clause_text": "As provided in Regulation No. 52 DRs of the owner/lessee of any Heritage building who suffers loss of DRs due to any restrictions imposed by the Commissioner or Government under Regulations No 52 shall be eligible for award of TDR in the form ofFSI to the extent and on the conditions set out below at 2. Such award will entitle the owner of the Heritage Building to FSI in the form of a DRC which he may use himself or transfer to any other person.",
+  "chapter": null,
+  "section": "Additional regulations for the grant of TDR to owners/lessees of heritage buildings/heritage precincts and conditions for grant of such rights",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "As provided in Regulation No. 52 DRs of the owner/lessee of any Heritage building who suffers loss of DRs due to any restrictions imposed by the Commissioner or Government under Regulations No 52 shal"
+  },
+  "created_at": "2025-11-19T00:14:38.316471",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.678700",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

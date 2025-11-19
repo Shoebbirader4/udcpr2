@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_257",
+  "title": "Qualification and competence of the licensed surveyor/engineer/structural engineer/supervisor/Professional on Record - The Commissioner may grant license to surveyors, engineers, structural engineers and supervisors with the qualifications listed in Annexure 10 to perform the tasks mentioned in that Annexure",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 257",
+  "clause_text": "Qualification and competence of the licensed surveyor/engineer/structural engineer/supervisor/Professional on Record - The Commissioner may grant license to surveyors, engineers, structural engineers and supervisors with the qualifications listed in Annexure 10 to perform the tasks mentioned in that Annexure.",
+  "chapter": null,
+  "section": "Signing of plans by owners and licensed personnel/architect:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Qualification and competence of the licensed surveyor/engineer/structural engineer/supervisor/Professional on Record - The Commissioner may grant license to surveyors, engineers, structural engineers "
+  },
+  "created_at": "2025-11-19T00:14:36.067890",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.182347",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

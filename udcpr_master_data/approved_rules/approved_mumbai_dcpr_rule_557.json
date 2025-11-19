@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_557",
+  "title": "The subplot/plots of an erstwhile contiguous land shall not be part of any layout earlier approved prior to coming into force of these Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 557",
+  "clause_text": "The subplot/plots of an erstwhile contiguous land shall not be part of any layout earlier approved prior to coming into force of these Regulations.",
+  "chapter": null,
+  "section": "Circumstances warranting preparation of a layout or sub- division/amalgamation: A layout or subdivision/amalgamation shall be submitted for the following:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The subplot/plots of an erstwhile contiguous land shall not be part of any layout earlier approved prior to coming into force of these Regulations."
+  },
+  "created_at": "2025-11-19T00:14:37.582658",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.027107",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

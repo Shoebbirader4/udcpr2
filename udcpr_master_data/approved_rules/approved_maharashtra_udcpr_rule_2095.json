@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2095",
+  "title": "Requirement of plot area and built up area shall be exclusive of Play Ground spaces",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2095",
+  "clause_text": "Requirement of plot area and built up area shall be exclusive of Play Ground spaces. Hence it is mandatory to show separate Play Ground adjoining to school building at the rate of 7 sq.m. / student.",
+  "chapter": null,
+  "section": "Spaces for combined School/s (Primary School/s + High School/s) -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Requirement of plot area and built up area shall be exclusive of Play Ground spaces. Hence it is mandatory to show separate Play Ground adjoining to school building at the rate of 7 sq.m. / student."
+  },
+  "created_at": "2025-11-19T00:14:23.724697",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.847040",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

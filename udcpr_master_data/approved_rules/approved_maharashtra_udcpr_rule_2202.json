@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2202",
+  "title": "Entire area of plot may be considered for calculating the potential of plot in respect of premium FSI + TDR, but not the basic FSI",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2202",
+  "clause_text": "Entire area of plot may be considered for calculating the potential of plot in respect of premium FSI + TDR, but not the basic FSI. Basic FSI shall be calculated on area of the plot remaining with the owner after deducting area under D.P. road / road widening / reservations and amenity space. This shall be applicable in cases where reservation area or amenity space is handed over to the authority.",
+  "chapter": null,
+  "section": "Impact Assessment and Integrated Mobility Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Entire area of plot may be considered for calculating the potential of plot in respect of premium FSI + TDR, but not the basic FSI. Basic FSI shall be calculated on area of the plot remaining with the"
+  },
+  "created_at": "2025-11-19T00:14:23.980907",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.258003",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

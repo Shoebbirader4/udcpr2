@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_750",
+  "title": "Government /Urban Local Bodies and not exempted under section 20 or 21 of the then Urban Land (Ceiling and Regulations) Act, 1976 and undertaking to that effect shall be obtained, before a Development Right is granted",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 750",
+  "clause_text": "Government /Urban Local Bodies and not exempted under section 20 or 21 of the then Urban Land (Ceiling and Regulations) Act, 1976 and undertaking to that effect shall be obtained, before a Development Right is granted. In the case of schemes sanctioned under section 20 or 21 of the said Act, the grant of Development Rights (DRs) shall be to such extent and subject to the conditions mentioned in section-20 scheme and such conditions as the Government may prescribed. In case of non-retainable land, the grant of Development Rights shall be to such extent and subject to such conditions as the Government may specify. The provisions of this Regulation shall be subject to the orders issued by the Government from time to time in this regard.",
+  "chapter": null,
+  "section": "GENERAL STIPULATION:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Government /Urban Local Bodies and not exempted under section 20 or 21 of the then Urban Land (Ceiling and Regulations) Act, 1976 and undertaking to that effect shall be obtained, before a Development"
+  },
+  "created_at": "2025-11-19T00:14:38.242999",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.579250",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

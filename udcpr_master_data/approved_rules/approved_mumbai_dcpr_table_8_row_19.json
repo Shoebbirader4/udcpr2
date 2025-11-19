@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_8_row_19",
+  "title": "Table 8 - Row 19",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-8.19",
+  "clause_text": "PART VIII GENERAL BUILDING REQUIREMENTS: (17) Lifts | PART VIII GENERAL BUILDING REQUIREMENTS: 322",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS"
+      ],
+      "values": [
+        "",
+        "(17) Lifts",
+        "322"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_8",
+    "text_snippet": "PART VIII GENERAL BUILDING REQUIREMENTS: (17) Lifts | PART VIII GENERAL BUILDING REQUIREMENTS: 322"
+  },
+  "created_at": "2025-11-19T00:14:48.070059",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.378226",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

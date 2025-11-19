@@ -1,0 +1,44 @@
+{
+  "rule_id": "mumbai_dcpr_commercial_fsi_001",
+  "title": "Commercial FSI in Mumbai",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "dcpr_2034",
+  "clause_number": "3.2.1",
+  "clause_text": "Commercial developments in Mumbai shall have a base FSI of 2.0 in island city and 1.5 in suburbs.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "use_type",
+          "op": "==",
+          "value": "Commercial"
+        },
+        {
+          "field": "location",
+          "op": "==",
+          "value": "island_city"
+        }
+      ],
+      "outputs": [
+        {
+          "field": "base_fsi",
+          "value": 2.0,
+          "units": "ratio"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUMBAI_DCPR_2034.pdf",
+    "page": 45,
+    "text_snippet": "Commercial FSI provisions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:19.383534",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

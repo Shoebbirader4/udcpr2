@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_15",
+  "title": "Table 12 - Row 15",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.15",
+  "clause_text": "PART X SPECIAL PROVISIONS: 56 | PART X SPECIAL PROVISIONS: Forest Land | PART X SPECIAL PROVISIONS: 385",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "56",
+        "Forest Land",
+        "385"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: 56 | PART X SPECIAL PROVISIONS: Forest Land | PART X SPECIAL PROVISIONS: 385"
+  },
+  "created_at": "2025-11-19T00:14:48.156817",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.504147",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

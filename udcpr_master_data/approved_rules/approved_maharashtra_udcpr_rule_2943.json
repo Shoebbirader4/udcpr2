@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2943",
+  "title": "Explanation - 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2943",
+  "clause_text": "Explanation - 1. - In case of inclusion of a Slum in URS, any person/ agency having consent of more than 51%eligible Slum dwellers shall be construed to be appropriate person/ agency to deal with the issues regarding the whole area of Slum for the purposes of this sub-section only. i.e. for the purposes of decision about Implementation Agency.",
+  "chapter": null,
+  "section": "URS by Private Promoters / MHADA / Co-operative Housing Societies –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Explanation - 1. - In case of inclusion of a Slum in URS, any person/ agency having consent of more than 51%eligible Slum dwellers shall be construed to be appropriate person/ agency to deal with the "
+  },
+  "created_at": "2025-11-19T00:14:25.846613",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.218754",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

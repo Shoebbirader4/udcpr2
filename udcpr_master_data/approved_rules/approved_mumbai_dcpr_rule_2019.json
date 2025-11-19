@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2019",
+  "title": "Suction tank, pump room, electric meter room or sub-station, garbage shaft/refuse chute, facility for treatment of wet waste in situ, space required for fire hydrants, electrical and water fittings, water tank, dust-bin, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2019",
+  "clause_text": "Suction tank, pump room, electric meter room or sub-station, garbage shaft/refuse chute, facility for treatment of wet waste in situ, space required for fire hydrants, electrical and water fittings, water tank, dust-bin, etc.",
+  "chapter": null,
+  "section": "Permitted in the side or rear marginal open spaces :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Suction tank, pump room, electric meter room or sub-station, garbage shaft/refuse chute, facility for treatment of wet waste in situ, space required for fire hydrants, electrical and water fittings, w"
+  },
+  "created_at": "2025-11-19T00:14:43.228935",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.149884",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

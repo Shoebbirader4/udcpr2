@@ -1,0 +1,44 @@
+{
+  "rule_id": "maharashtra_udcpr_table_147_row_7",
+  "title": "Table 147 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-147.7",
+  "clause_text": "Sr.: 3 | Road width in meters: 12 m. and above but below 15 m. | Basic: 1.00 | FSI on: 0.50 | Maximum: 1.00 | Maximum: 2.50",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Sr.",
+        "Road width in meters",
+        "Basic",
+        "FSI on",
+        "Maximum",
+        "Maximum"
+      ],
+      "values": [
+        "",
+        "3",
+        "12 m. and above but below 15 m.",
+        "1.00",
+        "0.50",
+        "1.00",
+        "2.50"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_147",
+    "text_snippet": "Sr.: 3 | Road width in meters: 12 m. and above but below 15 m. | Basic: 1.00 | FSI on: 0.50 | Maximum: 1.00 | Maximum: 2.50"
+  },
+  "created_at": "2025-11-19T00:14:31.108751",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.067164",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

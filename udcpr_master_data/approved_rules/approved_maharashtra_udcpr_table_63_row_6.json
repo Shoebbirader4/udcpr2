@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_63_row_6",
+  "title": "Table 63 - Row 6",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-63.6",
+  "clause_text": "Table No.8-B - Parking Requirements: 1 | Table No.8-B - Parking Requirements: Residential i) Multi-Family residential. | Table No.8-B - Parking Requirements: For every two tenements with each tenement having carpet area equal to or above 40 sq.m. but less than 80 sq.m. | Table No.8-B - Parking Requirements: 1 | Table No.8-B - Parking Requirements: (1) 2 | Table No.8-B - Parking Requirements: 1 | Table No.8-B - Parking Requirements: (1) 2 | Table No.8-B - Parking Requirements: In addition 5% visitor parking",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements"
+      ],
+      "values": [
+        "1",
+        "Residential i) Multi-Family residential.",
+        "For every two tenements with each tenement having carpet area equal to or above 40 sq.m. but less than 80 sq.m.",
+        "1",
+        "(1) 2",
+        "1",
+        "(1) 2",
+        "In addition 5% visitor parking"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_63",
+    "text_snippet": "Table No.8-B - Parking Requirements: 1 | Table No.8-B - Parking Requirements: Residential i) Multi-Family residential. | Table No.8-B - Parking Requirements: For every two tenements with each tenement"
+  },
+  "created_at": "2025-11-19T00:14:29.957095",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.574368",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

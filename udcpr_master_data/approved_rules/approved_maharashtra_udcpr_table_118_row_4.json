@@ -1,0 +1,44 @@
+{
+  "rule_id": "maharashtra_udcpr_table_118_row_4",
+  "title": "Table 118 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-118.4",
+  "clause_text": "Table No.12-D : Sanitation Requirements – Factories: i) | Table No.12-D : Sanitation Requirements – Factories: Water Closets | Table No.12-D : Sanitation Requirements – Factories: 1 for up to 25 | Table No.12-D : Sanitation Requirements – Factories: 1 for up to 15 | Table No.12-D : Sanitation Requirements – Factories: 1 for up to | Table No.12-D : Sanitation Requirements – Factories: 1 for up to 12",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories"
+      ],
+      "values": [
+        "",
+        "i)",
+        "Water Closets",
+        "1 for up to 25",
+        "1 for up to 15",
+        "1 for up to",
+        "1 for up to 12"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_118",
+    "text_snippet": "Table No.12-D : Sanitation Requirements – Factories: i) | Table No.12-D : Sanitation Requirements – Factories: Water Closets | Table No.12-D : Sanitation Requirements – Factories: 1 for up to 25 | Tab"
+  },
+  "created_at": "2025-11-19T00:14:30.308813",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.713228",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

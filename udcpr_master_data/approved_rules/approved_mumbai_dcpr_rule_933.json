@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_933",
+  "title": "The list of tenants and area occupied by each of them in the old building and the irrevocable written consent as specified in 2 (a) above shall be certified by the Municipal Corporation of Greater Mumbai",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 933",
+  "clause_text": "The list of tenants and area occupied by each of them in the old building and the irrevocable written consent as specified in 2 (a) above shall be certified by the Municipal Corporation of Greater Mumbai.",
+  "chapter": null,
+  "section": "33(6) Reconstruction of buildings destroyed by fire or which have collapsed or which have been demolished under lawful order",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The list of tenants and area occupied by each of them in the old building and the irrevocable written consent as specified in 2 (a) above shall be certified by the Municipal Corporation of Greater Mum"
+  },
+  "created_at": "2025-11-19T00:14:38.993856",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.207269",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

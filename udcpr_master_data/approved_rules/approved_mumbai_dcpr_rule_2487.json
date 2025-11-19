@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2487",
+  "title": "P",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2487",
+  "clause_text": "P.R. Cards obtained from city Survey office dated . In order to verify the plot area, I/We have carried out the survey of the said plot through our staff to ascertain correctness of the area mentioned in the Property Register Card. The said survey has been carried out on the basis of the boundaries of the plot shown by the Owner/client. The said area as per the survey no works o u t to sq. m a n d FSI is claimed for the plot area sq. m",
+  "chapter": null,
+  "section": "ANNEXURE 2",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "P.R. Cards obtained from city Survey office dated . In order to verify the plot area, I/We have carried out the survey of the said plot through our staff to ascertain correctness of the area mentioned"
+  },
+  "created_at": "2025-11-19T00:14:46.265984",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.225367",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

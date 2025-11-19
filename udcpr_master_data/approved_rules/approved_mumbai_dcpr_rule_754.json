@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_754",
+  "title": "The Commissioner shall issue DRC within 180 days from the date of application or reply from the applicant in respect of any requisition made by him, whichever is later",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 754",
+  "clause_text": "The Commissioner shall issue DRC within 180 days from the date of application or reply from the applicant in respect of any requisition made by him, whichever is later. The Commissioner shall allow transfer of DRC in the following manner",
+  "chapter": null,
+  "section": "GENERAL STIPULATION:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Commissioner shall issue DRC within 180 days from the date of application or reply from the applicant in respect of any requisition made by him, whichever is later."
+  },
+  "created_at": "2025-11-19T00:14:38.249745",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.614277",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

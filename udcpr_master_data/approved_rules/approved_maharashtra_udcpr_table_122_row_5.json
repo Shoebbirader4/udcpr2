@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_122_row_5",
+  "title": "Table 122 - Row 5",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-122.5",
+  "clause_text": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: ii) | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Water-closets | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: 1per 100 persons or part thereof | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: 2 per 100 persons or part thereof | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: 1 for up to 15 2 for 16-35 | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: 1 for up to 12 2 for 13-25",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department"
+      ],
+      "values": [
+        "ii)",
+        "Water-closets",
+        "1per 100 persons or part thereof",
+        "2 per 100 persons or part thereof",
+        "1 for up to 15 2 for 16-35",
+        "1 for up to 12 2 for 13-25"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_122",
+    "text_snippet": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: ii) | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Water-closets | Table No.12-H Sani"
+  },
+  "created_at": "2025-11-19T00:14:30.685800",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.880182",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

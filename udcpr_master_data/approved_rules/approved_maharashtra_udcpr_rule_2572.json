@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2572",
+  "title": "No premium including fire premiums shall be charged for any relaxation / exemptions to be granted for construction of rehabilitation component under S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2572",
+  "clause_text": "No premium including fire premiums shall be charged for any relaxation / exemptions to be granted for construction of rehabilitation component under S.R.S. No hardship premium shall be charged for any relaxation to be granted for construction of composite buildings in the Scheme, provided that such composite building has a minimum 40% of the total built-up area under rehabilitation component. Premium shall not be charged for all or any of the relaxations given herein for rehabilitation component as well as free sale component. Provided that, concession in premium may be granted to the extent of proportion of rehabilitation component in the composite building.",
+  "chapter": null,
+  "section": "PAYMENTS TO BE MADE TO SRA AND INSTALMENTS :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "No premium including fire premiums shall be charged for any relaxation / exemptions to be granted for construction of rehabilitation component under S.R.S. No hardship premium shall be charged for any"
+  },
+  "created_at": "2025-11-19T00:14:24.860544",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.186214",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

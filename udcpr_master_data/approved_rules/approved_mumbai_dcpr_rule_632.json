@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_632",
+  "title": "Fungible Compensatory Area/BUA shall be permissible over and above permissible FSI as per column no 7 of Table No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 632",
+  "clause_text": "Fungible Compensatory Area/BUA shall be permissible over and above permissible FSI as per column no 7 of Table No.12 above and as per the provisions of Regulation no 31(3).",
+  "chapter": null,
+  "section": "Floor Space Indices in Residential, Commercial and Industrial Zones",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Fungible Compensatory Area/BUA shall be permissible over and above permissible FSI as per column no 7 of Table No.12 above and as per the provisions of Regulation no 31(3)."
+  },
+  "created_at": "2025-11-19T00:14:37.849902",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.278240",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

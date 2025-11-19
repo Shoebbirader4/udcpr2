@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1793",
+  "title": "unless separately provided in a pantry, means for the washing of kitchen utensils which shall lead d",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1793",
+  "clause_text": "unless separately provided in a pantry, means for the washing of kitchen utensils which shall lead directly or through a sink to a grated and trapped connection to the waste pipe;",
+  "chapter": null,
+  "section": "TableNo: 15",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "unless separately provided in a pantry, means for the washing of kitchen utensils which shall lead directly or through a sink to a grated and trapped connection to the waste pipe;"
+  },
+  "created_at": "2025-11-19T00:14:41.931562",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.553574",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

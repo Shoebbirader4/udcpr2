@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_8_row_2",
+  "title": "Table 8 - Row 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-8.2",
+  "clause_text": "PART VIII GENERAL BUILDING REQUIREMENTS: 37 | PART VIII GENERAL BUILDING REQUIREMENTS: Requirements of parts of buildings",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS"
+      ],
+      "values": [
+        "37",
+        "Requirements of parts of buildings",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_8",
+    "text_snippet": "PART VIII GENERAL BUILDING REQUIREMENTS: 37 | PART VIII GENERAL BUILDING REQUIREMENTS: Requirements of parts of buildings"
+  },
+  "created_at": "2025-11-19T00:14:48.053214",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.339621",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_2",
+  "title": "Table 3 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.2",
+  "clause_text": "3.9: 3.11 | Net Plot Area and Computation of FSI: Relocation of DP-RP Sites / Roads | Net Plot Area and Computation of FSI: Relocation of DP-RP Sites / Roads | 56: 57",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "3.11",
+        "Relocation of DP-RP Sites / Roads",
+        "Relocation of DP-RP Sites / Roads",
+        "57"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 3.11 | Net Plot Area and Computation of FSI: Relocation of DP-RP Sites / Roads | Net Plot Area and Computation of FSI: Relocation of DP-RP Sites / Roads | 56: 57"
+  },
+  "created_at": "2025-11-19T00:14:29.385927",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.864810",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

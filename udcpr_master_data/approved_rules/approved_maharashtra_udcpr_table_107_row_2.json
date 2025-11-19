@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_107_row_2",
+  "title": "Table 107 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-107.2",
+  "clause_text": ": Govt. Offices Fire Brigade Station Reservations similar to above. | : Planning Authority / Appropriate Authority / Owner | The Authority may allow the owner to develop the reservation, subject to handing over to the Planning Authority an independent plot along with constructed amenity of total area, mentioned in Note-1 below this table & as per norms prescribed by the Authority. The owner shall be entitled to develop remaining land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI), to be utilised as per TDR Regulations. Reservation may be allowed to be developed in parts.: The Planning Authority / Appropriate Authority may acquire and develop the reservation site for the same purpose. OR The Authority may allow the owner to develop the reservation, subject to handing over to the Planning Authority independent plot along with constructed amenity of total area, mentioned in Note - 1 below Table & as per norms prescribed by the Authority. The owner shall be entitled to develop remaining land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI), to be utilised as per TDR Regulations. Reservation may be allowed to be developed in parts.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "",
+        "",
+        "The Authority may allow the owner to develop the reservation, subject to handing over to the Planning Authority an independent plot along with constructed amenity of total area, mentioned in Note-1 below this table & as per norms prescribed by the Authority. The owner shall be entitled to develop remaining land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI), to be utilised as per TDR Regulations. Reservation may be allowed to be developed in parts.",
+        ""
+      ],
+      "values": [
+        "",
+        "Govt. Offices Fire Brigade Station Reservations similar to above.",
+        "Planning Authority / Appropriate Authority / Owner",
+        "The Planning Authority / Appropriate Authority may acquire and develop the reservation site for the same purpose. OR The Authority may allow the owner to develop the reservation, subject to handing over to the Planning Authority independent plot along with constructed amenity of total area, mentioned in Note - 1 below Table & as per norms prescribed by the Authority. The owner shall be entitled to develop remaining land for the uses permissible in adjoining zone with full permissible FSI of the entire Plot and permissible TDR potential of the entire Plot. The Authority, if required, shall allow the TDR for the unutilized FSI, if any (after deducting in-situ FSI), to be utilised as per TDR Regulations. Reservation may be allowed to be developed in parts.",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_107",
+    "text_snippet": ": Govt. Offices Fire Brigade Station Reservations similar to above. | : Planning Authority / Appropriate Authority / Owner | The Authority may allow the owner to develop the reservation, subject to ha"
+  },
+  "created_at": "2025-11-19T00:14:30.225254",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.664169",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_157_row_5",
+  "title": "Table 157 - Row 5",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-157.5",
+  "clause_text": "Sr. No. (1): 2 | Occupancy (2): Educational | Parking Space required (3): One Parking space for35 sq. m carpet area of the administrative office area and public service area.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "2",
+        "Educational",
+        "One Parking space for35 sq. m carpet area of the administrative office area and public service area."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_157",
+    "text_snippet": "Sr. No. (1): 2 | Occupancy (2): Educational | Parking Space required (3): One Parking space for35 sq. m carpet area of the administrative office area and public service area."
+  },
+  "created_at": "2025-11-19T00:14:49.057805",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.847898",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2675",
+  "title": "Automatic cancellation of restricted Land Tenure : If any land or part of any land on which slum is located is under restricted land tenure, the said tenure / lease created by the concerned Public Body shall stand automatically terminated as soon as S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2675",
+  "clause_text": "Automatic cancellation of restricted Land Tenure : If any land or part of any land on which slum is located is under restricted land tenure, the said tenure / lease created by the concerned Public Body shall stand automatically terminated as soon as S.R.S., which is a public purpose, is prepared on such land and submitted for approval to the C.E.O., S.R.A. Any arrears of dues to be collected for such land shall not be linked to the issue of any certificate or N.O.C. relating to the S.R.S.} (1)",
+  "chapter": null,
+  "section": "PREMIUM FOR OWNERSHIP AND TERMS OF LEASE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Automatic cancellation of restricted Land Tenure : If any land or part of any land on which slum is located is under restricted land tenure, the said tenure / lease created by the concerned Public Bod"
+  },
+  "created_at": "2025-11-19T00:14:25.071830",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.684942",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

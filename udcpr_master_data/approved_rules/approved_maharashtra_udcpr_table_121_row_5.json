@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_121_row_5",
+  "title": "Table 121 - Row 5",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-121.5",
+  "clause_text": "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards",
+        ""
+      ],
+      "values": [
+        "",
+        "For General Wards, Hospital Staff and Visitors",
+        "For General Wards, Hospital Staff and Visitors",
+        "For General Wards, Hospital Staff and Visitors",
+        "For General Wards, Hospital Staff and Visitors",
+        "For General Wards, Hospital Staff and Visitors",
+        "For General Wards, Hospital Staff and Visitors",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_121",
+    "text_snippet": "Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Wards: For General Wards, Hospital Staff and Visitors | Table No.12-G Sanitation Requirements - Hospitals with Indoor Patient Ward"
+  },
+  "created_at": "2025-11-19T00:14:30.591679",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.841304",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

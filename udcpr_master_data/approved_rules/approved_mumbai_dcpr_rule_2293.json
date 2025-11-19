@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2293",
+  "title": "Facades excluding windows and doors shall consist of non-combustible building materials",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2293",
+  "clause_text": "Facades excluding windows and doors shall consist of non-combustible building materials. The minimum distance between the top of the opening on a lower floor and the sill of that on the floor above it shall be",
+  "chapter": null,
+  "section": "Construction: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Facades excluding windows and doors shall consist of non-combustible building materials. The minimum distance between the top of the opening on a lower floor and the sill of that on the floor above it"
+  },
+  "created_at": "2025-11-19T00:14:44.721209",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.740495",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

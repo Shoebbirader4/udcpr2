@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_333",
+  "title": "However, if the Developer provide constructed amenity as decided by the Commissioner on the plot to be handed over and Commissioner shall give due regard to amenity deficits in the ward",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 333",
+  "clause_text": "However, if the Developer provide constructed amenity as decided by the Commissioner on the plot to be handed over and Commissioner shall give due regard to amenity deficits in the ward. In such cases, TDR in lieu of cost of construction of built up amenity to be handed over shall be as per the provisions of Regulation number 17(1) note 1(d). These areas will be in addition to the LOS as required to be provided under Regulation No. 27.",
+  "chapter": null,
+  "section": "Conversion of Industrial Zone to Residential or Commercial Zone for the Uses permissible in Residential or Commercial Zone",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "However, if the Developer provide constructed amenity as decided by the Commissioner on the plot to be handed over and Commissioner shall give due regard to amenity deficits in the ward. In such cases"
+  },
+  "created_at": "2025-11-19T00:14:36.531945",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.366110",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

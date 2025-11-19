@@ -1,0 +1,39 @@
+{
+  "rule_id": "mumbai_dcpr_height_001",
+  "title": "Maximum Height for Road Width >= 18m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "dcpr_2034",
+  "clause_number": "7.2.1",
+  "clause_text": "For roads with width 18 meters or more, the maximum permissible height is 70 meters.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "road_width_m",
+          "op": ">=",
+          "value": 18
+        }
+      ],
+      "outputs": [
+        {
+          "field": "max_height",
+          "value": 70.0,
+          "units": "m"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUMBAI_DCPR_2034.pdf",
+    "page": 134,
+    "text_snippet": "Height restrictions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:19.367158",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

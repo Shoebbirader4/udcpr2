@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1079",
+  "title": "Provided that in case of non-residential use, the extent of ancillary area FSI shall be upto 80%",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1079",
+  "clause_text": "Provided that in case of non-residential use, the extent of ancillary area FSI shall be upto 80%. No separate calculation shall be required to be done for this ancillary area FSI. Entire FSI in the development permission shall be calculated and shall be measured with reference to permissible FSI, premium FSI, TDR, additional FSI including ancillary area FSI added therein.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that in case of non-residential use, the extent of ancillary area FSI shall be upto 80%. No separate calculation shall be required to be done for this ancillary area FSI. Entire FSI in the de"
+  },
+  "created_at": "2025-11-19T00:14:20.533867",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.338725",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

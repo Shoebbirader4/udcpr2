@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1944",
+  "title": "Guiding floor materials shall be provided or a device, which guides visually impaired persons with audible signals, or other devices, which serves the same purpose, shall be provided",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1944",
+  "clause_text": "Guiding floor materials shall be provided or a device, which guides visually impaired persons with audible signals, or other devices, which serves the same purpose, shall be provided. The specified facilities for the buildings for differently abled persons shall be as follows :- Corridor connecting the entrance / exit for the differently abled.",
+  "chapter": null,
+  "section": "Site development",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Guiding floor materials shall be provided or a device, which guides visually impaired persons with audible signals, or other devices, which serves the same purpose, shall be provided."
+  },
+  "created_at": "2025-11-19T00:14:23.313621",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.362991",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

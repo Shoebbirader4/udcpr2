@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1884",
+  "title": "Parking floor: The parking floors above ground/stilt floor within building line, for the provision of parking, accessible either by ramp or by minimum two car liftsup to 200 parking and one additional car lift for every 100 parking beyond 200 parking or part thereof",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1884",
+  "clause_text": "Parking floor: The parking floors above ground/stilt floor within building line, for the provision of parking, accessible either by ramp or by minimum two car liftsup to 200 parking and one additional car lift for every 100 parking beyond 200 parking or part thereof. The height of the parking floor shall not be more than 2.4m below soffit of the beam& maximum height of the floor permitted in this regulation below soffit of slab. In case of mechanical parking more height as per the requirement may be allowed. Podium: A podium may be permitted in plot admeasuring 1000 sq. m or more.",
+  "chapter": null,
+  "section": "Boundary wall and main entrance:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Parking floor: The parking floors above ground/stilt floor within building line, for the provision of parking, accessible either by ramp or by minimum two car liftsup to 200 parking and one additional"
+  },
+  "created_at": "2025-11-19T00:14:42.463870",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.805409",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

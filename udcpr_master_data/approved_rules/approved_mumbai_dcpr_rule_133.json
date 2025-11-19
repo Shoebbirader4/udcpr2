@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_133",
+  "title": "“Professionals on Record” means the persons educationally, technically and experientially qualified to perform a designated skilled job and who are appointed by the Owners/Developers and are responsible for the work carried out by his/her subordinates or team, such as Architects, Town Planner, Licensed Surveyors, Engineers, Structural Engineers, Fire Protection Consultants, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 133",
+  "clause_text": "“Professionals on Record” means the persons educationally, technically and experientially qualified to perform a designated skilled job and who are appointed by the Owners/Developers and are responsible for the work carried out by his/her subordinates or team, such as Architects, Town Planner, Licensed Surveyors, Engineers, Structural Engineers, Fire Protection Consultants, etc. registered with the Competent Authority wherever applicable and under taking the responsibility for the particular work as prescribed by the Appropriate Authority in these Regulations.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Professionals on Record” means the persons educationally, technically and experientially qualified to perform a designated skilled job and who are appointed by the Owners/Developers and are responsib"
+  },
+  "created_at": "2025-11-19T00:14:35.116269",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.870575",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1519",
+  "title": "The Directorate of industries will develop a web portal on which the developer of every IT park will be bound to provide/update detailed information about names of the units in the park, utilization of built-up area and activities being carried out, manpower employed in the It Park for IT/ITES and support services on yearly basis",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1519",
+  "clause_text": "The Directorate of industries will develop a web portal on which the developer of every IT park will be bound to provide/update detailed information about names of the units in the park, utilization of built-up area and activities being carried out, manpower employed in the It Park for IT/ITES and support services on yearly basis.",
+  "chapter": null,
+  "section": "33(13) – Buildings of Information Technology Establishments",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Directorate of industries will develop a web portal on which the developer of every IT park will be bound to provide/update detailed information about names of the units in the park, utilization o"
+  },
+  "created_at": "2025-11-19T00:14:40.864594",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.587894",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_4_27",
+  "title": "Planning Authority, with the prior approval from Government, may acquire and develop any of the reservations proposed in the Development Plan, partly or fully, for multi-storeyed public parking, irrespective of its designation, if amenity of parking is direly needed in the area",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.27",
+  "clause_text": "Planning Authority, with the prior approval from Government, may acquire and develop any of the reservations proposed in the Development Plan, partly or fully, for multi-storeyed public parking, irrespective of its designation, if amenity of parking is direly needed in the area. However, Authority should be satisfied that there is pressing need for parking in that area and priority for parking is more important than purpose for which the reservation is made. In case of purposes mentioned at Regulation No. (1) 4.27 (5)(a)(b)(c), parking may be allowed to be developed in basement/s subject to development of main purpose on the ground level with layer of soil of 1.0 m. depth and arrangement of soil water recharge.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Planning Authority, with the prior approval from Government, may acquire and develop any of the reservations proposed in the Development Plan, partly or fully, for multi-storeyed public parking, irres"
+  },
+  "created_at": "2025-11-19T00:14:19.710993",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.552974",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

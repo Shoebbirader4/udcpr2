@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2037",
+  "title": "Lands within the buffer zone of National Park subject to restriction on development permissible in such buffer zone and subject to NOC of Forest Department",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2037",
+  "clause_text": "Lands within the buffer zone of National Park subject to restriction on development permissible in such buffer zone and subject to NOC of Forest Department.",
+  "chapter": null,
+  "section": "Requirements of Site :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Lands within the buffer zone of National Park subject to restriction on development permissible in such buffer zone and subject to NOC of Forest Department."
+  },
+  "created_at": "2025-11-19T00:14:23.546796",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.643301",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

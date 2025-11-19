@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_7",
+  "title": "Table 7 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.7",
+  "clause_text": ": 10.6 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Vasai-Virar City Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Vasai-Virar City Municipal Corporation | : 185",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "10.6",
+        "Vasai-Virar City Municipal Corporation",
+        "Vasai-Virar City Municipal Corporation",
+        "185"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": ": 10.6 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Vasai-Virar City Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Vasai-Virar City Municipal Corporation | : 185"
+  },
+  "created_at": "2025-11-19T00:14:29.643288",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.309856",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_412",
+  "title": "In case of social amenities, the built-up amenities received under AR will be made available by the MCGM to GOM for operation, either through its own departments or through other institutions, only for the intended purpose on terms & conditions as decided by GOM",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 412",
+  "clause_text": "In case of social amenities, the built-up amenities received under AR will be made available by the MCGM to GOM for operation, either through its own departments or through other institutions, only for the intended purpose on terms & conditions as decided by GOM. MCGM shall have the option of running such facility wherever it decides to do so, by formulating the guidelines for the implementation.",
+  "chapter": null,
+  "section": "Table No: 4",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of social amenities, the built-up amenities received under AR will be made available by the MCGM to GOM for operation, either through its own departments or through other institutions, only fo"
+  },
+  "created_at": "2025-11-19T00:14:36.830018",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.587239",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1821",
+  "title": "The word 'Authority' means Municipal Commissioner of Municipal Corporation, Chief Officer of Municipal Council, Metropolitan Commissioner of Metropolitan Development Authority or Chief Executive Officer of the concerned Authority",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1821",
+  "clause_text": "The word 'Authority' means Municipal Commissioner of Municipal Corporation, Chief Officer of Municipal Council, Metropolitan Commissioner of Metropolitan Development Authority or Chief Executive Officer of the concerned Authority.",
+  "chapter": null,
+  "section": "General conditions / notes to allow development under above regulations :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The word 'Authority' means Municipal Commissioner of Municipal Corporation, Chief Officer of Municipal Council, Metropolitan Commissioner of Metropolitan Development Authority or Chief Executive Offic"
+  },
+  "created_at": "2025-11-19T00:14:22.982481",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.104725",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

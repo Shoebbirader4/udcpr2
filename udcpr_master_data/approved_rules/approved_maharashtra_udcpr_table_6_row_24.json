@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_6_row_24",
+  "title": "Table 6 - Row 24",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-6.24",
+  "clause_text": ": 9.18 | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Letter Box | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Letter Box | : 160",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        "CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES",
+        ""
+      ],
+      "values": [
+        "9.18",
+        "Letter Box",
+        "Letter Box",
+        "160"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_6",
+    "text_snippet": ": 9.18 | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Letter Box | CHAPTER - 8 PARKING, LOADING AND UNLOADING SPACES: Letter Box | : 160"
+  },
+  "created_at": "2025-11-19T00:14:29.608179",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.234998",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,40 @@
+{
+  "rule_id": "mumbai_dcpr_corner_plot_001",
+  "title": "Corner Plot Setback Relaxation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "dcpr_2034",
+  "clause_number": "4.5.3",
+  "clause_text": "Corner plots are eligible for 25% relaxation in front setback requirements.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "corner_plot",
+          "op": "==",
+          "value": true
+        }
+      ],
+      "outputs": [
+        {
+          "field": "setback_relaxation",
+          "value": 0.25,
+          "units": "ratio"
+        }
+      ],
+      "notes": "Apply 0.75 multiplier to standard front setback"
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUMBAI_DCPR_2034.pdf",
+    "page": 78,
+    "text_snippet": "Corner plot provisions..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:19.367158",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

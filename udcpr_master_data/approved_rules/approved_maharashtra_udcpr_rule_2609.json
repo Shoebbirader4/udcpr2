@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2609",
+  "title": "S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2609",
+  "clause_text": "S.T.P. Plant, fire extinguishing, water pumping and generator backup systems for minimum 5 years from the date of occupancy certificate of the rehab building/s so as to avoid any structural and other major defects in the buildings and related services.",
+  "chapter": null,
+  "section": "Provisions of Lifts for people as well as accommodating stretcher in any building under the Rehabilitation Component shall be as per the following Table :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "S.T.P. Plant, fire extinguishing, water pumping and generator backup systems for minimum 5 years from the date of occupancy certificate of the rehab building/s so as to avoid any structural and other "
+  },
+  "created_at": "2025-11-19T00:14:24.933974",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.425263",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

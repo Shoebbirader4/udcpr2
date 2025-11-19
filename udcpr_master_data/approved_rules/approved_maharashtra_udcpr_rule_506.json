@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_506",
+  "title": "No permission shall be granted to delete / reduce open spaces of the existing sanctioned layout / subdivision",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 506",
+  "clause_text": "No permission shall be granted to delete / reduce open spaces of the existing sanctioned layout / subdivision. However, while revising the layout, such recreational open space may be rearranged without decrease in area subject to minimum prescribed area under these Regulations with the consent of plot / tenement holders / co-owners, but such revision of recreational open space shall ordinarily not be allowed after a period of 4 years from 1st final sanction. However, such revision of open spaces may be allowed after 4 years also, where plots in the layout are not sold or transferred.",
+  "chapter": null,
+  "section": "Recreational Open Space - Rearrangement",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "No permission shall be granted to delete / reduce open spaces of the existing sanctioned layout / subdivision. However, while revising the layout, such recreational open space may be rearranged withou"
+  },
+  "created_at": "2025-11-19T00:14:18.581943",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.854455",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

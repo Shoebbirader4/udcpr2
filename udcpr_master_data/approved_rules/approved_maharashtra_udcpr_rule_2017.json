@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2017",
+  "title": "Every Special building (as defined in UDCPR-2020) shall be provided with Fire Towers having minimum 2 hours fire resistance, consisting of a fireman evacuation lift with a ventilated lobby as an integral part of fire escape staircase, preferably at landing level",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2017",
+  "clause_text": "Every Special building (as defined in UDCPR-2020) shall be provided with Fire Towers having minimum 2 hours fire resistance, consisting of a fireman evacuation lift with a ventilated lobby as an integral part of fire escape staircase, preferably at landing level. Fire Tower may be provided as per sketches shown in the Annexure-C.",
+  "chapter": null,
+  "section": "13.5 SOLID WASTE MANAGEMENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Every Special building (as defined in UDCPR-2020) shall be provided with Fire Towers having minimum 2 hours fire resistance, consisting of a fireman evacuation lift with a ventilated lobby as an integ"
+  },
+  "created_at": "2025-11-19T00:14:23.497166",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.554884",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

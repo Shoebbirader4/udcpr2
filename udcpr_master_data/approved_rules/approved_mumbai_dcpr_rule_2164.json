@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2164",
+  "title": "All burrow pits dug in the course of construction and repair of buildings, roads, embankments, etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2164",
+  "clause_text": "All burrow pits dug in the course of construction and repair of buildings, roads, embankments, etc., shall be deep and connected with each other in the formation of a drain directed towards the lowest level and properly stepped for discharge into a river, stream, channel or drain, and no person shall create any isolated burrow pit which is likely to cause accumulation of water that may breed mosquitoes.",
+  "chapter": null,
+  "section": "Quality of materials and workmanship:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All burrow pits dug in the course of construction and repair of buildings, roads, embankments, etc., shall be deep and connected with each other in the formation of a drain directed towards the lowest"
+  },
+  "created_at": "2025-11-19T00:14:44.128778",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.476091",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

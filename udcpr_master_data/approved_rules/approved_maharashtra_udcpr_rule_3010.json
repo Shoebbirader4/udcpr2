@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3010",
+  "title": "The Project Proponent/s shall submit a bank guarantee of an amount equal to the 15% of estimated development cost required for development of the basic infrastructure such as roads, water supply, drainage & garbage disposal, installations for power supply, fire brigade station & fire engines",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3010",
+  "clause_text": "The Project Proponent/s shall submit a bank guarantee of an amount equal to the 15% of estimated development cost required for development of the basic infrastructure such as roads, water supply, drainage & garbage disposal, installations for power supply, fire brigade station & fire engines. Such development cost be worked out as per respective phases taking into consideration the phased program for development of infrastructure with amenities under project as submitted. Certificate regarding estimated development cost shall be produced by the respective Architect of the project.",
+  "chapter": null,
+  "section": "Infrastructure Facilities",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Project Proponent/s shall submit a bank guarantee of an amount equal to the 15% of estimated development cost required for development of the basic infrastructure such as roads, water supply, drai"
+  },
+  "created_at": "2025-11-19T00:14:26.129593",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.363261",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

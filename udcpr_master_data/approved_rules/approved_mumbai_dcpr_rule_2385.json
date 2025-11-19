@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2385",
+  "title": "Carbon-dioxide (Co2) Fire Extinguishing System: - Fixed Co2 fire extinguishing installation shall be provided as per IS: 6382-1971 Code of Practice for Design and Installation of Fixed Co2 Fire Extinguishing System on premises where water or foam cannot be used for extinguishing fire because of the special nature of the contents of the buildings/areas to be protected",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2385",
+  "clause_text": "Carbon-dioxide (Co2) Fire Extinguishing System: - Fixed Co2 fire extinguishing installation shall be provided as per IS: 6382-1971 Code of Practice for Design and Installation of Fixed Co2 Fire Extinguishing System on premises where water or foam cannot be used for extinguishing fire because of the special nature of the contents of the buildings/areas to be protected. Where possible, BCF installation may be provided instead of Co2 installation. All buildings mentioned below shall be equipped with fire alarm systems as given below: -",
+  "chapter": null,
+  "section": "Wet Riser Installation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Carbon-dioxide (Co2) Fire Extinguishing System: - Fixed Co2 fire extinguishing installation shall be provided as per IS: 6382-1971 Code of Practice for Design and Installation of Fixed Co2 Fire Exting"
+  },
+  "created_at": "2025-11-19T00:14:45.308930",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.986716",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

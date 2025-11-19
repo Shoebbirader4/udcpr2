@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_810",
+  "title": "The flats constructed under the free sale component shall be first offered to the Central Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 810",
+  "clause_text": "The flats constructed under the free sale component shall be first offered to the Central Govt., its statutory bodies, Central/ State PSUs for purchase as staff quarters and if the Central Govt. or its statutory Bodies or Central/ State PSUs do not indicate willingness to purchase the same within the prescribed time limit, such flats shall be sold in open market.",
+  "chapter": null,
+  "section": "33(3) Buildings of Government/MCGM/Statutory Bodies, Semi- Government and PSU Offices:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The flats constructed under the free sale component shall be first offered to the Central Govt., its statutory bodies, Central/ State PSUs for purchase as staff quarters and if the Central Govt. or it"
+  },
+  "created_at": "2025-11-19T00:14:38.485110",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.801120",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

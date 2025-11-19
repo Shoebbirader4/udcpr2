@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1454",
+  "title": "All exits shall provide continuous means of egress to the exterior of a building or to an exterior o",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1454",
+  "clause_text": "All exits shall provide continuous means of egress to the exterior of a building or to an exterior open space leading to a street and, Exits shall be so arranged that they may be reached without passing through another occupied unit.",
+  "chapter": null,
+  "section": "The following General requirements shall apply to exits",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All exits shall provide continuous means of egress to the exterior of a building or to an exterior open space leading to a street and,"
+  },
+  "created_at": "2025-11-19T00:14:21.868967",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.276226",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

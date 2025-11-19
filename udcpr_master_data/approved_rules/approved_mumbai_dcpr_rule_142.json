@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_142",
+  "title": "\"Smoke-stop door\" means a door for preventing or checking the spread of smoke from one area to another",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 142",
+  "clause_text": "\"Smoke-stop door\" means a door for preventing or checking the spread of smoke from one area to another. “Solar Energy System” means a device to heat the water or generate power using solar energy.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Smoke-stop door\" means a door for preventing or checking the spread of smoke from one area to another."
+  },
+  "created_at": "2025-11-19T00:14:35.196382",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.893219",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

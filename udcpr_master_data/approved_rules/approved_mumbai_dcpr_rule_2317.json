@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2317",
+  "title": "Intake ducts may serve al basement levels but each basement and basement compartment shall have separate smoke outlet duct or ducts",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2317",
+  "clause_text": "Intake ducts may serve al basement levels but each basement and basement compartment shall have separate smoke outlet duct or ducts.",
+  "chapter": null,
+  "section": "Basements: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Intake ducts may serve al basement levels but each basement and basement compartment shall have separate smoke outlet duct or ducts."
+  },
+  "created_at": "2025-11-19T00:14:44.904502",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.778589",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

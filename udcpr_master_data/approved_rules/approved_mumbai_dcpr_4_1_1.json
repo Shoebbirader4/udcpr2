@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_4_1_1",
+  "title": "Provided further that such construction/erection of compound wall/fencing shall not be necessary for area under Development Plan roads/ set back due to road wideing",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.1.1",
+  "clause_text": "Provided further that such construction/erection of compound wall/fencing shall not be necessary for area under Development Plan roads/ set back due to road wideing. In such cases TDR equivalent to entitlement as mentioned in regulation no 4.1.1 shall be granted without any reduction.",
+  "chapter": null,
+  "section": "GENERATION OF THE TRANSFERABLE DEVELOPMENT RIGHTS ( TDR )",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that such construction/erection of compound wall/fencing shall not be necessary for area under Development Plan roads/ set back due to road wideing. In such cases TDR equivalent to en"
+  },
+  "created_at": "2025-11-19T00:14:38.151928",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.482205",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

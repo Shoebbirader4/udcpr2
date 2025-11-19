@@ -1,0 +1,44 @@
+{
+  "rule_id": "mumbai_dcpr_table_93_row_1",
+  "title": "Table 93 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-93.1",
+  "clause_text": "Location: 1 | Minimu m Road Width: 2 | Total permissibl e FSI: 3 | Zona l FSI: 4 | Addition al FSI: 5 | %FSI for Transit tenement s for SRA/ of total additiona l FSI: 6 | % FSI for sale component of total additional FSI: 7",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Location",
+        "Minimu m Road Width",
+        "Total permissibl e FSI",
+        "Zona l FSI",
+        "Addition al FSI",
+        "%FSI for Transit tenement s for SRA/ of total additiona l FSI",
+        "% FSI for sale component of total additional FSI"
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_93",
+    "text_snippet": "Location: 1 | Minimu m Road Width: 2 | Total permissibl e FSI: 3 | Zona l FSI: 4 | Addition al FSI: 5 | %FSI for Transit tenement s for SRA/ of total additiona l FSI: 6 | % FSI for sale component of t"
+  },
+  "created_at": "2025-11-19T00:14:48.573003",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.784718",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

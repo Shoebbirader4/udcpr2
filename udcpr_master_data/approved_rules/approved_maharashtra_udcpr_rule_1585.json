@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1585",
+  "title": "Beyond the Green Belt, another belt of 150 m",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1585",
+  "clause_text": "Beyond the Green Belt, another belt of 150 m. should be created as \"Low Density Zone\" as shown on plan, attached with the report of the Authority.",
+  "chapter": null,
+  "section": "Creation of Low Density Zone -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Beyond the Green Belt, another belt of 150 m. should be created as \"Low Density Zone\" as shown on plan, attached with the report of the Authority."
+  },
+  "created_at": "2025-11-19T00:14:22.381972",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.616407",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

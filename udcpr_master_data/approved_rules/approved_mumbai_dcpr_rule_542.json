@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_542",
+  "title": "Provided that in residential layouts, straight cul-de-sacs up to 150 m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 542",
+  "clause_text": "Provided that in residential layouts, straight cul-de-sacs up to 150 m. long roads are permissible. An additional length up to 125 m will be permissible, if an additional turning space is provided at 150 m. The dead end shall be at a level higher than the main road from where the cul-de-sac road takes off. The turning space, in each case, should not be less than 81sq.m. in area, no dimension being less than 9 m. Access for residential, commercial and industrial zones - as in table No 7 and 8above- shall be clear of marginal open spaces but not less than 3m from the building line; may be reduced by 1 m from the prescribed widths if the plots are on only one side to the access; shall be measured in length from the point of its origin to the next wider public street it meets.",
+  "chapter": null,
+  "section": "Internal means of access",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that in residential layouts, straight cul-de-sacs up to 150 m. long roads are permissible. An additional length up to 125 m will be permissible, if an additional turning space is provided at "
+  },
+  "created_at": "2025-11-19T00:14:37.479431",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.983490",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

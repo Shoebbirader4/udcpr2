@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2617",
+  "title": "It shall be an obligatory duty of the Competent Authority to ensure de-notification of the entire slum area, by including all eligible slum dwellers falling in the proposed buildable site, contravening structures, hutments on adjacent non-buildable areas like roads / No Development Zones / Green Belts / reservations, for the purpose of in-situ rehabilitation of such eligible slum dwellers on balance buildable land as per The said Regulations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2617",
+  "clause_text": "It shall be an obligatory duty of the Competent Authority to ensure de-notification of the entire slum area, by including all eligible slum dwellers falling in the proposed buildable site, contravening structures, hutments on adjacent non-buildable areas like roads / No Development Zones / Green Belts / reservations, for the purpose of in-situ rehabilitation of such eligible slum dwellers on balance buildable land as per The said Regulations.",
+  "chapter": null,
+  "section": "SLUM AND DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "It shall be an obligatory duty of the Competent Authority to ensure de-notification of the entire slum area, by including all eligible slum dwellers falling in the proposed buildable site, contravenin"
+  },
+  "created_at": "2025-11-19T00:14:24.946714",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.459945",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

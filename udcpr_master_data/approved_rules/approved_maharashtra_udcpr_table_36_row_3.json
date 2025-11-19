@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_36_row_3",
+  "title": "Table 36 - Row 3",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-36.3",
+  "clause_text": "Sr. No.: 3 | Qty. of LPG in Kg.s: 10000 | Total area requirement for storage shed (sq. m.): 110 | Safety Clearance required all around in Meters: 8.0 | Preferable size of land with parking area of 6 m. wide on front side: 28 m. x 33 m.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Qty. of LPG in Kg.s",
+        "Total area requirement for storage shed (sq. m.)",
+        "Safety Clearance required all around in Meters",
+        "Preferable size of land with parking area of 6 m. wide on front side"
+      ],
+      "values": [
+        "3",
+        "10000",
+        "110",
+        "8.0",
+        "28 m. x 33 m."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_36",
+    "text_snippet": "Sr. No.: 3 | Qty. of LPG in Kg.s: 10000 | Total area requirement for storage shed (sq. m.): 110 | Safety Clearance required all around in Meters: 8.0 | Preferable size of land with parking area of 6 m"
+  },
+  "created_at": "2025-11-19T00:14:29.841644",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.504385",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

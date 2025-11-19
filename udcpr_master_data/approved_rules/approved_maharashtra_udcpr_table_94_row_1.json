@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_94_row_1",
+  "title": "Table 94 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-94.1",
+  "clause_text": "Sr. No.: 1 | Stages of Release FSI: On Grant of Building Permission / Commencement Certificate up to plinth by 1.1-L- B Special Planning Authority for Bhiwandi | Affordable Housing Component*: 3.00 | Free Sale Component*: 1.00",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Stages of Release FSI",
+        "Affordable Housing Component*",
+        "Free Sale Component*"
+      ],
+      "values": [
+        "1",
+        "On Grant of Building Permission / Commencement Certificate up to plinth by 1.1-L- B Special Planning Authority for Bhiwandi",
+        "3.00",
+        "1.00"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_94",
+    "text_snippet": "Sr. No.: 1 | Stages of Release FSI: On Grant of Building Permission / Commencement Certificate up to plinth by 1.1-L- B Special Planning Authority for Bhiwandi | Affordable Housing Component*: 3.00 | "
+  },
+  "created_at": "2025-11-19T00:14:30.101457",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.625470",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

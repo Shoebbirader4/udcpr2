@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_10_5_2",
+  "title": "A regulation in respect of development of cycle track along river and nallah for Nashik Municipal Corporation area is given at Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "10.5.2",
+  "clause_text": "A regulation in respect of development of cycle track along river and nallah for Nashik Municipal Corporation area is given at Regulation No.10.5.2. For other Municipal Corporations, following regulations shall be applicable.",
+  "chapter": null,
+  "section": "3.13 DEVELOPMENT OF CYCLE TRACK ALONG RIVER AND NALLAH",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A regulation in respect of development of cycle track along river and nallah for Nashik Municipal Corporation area is given at Regulation No.10.5.2."
+  },
+  "created_at": "2025-11-19T00:14:18.863898",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.086681",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

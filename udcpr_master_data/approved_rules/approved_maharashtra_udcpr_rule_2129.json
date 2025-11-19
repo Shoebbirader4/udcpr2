@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2129",
+  "title": "The entire project shall be an integrated one with all facilities within the boundaries of such project",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2129",
+  "clause_text": "The entire project shall be an integrated one with all facilities within the boundaries of such project. All the on-site infrastructure i.e. internal roads, approach road, street lights, water supply and drainage system shall be mandatory and constructed / maintained in future by the Project Proponent/s. Proposed internal roads and Open Spaces in the layouts shall be used only for ITP.",
+  "chapter": null,
+  "section": "Liability of Project Proponent/s :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The entire project shall be an integrated one with all facilities within the boundaries of such project. All the on-site infrastructure i.e. internal roads, approach road, street lights, water supply "
+  },
+  "created_at": "2025-11-19T00:14:23.826823",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.982684",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

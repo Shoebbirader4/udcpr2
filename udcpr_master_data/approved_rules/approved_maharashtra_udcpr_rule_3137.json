@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3137",
+  "title": "If any complaint is received in respect of any on-going work for which development permission has been granted, he should take the cognizance of the said compliant and do the needful within 15 days",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3137",
+  "clause_text": "If any complaint is received in respect of any on-going work for which development permission has been granted, he should take the cognizance of the said compliant and do the needful within 15 days.",
+  "chapter": null,
+  "section": "Duties and Responsibilities of Geotechnical Engineer :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If any complaint is received in respect of any on-going work for which development permission has been granted, he should take the cognizance of the said compliant and do the needful within 15 days."
+  },
+  "created_at": "2025-11-19T00:14:26.871777",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.707349",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

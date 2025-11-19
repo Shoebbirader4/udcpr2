@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1571",
+  "title": "The year in which premium is paid before the issuance of building permission for the PPL shall be taken as the year for determination of construction cost as well as ASR for calculation of the premium",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1571",
+  "clause_text": "The year in which premium is paid before the issuance of building permission for the PPL shall be taken as the year for determination of construction cost as well as ASR for calculation of the premium. Out of the total premium payable, 50% shall be paid to the GoM and the remaining 50% to TMC.",
+  "chapter": null,
+  "section": "a) Development of Multi Storey Public Parking Lot (PPL) near Metro Stations",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The year in which premium is paid before the issuance of building permission for the PPL shall be taken as the year for determination of construction cost as well as ASR for calculation of the premium"
+  },
+  "created_at": "2025-11-19T00:14:22.365704",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.576175",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_12",
+  "title": "Table 12 - Row 12",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.12",
+  "clause_text": "PART X SPECIAL PROVISIONS: 53 | PART X SPECIAL PROVISIONS: Under Ground Public Utility/Conveniences/Amenity Provision | PART X SPECIAL PROVISIONS: 384",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "53",
+        "Under Ground Public Utility/Conveniences/Amenity Provision",
+        "384"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: 53 | PART X SPECIAL PROVISIONS: Under Ground Public Utility/Conveniences/Amenity Provision | PART X SPECIAL PROVISIONS: 384"
+  },
+  "created_at": "2025-11-19T00:14:48.153546",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.487824",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

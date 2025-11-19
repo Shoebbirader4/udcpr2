@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1735",
+  "title": "Segregating distance as required under these Regulations shall be provided within the lands intended to be used for residential/commercial uses",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1735",
+  "clause_text": "Segregating distance as required under these Regulations shall be provided within the lands intended to be used for residential/commercial uses.",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Segregating distance as required under these Regulations shall be provided within the lands intended to be used for residential/commercial uses."
+  },
+  "created_at": "2025-11-19T00:14:41.714175",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.291133",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

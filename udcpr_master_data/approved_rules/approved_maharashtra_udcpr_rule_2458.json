@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2458",
+  "title": "Upon failure of the concerned land owner, land holders or occupants to come forward with a rehabilitation scheme in accordance with the provisions contained in this Scheme, the C",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2458",
+  "clause_text": "Upon failure of the concerned land owner, land holders or occupants to come forward with a rehabilitation scheme in accordance with the provisions contained in this Scheme, the C.E.O.,",
+  "chapter": null,
+  "section": "Compulsory acquisition of slum land",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Upon failure of the concerned land owner, land holders or occupants to come forward with a rehabilitation scheme in accordance with the provisions contained in this Scheme, the C.E.O.,"
+  },
+  "created_at": "2025-11-19T00:14:24.657027",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.929995",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

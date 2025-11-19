@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1159",
+  "title": "Provided that the aforesaid FSI shall be exclusive of the Fungible FSI admissible under the provision of DCPR 31 (3)",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1159",
+  "clause_text": "Provided that the aforesaid FSI shall be exclusive of the Fungible FSI admissible under the provision of DCPR 31 (3).",
+  "chapter": null,
+  "section": "Total Permissible FSI for URS:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that the aforesaid FSI shall be exclusive of the Fungible FSI admissible under the provision of DCPR 31 (3)."
+  },
+  "created_at": "2025-11-19T00:14:39.748210",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.784623",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

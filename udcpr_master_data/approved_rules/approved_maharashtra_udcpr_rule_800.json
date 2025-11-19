@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_800",
+  "title": "Civic Centre / Community and Cultural Centre - Community Hall, welfare centre, gymnasium, badminton hall, art gallery, museum, club house, public conveniences, cafeteria, gardens, exhibition centre, and like combination of uses",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 800",
+  "clause_text": "Civic Centre / Community and Cultural Centre - Community Hall, welfare centre, gymnasium, badminton hall, art gallery, museum, club house, public conveniences, cafeteria, gardens, exhibition centre, and like combination of uses. (1) Convenience Shops may be permitted within 15% of basic FSI.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Civic Centre / Community and Cultural Centre - Community Hall, welfare centre, gymnasium, badminton hall, art gallery, museum, club house, public conveniences, cafeteria, gardens, exhibition centre, a"
+  },
+  "created_at": "2025-11-19T00:14:19.716637",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.561052",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

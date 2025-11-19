@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2654",
+  "title": "The eligibility of the Non Protected occupiers shall be decided by the Competent Officers as per the orders issued by the Government in this behalf from time to time",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2654",
+  "clause_text": "The eligibility of the Non Protected occupiers shall be decided by the Competent Officers as per the orders issued by the Government in this behalf from time to time.",
+  "chapter": null,
+  "section": "ALLOTMENT OF THE TENEMENTS TO THE NON PROTECTED OCCUPIERS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The eligibility of the Non Protected occupiers shall be decided by the Competent Officers as per the orders issued by the Government in this behalf from time to time."
+  },
+  "created_at": "2025-11-19T00:14:25.031574",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.635098",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

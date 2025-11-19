@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1877",
+  "title": "The application for the proposed Yogalaya or Fitness Centre shall be made by the Registered Co-Operative Housing Society/Apartment Owners Association of the buildings that has been issued the occupation certificate/BCC",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1877",
+  "clause_text": "The application for the proposed Yogalaya or Fitness Centre shall be made by the Registered Co-Operative Housing Society/Apartment Owners Association of the buildings that has been issued the occupation certificate/BCC. The owner/developer may make an application for proposed Yogalaya or Fitness Centre with registered undertaking stating that constructed Yogalaya or Fitness Centre shall be handed over to proposed Co-Operative Housing Society/Apartment Owners Association; and in turn shall ensure the handing over on completion.",
+  "chapter": null,
+  "section": "Boundary wall and main entrance:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The application for the proposed Yogalaya or Fitness Centre shall be made by the Registered Co-Operative Housing Society/Apartment Owners Association of the buildings that has been issued the occupati"
+  },
+  "created_at": "2025-11-19T00:14:42.424962",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.769248",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

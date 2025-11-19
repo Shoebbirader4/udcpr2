@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_964",
+  "title": "He shall distinctly mark lands for AH, POS, OA and Owner’s share in the layout",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 964",
+  "clause_text": "He shall distinctly mark lands for AH, POS, OA and Owner’s share in the layout. Further earmarking of lands for other amenities like education, health and social amenities cited above shall be done by the Commissioner taking the amenity standards prescribed as minimum.",
+  "chapter": null,
+  "section": "Planning Considerations /Submission of Proposal",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "He shall distinctly mark lands for AH, POS, OA and Owner’s share in the layout. Further earmarking of lands for other amenities like education, health and social amenities cited above shall be done by"
+  },
+  "created_at": "2025-11-19T00:14:39.065756",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.278915",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

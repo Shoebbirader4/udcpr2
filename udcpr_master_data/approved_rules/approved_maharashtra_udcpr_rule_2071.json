@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2071",
+  "title": "Part plan of sanctioned Regional Plan (1) or Development Plan, as the case may be, showing the lands under the Master Layout Plan",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2071",
+  "clause_text": "Part plan of sanctioned Regional Plan (1) or Development Plan, as the case may be, showing the lands under the Master Layout Plan. Village Map showing the lands under the Master Layout Plan.",
+  "chapter": null,
+  "section": "Master Layout Plan Approval by the Collector (1) or by the Planning Authority, as the case may be :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Part plan of sanctioned Regional Plan (1) or Development Plan, as the case may be, showing the lands under the Master Layout Plan."
+  },
+  "created_at": "2025-11-19T00:14:23.663562",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.768409",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

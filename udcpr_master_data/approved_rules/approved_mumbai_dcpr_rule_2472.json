@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2472",
+  "title": "Does the proposal fall in any of the areas/zones such as those of the Mumbai Metropolitan Region Development Authority/ Maharashtra Housing and Area Development Authority/Railway/Highway/Slum Authorities/Power Transmission line/Coastal Area/No Development Zone/Tourism Development Zone/Communication Authorities etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2472",
+  "clause_text": "Does the proposal fall in any of the areas/zones such as those of the Mumbai Metropolitan Region Development Authority/ Maharashtra Housing and Area Development Authority/Railway/Highway/Slum Authorities/Power Transmission line/Coastal Area/No Development Zone/Tourism Development Zone/Communication Authorities etc.? Is the necessary set back provided according to Regulations 18(b)?",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Does the proposal fall in any of the areas/zones such as those of the Mumbai Metropolitan Region Development Authority/ Maharashtra Housing and Area Development Authority/Railway/Highway/Slum Authorit"
+  },
+  "created_at": "2025-11-19T00:14:45.971389",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.189785",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

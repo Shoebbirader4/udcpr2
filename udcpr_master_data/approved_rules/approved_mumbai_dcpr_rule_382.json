@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_382",
+  "title": "Reservations which shall be exclusively developed by the MCGM or the Appropriate Authority (acquired by way of monetary compensation or TDR or any other means), or by owner, wherever permissible, entirely for the intended purpose are described in Table Nos",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 382",
+  "clause_text": "Reservations which shall be exclusively developed by the MCGM or the Appropriate Authority (acquired by way of monetary compensation or TDR or any other means), or by owner, wherever permissible, entirely for the intended purpose are described in Table Nos. 4 & 5 with appropriate conditions or allow owner to develop under Accommodation Reservation (AR) subject to conditions mentioned below & further as described in Table No.5 For plot having reservation area 1000 sq. m. or more",
+  "chapter": null,
+  "section": "Road /Road Widening",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Reservations which shall be exclusively developed by the MCGM or the Appropriate Authority (acquired by way of monetary compensation or TDR or any other means), or by owner, wherever permissible, enti"
+  },
+  "created_at": "2025-11-19T00:14:36.696823",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.482501",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

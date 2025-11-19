@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_158_row_4",
+  "title": "Table 158 - Row 4",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-158.4",
+  "clause_text": "Sr. No. (1): 8 | Occupancy (2): Hospitals and Medical Institutions | Parking Space required (3): One parking space for every 150-sq.m of total floor area, except that it would be one parking space for every 600-sq.m of the total floor area in the case of Govt. and Municipal hospitals and Medical institutions. In addition, one parks space for ambulance parking measuring 10 m x 4 m for hospitals or medical institutions with bed strength of 100 or more.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "8",
+        "Hospitals and Medical Institutions",
+        "One parking space for every 150-sq.m of total floor area, except that it would be one parking space for every 600-sq.m of the total floor area in the case of Govt. and Municipal hospitals and Medical institutions. In addition, one parks space for ambulance parking measuring 10 m x 4 m for hospitals or medical institutions with bed strength of 100 or more."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_158",
+    "text_snippet": "Sr. No. (1): 8 | Occupancy (2): Hospitals and Medical Institutions | Parking Space required (3): One parking space for every 150-sq.m of total floor area, except that it would be one parking space for"
+  },
+  "created_at": "2025-11-19T00:14:49.086462",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.868826",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

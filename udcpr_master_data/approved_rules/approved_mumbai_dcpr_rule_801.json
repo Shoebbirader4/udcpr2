@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_801",
+  "title": "/institution will restore the use of premises to the original purpose for which LOI/ Registration was granted",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 801",
+  "clause_text": "/institution will restore the use of premises to the original purpose for which LOI/ Registration was granted. If the said medical/ educational/institutionl fails to pay penalty and / or restore the use to its original intended use, the MCGM will take suitable action under the Maharashtra Regional and Town Planning Act 1966, against the concern. These provisions will be over and above the penal provisions of the MRTP Act, 1966.",
+  "chapter": null,
+  "section": "Terms and Conditions for Buildings of Private Medical & Educational Institutions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "/institution will restore the use of premises to the original purpose for which LOI/ Registration was granted. If the said medical/ educational/institutionl fails to pay penalty and / or restore the u"
+  },
+  "created_at": "2025-11-19T00:14:38.428740",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.783859",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

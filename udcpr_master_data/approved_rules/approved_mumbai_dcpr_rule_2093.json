@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2093",
+  "title": "For high rise and special buildings, additional provisions relating to fire protection contained in",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2093",
+  "clause_text": "For high rise and special buildings, additional provisions relating to fire protection contained in Appendix I shall also apply, For proposal under regulations 33(5), 33(6),33(7),33(7)(A),33(9),33(9)(A), 33(9)(B), 33(10), 33(10)(A), 33(11), 33(15), 33(20)(A)",
+  "chapter": null,
+  "section": "Fire Protection Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For high rise and special buildings, additional provisions relating to fire protection contained in Appendix I shall also apply,"
+  },
+  "created_at": "2025-11-19T00:14:43.731053",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.325313",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

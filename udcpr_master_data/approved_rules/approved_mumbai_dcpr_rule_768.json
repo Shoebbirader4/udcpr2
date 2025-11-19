@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_768",
+  "title": "Notwithstanding anything contained in these Regulation, at the option of owner/developer the TDR to be generated in the ongoing schemes as per Regulation 33(10) & 33(14) of DCR 1991 where CC is already issued which is valid & work is in progress accordingly, then in such cases the TDR generation & utilisation shall be allowed as per DCR 1991",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 768",
+  "clause_text": "Notwithstanding anything contained in these Regulation, at the option of owner/developer the TDR to be generated in the ongoing schemes as per Regulation 33(10) & 33(14) of DCR 1991 where CC is already issued which is valid & work is in progress accordingly, then in such cases the TDR generation & utilisation shall be allowed as per DCR 1991. Provided that the utilisation of such TDR as per then Regulation shall be allowed within period of 1 year from the date of issue of such DRC without indexation and balance quantum after one year shall be reworked as per DCPR 2034 for generation and indexed for utilization.",
+  "chapter": null,
+  "section": "EFFECT OF THIS REGULATION:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notwithstanding anything contained in these Regulation, at the option of owner/developer the TDR to be generated in the ongoing schemes as per Regulation 33(10) & 33(14) of DCR 1991 where CC is alread"
+  },
+  "created_at": "2025-11-19T00:14:38.302121",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.664172",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

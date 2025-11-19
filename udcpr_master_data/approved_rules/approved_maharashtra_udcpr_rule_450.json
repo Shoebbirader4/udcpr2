@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_450",
+  "title": "Such information shall be published by the Authority on its notice board/ website and also update it as and when it is updated by the concerned department",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 450",
+  "clause_text": "Such information shall be published by the Authority on its notice board/ website and also update it as and when it is updated by the concerned department. Every plot / land shall have means of access like street / road irrespective of its width.",
+  "chapter": null,
+  "section": "Authorities to Supply Complete Information about Restrictions to the Authority",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such information shall be published by the Authority on its notice board/ website and also update it as and when it is updated by the concerned department."
+  },
+  "created_at": "2025-11-19T00:14:18.353364",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.692636",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

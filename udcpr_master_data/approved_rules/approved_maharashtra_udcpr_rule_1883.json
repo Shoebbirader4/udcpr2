@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1883",
+  "title": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are retainable and not vested or handed over to the Government / Urban Local Bodies and not exempted under section 20 or 21 of the then Urban Land (Ceiling and Regulations) Act, 1976 and undertaking to that effect shall be obtained, before a Development Right is granted",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1883",
+  "clause_text": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are retainable and not vested or handed over to the Government / Urban Local Bodies and not exempted under section 20 or 21 of the then Urban Land (Ceiling and Regulations) Act, 1976 and undertaking to that effect shall be obtained, before a Development Right is granted. In the case of schemes sanctioned under section 20 or 21 of the said Act, the grant of Development Rights (DRs) shall be to such extent and subject to the conditions mentioned in in section 20 or 21 scheme and such conditions as the Government may prescribe. In case of non-retainable land (surplus land), the grant of Development Rights shall be to such extent and subject to such conditions as the Government may specify. The provisions of this Regulation shall be subject to the orders issued by the Government from time to time in this regard.",
+  "chapter": null,
+  "section": "General stipulation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development Rights (DRs) will be granted to an owner or lessee, only for reserved lands which are retainable and not vested or handed over to the Government / Urban Local Bodies and not exempted under"
+  },
+  "created_at": "2025-11-19T00:14:23.148093",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.250434",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_21",
+  "title": "Table 12 - Row 21",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.21",
+  "clause_text": "PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILITY | PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILITY | PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILITY",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "PART- XII ENVIRONMENTAL SUSTAINABILITY",
+        "PART- XII ENVIRONMENTAL SUSTAINABILITY",
+        "PART- XII ENVIRONMENTAL SUSTAINABILITY"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILITY | PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILITY | PART X SPECIAL PROVISIONS: PART- XII ENVIRONMENTAL SUSTAINABILIT"
+  },
+  "created_at": "2025-11-19T00:14:48.156817",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.529045",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

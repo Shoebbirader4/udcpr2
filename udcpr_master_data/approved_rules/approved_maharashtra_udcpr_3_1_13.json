@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_3_1_13",
+  "title": "In case of development / construction of buildings requiring clearance from the Authorities like Civil Aviation Authority, Railways, Directorate of Industries, Maharashtra Pollution Control Board, District Magistrate, Inspectorate of Boilers and Smoke Nuisance, Defence Department, Maharashtra Coastal Zone Management Authority, Archaeological Department etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "3.1.13",
+  "clause_text": "In case of development / construction of buildings requiring clearance from the Authorities like Civil Aviation Authority, Railways, Directorate of Industries, Maharashtra Pollution Control Board, District Magistrate, Inspectorate of Boilers and Smoke Nuisance, Defence Department, Maharashtra Coastal Zone Management Authority, Archaeological Department etc., the relevant No Objection Certificates from these Authorities, whichever applicable, shall also accompany the application, where such information is not received by the authority as mentioned in Regulation No.3.1.13.",
+  "chapter": null,
+  "section": "(#) Clearance from other Departments",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of development / construction of buildings requiring clearance from the Authorities like Civil Aviation Authority, Railways, Directorate of Industries, Maharashtra Pollution Control Board, Dis"
+  },
+  "created_at": "2025-11-19T00:14:18.003602",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.388739",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

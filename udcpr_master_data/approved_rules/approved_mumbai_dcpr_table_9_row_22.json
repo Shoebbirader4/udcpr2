@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_9_row_22",
+  "title": "Table 9 - Row 22",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-9.22",
+  "clause_text": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: (2) Side and rear open space in relation to the height of the building for light and ventilation | 326: 339",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings",
+        "326"
+      ],
+      "values": [
+        "",
+        "(2) Side and rear open space in relation to the height of the building for light and ventilation",
+        "339"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_9",
+    "text_snippet": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: (2) Side and rear open space in relation to the height of the building for light and ventilation |"
+  },
+  "created_at": "2025-11-19T00:14:48.126504",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.450713",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

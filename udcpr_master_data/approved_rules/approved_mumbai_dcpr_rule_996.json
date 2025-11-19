@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_996",
+  "title": "Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 996",
+  "clause_text": "Govt./Semi-Govt./Appropriate Authority shall develop the infrastructure network within the layout (AH,POS & OA) to be handed over to MCGM (road + water supply mains + sewer line + storm water drain + street lights pertaining to that specific scheme) as per the requirements of the concerned departments.",
+  "chapter": null,
+  "section": "Infrastructure Development",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Govt./Semi-Govt./Appropriate Authority shall develop the infrastructure network within the layout (AH,POS & OA) to be handed over to MCGM (road + water supply mains + sewer line + storm water drain + "
+  },
+  "created_at": "2025-11-19T00:14:39.179032",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.365966",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

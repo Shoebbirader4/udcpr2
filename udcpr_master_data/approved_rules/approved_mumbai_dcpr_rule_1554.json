@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1554",
+  "title": "With the Special permission, the Commissioner may permit the floor space indices to be exceeded beyond Zonal (basic) FSI specified in this Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1554",
+  "clause_text": "With the Special permission, the Commissioner may permit the floor space indices to be exceeded beyond Zonal (basic) FSI specified in this Regulation No. 30 Table No. 12 as specified in the following table, in respect of buildings in independent plots for exclusively developing Biotechnology units set up by Public Bodies like MHADA, SEEPZ, MIDC, SICOM, CIDCO or their joint venture companies having more than 11% stake of these bodies or their lessees.",
+  "chapter": null,
+  "section": "33(17) Buildings of Biotechnology Establishments: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "With the Special permission, the Commissioner may permit the floor space indices to be exceeded beyond Zonal (basic) FSI specified in this Regulation No. 30 Table No. 12 as specified in the following "
+  },
+  "created_at": "2025-11-19T00:14:40.929850",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.733587",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

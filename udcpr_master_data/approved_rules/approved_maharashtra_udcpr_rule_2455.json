@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2455",
+  "title": "In case the C",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2455",
+  "clause_text": "In case the C.E.O., S.R.A. is of the opinion that a slum on private land is required to be developed in the larger public interest, out of concern for public health and safety of the slum and nearby areas, C.E.O., S.R.A. may invite land owner or hutment dwellers to come forward with the scheme for redeveloping the slum through a developer registered with S.R.A., by issuing a public notice of not less than 30 days. In case, land owner or hutment dweller's Co-operative Housing Society does not come forward with response to the notice so issued, the C.E.O., S.R.A. may, by order, determine to redevelop such land by entrusting it to any agency or registered developer through competitive bid process. In such an eventuality, the Land owner shall be entitled to compensation as contemplated by section 17 of the Maharashtra Slum (Improvement, Clearance and Redevelopment) Act, 1971 or as per the said Regulations. However, before passing any such order, the C.E.O., S.R.A. shall give an opportunity of being heard to the concerned land owner.",
+  "chapter": null,
+  "section": "(C.E.O., S.R.A.)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case the C.E.O., S.R.A. is of the opinion that a slum on private land is required to be developed in the larger public interest, out of concern for public health and safety of the slum and nearby a"
+  },
+  "created_at": "2025-11-19T00:14:24.646583",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.925935",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

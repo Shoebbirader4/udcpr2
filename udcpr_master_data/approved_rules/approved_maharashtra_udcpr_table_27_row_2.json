@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_27_row_2",
+  "title": "Table 27 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-27.2",
+  "clause_text": "Sr. No.: 2 | Plot Area: Layout or sub-division of a plot measuring 2 .0 ha. or more. | Maximum requirements: A suitable site for an electric sub-station as required by the Power Supply Company.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "Plot Area",
+        "Maximum requirements"
+      ],
+      "values": [
+        "2",
+        "Layout or sub-division of a plot measuring 2 .0 ha. or more.",
+        "A suitable site for an electric sub-station as required by the Power Supply Company."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_27",
+    "text_snippet": "Sr. No.: 2 | Plot Area: Layout or sub-division of a plot measuring 2 .0 ha. or more. | Maximum requirements: A suitable site for an electric sub-station as required by the Power Supply Company."
+  },
+  "created_at": "2025-11-19T00:14:29.774718",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.471304",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

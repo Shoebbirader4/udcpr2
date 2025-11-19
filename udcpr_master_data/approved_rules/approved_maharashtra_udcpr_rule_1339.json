@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1339",
+  "title": "Parking more than 50% over and above stipulated in table 8-B and 8-C, shall be liable for payment of charges at the rate of 10% of land rate mentioned in the ASR without taking into account guidelines therein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1339",
+  "clause_text": "Parking more than 50% over and above stipulated in table 8-B and 8-C, shall be liable for payment of charges at the rate of 10% of land rate mentioned in the ASR without taking into account guidelines therein. Such charges shall be recovered on the area covered under car / scooter parking over and above the requirement. However, for public semi-public, hotel, hospital, educational buildings, such charges shall not be leviable.",
+  "chapter": null,
+  "section": "Off-street parking requirement",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Parking more than 50% over and above stipulated in table 8-B and 8-C, shall be liable for payment of charges at the rate of 10% of land rate mentioned in the ASR without taking into account guidelines"
+  },
+  "created_at": "2025-11-19T00:14:21.349655",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.992786",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

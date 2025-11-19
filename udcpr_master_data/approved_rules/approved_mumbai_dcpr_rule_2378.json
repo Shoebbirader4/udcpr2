@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2378",
+  "title": "In addition to wet-riser, wet riser-cum-down corner, first aid hose reels shall be installed on the floors of buildings above 32 m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2378",
+  "clause_text": "In addition to wet-riser, wet riser-cum-down corner, first aid hose reels shall be installed on the floors of buildings above 32 m. and shall conform to IS :884-1969 Specifications for First Aid Hose Reel for Fire Fighting (Fixed Installation). The first aid hose reel shall be connected to one of the female couplings of twin couplings of landing valves directly to the wet riser in the case of single outlet of the wet riser installations by means of adapter: -",
+  "chapter": null,
+  "section": "Wet Riser Installation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In addition to wet-riser, wet riser-cum-down corner, first aid hose reels shall be installed on the floors of buildings above 32 m. and shall conform to IS :884-1969 Specifications for First Aid Hose "
+  },
+  "created_at": "2025-11-19T00:14:45.276548",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.972397",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

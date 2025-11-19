@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2379",
+  "title": "Static Water Storage Tank: - A satisfactory supply of water for the purpose of firefighting shall always be available in the form of an underground static storage tank with capacity specified for each building with arrangements of replenishment by main or alternative source of supply at 1,000 liters per minute",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2379",
+  "clause_text": "Static Water Storage Tank: - A satisfactory supply of water for the purpose of firefighting shall always be available in the form of an underground static storage tank with capacity specified for each building with arrangements of replenishment by main or alternative source of supply at 1,000 liters per minute. The static storage water supply should easily be accessible to fire engines. Provision of suitable number of manholes shall be made available for immersion, repairs and inspection of suction hose etc. The covering slab shall be able to withstand a vehicular load of 18 tonnes. The domestic suction tank connected to the static water storage tank shall have an overflow capable of discharging 2250 litres per minute to a visible drain point from which by a separate conduit the overflow shall be conveyed to a storm water drain.",
+  "chapter": null,
+  "section": "Wet Riser Installation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Static Water Storage Tank: - A satisfactory supply of water for the purpose of firefighting shall always be available in the form of an underground static storage tank with capacity specified for each"
+  },
+  "created_at": "2025-11-19T00:14:45.288149",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.974139",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

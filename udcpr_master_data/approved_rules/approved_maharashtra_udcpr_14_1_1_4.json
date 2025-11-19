@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_1_1_4",
+  "title": "If the project proponents wish to develop township according to this regulations then he may apply for grant of (1) revised Locational Clearnce from State Government as per Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.1.1.4",
+  "clause_text": "If the project proponents wish to develop township according to this regulations then he may apply for grant of (1) revised Locational Clearnce from State Government as per Regulation No.14.1.1.4 alongwith the additional documents mentioned at Sr.No.(j) therein.",
+  "chapter": null,
+  "section": "Transition Policy :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the project proponents wish to develop township according to this regulations then he may apply for grant of (1) revised Locational Clearnce from State Government as per Regulation No.14.1.1.4 alon"
+  },
+  "created_at": "2025-11-19T00:14:23.940463",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.167252",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

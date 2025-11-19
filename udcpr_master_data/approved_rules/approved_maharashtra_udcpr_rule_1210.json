@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1210",
+  "title": "This regulation shall be applicable only when existing members of the societies are proposed to be re-accommodated",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1210",
+  "clause_text": "This regulation shall be applicable only when existing members of the societies are proposed to be re-accommodated.",
+  "chapter": null,
+  "section": "(3) 7.6.1 (3) Redevelopment of Multi-Dwelling Buildings of Co-Operative Housing Societies / Apartments",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "This regulation shall be applicable only when existing members of the societies are proposed to be re-accommodated."
+  },
+  "created_at": "2025-11-19T00:14:20.934733",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.689253",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

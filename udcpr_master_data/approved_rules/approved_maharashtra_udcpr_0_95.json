@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_0_95",
+  "title": "provided permissible FSI on such plots is 0",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "0.95",
+  "clause_text": "provided permissible FSI on such plots is 0.95 or more and TDR / additional FSI on payment of premium more than 0.6 is allowable. However in case of a proposed road, the land under the said proposed road shall be acquired before the approval of building plans for the Affordable Housing Scheme. Affordable Housing Scheme shall not be allowed in areas where FSI is less than 0.95 or where use of TDR is not permissible.",
+  "chapter": null,
+  "section": "REGULATIONS FOR AFFORDABLE HOUSING SCHEME :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "provided permissible FSI on such plots is 0.95 or more and TDR / additional FSI on payment of premium more than 0.6 is allowable. However in case of a proposed road, the land under the said proposed r"
+  },
+  "created_at": "2025-11-19T00:14:22.859394",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.000545",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

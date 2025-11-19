@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1705",
+  "title": "Note: - The development in the Eco Sensitive Zone and Coastal Regulation Zone shall be governed and regulated as per MoEF's Notification in this regard and Circulars issued from time to time",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1705",
+  "clause_text": "Note: - The development in the Eco Sensitive Zone and Coastal Regulation Zone shall be governed and regulated as per MoEF's Notification in this regard and Circulars issued from time to time.",
+  "chapter": null,
+  "section": "Tourism Development Area (TDA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note: - The development in the Eco Sensitive Zone and Coastal Regulation Zone shall be governed and regulated as per MoEF's Notification in this regard and Circulars issued from time to time."
+  },
+  "created_at": "2025-11-19T00:14:41.597721",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.164858",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

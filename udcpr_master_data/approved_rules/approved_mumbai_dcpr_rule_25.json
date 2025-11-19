@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_25",
+  "title": "\"Assembly building\" means a public building or part thereof where groups of people congregate or gather for amusement, recreation, social, religious, patriotic, civil, travel and similar purposes",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 25",
+  "clause_text": "\"Assembly building\" means a public building or part thereof where groups of people congregate or gather for amusement, recreation, social, religious, patriotic, civil, travel and similar purposes. \"Assembly buildings\" include buildings of drama and cinema theatres, drive-in-theatres, assembly halls, city halls, town halls, auditoria, exhibition halls, museums, mangal karyalayas, skating rinks, gymnasia, stadia, restaurants, eating or boarding houses, places of worship, dance halls, multipurpose hall, clubs, gymkhanas, malls, road, air, sea or other public transportation stations, and recreation piers. Public for this purpose shall mean use open for public at large.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Assembly building\" means a public building or part thereof where groups of people congregate or gather for amusement, recreation, social, religious, patriotic, civil, travel and similar purposes. \"As"
+  },
+  "created_at": "2025-11-19T00:14:34.486238",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.670327",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

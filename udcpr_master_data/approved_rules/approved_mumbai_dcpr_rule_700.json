@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_700",
+  "title": "be paid",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 700",
+  "clause_text": "be paid. Fungible Compensatory F.S.I. granted under Regulation 35(4) of DCR 1991 shall be continued as Fungible Compensatory Area under Regulation 31(3) of DCPR 2034 & no premium shall be demanded or refunded or adjusted for such area.",
+  "chapter": null,
+  "section": "Fungible Compensatory Area:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "be paid. Fungible Compensatory F.S.I. granted under Regulation 35(4) of DCR 1991 shall be continued as Fungible Compensatory Area under Regulation 31(3) of DCPR 2034 & no premium shall be demanded or "
+  },
+  "created_at": "2025-11-19T00:14:38.050175",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.420648",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_70_row_7",
+  "title": "Table 70 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-70.7",
+  "clause_text": "Table No.9-B - Provision of Loft: 5 | Table No.9-B - Provision of Loft: Industrial | Table No.9-B - Provision of Loft: 33",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.9-B - Provision of Loft",
+        "Table No.9-B - Provision of Loft",
+        "Table No.9-B - Provision of Loft"
+      ],
+      "values": [
+        "5",
+        "Industrial",
+        "33"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_70",
+    "text_snippet": "Table No.9-B - Provision of Loft: 5 | Table No.9-B - Provision of Loft: Industrial | Table No.9-B - Provision of Loft: 33"
+  },
+  "created_at": "2025-11-19T00:14:30.034347",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.618681",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

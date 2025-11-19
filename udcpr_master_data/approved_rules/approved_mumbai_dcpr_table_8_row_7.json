@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_8_row_7",
+  "title": "Table 8 - Row 7",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-8.7",
+  "clause_text": "PART VIII GENERAL BUILDING REQUIREMENTS: (5) Mezzanine Floor | PART VIII GENERAL BUILDING REQUIREMENTS: 316",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS"
+      ],
+      "values": [
+        "",
+        "(5) Mezzanine Floor",
+        "316"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_8",
+    "text_snippet": "PART VIII GENERAL BUILDING REQUIREMENTS: (5) Mezzanine Floor | PART VIII GENERAL BUILDING REQUIREMENTS: 316"
+  },
+  "created_at": "2025-11-19T00:14:48.057645",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.352831",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

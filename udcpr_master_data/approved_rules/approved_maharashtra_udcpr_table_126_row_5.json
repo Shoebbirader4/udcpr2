@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_126_row_5",
+  "title": "Table 126 - Row 5",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-126.5",
+  "clause_text": "Table No.12-L Sanitation Requirements – Restaurants: Closets | Table No.12-L Sanitation Requirements – Restaurants: Over 200 add at 1 per | Table No.12-L Sanitation Requirements – Restaurants: 200 | Table No.12-L Sanitation Requirements – Restaurants: 2 for 16-35 | Table No.12-L Sanitation Requirements – Restaurants: 2 for 13-25",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants"
+      ],
+      "values": [
+        "",
+        "Closets",
+        "Over 200 add at 1 per",
+        "200",
+        "2 for 16-35",
+        "2 for 13-25"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_126",
+    "text_snippet": "Table No.12-L Sanitation Requirements – Restaurants: Closets | Table No.12-L Sanitation Requirements – Restaurants: Over 200 add at 1 per | Table No.12-L Sanitation Requirements – Restaurants: 200 | T"
+  },
+  "created_at": "2025-11-19T00:14:30.835105",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.951552",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

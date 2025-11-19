@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1279",
+  "title": "The additional FSI shall be granted upon payment of premium which shall be paid in the manner as may be determined by the Government",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1279",
+  "clause_text": "The additional FSI shall be granted upon payment of premium which shall be paid in the manner as may be determined by the Government. Such premium shall be recovered at the rate of 20% of the present day market value of the land under reference as indicated in the ASR.",
+  "chapter": null,
+  "section": "Additional FSI to Biotechnology Units / Park",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The additional FSI shall be granted upon payment of premium which shall be paid in the manner as may be determined by the Government. Such premium shall be recovered at the rate of 20% of the present "
+  },
+  "created_at": "2025-11-19T00:14:21.144666",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.853574",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

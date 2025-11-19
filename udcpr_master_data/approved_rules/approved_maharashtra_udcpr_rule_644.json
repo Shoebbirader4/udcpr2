@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_644",
+  "title": "Such use shall be allowed only on payment of Premium at the rate of 5%of the land value arrived at as per the Annual Statement of Rates (without considering the guidelines therein) of the respective year",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 644",
+  "clause_text": "Such use shall be allowed only on payment of Premium at the rate of 5%of the land value arrived at as per the Annual Statement of Rates (without considering the guidelines therein) of the respective year. For calculating land value, industrial holding in the development proposal shall be considered. Out of this, 50% amount shall be paid to the Authority and 50% amount shall be paid to the Government.",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such use shall be allowed only on payment of Premium at the rate of 5%of the land value arrived at as per the Annual Statement of Rates (without considering the guidelines therein) of the respective y"
+  },
+  "created_at": "2025-11-19T00:14:19.252085",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.264544",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

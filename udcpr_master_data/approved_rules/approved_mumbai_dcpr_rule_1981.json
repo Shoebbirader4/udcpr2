@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1981",
+  "title": "Buildings upto 4 storeys or 16 m in height - The minimum width of the open space around each building shall be 6m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1981",
+  "clause_text": "Buildings upto 4 storeys or 16 m in height - The minimum width of the open space around each building shall be 6m.",
+  "chapter": null,
+  "section": "Industrial Zone-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Buildings upto 4 storeys or 16 m in height - The minimum width of the open space around each building shall be 6m."
+  },
+  "created_at": "2025-11-19T00:14:43.015762",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.056298",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

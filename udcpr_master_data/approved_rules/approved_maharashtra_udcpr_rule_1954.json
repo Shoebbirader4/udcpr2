@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1954",
+  "title": "Hand rails shall be provided on both sides and shall extend 300 mm",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1954",
+  "clause_text": "Hand rails shall be provided on both sides and shall extend 300 mm. on the top and bottom of each flight of steps.",
+  "chapter": null,
+  "section": "Building Requirements",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Hand rails shall be provided on both sides and shall extend 300 mm. on the top and bottom of each flight of steps."
+  },
+  "created_at": "2025-11-19T00:14:23.351527",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.377006",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

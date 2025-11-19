@@ -1,0 +1,44 @@
+{
+  "rule_id": "maharashtra_udcpr_table_118_row_14",
+  "title": "Table 118 - Row 14",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-118.14",
+  "clause_text": "Table No.12-D : Sanitation Requirements – Factories: 2 for 21-45 | Table No.12-D : Sanitation Requirements – Factories: 2 for 21-45",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories",
+        "Table No.12-D : Sanitation Requirements – Factories"
+      ],
+      "values": [
+        "",
+        "",
+        "",
+        "2 for 21-45",
+        "",
+        "2 for 21-45",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_118",
+    "text_snippet": "Table No.12-D : Sanitation Requirements – Factories: 2 for 21-45 | Table No.12-D : Sanitation Requirements – Factories: 2 for 21-45"
+  },
+  "created_at": "2025-11-19T00:14:30.359817",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.747856",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

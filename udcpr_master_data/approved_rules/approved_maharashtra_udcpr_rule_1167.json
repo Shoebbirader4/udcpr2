@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1167",
+  "title": "ii a) The Authority may also permit up to 1/3rd of the total permissible FSI under this regulation for construction of free sale area (hereinafter referred to as ―free sale component‖) to be disposed of by the Implementing Public Authority as provided herein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1167",
+  "clause_text": "ii a) The Authority may also permit up to 1/3rd of the total permissible FSI under this regulation for construction of free sale area (hereinafter referred to as ―free sale component‖) to be disposed of by the Implementing Public Authority as provided herein. The free sale component shall preferably be constructed in a separate block. Sub-division of plots shall be permissible on the basis of equitable distribution of FSI, in case construction of free sale component is permitted by the Authority.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "ii a) The Authority may also permit up to 1/3rd of the total permissible FSI under this regulation for construction of free sale area (hereinafter referred to as ―free sale component‖) to be disposed "
+  },
+  "created_at": "2025-11-19T00:14:20.839318",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.552226",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2041",
+  "title": "Maneuvering and other ancillary spaces- Off-street parking space must have adequate vehicular access to a street, and the area shall be exclusive of drives, aisles and such other provisions required for adequate maneuvering of vehicles",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2041",
+  "clause_text": "Maneuvering and other ancillary spaces- Off-street parking space must have adequate vehicular access to a street, and the area shall be exclusive of drives, aisles and such other provisions required for adequate maneuvering of vehicles.",
+  "chapter": null,
+  "section": "Parking Spaces",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Maneuvering and other ancillary spaces- Off-street parking space must have adequate vehicular access to a street, and the area shall be exclusive of drives, aisles and such other provisions required f"
+  },
+  "created_at": "2025-11-19T00:14:43.395799",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.177267",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

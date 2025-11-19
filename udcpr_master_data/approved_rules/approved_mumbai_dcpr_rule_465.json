@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_465",
+  "title": "All the reservations in the DP shall be rearranged, if necessary, with the same area and the same width of access road or as required under DCPR, whichever is more",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 465",
+  "clause_text": "All the reservations in the DP shall be rearranged, if necessary, with the same area and the same width of access road or as required under DCPR, whichever is more.",
+  "chapter": null,
+  "section": "(I) Development of reservation in Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)under Regulation No. 33(9):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All the reservations in the DP shall be rearranged, if necessary, with the same area and the same width of access road or as required under DCPR, whichever is more."
+  },
+  "created_at": "2025-11-19T00:14:37.046559",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.718621",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

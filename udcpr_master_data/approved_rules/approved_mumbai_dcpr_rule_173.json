@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_173",
+  "title": "Any discrepancy/error in regard to location/size/use of designations and any relocation of reservation approved by the competent authority along with its development at its relocated position if not reflected in this Development Plan and that are brought to the notice of MCGM may, after due enquiry, be corrected with the special permission of the Commissioner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 173",
+  "clause_text": "Any discrepancy/error in regard to location/size/use of designations and any relocation of reservation approved by the competent authority along with its development at its relocated position if not reflected in this Development Plan and that are brought to the notice of MCGM may, after due enquiry, be corrected with the special permission of the Commissioner.",
+  "chapter": null,
+  "section": "Discretionary powers",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Any discrepancy/error in regard to location/size/use of designations and any relocation of reservation approved by the competent authority along with its development at its relocated position if not r"
+  },
+  "created_at": "2025-11-19T00:14:35.382345",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.983371",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

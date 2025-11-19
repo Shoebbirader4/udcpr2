@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_214",
+  "title": "Development of sites or / and subdivision or amalgamation of land : Where land is to be developed, subdivided, or two or more plots are to be amalgamated, or a lay-out is to be prepared; these Regulations shall apply to the entire area under development, sub-division, amalgamation and layout",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 214",
+  "clause_text": "Development of sites or / and subdivision or amalgamation of land : Where land is to be developed, subdivided, or two or more plots are to be amalgamated, or a lay-out is to be prepared; these Regulations shall apply to the entire area under development, sub-division, amalgamation and layout. Provided that, where a developed land, an existing lay-out / sub- division plan is being altered, these Regulations shall apply only to that part which is being altered.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development of sites or / and subdivision or amalgamation of land : Where land is to be developed, subdivided, or two or more plots are to be amalgamated, or a lay-out is to be prepared; these Regulat"
+  },
+  "created_at": "2025-11-19T00:14:17.589254",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.101335",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

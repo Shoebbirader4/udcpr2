@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1815",
+  "title": "* Modification proposed u/s 37(1AA) vide Notice No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1815",
+  "clause_text": "* Modification proposed u/s 37(1AA) vide Notice No. CR 42/2023/UD-13, dt. 04/01/2024 brought into force u/s 154, stayed by UDD vide letter dt. 03/04/2024.",
+  "chapter": null,
+  "section": "(2) 10.14.3 Development of land Notified for Acquisition",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "* Modification proposed u/s 37(1AA) vide Notice No. CR 42/2023/UD-13, dt. 04/01/2024 brought into force u/s 154, stayed by UDD vide letter dt. 03/04/2024."
+  },
+  "created_at": "2025-11-19T00:14:22.975374",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.089855",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

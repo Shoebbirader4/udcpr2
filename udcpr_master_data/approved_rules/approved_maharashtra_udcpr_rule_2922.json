@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2922",
+  "title": "Person(s) in legal possession and ownership of encumbered land where authorized buildings have consumed FSI less than the permissible FSI :- If liability of rehabilitation of the occupants of the building(s) / Structure(s) on the land in question is being taken on URS, entitled area collectively against such parcel of land shall be 25% of the area of encumbered land plus difference of FSI available on such parcel land and the encumbrance; if the occupants of the building(s) are being independently rehabilitated / compensated by the person(s) / rights holders in legal possession and ownership of the land, and not being rehabilitated in URS, entitled area collectively against such parcel of land towards consideration shall be equal to FSI available on the vacated land area",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2922",
+  "clause_text": "Person(s) in legal possession and ownership of encumbered land where authorized buildings have consumed FSI less than the permissible FSI :- If liability of rehabilitation of the occupants of the building(s) / Structure(s) on the land in question is being taken on URS, entitled area collectively against such parcel of land shall be 25% of the area of encumbered land plus difference of FSI available on such parcel land and the encumbrance; if the occupants of the building(s) are being independently rehabilitated / compensated by the person(s) / rights holders in legal possession and ownership of the land, and not being rehabilitated in URS, entitled area collectively against such parcel of land towards consideration shall be equal to FSI available on the vacated land area.",
+  "chapter": null,
+  "section": "Consideration for Land falling under URS -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Person(s) in legal possession and ownership of encumbered land where authorized buildings have consumed FSI less than the permissible FSI :- If liability of rehabilitation of the occupants of the buil"
+  },
+  "created_at": "2025-11-19T00:14:25.746446",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.162489",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

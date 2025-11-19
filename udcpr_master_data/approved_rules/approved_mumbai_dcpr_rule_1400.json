@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1400",
+  "title": "After approval is given to the DRP, the area may be further subdivided if necessary to earmark separate plots for the rehab component, amenity plot and the free sale component",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1400",
+  "clause_text": "After approval is given to the DRP, the area may be further subdivided if necessary to earmark separate plots for the rehab component, amenity plot and the free sale component. The Plot area and the BUA in terms of square meters on the said plot shall be separately mentioned in the lease agreements and Record of Rights.",
+  "chapter": null,
+  "section": "Rehabilitation and Free Sale Component",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "After approval is given to the DRP, the area may be further subdivided if necessary to earmark separate plots for the rehab component, amenity plot and the free sale component. The Plot area and the B"
+  },
+  "created_at": "2025-11-19T00:14:40.533397",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.333457",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

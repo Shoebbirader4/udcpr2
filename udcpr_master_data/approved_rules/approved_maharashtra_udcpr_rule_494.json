@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_494",
+  "title": "for development of the reservations in the Development Plans designated for the purpose other than residential",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 494",
+  "clause_text": "for development of the reservations in the Development Plans designated for the purpose other than residential. for the uses other than Residential, Industrial and Educational permissible in Agricultural zone.",
+  "chapter": null,
+  "section": "Recreational Open Space",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "for development of the reservations in the Development Plans designated for the purpose other than residential."
+  },
+  "created_at": "2025-11-19T00:14:18.565428",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.828046",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

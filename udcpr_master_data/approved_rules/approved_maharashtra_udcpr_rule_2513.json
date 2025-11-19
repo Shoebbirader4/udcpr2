@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2513",
+  "title": "The Slum T",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2513",
+  "clause_text": "The Slum T.D.R. to be sanctioned in accordance with the said Regulations and generated from the slum rehabilitation schemes shall be allowed to be utilized in Pune and Pimpri- Chinchwad Municipal Corporation (old and new limits) respectively, excluding heritage structures and land of S.R.D. or S.R.A. projects. This shall be applicable to Schemes on lands in P.M.R.D.A. (Restricted to earlier P.C.N.T.D.A. area) and M.I.D.C. area also. In these cases, the Slum T.D.R. generated shall be allowed to be utilized under these norms within the area of respective planning authority.",
+  "chapter": null,
+  "section": "Notwithstanding the provisions in clause mentioned above, if the developer does not desire to consume the full permissible in-situ F.S.I. on the same site, in such a case :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Slum T.D.R. to be sanctioned in accordance with the said Regulations and generated from the slum rehabilitation schemes shall be allowed to be utilized in Pune and Pimpri- Chinchwad Municipal Corp"
+  },
+  "created_at": "2025-11-19T00:14:24.744726",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.021870",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_158_row_3",
+  "title": "Table 158 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-158.3",
+  "clause_text": "Sr. No. (1): 7 | Occupancy (2): Storage | Parking Space required (3): One Parking space for every 150-sq.m thereof subject to a minimum of two spaces",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "7",
+        "Storage",
+        "One Parking space for every 150-sq.m thereof subject to a minimum of two spaces"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_158",
+    "text_snippet": "Sr. No. (1): 7 | Occupancy (2): Storage | Parking Space required (3): One Parking space for every 150-sq.m thereof subject to a minimum of two spaces"
+  },
+  "created_at": "2025-11-19T00:14:49.076174",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.864390",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

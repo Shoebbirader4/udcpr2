@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2462",
+  "title": "Is the proposal for a service industrial estate on a plot reserved for service industries or in indu",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2462",
+  "clause_text": "Is the proposal for a service industrial estate on a plot reserved for service industries or in industrial zone? Nature and quantum of industrial waste/effluents and methods of disposal be stated. above the average ground level of the plot? Does it comply with Regulations 43? Are they correctly marked and numbered on the site plan? Are those proposed to be demolished immediately coloured yellow? What is the plinth area and total floor area of all existing structures to be retained? What is the number of existing tenements in the structure(s) to be retained?",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Is the proposal for a service industrial estate on a plot reserved for service industries or in industrial zone?"
+  },
+  "created_at": "2025-11-19T00:14:45.825022",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.162743",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

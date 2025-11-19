@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_471",
+  "title": "If the service roads are provided beyond the right of way in permission granted earlier then such service roads may be continued further in adjoining land",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 471",
+  "clause_text": "If the service roads are provided beyond the right of way in permission granted earlier then such service roads may be continued further in adjoining land.",
+  "chapter": null,
+  "section": "Access from the Highways / Classified Roads",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the service roads are provided beyond the right of way in permission granted earlier then such service roads may be continued further in adjoining land."
+  },
+  "created_at": "2025-11-19T00:14:18.469413",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.729648",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1134",
+  "title": "An amount of Rs",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1134",
+  "clause_text": "An amount of Rs. 840/- per Sq. mt. shall be paid by the Developer for the BUA over and above the Zonal (basic) FSI, for the rehabilitation and free sale components. This amount shall be paid to DRP(SRA) in accordance with the time schedule for such payment as may be laid down by OSD,DRP(SRA), provided the installments shall not exceed beyond the completion of construction. This entire amount will remain with DRP (SRA) and the same shall be used for Schemes to be prepared for the improvement of infrastructure within Dharavi Redevelopment Project Areas.",
+  "chapter": null,
+  "section": "Applicability of the provisions:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "An amount of Rs. 840/- per Sq. mt. shall be paid by the Developer for the BUA over and above the Zonal (basic) FSI, for the rehabilitation and free sale components. This amount shall be paid to DRP(SR"
+  },
+  "created_at": "2025-11-19T00:14:39.677882",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.695812",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

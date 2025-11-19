@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2893",
+  "title": "In case of different land rates area applicable to different parts of the URC, weighted average of all the applicable rates shall be taken for calculating the Average land rate and basic ratio",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2893",
+  "clause_text": "In case of different land rates area applicable to different parts of the URC, weighted average of all the applicable rates shall be taken for calculating the Average land rate and basic ratio.",
+  "chapter": null,
+  "section": "The permissible FSI for URC –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of different land rates area applicable to different parts of the URC, weighted average of all the applicable rates shall be taken for calculating the Average land rate and basic ratio."
+  },
+  "created_at": "2025-11-19T00:14:25.658085",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.034320",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

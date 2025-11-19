@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1520",
+  "title": "If a private IT park has availed additional FSI as per the provisions of IT/ITES policy and subsequently it is found that the built-up space in the park is being used for non IT/ITES / commercial activities/ any other activity not permitted as per the IT/ITES policy under which the said park was approved, a penal action as below will be taken, the payment shall be shared between the concerned Planning Authority and the Government in the ratio of 3: 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1520",
+  "clause_text": "If a private IT park has availed additional FSI as per the provisions of IT/ITES policy and subsequently it is found that the built-up space in the park is being used for non IT/ITES / commercial activities/ any other activity not permitted as per the IT/ITES policy under which the said park was approved, a penal action as below will be taken, the payment shall be shared between the concerned Planning Authority and the Government in the ratio of 3: 1.",
+  "chapter": null,
+  "section": "33(13) – Buildings of Information Technology Establishments",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If a private IT park has availed additional FSI as per the provisions of IT/ITES policy and subsequently it is found that the built-up space in the park is being used for non IT/ITES / commercial acti"
+  },
+  "created_at": "2025-11-19T00:14:40.867678",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.589431",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

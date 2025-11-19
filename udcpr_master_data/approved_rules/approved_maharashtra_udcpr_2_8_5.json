@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_2_8_5",
+  "title": "The Authority after inspection of the work and after satisfying himself that there is no deviation from the sanctioned plans as mentioned in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "2.8.5",
+  "clause_text": "The Authority after inspection of the work and after satisfying himself that there is no deviation from the sanctioned plans as mentioned in Regulation No.2.8.5, issue an occupancy certificate in the form in Appendix – H or refuse to sanction the occupancy certificate in Appendix - I within 21 days from the date of receipt of the said completion certificate, failing which the work shall be deemed to have been approved for occupation, provided the construction conforms to the sanctioned plans. One set of plans, certified by the Authority, shall be returned to the owner along with the occupancy certificate. Where the occupancy certificate is refused or rejected, the reasons for refusal or rejection shall be given in intimation of the rejection or the refusal The applicant may request for Deemed Occupancy Certificate, if eligible, as above. The Authority shall issue the Deemed Occupancy Certificate within 15 (fifteen) days of the application.",
+  "chapter": null,
+  "section": "2.10 OCCUPANCY CERTIFICATE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Authority after inspection of the work and after satisfying himself that there is no deviation from the sanctioned plans as mentioned in Regulation No.2.8.5, issue an occupancy certificate in the "
+  },
+  "created_at": "2025-11-19T00:14:18.203051",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.586588",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

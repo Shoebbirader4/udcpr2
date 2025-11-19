@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1151",
+  "title": "Premium - Premium for higher F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1151",
+  "clause_text": "Premium - Premium for higher F.S.I. shall be as per column 4 of the Table No.7-A below :- Rate of the premium is based on the land rate mentioned in ASR for respective S.No. / CTS. No. The premium collected shall be shared 50:50 between State Government & the Authority respectively. Premium to be paid to the Government shall be deposited in the concerned Account Head of Urban Development Department at Government Treasury by the Authority. In case of areas of Regional Plans, such entire premium shall be paid to the Government through the District office of the Town Planning and Valuation Department. The quantum / rates of premium shall be subject to the orders of the Government from time to time.",
+  "chapter": null,
+  "section": "Buildings Abutting Two or More Streets",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Premium - Premium for higher F.S.I. shall be as per column 4 of the Table No.7-A below :- Rate of the premium is based on the land rate mentioned in ASR for respective S.No. / CTS. No. The premium col"
+  },
+  "created_at": "2025-11-19T00:14:20.786817",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.517437",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

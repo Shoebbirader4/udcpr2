@@ -1,0 +1,32 @@
+{
+  "rule_id": "mumbai_dcpr_table_77_row_3",
+  "title": "Table 77 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-77.3",
+  "clause_text": "Provision: 6.3 In water closet flushing system shall be provided with minimum seat size of 0.46 m (18 inches).",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Provision"
+      ],
+      "values": [
+        "6.3 In water closet flushing system shall be provided with minimum seat size of 0.46 m (18 inches)."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_77",
+    "text_snippet": "Provision: 6.3 In water closet flushing system shall be provided with minimum seat size of 0.46 m (18 inches)."
+  },
+  "created_at": "2025-11-19T00:14:48.489352",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.702666",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

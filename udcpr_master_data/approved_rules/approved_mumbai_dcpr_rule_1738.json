@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1738",
+  "title": "Where the lands accruing as per Columns (3) & (4) are, in the opinion of the Commissioner, of such small sizes that they do not admit of separate specific uses provided for in the said columns, he may, earmark the said lands for use as provided in Column (3);the commissioner may allow any other POS Lands for any Mills received as Municipal Corporation of Greater Mumbai's share of Mill land as per column no",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1738",
+  "clause_text": "Where the lands accruing as per Columns (3) & (4) are, in the opinion of the Commissioner, of such small sizes that they do not admit of separate specific uses provided for in the said columns, he may, earmark the said lands for use as provided in Column (3);the commissioner may allow any other POS Lands for any Mills received as Municipal Corporation of Greater Mumbai's share of Mill land as per column no.(3), to be earmarked for MHADA in exchange of such plots, for using as per column no. (4), special permission of Commissioner.",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where the lands accruing as per Columns (3) & (4) are, in the opinion of the Commissioner, of such small sizes that they do not admit of separate specific uses provided for in the said columns, he may"
+  },
+  "created_at": "2025-11-19T00:14:41.725925",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.302632",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

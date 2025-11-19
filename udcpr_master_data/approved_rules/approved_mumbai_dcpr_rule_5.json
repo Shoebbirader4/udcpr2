@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_5",
+  "title": "Protection:",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 5",
+  "clause_text": "Protection:.No suit, prosecution or other legal proceedings shall lie against any person for anything which is in good faith done or intended to be done under the MR&TP Act or any rules or regulations made their under.",
+  "chapter": null,
+  "section": "Short title, extent and commencement",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Protection:.No suit, prosecution or other legal proceedings shall lie against any person for anything which is in good faith done or intended to be done under the MR&TP Act or any rules or regulations"
+  },
+  "created_at": "2025-11-19T00:14:34.372790",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.635401",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

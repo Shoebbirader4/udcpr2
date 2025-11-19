@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_9_75",
+  "title": "Each building to be not more than ground plus one storey with height not exceeding 9",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "9.75",
+  "clause_text": "Each building to be not more than ground plus one storey with height not exceeding 9.75 m. including the height of stilt portion if any, subject to maximum built up area 100 sq.m. excluding stilt.",
+  "chapter": null,
+  "section": "Regulations for G-1 Zone (Yeur village Section - VII only)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Each building to be not more than ground plus one storey with height not exceeding 9.75 m. including the height of stilt portion if any, subject to maximum built up area 100 sq.m. excluding stilt."
+  },
+  "created_at": "2025-11-19T00:14:22.440941",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.651692",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,50 @@
+{
+  "rule_id": "udcpr_parking_residential_001",
+  "title": "Parking Requirement for Residential Buildings",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "5.3.1",
+  "clause_text": "Residential buildings shall provide 1 ECS (Equivalent Car Space) per 100 sqm of built-up area.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "use_type",
+          "op": "==",
+          "value": "Residential"
+        }
+      ],
+      "outputs": [
+        {
+          "field": "parking_ratio",
+          "value": 0.01,
+          "units": "ECS/sqm"
+        }
+      ],
+      "notes": "1 ECS = 25 sqm parking area"
+    }
+  },
+  "examples": [
+    {
+      "input": {
+        "use_type": "Residential",
+        "built_up_sqm": 1000
+      },
+      "expected_output": {
+        "required_ecs": 10
+      }
+    }
+  ],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 89,
+    "text_snippet": "Parking requirements..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.924405",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

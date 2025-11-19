@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2714",
+  "title": "If they do not join the scheme within 15 days after the approval has been given to the Slum Rehabilitation Project on that site, then action under the relevant provision including Sections 33, 33(A) and 38 of the Slum Act, as amended from time to time, shall be taken and their hutments will be removed, and it shall be ensured that no obstruction is caused to the scheme of the majority of persons who have joined the scheme willingly",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2714",
+  "clause_text": "If they do not join the scheme within 15 days after the approval has been given to the Slum Rehabilitation Project on that site, then action under the relevant provision including Sections 33, 33(A) and 38 of the Slum Act, as amended from time to time, shall be taken and their hutments will be removed, and it shall be ensured that no obstruction is caused to the scheme of the majority of persons who have joined the scheme willingly.",
+  "chapter": null,
+  "section": "Right of the Hutment Dwellers",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If they do not join the scheme within 15 days after the approval has been given to the Slum Rehabilitation Project on that site, then action under the relevant provision including Sections 33, 33(A) a"
+  },
+  "created_at": "2025-11-19T00:14:25.146353",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.751365",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_165",
+  "title": "Public / Semi-public Building means a building used or intended to be used, either ordinarily or occasionally by the public such as (a) offices of State or Central Government, any public sector undertaking or statutory or local Authority or Semi Government Organization (b) a place for public worship, etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 165",
+  "clause_text": "Public / Semi-public Building means a building used or intended to be used, either ordinarily or occasionally by the public such as (a) offices of State or Central Government, any public sector undertaking or statutory or local Authority or Semi Government Organization (b) a place for public worship, etc.;",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Public / Semi-public Building means a building used or intended to be used, either ordinarily or occasionally by the public such as (a) offices of State or Central Government, any public sector undert"
+  },
+  "created_at": "2025-11-19T00:14:17.372635",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.989452",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

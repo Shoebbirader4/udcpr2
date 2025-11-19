@@ -1,0 +1,269 @@
+{
+  "fsi_rules": [
+    {
+      "test": {
+        "zone": "Residential",
+        "plot_area": 1000,
+        "road_width": 12,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "base_fsi": 1.0,
+        "bonus_fsi": 0.0,
+        "bonus_details": [],
+        "premium_fsi_available": 0.2,
+        "permissible_fsi": 1.0,
+        "permissible_built_up_sqm": 1000.0,
+        "proposed_fsi": 1.0,
+        "proposed_built_up_sqm": 1000.0,
+        "fsi_utilization_percent": 100.0
+      },
+      "matching_rules_count": 123
+    },
+    {
+      "test": {
+        "zone": "Commercial",
+        "plot_area": 2000,
+        "road_width": 18,
+        "use_type": "Commercial"
+      },
+      "engine_result": {
+        "base_fsi": 1.5,
+        "bonus_fsi": 0.0,
+        "bonus_details": [],
+        "premium_fsi_available": 0.30000000000000004,
+        "permissible_fsi": 1.5,
+        "permissible_built_up_sqm": 3000.0,
+        "proposed_fsi": 1.0,
+        "proposed_built_up_sqm": 2000.0,
+        "fsi_utilization_percent": 66.66666666666666
+      },
+      "matching_rules_count": 69
+    },
+    {
+      "test": {
+        "zone": "Industrial",
+        "plot_area": 5000,
+        "road_width": 24,
+        "use_type": "Industrial"
+      },
+      "engine_result": {
+        "base_fsi": 1.0,
+        "bonus_fsi": 0.0,
+        "bonus_details": [],
+        "premium_fsi_available": 0.2,
+        "permissible_fsi": 1.0,
+        "permissible_built_up_sqm": 5000.0,
+        "proposed_fsi": 1.0,
+        "proposed_built_up_sqm": 5000.0,
+        "fsi_utilization_percent": 100.0
+      },
+      "matching_rules_count": 55
+    }
+  ],
+  "setback_rules": [
+    {
+      "test": {
+        "zone": "Residential",
+        "plot_area": 500,
+        "road_width": 9,
+        "building_height": 12,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "front_m": 3.0,
+        "side_m": 2.1666666666666665,
+        "rear_m": 2.0,
+        "total_setback_area_sqm": 208.33333333333331,
+        "open_space_percent": 41.666666666666664,
+        "min_open_space_required_percent": 20.0
+      },
+      "matching_rules_count": 31
+    },
+    {
+      "test": {
+        "zone": "Residential",
+        "plot_area": 1500,
+        "road_width": 15,
+        "building_height": 24,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "front_m": 4.5,
+        "side_m": 7.666666666666667,
+        "rear_m": 3.0,
+        "total_setback_area_sqm": 1300.0,
+        "open_space_percent": 86.66666666666667,
+        "min_open_space_required_percent": 20.0
+      },
+      "matching_rules_count": 31
+    },
+    {
+      "test": {
+        "zone": "Commercial",
+        "plot_area": 2000,
+        "road_width": 18,
+        "building_height": 30,
+        "use_type": "Commercial"
+      },
+      "engine_result": {
+        "front_m": 6.0,
+        "side_m": 9.666666666666668,
+        "rear_m": 3.0,
+        "total_setback_area_sqm": 2113.3333333333335,
+        "open_space_percent": 105.66666666666666,
+        "min_open_space_required_percent": 20.0
+      },
+      "matching_rules_count": 11
+    }
+  ],
+  "coverage_rules": [
+    {
+      "test": {
+        "zone": "Residential",
+        "plot_area": 1000,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "coverage_percent": 48.33333333333334,
+        "open_space_percent": 51.66666666666666
+      },
+      "matching_rules_count": 0
+    },
+    {
+      "test": {
+        "zone": "Commercial",
+        "plot_area": 2000,
+        "use_type": "Commercial"
+      },
+      "engine_result": {
+        "coverage_percent": 55.833333333333336,
+        "open_space_percent": 44.166666666666664
+      },
+      "matching_rules_count": 0
+    },
+    {
+      "test": {
+        "zone": "Industrial",
+        "plot_area": 5000,
+        "use_type": "Industrial"
+      },
+      "engine_result": {
+        "coverage_percent": 60.333333333333336,
+        "open_space_percent": 39.666666666666664
+      },
+      "matching_rules_count": 0
+    }
+  ],
+  "height_rules": [
+    {
+      "test": {
+        "zone": "Residential",
+        "road_width": 9,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "permissible_height_m": 24.0,
+        "proposed_height_m": 12.0,
+        "permissible_floors": 7,
+        "proposed_floors": 4,
+        "avg_floor_height_m": 3.0,
+        "min_floor_height_m": 2.75,
+        "floor_height_adequate": true,
+        "height_utilization_percent": 50.0
+      },
+      "matching_rules_count": 32
+    },
+    {
+      "test": {
+        "zone": "Residential",
+        "road_width": 18,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "permissible_height_m": 70.0,
+        "proposed_height_m": 12.0,
+        "permissible_floors": 21,
+        "proposed_floors": 4,
+        "avg_floor_height_m": 3.0,
+        "min_floor_height_m": 2.75,
+        "floor_height_adequate": true,
+        "height_utilization_percent": 17.142857142857142
+      },
+      "matching_rules_count": 32
+    },
+    {
+      "test": {
+        "zone": "Commercial",
+        "road_width": 24,
+        "use_type": "Commercial"
+      },
+      "engine_result": {
+        "permissible_height_m": 70.0,
+        "proposed_height_m": 12.0,
+        "permissible_floors": 21,
+        "proposed_floors": 4,
+        "avg_floor_height_m": 3.0,
+        "min_floor_height_m": 3.0,
+        "floor_height_adequate": true,
+        "height_utilization_percent": 17.142857142857142
+      },
+      "matching_rules_count": 8
+    }
+  ],
+  "parking_rules": [
+    {
+      "test": {
+        "zone": "Residential",
+        "built_up_area": 1000,
+        "use_type": "Residential"
+      },
+      "engine_result": {
+        "required_ecs": 10,
+        "norm": "1 ECS per 100 sqm",
+        "area_per_ecs_sqm": 25.0,
+        "total_parking_area_sqm": 250.0,
+        "available_area_sqm": 300.0,
+        "parking_deficit_sqm": 0,
+        "mechanical_parking_allowed": false,
+        "parking_floors_needed": 1
+      },
+      "matching_rules_count": 24
+    },
+    {
+      "test": {
+        "zone": "Commercial",
+        "built_up_area": 5000,
+        "use_type": "Commercial"
+      },
+      "engine_result": {
+        "required_ecs": 100,
+        "norm": "1 ECS per 50 sqm",
+        "area_per_ecs_sqm": 25.0,
+        "total_parking_area_sqm": 2500.0,
+        "available_area_sqm": 300.0,
+        "parking_deficit_sqm": 2200.0,
+        "mechanical_parking_allowed": true,
+        "parking_floors_needed": 3
+      },
+      "matching_rules_count": 10
+    }
+  ],
+  "summary": {
+    "total_extracted_rules": 5484,
+    "rules_by_category": {
+      "fsi": 948,
+      "setback": 31,
+      "coverage": 7,
+      "height": 280,
+      "parking": 323
+    },
+    "engine_tests_run": {
+      "fsi": 3,
+      "setback": 3,
+      "coverage": 3,
+      "height": 3,
+      "parking": 2
+    }
+  }
+}

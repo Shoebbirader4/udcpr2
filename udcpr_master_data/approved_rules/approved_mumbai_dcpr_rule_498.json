@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_498",
+  "title": "In case of conversion/revision of LOI as per this regulation and where plot is reserved for different/same public purpose for equal or more area of reservation in DP 2034 than DP 1991, then development shall be as per this regulation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 498",
+  "clause_text": "In case of conversion/revision of LOI as per this regulation and where plot is reserved for different/same public purpose for equal or more area of reservation in DP 2034 than DP 1991, then development shall be as per this regulation. The DP road shall be reckoned with as per DP 2034.",
+  "chapter": null,
+  "section": "Development of reservation in Redevelopment for Rehabilitation of Slum Dwellers under Regulation No. 33(10)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of conversion/revision of LOI as per this regulation and where plot is reserved for different/same public purpose for equal or more area of reservation in DP 2034 than DP 1991, then developmen"
+  },
+  "created_at": "2025-11-19T00:14:37.219244",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.864716",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

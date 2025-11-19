@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_119_row_6",
+  "title": "Table 119 - Row 6",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-119.6",
+  "clause_text": "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres",
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres",
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres",
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres",
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres",
+        "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres"
+      ],
+      "values": [
+        "NOTE - Male population may be assumed as two-third and female population as one-third.",
+        "NOTE - Male population may be assumed as two-third and female population as one-third.",
+        "NOTE - Male population may be assumed as two-third and female population as one-third.",
+        "NOTE - Male population may be assumed as two-third and female population as one-third.",
+        "NOTE - Male population may be assumed as two-third and female population as one-third.",
+        "NOTE - Male population may be assumed as two-third and female population as one-third."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_119",
+    "text_snippet": "Table No.12-E : Sanitation Requirements - Cinema, Multiplex Cinema, Concerts and Convention Halls, Theatres: NOTE - Male population may be assumed as two-third and female population as one-third. | Ta"
+  },
+  "created_at": "2025-11-19T00:14:30.424464",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.814112",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

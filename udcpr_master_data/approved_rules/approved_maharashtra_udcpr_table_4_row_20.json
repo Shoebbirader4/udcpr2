@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_20",
+  "title": "Table 4 - Row 20",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.20",
+  "clause_text": ": 5.11 * | 5.1.2: Board of Appeals | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Board of Appeals | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Board of Appeals | 84: 103",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "5.11 *",
+        "Board of Appeals",
+        "Board of Appeals",
+        "Board of Appeals",
+        "103"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": ": 5.11 * | 5.1.2: Board of Appeals | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Board of Appeals | Regulations fo"
+  },
+  "created_at": "2025-11-19T00:14:29.519144",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.116787",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

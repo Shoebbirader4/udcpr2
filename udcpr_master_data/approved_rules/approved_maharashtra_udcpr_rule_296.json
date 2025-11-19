@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_296",
+  "title": "Where two or more plots / holdings of same or different owners are to be amalgamated, an amalgamation plan showing such amalgamation drawn to a scale of not less than 1:500 shall accompany the application",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 296",
+  "clause_text": "Where two or more plots / holdings of same or different owners are to be amalgamated, an amalgamation plan showing such amalgamation drawn to a scale of not less than 1:500 shall accompany the application. Instead of submitting a separate plan, such amalgamation may be allowed to be shown on building / layout-plan itself.",
+  "chapter": null,
+  "section": "(b) Amalgamation Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where two or more plots / holdings of same or different owners are to be amalgamated, an amalgamation plan showing such amalgamation drawn to a scale of not less than 1:500 shall accompany the applica"
+  },
+  "created_at": "2025-11-19T00:14:17.888223",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.330120",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

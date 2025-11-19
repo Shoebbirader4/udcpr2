@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_157_row_1",
+  "title": "Table 157 - Row 1",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-157.1",
+  "clause_text": "Parking Space required (3): parking spaces for visitors shall be provided to the extent of 25 per cent of the number stipulated above, subject to minimum of one",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No. (1)",
+        "Occupancy (2)",
+        "Parking Space required (3)"
+      ],
+      "values": [
+        "",
+        "",
+        "parking spaces for visitors shall be provided to the extent of 25 per cent of the number stipulated above, subject to minimum of one"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_157",
+    "text_snippet": "Parking Space required (3): parking spaces for visitors shall be provided to the extent of 25 per cent of the number stipulated above, subject to minimum of one"
+  },
+  "created_at": "2025-11-19T00:14:49.041775",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.840100",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

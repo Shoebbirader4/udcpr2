@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_166_row_2",
+  "title": "Table 166 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-166.2",
+  "clause_text": "4.: 5. | Are all plans as required under Regulation No.2.2 enclosed ?: (b) For what purpose the building is proposed ? Is it permissible according to the land use classification ? | Yes / No: ------------- Yes / No",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "4.",
+        "Are all plans as required under Regulation No.2.2 enclosed ?",
+        "Yes / No"
+      ],
+      "values": [
+        "5.",
+        "(b) For what purpose the building is proposed ? Is it permissible according to the land use classification ?",
+        "------------- Yes / No"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_166",
+    "text_snippet": "4.: 5. | Are all plans as required under Regulation No.2.2 enclosed ?: (b) For what purpose the building is proposed ? Is it permissible according to the land use classification ? | Yes / No: --------"
+  },
+  "created_at": "2025-11-19T00:14:31.208248",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.100436",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

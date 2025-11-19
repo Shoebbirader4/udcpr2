@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3179",
+  "title": "The above mentioned P-line plans are prepared by me",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3179",
+  "clause_text": "The above mentioned P-line plans are prepared by me. Signature of the Architect / Licensed Engineer / Supervisor. Name Plan A - Nallahs identified for Cycle Track in Nashik Municipal Corporation Area.",
+  "chapter": null,
+  "section": "Please treat this intimation as permission for development.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The above mentioned P-line plans are prepared by me. Signature of the Architect / Licensed Engineer / Supervisor. Name"
+  },
+  "created_at": "2025-11-19T00:14:27.204490",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.853188",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

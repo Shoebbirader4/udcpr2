@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_558",
+  "title": "Provided that, earlier permission wherein provision for affordable housing is made in accordance with the then prevailing regulations, shall also be entitled for revision under this regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 558",
+  "clause_text": "Provided that, earlier permission wherein provision for affordable housing is made in accordance with the then prevailing regulations, shall also be entitled for revision under this regulation.",
+  "chapter": null,
+  "section": "For Group Housing Scheme :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, earlier permission wherein provision for affordable housing is made in accordance with the then prevailing regulations, shall also be entitled for revision under this regulation."
+  },
+  "created_at": "2025-11-19T00:14:18.799287",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.042576",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

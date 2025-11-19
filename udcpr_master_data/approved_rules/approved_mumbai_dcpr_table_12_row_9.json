@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_12_row_9",
+  "title": "Table 12 - Row 9",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-12.9",
+  "clause_text": "PART X SPECIAL PROVISIONS: 7. Heritage Conservation Fund | PART X SPECIAL PROVISIONS: 378",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS",
+        "PART X SPECIAL PROVISIONS"
+      ],
+      "values": [
+        "",
+        "7. Heritage Conservation Fund",
+        "378"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_12",
+    "text_snippet": "PART X SPECIAL PROVISIONS: 7. Heritage Conservation Fund | PART X SPECIAL PROVISIONS: 378"
+  },
+  "created_at": "2025-11-19T00:14:48.141283",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.482076",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

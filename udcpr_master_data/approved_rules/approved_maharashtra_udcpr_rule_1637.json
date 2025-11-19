@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1637",
+  "title": "In case of land which were /are fully encumbered and where encumbrances had / have to be removed and / or rehabilitated by the project implementing authority, TDR / DRC shall be issued equivalent to the area of land taken over for free public project",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1637",
+  "clause_text": "In case of land which were /are fully encumbered and where encumbrances had / have to be removed and / or rehabilitated by the project implementing authority, TDR / DRC shall be issued equivalent to the area of land taken over for free public project.",
+  "chapter": null,
+  "section": "Buildings in Industrial Zone",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of land which were /are fully encumbered and where encumbrances had / have to be removed and / or rehabilitated by the project implementing authority, TDR / DRC shall be issued equivalent to t"
+  },
+  "created_at": "2025-11-19T00:14:22.531972",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.720373",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1372",
+  "title": "The transit tenement that would be allotted to them would also be indicated along with those who hav",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1372",
+  "clause_text": "The transit tenement that would be allotted to them would also be indicated along with those who have joined the Project",
+  "chapter": null,
+  "section": "Right of the Hutment Dwellers:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The transit tenement that would be allotted to them would also be indicated along with those who have joined the Project"
+  },
+  "created_at": "2025-11-19T00:14:40.455200",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.281000",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

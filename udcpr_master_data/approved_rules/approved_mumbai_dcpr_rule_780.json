@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_780",
+  "title": "33 (2)Buildings of Medical and Educational Institutions and Other Institutional Buildings covered un",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 780",
+  "clause_text": "33 (2)Buildings of Medical and Educational Institutions and Other Institutional Buildings covered under Regulation (2)",
+  "chapter": null,
+  "section": "33 (1) Additional FSI to Religious building:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "33 (2)Buildings of Medical and Educational Institutions and Other Institutional Buildings covered under Regulation (2)"
+  },
+  "created_at": "2025-11-19T00:14:38.333026",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.692846",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

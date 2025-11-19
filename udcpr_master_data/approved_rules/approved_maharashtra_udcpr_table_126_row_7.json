@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_126_row_7",
+  "title": "Table 126 - Row 7",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-126.7",
+  "clause_text": "Table No.12-L Sanitation Requirements – Restaurants: per 100 or part | Table No.12-L Sanitation Requirements – Restaurants: 4 for 66-100 | Table No.12-L Sanitation Requirements – Restaurants: 4 for 41-57",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants",
+        "Table No.12-L Sanitation Requirements – Restaurants"
+      ],
+      "values": [
+        "",
+        "",
+        "",
+        "per 100 or part",
+        "4 for 66-100",
+        "4 for 41-57"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_126",
+    "text_snippet": "Table No.12-L Sanitation Requirements – Restaurants: per 100 or part | Table No.12-L Sanitation Requirements – Restaurants: 4 for 66-100 | Table No.12-L Sanitation Requirements – Restaurants: 4 for 41"
+  },
+  "created_at": "2025-11-19T00:14:30.843136",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.959682",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2429",
+  "title": "The hutment dweller shall pay monthly contribution to his co-operative society @ Rs",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2429",
+  "clause_text": "The hutment dweller shall pay monthly contribution to his co-operative society @ Rs. 500 per month or the amount as decided by his cooperative society whichever is more for common monthly charges against the common electricity and water usage, operation and maintenance of common amenities like lift, generator, S.T.P. plant etc.",
+  "chapter": null,
+  "section": "Duties of the Hutment Dwellers :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The hutment dweller shall pay monthly contribution to his co-operative society @ Rs. 500 per month or the amount as decided by his cooperative society whichever is more for common monthly charges agai"
+  },
+  "created_at": "2025-11-19T00:14:24.571387",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.877473",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2484",
+  "title": "Certified that I have surveyed the plot under reference on………",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2484",
+  "clause_text": "Certified that I have surveyed the plot under reference on……….. and that the dimensions of the sides, etc. of the plot stated on the plan are as measured on site and the area so worked out is*…………………. squaremeters and tallies with the area stated in the document of ownership/Town Planning Scheme records. Signature of Licensed Surveyor/Architect/Engineer/Structural Engineer/Supervisor or Architect",
+  "chapter": null,
+  "section": "STATEMENT 'B'",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Certified that I have surveyed the plot under reference on……….. and that the dimensions of the sides, etc. of the plot stated on the plan are as measured on site and the area so worked out is*…………………."
+  },
+  "created_at": "2025-11-19T00:14:46.199325",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.214438",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

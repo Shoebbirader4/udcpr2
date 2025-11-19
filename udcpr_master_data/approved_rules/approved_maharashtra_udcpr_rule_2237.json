@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2237",
+  "title": "simultaneously",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2237",
+  "clause_text": "simultaneously. However in case, both these criterias are not satisfied simultaneously, the maximum permissible FSI shall be the minimum of that permissible against each of these two criterias, as illustrated below; Land owner / Developer shall not have option to use TDR in NMRC.",
+  "chapter": null,
+  "section": "Explanation :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "simultaneously. However in case, both these criterias are not satisfied simultaneously, the maximum permissible FSI shall be the minimum of that permissible against each of these two criterias, as ill"
+  },
+  "created_at": "2025-11-19T00:14:24.082153",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.426552",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3040",
+  "title": "The quarrying and mining operations shall be permitted outside CRZ and notified eco-sensitive zone and heritage precinct but only at specific locations decided by the competent authority",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3040",
+  "clause_text": "The quarrying and mining operations shall be permitted outside CRZ and notified eco-sensitive zone and heritage precinct but only at specific locations decided by the competent authority. The development permission shall be granted subject to production of order to carry out these activities from the revenue authority concerned under the Minor Minerals Act and NOC of the MPCB. The application for Development Permission of quarrying shall include :",
+  "chapter": null,
+  "section": "Permissible Height",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The quarrying and mining operations shall be permitted outside CRZ and notified eco-sensitive zone and heritage precinct but only at specific locations decided by the competent authority. The developm"
+  },
+  "created_at": "2025-11-19T00:14:26.277861",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.414612",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,243 @@
+[
+  {
+    "rule_id": "udcpr_fsi_residential_001",
+    "title": "Base FSI for Residential Zone",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "3.1.1",
+    "clause_text": "The base FSI for residential zones shall be 1.0 for plots up to 4000 sqm.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "use_type",
+            "op": "==",
+            "value": "Residential"
+          },
+          {
+            "field": "plot_area_sqm",
+            "op": "<=",
+            "value": 4000
+          }
+        ],
+        "outputs": [
+          {
+            "field": "base_fsi",
+            "value": 1.0,
+            "units": "ratio"
+          }
+        ]
+      }
+    },
+    "examples": [
+      {
+        "input": {
+          "use_type": "Residential",
+          "plot_area_sqm": 500
+        },
+        "expected_output": {
+          "base_fsi": 1.0
+        }
+      }
+    ],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 45,
+      "text_snippet": "Base FSI for residential..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "udcpr_setback_front_001",
+    "title": "Front Setback for Road Width >= 18m",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "4.2.1",
+    "clause_text": "For roads with width 18 meters or more, the minimum front setback shall be 6 meters.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "road_width_m",
+            "op": ">=",
+            "value": 18
+          }
+        ],
+        "outputs": [
+          {
+            "field": "front_setback",
+            "value": 6.0,
+            "units": "m"
+          }
+        ]
+      }
+    },
+    "examples": [
+      {
+        "input": {
+          "road_width_m": 18
+        },
+        "expected_output": {
+          "front_setback": 6.0
+        }
+      }
+    ],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 67,
+      "text_snippet": "Front setback requirements..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "udcpr_setback_front_002",
+    "title": "Front Setback for Road Width 12-18m",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "4.2.2",
+    "clause_text": "For roads with width between 12 and 18 meters, the minimum front setback shall be 4.5 meters.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "road_width_m",
+            "op": ">=",
+            "value": 12
+          },
+          {
+            "field": "road_width_m",
+            "op": "<",
+            "value": 18
+          }
+        ],
+        "outputs": [
+          {
+            "field": "front_setback",
+            "value": 4.5,
+            "units": "m"
+          }
+        ]
+      }
+    },
+    "examples": [],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 67,
+      "text_snippet": "Front setback requirements..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "udcpr_parking_residential_001",
+    "title": "Parking Requirement for Residential Buildings",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "5.3.1",
+    "clause_text": "Residential buildings shall provide 1 ECS (Equivalent Car Space) per 100 sqm of built-up area.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "use_type",
+            "op": "==",
+            "value": "Residential"
+          }
+        ],
+        "outputs": [
+          {
+            "field": "parking_ratio",
+            "value": 0.01,
+            "units": "ECS/sqm"
+          }
+        ],
+        "notes": "1 ECS = 25 sqm parking area"
+      }
+    },
+    "examples": [
+      {
+        "input": {
+          "use_type": "Residential",
+          "built_up_sqm": 1000
+        },
+        "expected_output": {
+          "required_ecs": 10
+        }
+      }
+    ],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 89,
+      "text_snippet": "Parking requirements..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "udcpr_tod_bonus_001",
+    "title": "TOD Zone FSI Bonus",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "6.1.5",
+    "clause_text": "Projects within TOD (Transit Oriented Development) zones are eligible for an additional FSI bonus of 0.5.",
+    "parsed": {
+      "type": "rule",
+      "rule_logic": {
+        "conditions": [
+          {
+            "field": "tod_zone",
+            "op": "==",
+            "value": true
+          }
+        ],
+        "outputs": [
+          {
+            "field": "fsi_bonus",
+            "value": 0.5,
+            "units": "ratio"
+          }
+        ]
+      }
+    },
+    "examples": [],
+    "ambiguous": false,
+    "ambiguity_reason": null,
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 112,
+      "text_snippet": "TOD incentives..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  },
+  {
+    "rule_id": "udcpr_ambiguous_001",
+    "title": "Unclear Provision on Mixed Use FSI",
+    "jurisdiction": "maharashtra_udcpr",
+    "version": "udcpr_20250130",
+    "clause_number": "3.4.7",
+    "clause_text": "Mixed use developments may be granted additional FSI subject to approval.",
+    "parsed": {
+      "type": "note",
+      "rule_logic": null
+    },
+    "examples": [],
+    "ambiguous": true,
+    "ambiguity_reason": "The clause does not specify the quantum of additional FSI or the approval criteria. Requires clarification from planning authority.",
+    "source_pdf": {
+      "filename": "UDCPR_Updated_30Jan2025.pdf",
+      "page": 52,
+      "text_snippet": "Mixed use provisions..."
+    },
+    "created_at": "2025-11-18T20:23:41.238308"
+  }
+]

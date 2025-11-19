@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2439",
+  "title": "The names of the eligible hutment dwellers on private, Municipal and Government lands shall be duly certified by the Competent Authority in S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2439",
+  "clause_text": "The names of the eligible hutment dwellers on private, Municipal and Government lands shall be duly certified by the Competent Authority in S.R.A. or any officer whom the State Government by notification appointed as the Competent Authority for the purpose of the Slum Act.",
+  "chapter": null,
+  "section": "Provision relating to allotment of tenements either in situ or otherwise, on ownership or on rent to the other non-protected occupiers",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The names of the eligible hutment dwellers on private, Municipal and Government lands shall be duly certified by the Competent Authority in S.R.A. or any officer whom the State Government by notificat"
+  },
+  "created_at": "2025-11-19T00:14:24.596539",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.892860",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

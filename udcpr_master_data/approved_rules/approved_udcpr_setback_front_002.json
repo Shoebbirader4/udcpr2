@@ -1,0 +1,44 @@
+{
+  "rule_id": "udcpr_setback_front_002",
+  "title": "Front Setback for Road Width 12-18m",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "4.2.2",
+  "clause_text": "For roads with width between 12 and 18 meters, the minimum front setback shall be 4.5 meters.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "road_width_m",
+          "op": ">=",
+          "value": 12
+        },
+        {
+          "field": "road_width_m",
+          "op": "<",
+          "value": 18
+        }
+      ],
+      "outputs": [
+        {
+          "field": "front_setback",
+          "value": 4.5,
+          "units": "m"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 67,
+    "text_snippet": "Front setback requirements..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.922650",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

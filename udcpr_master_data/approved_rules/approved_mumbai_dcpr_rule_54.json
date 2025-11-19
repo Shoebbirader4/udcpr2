@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_54",
+  "title": "\"Combustible material\" means that material which when burnt adds heat to a fire when tested for combustibility in accordance with the IS: 3808-1966 Method of Test for combustibility of Building Materials, National Building Code",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 54",
+  "clause_text": "\"Combustible material\" means that material which when burnt adds heat to a fire when tested for combustibility in accordance with the IS: 3808-1966 Method of Test for combustibility of Building Materials, National Building Code. Commissioner means Municipal Commissioner of Greater Mumbai or any other officer designated by him.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Combustible material\" means that material which when burnt adds heat to a fire when tested for combustibility in accordance with the IS: 3808-1966 Method of Test for combustibility of Building Materi"
+  },
+  "created_at": "2025-11-19T00:14:34.680417",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.730203",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2476",
+  "title": "Please explain, in detail, in what respect the proposal does not comply with these Regulations and the reasons therefore, attaching separate sheets for this information, if necessary",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2476",
+  "clause_text": "Please explain, in detail, in what respect the proposal does not comply with these Regulations and the reasons therefore, attaching separate sheets for this information, if necessary. I am the owner-lessee/mortgagee in possession/ of the plot on which the work is proposed and that the statements made in this Form are true and correct. Form of certificate be signed by the Licensed Surveyor/Engineer/Structural Engineer/Supervisor or Architect/ Professionals on Records employed by the Applicant",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Please explain, in detail, in what respect the proposal does not comply with these Regulations and the reasons therefore, attaching separate sheets for this information, if necessary."
+  },
+  "created_at": "2025-11-19T00:14:46.014588",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.195659",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

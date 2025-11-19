@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_277",
+  "title": "Occupancy certificate: On receipt of the acceptance of completion certificate in the form given at Annexure 19, the owner, through his licensed surveyor or his architect shall submit to the Commissioner a development completion certificate in the form given at Annexure 16 with three copies of the completion plan, one of which shall be cloth mounted for record",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 277",
+  "clause_text": "Occupancy certificate: On receipt of the acceptance of completion certificate in the form given at Annexure 19, the owner, through his licensed surveyor or his architect shall submit to the Commissioner a development completion certificate in the form given at Annexure 16 with three copies of the completion plan, one of which shall be cloth mounted for record. The Commissioner may inspect the work and after satisfying himself that there is no deviation from the sanctioned plans, issue an occupancy certificate in the form given at Annexure 20 or refuse to",
+  "chapter": null,
+  "section": "Documents at site:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Occupancy certificate: On receipt of the acceptance of completion certificate in the form given at Annexure 19, the owner, through his licensed surveyor or his architect shall submit to the Commission"
+  },
+  "created_at": "2025-11-19T00:14:36.183875",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.233219",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

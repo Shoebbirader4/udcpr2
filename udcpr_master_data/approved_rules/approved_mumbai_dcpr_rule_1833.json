@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1833",
+  "title": "Width- The minimum width of a staircase other than a fire escape shall be as given in Table No 16 hereunder",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1833",
+  "clause_text": "Width- The minimum width of a staircase other than a fire escape shall be as given in Table No 16 hereunder. Minimum width of common Stairways/Corridors for various occupancies. Width of stairways or corridor in case of 1(b) above shall be limited to",
+  "chapter": null,
+  "section": "Mezzanine Floor:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Width- The minimum width of a staircase other than a fire escape shall be as given in Table No 16 hereunder."
+  },
+  "created_at": "2025-11-19T00:14:42.191842",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.662410",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

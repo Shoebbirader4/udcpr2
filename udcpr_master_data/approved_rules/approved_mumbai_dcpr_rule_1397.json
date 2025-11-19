@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1397",
+  "title": "Amalgamation/Subdivision of Plots and Balancing of FSI thereon: Any land declared as DRP Area or on which DRP has been sanctioned, if it is spread on part or parts of C",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1397",
+  "clause_text": "Amalgamation/Subdivision of Plots and Balancing of FSI thereon: Any land declared as DRP Area or on which DRP has been sanctioned, if it is spread on part or parts of C.S. Nos. or CTS Nos. or S. Nos. or F.P. No shall be treated as natural amalgamation/subdivisions/ of that C.S or CTS or S. No. or F.P. No. for which no separate approval for amalgamation/subdivision of land would be necessary.",
+  "chapter": null,
+  "section": "Rehabilitation and Free Sale Component",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Amalgamation/Subdivision of Plots and Balancing of FSI thereon: Any land declared as DRP Area or on which DRP has been sanctioned, if it is spread on part or parts of C.S. Nos. or CTS Nos. or S. Nos. "
+  },
+  "created_at": "2025-11-19T00:14:40.525959",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.327734",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

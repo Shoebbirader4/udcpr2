@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2514",
+  "title": "The utilization of Slum T",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2514",
+  "clause_text": "The utilization of Slum T.D.R. on a receiving plot in the area of P.M.C. or P.C.M.C. (old and new limits), P.M.R.D.A. (Restricted to initial P.C.N.T.D.A. area) and M.I.D.C. areas shall be as per the provisions of UDCPR or DCPR of concerned Planning Authority, as the case may be. The utilisation of Transferable Development Rights (T.D.R.) shall be permissible by considering Gross Plot Area including area affected by D.P. road / road widening or amenity space / reservations or deemed reservation, if any, if the area under the same is handed over to the concerned Planning Authority. The Slum T.D.R. shall be released in stages as under :- After issue of plinth completion certificate of rehabilitation building/s, 25% of total Slum After completion of R.C.C. and brickwork of rehabilitation building/s, 35% of total Slum",
+  "chapter": null,
+  "section": "Notwithstanding the provisions in clause mentioned above, if the developer does not desire to consume the full permissible in-situ F.S.I. on the same site, in such a case :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The utilization of Slum T.D.R. on a receiving plot in the area of P.M.C. or P.C.M.C. (old and new limits), P.M.R.D.A. (Restricted to initial P.C.N.T.D.A. area) and M.I.D.C. areas shall be as per the p"
+  },
+  "created_at": "2025-11-19T00:14:24.756976",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.026127",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

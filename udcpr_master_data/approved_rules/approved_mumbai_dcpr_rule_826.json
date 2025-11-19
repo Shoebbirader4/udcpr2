@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_826",
+  "title": "5% of total rooms shall be reserved for total 30 days in a year for Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 826",
+  "clause_text": "5% of total rooms shall be reserved for total 30 days in a year for Govt. /MCGM free of cost (only room charges) & it may be monitored by the MTDC and Protocol Department. The Municipal Commissioner shall intimate the MTDC and Protocol Department regarding grant of building permission / occupation certificate to enable MTDC and Protocol Department to comply with this condition.",
+  "chapter": null,
+  "section": "33(4) Building of Residential Hotels on independent plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "5% of total rooms shall be reserved for total 30 days in a year for Govt. /MCGM free of cost (only room charges) & it may be monitored by the MTDC and Protocol Department. The Municipal Commissioner s"
+  },
+  "created_at": "2025-11-19T00:14:38.560380",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.841029",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

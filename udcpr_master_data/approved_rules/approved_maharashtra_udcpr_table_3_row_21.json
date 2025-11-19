@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_21",
+  "title": "Table 3 - Row 21",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.21",
+  "clause_text": "3.9: 4.13 | Net Plot Area and Computation of FSI: Traffic and Transportation Zone | Net Plot Area and Computation of FSI: Traffic and Transportation Zone | 56: 76",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "4.13",
+        "Traffic and Transportation Zone",
+        "Traffic and Transportation Zone",
+        "76"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 4.13 | Net Plot Area and Computation of FSI: Traffic and Transportation Zone | Net Plot Area and Computation of FSI: Traffic and Transportation Zone | 56: 76"
+  },
+  "created_at": "2025-11-19T00:14:29.419197",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.992790",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

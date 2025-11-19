@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_771",
+  "title": "The BUA for the grant of DRC shall be equal to BUA of the sanctioned Slum Rehabilitation Project allowed to be taken in the form of TDR& as approved by CEO SRA",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 771",
+  "clause_text": "The BUA for the grant of DRC shall be equal to BUA of the sanctioned Slum Rehabilitation Project allowed to be taken in the form of TDR& as approved by CEO SRA.",
+  "chapter": null,
+  "section": "Additional Regulations for the grant of TDR to the Developers/Co- operative Housing Societies/NGOs in respect of slum rehabilitation scheme vide DCR 33(10) and DCR 33(11)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The BUA for the grant of DRC shall be equal to BUA of the sanctioned Slum Rehabilitation Project allowed to be taken in the form of TDR& as approved by CEO SRA."
+  },
+  "created_at": "2025-11-19T00:14:38.302121",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.673591",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

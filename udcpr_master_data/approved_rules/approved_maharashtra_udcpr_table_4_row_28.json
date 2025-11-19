@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_4_row_28",
+  "title": "Table 4 - Row 28",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-4.28",
+  "clause_text": "5.1.2: 6.1.4 | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: 6.1.4 | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: Front Setback | 84: 107",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "5.1.2",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.",
+        "84"
+      ],
+      "values": [
+        "",
+        "6.1.4",
+        "6.1.4",
+        "Front Setback",
+        "107"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_4",
+    "text_snippet": "5.1.2: 6.1.4 | Regulations for Development of Tourist Resorts / Holiday Homes / Township in Hill Stations Type Areas under Hill Station Policy.: 6.1.4 | Regulations for Development of Tourist Resorts "
+  },
+  "created_at": "2025-11-19T00:14:29.541522",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.154594",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

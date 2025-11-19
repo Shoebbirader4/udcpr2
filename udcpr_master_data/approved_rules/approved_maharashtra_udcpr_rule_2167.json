@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2167",
+  "title": "A local Authority shall be formed under section 3 read with section 341 of the Maharashtra Municipal Council, Nagar Panchayat and Industrial Town ship Act, 1965 according to population of such township",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2167",
+  "clause_text": "A local Authority shall be formed under section 3 read with section 341 of the Maharashtra Municipal Council, Nagar Panchayat and Industrial Town ship Act, 1965 according to population of such township. The newly formed respective authority shall take over the operation maintenance of infrastructure in the Integrated Township Project area with the previous approval of Government. However, if the area under ITPs merged in any Local Authority then operation and maintenance of infrastructure in such Integrated Township Project area shall be made by the respective Local Authority.",
+  "chapter": null,
+  "section": "General Stipulations :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A local Authority shall be formed under section 3 read with section 341 of the Maharashtra Municipal Council, Nagar Panchayat and Industrial Town ship Act, 1965 according to population of such townshi"
+  },
+  "created_at": "2025-11-19T00:14:23.912712",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.116173",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

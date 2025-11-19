@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1804",
+  "title": "In case of land notified for acquisition under the Land Acquisition Act, 1894 or The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 and where the land has not been acquired, the CIDCO may in its absolute discretion to grant permission for temporary development",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1804",
+  "clause_text": "In case of land notified for acquisition under the Land Acquisition Act, 1894 or The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 and where the land has not been acquired, the CIDCO may in its absolute discretion to grant permission for temporary development. Temporary Development shall be permissible as per uses permissible in respective zones as per UDCPR. The permission may be renewed from time to time at the discretion of the CIDCO.",
+  "chapter": null,
+  "section": "(2) 10.14.3 Development of land Notified for Acquisition",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of land notified for acquisition under the Land Acquisition Act, 1894 or The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 and wher"
+  },
+  "created_at": "2025-11-19T00:14:22.947409",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.061005",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

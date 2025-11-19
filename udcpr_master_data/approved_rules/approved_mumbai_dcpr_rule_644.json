@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_644",
+  "title": "Provided further that in cases where benefit of additional FSI as per the then prevailing regulations was availed for the purpose of educational, medical, starred category hotels, religious development and Information Technology establishments and if redevelopment is proposed by discontinuing such users, then such additional BUA will not be protected",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 644",
+  "clause_text": "Provided further that in cases where benefit of additional FSI as per the then prevailing regulations was availed for the purpose of educational, medical, starred category hotels, religious development and Information Technology establishments and if redevelopment is proposed by discontinuing such users, then such additional BUA will not be protected. The development shall have to be in consonance with the provisions of these Regulations. The premium paid in past for such user will not be adjusted.",
+  "chapter": null,
+  "section": "Protected Development",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that in cases where benefit of additional FSI as per the then prevailing regulations was availed for the purpose of educational, medical, starred category hotels, religious developmen"
+  },
+  "created_at": "2025-11-19T00:14:37.900485",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.305094",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

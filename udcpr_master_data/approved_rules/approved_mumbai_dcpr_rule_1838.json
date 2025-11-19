@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1838",
+  "title": "Floor Indicator- The number of each floor shall be conspicuously painted in figures at least 15cm large on the wall facing the flights of a stairway or at such suitable place as is distinctly visible from the flights",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1838",
+  "clause_text": "Floor Indicator- The number of each floor shall be conspicuously painted in figures at least 15cm large on the wall facing the flights of a stairway or at such suitable place as is distinctly visible from the flights. Hand rail- Handrails with a minimum height of 0.9m from the center of the treads shall be provided.",
+  "chapter": null,
+  "section": "Table No: 16",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Floor Indicator- The number of each floor shall be conspicuously painted in figures at least 15cm large on the wall facing the flights of a stairway or at such suitable place as is distinctly visible "
+  },
+  "created_at": "2025-11-19T00:14:42.212690",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.675554",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

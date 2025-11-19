@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1986",
+  "title": "In plots, less than 60sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1986",
+  "clause_text": "In plots, less than 60sq. m in area, no front open space need be provided if the means of access serving such plots is at least 3 m in width.",
+  "chapter": null,
+  "section": "Table No 17",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In plots, less than 60sq. m in area, no front open space need be provided if the means of access serving such plots is at least 3 m in width."
+  },
+  "created_at": "2025-11-19T00:14:43.045764",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.061924",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

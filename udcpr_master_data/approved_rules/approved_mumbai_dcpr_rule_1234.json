@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1234",
+  "title": "A Slum Rehabilitation Project shall be considered preferably when submitted through a proposed or registered co-operative housing society of hutment dwellers on site",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1234",
+  "clause_text": "A Slum Rehabilitation Project shall be considered preferably when submitted through a proposed or registered co-operative housing society of hutment dwellers on site. The said society shall include all the eligible hutment on site while submitting the S.R. Scheme and give an undertaking to that effect to SRA.",
+  "chapter": null,
+  "section": "Right of the Hutment Dwellers:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A Slum Rehabilitation Project shall be considered preferably when submitted through a proposed or registered co-operative housing society of hutment dwellers on site. The said society shall include al"
+  },
+  "created_at": "2025-11-19T00:14:39.934425",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.966908",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

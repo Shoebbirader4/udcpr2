@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_285",
+  "title": "Original measurement plan / city survey sheet of the land or lands under development proposal issued by Land Record Department",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 285",
+  "clause_text": "Original measurement plan / city survey sheet of the land or lands under development proposal issued by Land Record Department.",
+  "chapter": null,
+  "section": "(#) Ownership title and area",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Original measurement plan / city survey sheet of the land or lands under development proposal issued by Land Record Department."
+  },
+  "created_at": "2025-11-19T00:14:17.853765",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.278846",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

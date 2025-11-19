@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_9_row_12",
+  "title": "Table 9 - Row 12",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-9.12",
+  "clause_text": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: 3. Building Requirements | 326: 332",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings",
+        "326"
+      ],
+      "values": [
+        "",
+        "3. Building Requirements",
+        "332"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_9",
+    "text_snippet": "(29) Special Provisions for Institutional, Assembly, Business or Mercantile and Industrial Buildings: 3. Building Requirements | 326: 332"
+  },
+  "created_at": "2025-11-19T00:14:48.101349",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.428491",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

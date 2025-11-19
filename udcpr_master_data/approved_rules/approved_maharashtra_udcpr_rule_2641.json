@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2641",
+  "title": "Internal roads, pathways, common amenities etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2641",
+  "clause_text": "Internal roads, pathways, common amenities etc. as shown in the layout of the colony shall be provided as part of the original project. However the Co-operative Housing Society shall be responsible for maintaining the same.",
+  "chapter": null,
+  "section": "RESPONSIBILITY OF THE CO-OPERATIVE SOCIETY",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Internal roads, pathways, common amenities etc. as shown in the layout of the colony shall be provided as part of the original project. However the Co-operative Housing Society shall be responsible fo"
+  },
+  "created_at": "2025-11-19T00:14:24.981746",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.570632",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

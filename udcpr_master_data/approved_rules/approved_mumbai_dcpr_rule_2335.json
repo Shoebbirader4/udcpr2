@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2335",
+  "title": "These pipes shall be run in shafts exclusively for this purpose and shall be on external walls, away from the staircases",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2335",
+  "clause_text": "These pipes shall be run in shafts exclusively for this purpose and shall be on external walls, away from the staircases. There shall be no inter-connection between these shafts and the rest of the floors, Gas meters shall be housed in a suitable constructed metal cupboard located in a well-ventilated space at ground level.",
+  "chapter": null,
+  "section": "Town gas/L.P. Gas supply pipes",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "These pipes shall be run in shafts exclusively for this purpose and shall be on external walls, away from the staircases. There shall be no inter-connection between these shafts and the rest of the fl"
+  },
+  "created_at": "2025-11-19T00:14:45.013268",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.816152",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

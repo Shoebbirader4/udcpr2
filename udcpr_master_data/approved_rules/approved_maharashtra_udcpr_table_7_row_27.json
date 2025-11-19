@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_27",
+  "title": "Table 7 - Row 27",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.27",
+  "clause_text": "CHAPTER - 10 CITY SPECIFIC REGULATIONS: 11.2.5 # | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Transferable Development Rights (TDR) against Construction of Amenity | : 221",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "",
+        "11.2.5 #",
+        "Transferable Development Rights (TDR) against Construction of Amenity",
+        "221"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": "CHAPTER - 10 CITY SPECIFIC REGULATIONS: 11.2.5 # | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Transferable Development Rights (TDR) against Construction of Amenity | : 221"
+  },
+  "created_at": "2025-11-19T00:14:29.693333",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.443184",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

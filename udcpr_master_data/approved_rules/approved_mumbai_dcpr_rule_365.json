@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_365",
+  "title": "Balance 80% of such tenements shall be allotted to EWS/LIG households on outright sale",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 365",
+  "clause_text": "Balance 80% of such tenements shall be allotted to EWS/LIG households on outright sale. The allotment of tenements shall be as per the lottery system adopted by MHADA.If MCGM does not require tenements as per sr. no (i) above within six months from the date of receipt of such intimation, then the same may be sold as per sr. no Money so received from proceeds of the sale shall be utilized by MCGM for implementation of DP.",
+  "chapter": null,
+  "section": "Inclusive Housing (IH)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Balance 80% of such tenements shall be allotted to EWS/LIG households on outright sale. The allotment of tenements shall be as per the lottery system adopted by MHADA.If MCGM does not require tenement"
+  },
+  "created_at": "2025-11-19T00:14:36.619591",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.440074",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

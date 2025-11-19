@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_998",
+  "title": "Regulations for planning areas of growth centres at sector – R - i",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 998",
+  "clause_text": "Regulations for planning areas of growth centres at sector – R - i.e. i) Lonavala – Karla - Malvali And ii) Kune – Pangaloli - Kurwande and surrounded area which is a part of Pune Metropolitan Development Authority area, shall be as per the following Regulations.",
+  "chapter": null,
+  "section": "1.0 LAND USE CLASSIFICATION AND PERMISSIBLE USES",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Regulations for planning areas of growth centres at sector – R - i.e. i) Lonavala – Karla - Malvali And ii) Kune – Pangaloli - Kurwande and surrounded area which is a part of Pune Metropolitan Develop"
+  },
+  "created_at": "2025-11-19T00:14:20.251124",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.082681",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_483",
+  "title": "For the reservation of parking lot on a land included in URC, BUA equivalent to Zonal (basic) FSI for the area under reservation in that plot shall be made available free of cost to the Officer appointed by the Planning Authority",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 483",
+  "clause_text": "For the reservation of parking lot on a land included in URC, BUA equivalent to Zonal (basic) FSI for the area under reservation in that plot shall be made available free of cost to the Officer appointed by the Planning Authority. Such BUA to be handed over shall be free of FSI.",
+  "chapter": null,
+  "section": "(I) Development of reservation in Reconstruction or redevelopment of Cluster(s) of Buildings under Cluster Development Scheme(s)under Regulation No. 33(9):",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For the reservation of parking lot on a land included in URC, BUA equivalent to Zonal (basic) FSI for the area under reservation in that plot shall be made available free of cost to the Officer appoin"
+  },
+  "created_at": "2025-11-19T00:14:37.139352",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.762244",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1447",
+  "title": "Development of Slum Plots under DCR 33(10) (A) and Urban Renewal plots under DCR 33(9) (A) in a planning sector may be allowed to be developed together in order to promote flexibility of design as well as to raise more resources",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1447",
+  "clause_text": "Development of Slum Plots under DCR 33(10) (A) and Urban Renewal plots under DCR 33(9) (A) in a planning sector may be allowed to be developed together in order to promote flexibility of design as well as to raise more resources. The power under Regulation 13(6) for shifting and/or interchanging the purpose of designations/reservations shall be exercised by the OSD, DRP (SRA) in respect of DNA as a SPA",
+  "chapter": null,
+  "section": "SLUMS AND DEVELOPMENT PLAN RESERVATIONS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development of Slum Plots under DCR 33(10) (A) and Urban Renewal plots under DCR 33(9) (A) in a planning sector may be allowed to be developed together in order to promote flexibility of design as wel"
+  },
+  "created_at": "2025-11-19T00:14:40.665974",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.443314",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

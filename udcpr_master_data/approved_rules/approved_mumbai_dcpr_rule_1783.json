@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1783",
+  "title": "the plinth/covered area for corridors, closets and other sub-divisions; that area shall include all space serving the particular assembly occupancy",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1783",
+  "clause_text": "the plinth/covered area for corridors, closets and other sub-divisions; that area shall include all space serving the particular assembly occupancy.",
+  "chapter": null,
+  "section": "Table No: 13",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "the plinth/covered area for corridors, closets and other sub-divisions; that area shall include all space serving the particular assembly occupancy."
+  },
+  "created_at": "2025-11-19T00:14:41.875789",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.520984",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

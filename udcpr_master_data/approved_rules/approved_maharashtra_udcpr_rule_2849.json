@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2849",
+  "title": "Explanation - 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2849",
+  "clause_text": "Explanation - 2. - Whenever any authorized building, more than 30 years of age, is included in a URC, the same shall not be done without evaluation of its state of dis-repair by Municipal Corporation and if such building is found in a state of disrepair, only after giving the owner / occupier(s) thereof, a notice of three months to cause any repairs needed. At the end of three months, if such building is found to be habitable and safe, such building shall be treated at par with authorized buildings which are less than 30 years of age. If at the end of three month, such building is found and certified by (1) the Designated Officer appointed by Municipal Commissioner or as per theRegulation of Redevelopment of Dilapidated Buildings as dilapidated and unsafe for habitation, such building shall be included in the URC without the requirement of consents.",
+  "chapter": null,
+  "section": "Urban Renewal Scheme (URS) for Municipal Corporation Area –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Explanation - 2. - Whenever any authorized building, more than 30 years of age, is included in a URC, the same shall not be done without evaluation of its state of dis-repair by Municipal Corporation "
+  },
+  "created_at": "2025-11-19T00:14:25.514713",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.959294",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

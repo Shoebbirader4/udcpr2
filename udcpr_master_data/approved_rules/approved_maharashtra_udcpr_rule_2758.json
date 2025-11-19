@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2758",
+  "title": "In all such cases where the temporary transit camp is erected, the condition shall be that the structures shall be demolished by the Developer / Society / NGO within 30 days of granting Occupation Certificate to the rehab buildings and the site should be brought back to the original state",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2758",
+  "clause_text": "In all such cases where the temporary transit camp is erected, the condition shall be that the structures shall be demolished by the Developer / Society / NGO within 30 days of granting Occupation Certificate to the rehab buildings and the site should be brought back to the original state. Till the transit camps are fully demolished, development rights for the free sale area shall not be permitted to be used beyond 75% of the total admissible free sale area permissible under this Regulation.",
+  "chapter": null,
+  "section": "Temporary Transit Camps",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In all such cases where the temporary transit camp is erected, the condition shall be that the structures shall be demolished by the Developer / Society / NGO within 30 days of granting Occupation Cer"
+  },
+  "created_at": "2025-11-19T00:14:25.212729",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.819719",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

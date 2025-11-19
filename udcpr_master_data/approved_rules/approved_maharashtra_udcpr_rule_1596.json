@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1596",
+  "title": "Other Restrictions :- In addition to the above restrictions, following general restrictions are also",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1596",
+  "clause_text": "Other Restrictions :- In addition to the above restrictions, following general restrictions are also enforced :- No high tension power line up to 22 KV is to be setup within 1500 meters from unit boundary.",
+  "chapter": null,
+  "section": "Development around Defence Establishment",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Other Restrictions :- In addition to the above restrictions, following general restrictions are also enforced :-"
+  },
+  "created_at": "2025-11-19T00:14:22.417363",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.632092",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "maharashtra_udcpr_table_166_row_13",
+  "title": "Table 166 - Row 13",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-166.13",
+  "clause_text": "4.: 8. | Are all plans as required under Regulation No.2.2 enclosed ?: (iii)What is the plinth area and total floor area of all existing structures to be retained ? (Please give details confirming to the plan submitted)",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "4.",
+        "Are all plans as required under Regulation No.2.2 enclosed ?",
+        "Yes / No"
+      ],
+      "values": [
+        "8.",
+        "(iii)What is the plinth area and total floor area of all existing structures to be retained ? (Please give details confirming to the plan submitted)",
+        ""
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_166",
+    "text_snippet": "4.: 8. | Are all plans as required under Regulation No.2.2 enclosed ?: (iii)What is the plinth area and total floor area of all existing structures to be retained ? (Please give details confirming to "
+  },
+  "created_at": "2025-11-19T00:14:31.238551",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.160806",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

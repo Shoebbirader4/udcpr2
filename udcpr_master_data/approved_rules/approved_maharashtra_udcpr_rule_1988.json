@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1988",
+  "title": "The terrace shall be connected to the open well / bore-well / storage tank / recharge pit / trench by means of HDPE / PVC pipes through filter media",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1988",
+  "clause_text": "The terrace shall be connected to the open well / bore-well / storage tank / recharge pit / trench by means of HDPE / PVC pipes through filter media. A valve system shall be provided to enable the first washing from roof or terrace catchment, as they would contain undesirable dirt. The mouth of all pipes and opening shall be covered with mosquito (insect) proof wire net. For the efficient discharge of rain water, there shall be at least two rain water pipes of 100 mm. dia. for a roof area of 100 sq.m.",
+  "chapter": null,
+  "section": "Proper signage :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The terrace shall be connected to the open well / bore-well / storage tank / recharge pit / trench by means of HDPE / PVC pipes through filter media. A valve system shall be provided to enable the fir"
+  },
+  "created_at": "2025-11-19T00:14:23.447329",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.447109",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

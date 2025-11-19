@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_5_8_2019",
+  "title": "The development along the highways shall be subject to the provisions of State Highways Act, 1965 and National Highway Act, 1956 and orders issued by Public Works Department, directives issued by Urban Development Department vide Resolution No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "5.8.2019",
+  "clause_text": "The development along the highways shall be subject to the provisions of State Highways Act, 1965 and National Highway Act, 1956 and orders issued by Public Works Department, directives issued by Urban Development Department vide Resolution No.TPS-1819/UOR-36/19/UD-13, dated 5.8.2019 in this regard, from time to time. (1) All the classified roads passing through the",
+  "chapter": null,
+  "section": "(#) Development along Highways / Classified Roads",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The development along the highways shall be subject to the provisions of State Highways Act, 1965 and National Highway Act, 1956 and orders issued by Public Works Department, directives issued by Urba"
+  },
+  "created_at": "2025-11-19T00:14:18.268040",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.659054",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

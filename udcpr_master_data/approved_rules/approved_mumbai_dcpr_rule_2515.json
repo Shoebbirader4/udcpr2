@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2515",
+  "title": "Division/Village/Town Planning Scheme No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2515",
+  "clause_text": "Division/Village/Town Planning Scheme No. …………………. Situated at…………… Road/Street………………………………………….Ward………………………………. has been supervised by me and has been completed on… according to the plans sanctioned (office communication No. ………………………………………",
+  "chapter": null,
+  "section": "(Regulations No.11(6)& (7))",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Division/Village/Town Planning Scheme No. …………………. Situated at…………… Road/Street………………………………………….Ward………………………………."
+  },
+  "created_at": "2025-11-19T00:14:46.576754",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.306553",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

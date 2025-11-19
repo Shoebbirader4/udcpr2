@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_383",
+  "title": "The owner will be allowed to develop the land if he agrees to construct BUA equivalent to ‘X’% of Basic ( zonal) FSI and agrees to hand it over to MCGM/Appropriate Authority in lieu of FSI/TDR, as specified in this regulation along with ‘Y’% of area of reserved plot, free of cost as per the designs, specifications, terms and conditions duly approved by the Commissioner",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 383",
+  "clause_text": "The owner will be allowed to develop the land if he agrees to construct BUA equivalent to ‘X’% of Basic ( zonal) FSI and agrees to hand it over to MCGM/Appropriate Authority in lieu of FSI/TDR, as specified in this regulation along with ‘Y’% of area of reserved plot, free of cost as per the designs, specifications, terms and conditions duly approved by the Commissioner.",
+  "chapter": null,
+  "section": "Conditions for Development of reserved land under Accommodation Reservation (AR)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner will be allowed to develop the land if he agrees to construct BUA equivalent to ‘X’% of Basic ( zonal) FSI and agrees to hand it over to MCGM/Appropriate Authority in lieu of FSI/TDR, as spe"
+  },
+  "created_at": "2025-11-19T00:14:36.703213",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.483914",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

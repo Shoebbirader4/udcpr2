@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2860",
+  "title": "All the eligible occupants of the building(s)/slums undergoing redevelopment under a URC shall be re",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2860",
+  "clause_text": "All the eligible occupants of the building(s)/slums undergoing redevelopment under a URC shall be rehabilitated in the redeveloped building(s) :",
+  "chapter": null,
+  "section": "Entitlement of Rehabilitation –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All the eligible occupants of the building(s)/slums undergoing redevelopment under a URC shall be rehabilitated in the redeveloped building(s) :"
+  },
+  "created_at": "2025-11-19T00:14:25.564527",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.980417",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

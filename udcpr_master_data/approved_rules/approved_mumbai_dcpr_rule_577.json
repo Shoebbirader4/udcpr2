@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_577",
+  "title": "The owner/owners/or society or societies or federation of the societies shall submit to the Commissioner a registered undertaking agreeing to the conditions in (a) to (d) above",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 577",
+  "clause_text": "The owner/owners/or society or societies or federation of the societies shall submit to the Commissioner a registered undertaking agreeing to the conditions in (a) to (d) above.",
+  "chapter": null,
+  "section": "Structures/uses permitted in LOS:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner/owners/or society or societies or federation of the societies shall submit to the Commissioner a registered undertaking agreeing to the conditions in (a) to (d) above."
+  },
+  "created_at": "2025-11-19T00:14:37.680967",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.139841",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

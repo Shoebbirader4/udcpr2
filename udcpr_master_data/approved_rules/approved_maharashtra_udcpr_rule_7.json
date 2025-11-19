@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_7",
+  "title": "These Unified Development Control and Promotion Regulations are published by the State Government under Section 37(1AA) of the Maharashtra Regional & Town Planning Act, 1966 vide Notification No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 7",
+  "clause_text": "These Unified Development Control and Promotion Regulations are published by the State Government under Section 37(1AA) of the Maharashtra Regional & Town Planning Act, 1966 vide Notification No.TPS- 1818/C.R.236/18/ Sec.37(1AA)/UD-13, Dated 02nd December, 2020.",
+  "chapter": null,
+  "section": "URBAN DEVELOPMENT DEPARTMENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "These Unified Development Control and Promotion Regulations are published by the State Government under Section 37(1AA) of the Maharashtra Regional & Town Planning Act, 1966 vide Notification No.TPS- "
+  },
+  "created_at": "2025-11-19T00:14:16.957488",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.570672",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

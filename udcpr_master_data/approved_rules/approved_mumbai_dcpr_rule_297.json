@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_297",
+  "title": "Provided further that if a land is shown as existing amenity and such existing amenity is spread over a number of adjoining plots as per DP 2034 and if any of such plot has not contributed towards its reservation as per DP 1991 now forming part of existing amenity, then such plot will be deemed to be reserved for such purpose and shall be developed as per Regulation No 17",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 297",
+  "clause_text": "Provided further that if a land is shown as existing amenity and such existing amenity is spread over a number of adjoining plots as per DP 2034 and if any of such plot has not contributed towards its reservation as per DP 1991 now forming part of existing amenity, then such plot will be deemed to be reserved for such purpose and shall be developed as per Regulation No 17.",
+  "chapter": null,
+  "section": "Development of the existing amenity/reservation/partly existing amenity/partly reserved/amenity Plot:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that if a land is shown as existing amenity and such existing amenity is spread over a number of adjoining plots as per DP 2034 and if any of such plot has not contributed towards its"
+  },
+  "created_at": "2025-11-19T00:14:36.318202",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.282388",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

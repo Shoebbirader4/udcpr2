@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2113",
+  "title": "be so arranged that, except in a residential building, they can be reached without having to cross a",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2113",
+  "clause_text": "be so arranged that, except in a residential building, they can be reached without having to cross another occupied unit;",
+  "chapter": null,
+  "section": "Construction Materials:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "be so arranged that, except in a residential building, they can be reached without having to cross another occupied unit;"
+  },
+  "created_at": "2025-11-19T00:14:43.807463",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.368311",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

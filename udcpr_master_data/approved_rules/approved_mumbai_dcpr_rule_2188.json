@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2188",
+  "title": "Non-cessed buildings included in the said list shall be repaired/restored by the owners/lessees of the said buildings themselves or if they are cessed buildings, those can be repaired/restored by MHADA or by the owner or by the Co-operative Society of the owners and/or occupiers of thebuilding",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2188",
+  "clause_text": "Non-cessed buildings included in the said list shall be repaired/restored by the owners/lessees of the said buildings themselves or if they are cessed buildings, those can be repaired/restored by MHADA or by the owner or by the Co-operative Society of the owners and/or occupiers of thebuilding. With a view to give monetary help for such repairs/restoration, a separate fund may be created, which would be kept at the disposal of the Commissioner, who may consult Heritage Conservation Committee while disbursement of such funds. Provisions for such a fund may be made through District Planning and Development Council Budgetor any other budget.",
+  "chapter": null,
+  "section": "Maintaining Sky-Line:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Non-cessed buildings included in the said list shall be repaired/restored by the owners/lessees of the said buildings themselves or if they are cessed buildings, those can be repaired/restored by MHAD"
+  },
+  "created_at": "2025-11-19T00:14:44.229162",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.527295",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

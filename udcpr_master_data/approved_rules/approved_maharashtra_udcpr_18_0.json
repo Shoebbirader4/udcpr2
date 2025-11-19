@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_18_0",
+  "title": "Any suitable area in Regional plan or Development plan having access by means of an existing road or a proposed Regional plan / Development Plan road having a minimum width of 18",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "18.0",
+  "clause_text": "Any suitable area in Regional plan or Development plan having access by means of an existing road or a proposed Regional plan / Development Plan road having a minimum width of 18.0 m. can be identified for the purpose of development as Integrated IT Township. The area notified under the Integrated IT Township shall be one continuous, unbroken and uninterrupted and in any case shall not be less than (1) 10 acres. (4 Ha.) at one place.",
+  "chapter": null,
+  "section": "Area Requirement",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Any suitable area in Regional plan or Development plan having access by means of an existing road or a proposed Regional plan / Development Plan road having a minimum width of 18.0 m. can be identifie"
+  },
+  "created_at": "2025-11-19T00:14:26.057940",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.336142",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

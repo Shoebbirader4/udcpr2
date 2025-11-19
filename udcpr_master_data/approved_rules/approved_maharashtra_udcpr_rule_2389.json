@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2389",
+  "title": "“Rehabilitation Component” shall mean and include the area of all residential tenements as well as non-residential built-up premises to be given to the eligible hutment dwellers in accordance with the provisions of the said Regulations and shall be inclusive of common areas, lobbies, staircase/s, lift/s and machine room/s, passage/s, welfare center/s, balwadi/s, women's welfare center/s, society office/s, incentive commercial area/s (if any), eligible amenity structure/s (if any) and permitted religious structure/s, more particularly described in the said Regulations",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2389",
+  "clause_text": "“Rehabilitation Component” shall mean and include the area of all residential tenements as well as non-residential built-up premises to be given to the eligible hutment dwellers in accordance with the provisions of the said Regulations and shall be inclusive of common areas, lobbies, staircase/s, lift/s and machine room/s, passage/s, welfare center/s, balwadi/s, women's welfare center/s, society office/s, incentive commercial area/s (if any), eligible amenity structure/s (if any) and permitted religious structure/s, more particularly described in the said Regulations.",
+  "chapter": null,
+  "section": "DEFINITIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "“Rehabilitation Component” shall mean and include the area of all residential tenements as well as non-residential built-up premises to be given to the eligible hutment dwellers in accordance with the"
+  },
+  "created_at": "2025-11-19T00:14:24.442594",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.785689",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

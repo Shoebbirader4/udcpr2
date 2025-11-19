@@ -1,0 +1,44 @@
+{
+  "rule_id": "mumbai_dcpr_table_93_row_3",
+  "title": "Table 93 - Row 3",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-93.3",
+  "clause_text": "Location: Island City | Minimu m Road Width: 18m | Total permissibl e FSI: Up to4.0 | Zona l FSI: 1.33 | Addition al FSI: Up to2.67 | %FSI for Transit tenement s for SRA/ of total additiona l FSI: 63% | % FSI for sale component of total additional FSI: 37%",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Location",
+        "Minimu m Road Width",
+        "Total permissibl e FSI",
+        "Zona l FSI",
+        "Addition al FSI",
+        "%FSI for Transit tenement s for SRA/ of total additiona l FSI",
+        "% FSI for sale component of total additional FSI"
+      ],
+      "values": [
+        "Island City",
+        "18m",
+        "Up to4.0",
+        "1.33",
+        "Up to2.67",
+        "63%",
+        "37%"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_93",
+    "text_snippet": "Location: Island City | Minimu m Road Width: 18m | Total permissibl e FSI: Up to4.0 | Zona l FSI: 1.33 | Addition al FSI: Up to2.67 | %FSI for Transit tenement s for SRA/ of total additiona l FSI: 63%"
+  },
+  "created_at": "2025-11-19T00:14:48.580040",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.792730",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

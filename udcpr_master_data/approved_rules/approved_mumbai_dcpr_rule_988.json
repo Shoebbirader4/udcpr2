@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_988",
+  "title": "The proposal shall be submitted containing the demand assessment for infrastructure such as roads, water supply, sewerage and storm water drains along with clearly earmarking the area for Public Open Spaces (POS), Affordable Housing (AH), Other Amenities(OA), (viz",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 988",
+  "clause_text": "The proposal shall be submitted containing the demand assessment for infrastructure such as roads, water supply, sewerage and storm water drains along with clearly earmarking the area for Public Open Spaces (POS), Affordable Housing (AH), Other Amenities(OA), (viz. Education, Health & Social Amenities) and area for other development i.e. Govt./Semi-Govt./Appropriate Authority’s share of land. If OA/POS to be handed over to MCGM and AH are not abutting the municipal road, the same shall be provided with uninterrupted access as per table no 7 of Regulation No 23(1).The area of the land after deduction of the area covered under road/uninterrupted access proposed as above, shall be apportioned among Govt./Semi-Govt./Appropriate Authority’s Share, AH, POS, and OA as detailed below. These roads/uninterrupted access shall be handed over to MCGM and will be eligible for additional BUA equal to area of land as surrendered/transferred over and above FSI as stipulated below in Sr. No. 4",
+  "chapter": null,
+  "section": "Planning Considerations /Submission of Proposal",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The proposal shall be submitted containing the demand assessment for infrastructure such as roads, water supply, sewerage and storm water drains along with clearly earmarking the area for Public Open "
+  },
+  "created_at": "2025-11-19T00:14:39.162822",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.329588",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_660",
+  "title": "Minimum 10% built up area (basic FSI) for area upto 1 ha",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 660",
+  "clause_text": "Minimum 10% built up area (basic FSI) for area upto 1 ha. and 5% built up area (basic FSI) for area more than 1 ha., shall be used for offices and commercial purpose, in case of development undertaken under this regulation, by closing down the existing industry. However, this provision shall not be applicable, in case of permission being sought under this regulation, where such plot falls in industrial zone, without existing industry.",
+  "chapter": null,
+  "section": "4.8 INDUSTRIAL ZONE",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Minimum 10% built up area (basic FSI) for area upto 1 ha. and 5% built up area (basic FSI) for area more than 1 ha., shall be used for offices and commercial purpose, in case of development undertaken"
+  },
+  "created_at": "2025-11-19T00:14:19.299367",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.301907",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

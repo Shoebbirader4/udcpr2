@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_986",
+  "title": "Consumption of FSI on owner’s share of land shall be restricted to 4 only",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 986",
+  "clause_text": "Consumption of FSI on owner’s share of land shall be restricted to 4 only. TDR in lieu of unconsumed incentive BUA, as per provision (a) above in proportion to handing over of such completed AH tenements/Amenities may be allowed at the option of owner/developer. However, 20 % of such admissible TDR for unconsumed BUA shall be released only after handing over the entire area of AH tenements/Amenities to MCGM.",
+  "chapter": null,
+  "section": "Compensation for development of infrastructure in lands handed over to MCGM and constructed BUA.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Consumption of FSI on owner’s share of land shall be restricted to 4 only. TDR in lieu of unconsumed incentive BUA, as per provision (a) above in proportion to handing over of such completed AH teneme"
+  },
+  "created_at": "2025-11-19T00:14:39.149430",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.325939",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

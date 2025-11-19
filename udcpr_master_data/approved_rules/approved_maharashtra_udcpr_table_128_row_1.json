@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_128_row_1",
+  "title": "Table 128 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-128.1",
+  "clause_text": "Table No.12-N Sanitation Requirements – Hostels: Sr. No. | Table No.12-N Sanitation Requirements – Hostels: Fixtures | Table No.12-N Sanitation Requirements – Hostels: Resident | Table No.12-N Sanitation Requirements – Hostels: Resident | Table No.12-N Sanitation Requirements – Hostels: Non-Resident | Table No.12-N Sanitation Requirements – Hostels: Non-Resident | Table No.12-N Sanitation Requirements – Hostels: Visitor / Common Rooms | Table No.12-N Sanitation Requirements – Hostels: Visitor / Common Rooms",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels",
+        "Table No.12-N Sanitation Requirements – Hostels"
+      ],
+      "values": [
+        "Sr. No.",
+        "Fixtures",
+        "Resident",
+        "Resident",
+        "Non-Resident",
+        "Non-Resident",
+        "Visitor / Common Rooms",
+        "Visitor / Common Rooms"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_128",
+    "text_snippet": "Table No.12-N Sanitation Requirements – Hostels: Sr. No. | Table No.12-N Sanitation Requirements – Hostels: Fixtures | Table No.12-N Sanitation Requirements – Hostels: Resident | Table No.12-N Sanitat"
+  },
+  "created_at": "2025-11-19T00:14:30.906727",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.989264",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2225",
+  "title": "Notwithstanding anything contained in this regulation, if any development on plot in TOD zone is proposed within base permissible FSI (without TDR or Premium FSI) as per provisions of Principal DCPR, all other provisions of Principal DCPR shall be applicable",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2225",
+  "clause_text": "Notwithstanding anything contained in this regulation, if any development on plot in TOD zone is proposed within base permissible FSI (without TDR or Premium FSI) as per provisions of Principal DCPR, all other provisions of Principal DCPR shall be applicable.",
+  "chapter": null,
+  "section": "Incentive for providing Public Parking in the area falling within the radius of 200 m. from the Metro / MRTS Station.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Notwithstanding anything contained in this regulation, if any development on plot in TOD zone is proposed within base permissible FSI (without TDR or Premium FSI) as per provisions of Principal DCPR, "
+  },
+  "created_at": "2025-11-19T00:14:24.052944",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.385341",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

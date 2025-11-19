@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_14_6_16",
+  "title": "If the S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "14.6.16",
+  "clause_text": "If the S.R.S. in respect of a slum located on any land belonging to a public authority or a private owner, which is needed for a vital public purpose or which is on uninhabitable locations / ecologically fragile / environmentally sensitive locations or wherein in-situ rehabilitation is not feasible for any reason, is taken on an unencumbered plot, then in congested area T.D.R. equal to three times and in non-congested area T.D.R. equal to two times the gross area of the land spared (unencumbered plot) for this purpose shall be permissible to the land owner / lessee or if the landowner has assigned the rights to slum project implementing developer to receive T.D.R. compensation, to the concerned developer after handing over of the said plot to S.R.A. and if the rehabilitation component is constructed by the developer, in addition, (2) TDR in lieu of construction of rehabilitation component shall be calculated as per ratio prescribed in Regualtion 14.6.16(1) of the SRA Regulation-2022 to the developer of the said unencumbered plot.",
+  "chapter": null,
+  "section": "REGULATIONS RELATING TO REHABILITATION AND FREE SALE COMPONENTS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the S.R.S. in respect of a slum located on any land belonging to a public authority or a private owner, which is needed for a vital public purpose or which is on uninhabitable locations / ecologica"
+  },
+  "created_at": "2025-11-19T00:14:24.831617",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.137748",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

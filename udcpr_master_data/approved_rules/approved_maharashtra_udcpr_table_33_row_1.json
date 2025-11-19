@@ -1,0 +1,40 @@
+{
+  "rule_id": "maharashtra_udcpr_table_33_row_1",
+  "title": "Table 33 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-33.1",
+  "clause_text": "Sr. No.: 1 | User: Residential / Commercial | Min. Plot Area (sq.m.): 500 | Max. FSI: 0.50 | Max Height (m.): 12.00",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Sr. No.",
+        "User",
+        "Min. Plot Area (sq.m.)",
+        "Max. FSI",
+        "Max Height (m.)"
+      ],
+      "values": [
+        "1",
+        "Residential / Commercial",
+        "500",
+        "0.50",
+        "12.00"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_33",
+    "text_snippet": "Sr. No.: 1 | User: Residential / Commercial | Min. Plot Area (sq.m.): 500 | Max. FSI: 0.50 | Max Height (m.): 12.00"
+  },
+  "created_at": "2025-11-19T00:14:29.808573",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.488582",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

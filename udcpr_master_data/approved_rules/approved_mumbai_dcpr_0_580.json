@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_0_580",
+  "title": "0",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "0.580",
+  "clause_text": "0.580 m from the floor level shall not protrude more than 0.1 m in to pedestrian areas as illustrated in Sketch No 5 in Annexure 23.",
+  "chapter": null,
+  "section": "Building Requirements:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "0.580 m from the floor level shall not protrude more than 0.1 m in to pedestrian areas as illustrated in Sketch No 5 in Annexure 23."
+  },
+  "created_at": "2025-11-19T00:14:42.790335",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.935935",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

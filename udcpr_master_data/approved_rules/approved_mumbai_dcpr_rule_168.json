@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_168",
+  "title": "modify the limit of a zone where the boundary line of the zone divides a plot, village boundary, CS/CTS No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 168",
+  "clause_text": "modify the limit of a zone where the boundary line of the zone divides a plot, village boundary, CS/CTS No. as per records of revenue by a special permission; and",
+  "chapter": null,
+  "section": "Discretionary powers",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "modify the limit of a zone where the boundary line of the zone divides a plot, village boundary, CS/CTS No. as per records of revenue by a special permission; and"
+  },
+  "created_at": "2025-11-19T00:14:35.352991",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.972607",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

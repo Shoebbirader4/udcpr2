@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_13_4_1",
+  "title": "All other Establishments / Buildings where chances of Waste Water generated containing harmful chemicals, toxins are likely and where such water cannot be directly led into municipal sewers, the concerned Competent Authority may direct the Owners, users of such Establishments, Buildings to treat their Waste Water as per the directions laid in Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "13.4.1",
+  "clause_text": "All other Establishments / Buildings where chances of Waste Water generated containing harmful chemicals, toxins are likely and where such water cannot be directly led into municipal sewers, the concerned Competent Authority may direct the Owners, users of such Establishments, Buildings to treat their Waste Water as per the directions laid in Regulation No.13.4.1.",
+  "chapter": null,
+  "section": "Other Hazardous uses",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "All other Establishments / Buildings where chances of Waste Water generated containing harmful chemicals, toxins are likely and where such water cannot be directly led into municipal sewers, the conce"
+  },
+  "created_at": "2025-11-19T00:14:23.473780",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.481765",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

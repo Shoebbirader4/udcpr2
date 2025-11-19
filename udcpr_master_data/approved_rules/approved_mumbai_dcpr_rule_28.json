@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_28",
+  "title": "\"Educational building\" means a building exclusively used for a school or college, recognized by the appropriate Board or University, or any other competent authority involving assembly for instruction, education or recreation incidental to educational use, and including a building for such other uses incidental thereto such as a library, multipurpose hall, auditorium or a research institution",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 28",
+  "clause_text": "\"Educational building\" means a building exclusively used for a school or college, recognized by the appropriate Board or University, or any other competent authority involving assembly for instruction, education or recreation incidental to educational use, and including a building for such other uses incidental thereto such as a library, multipurpose hall, auditorium or a research institution. It shall also include quarters for essential staff required to reside in the premises, and a building used as a hostel captive to an educational institution whether situated in its campus or not, Hostel for girls student. \"Hazardous building\" means a building or part thereof used for-",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Educational building\" means a building exclusively used for a school or college, recognized by the appropriate Board or University, or any other competent authority involving assembly for instruction"
+  },
+  "created_at": "2025-11-19T00:14:34.501280",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.677862",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

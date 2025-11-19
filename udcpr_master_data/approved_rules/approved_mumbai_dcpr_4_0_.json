@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_4_0_",
+  "title": "The owner of scheme shall be eligible for the BUA required for rehabilitation of existing tenants/occupants plus incentive BUA to the extent of 50% of BUA required for rehabilitation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "4.0.",
+  "clause_text": "The owner of scheme shall be eligible for the BUA required for rehabilitation of existing tenants/occupants plus incentive BUA to the extent of 50% of BUA required for rehabilitation. However, the FSI on plot/layout shall not be allowed to be exceeded up to 4.0.If the part of the structures is falling in alignment of roads, then such occupants shall, be eligible for the benefit as above. However, TDR equivalent to Zonal (basic) FSI of the land so handed over will be eligible.",
+  "chapter": null,
+  "section": "Removal and re-accommodation of tolerated /protected structures falling in the alignment of road: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The owner of scheme shall be eligible for the BUA required for rehabilitation of existing tenants/occupants plus incentive BUA to the extent of 50% of BUA required for rehabilitation. However, the FSI"
+  },
+  "created_at": "2025-11-19T00:14:40.825444",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.554021",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

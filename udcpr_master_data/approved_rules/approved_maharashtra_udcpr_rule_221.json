@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_221",
+  "title": "Apply for grant of revised permission under the new regulations, if the project is on-going and the occupation certificate has not been granted fully",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 221",
+  "clause_text": "Apply for grant of revised permission under the new regulations, if the project is on-going and the occupation certificate has not been granted fully. In such cases, charges/premium etc. paid earlier (1) against the FSI sanctioned / exemptions granted in side margins, allowing Residential / Commercial use on the Industrial Zone as per erstwhile regulations shall be deemed to have been paid against such earlier sanctioned FSI / exemptions / allowance of use. (3) In such cases (1) the charges / premium under these (1) regulations shall be leviable (2) against the revised permission and the charges / premium paid earlier shall be adjusted against the revised charges / premium under these regulations. Provided that no refund is permissible in any case.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Apply for grant of revised permission under the new regulations, if the project is on-going and the occupation certificate has not been granted fully. In such cases, charges/premium etc. paid earlier "
+  },
+  "created_at": "2025-11-19T00:14:17.637513",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.114451",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2133",
+  "title": "For the people residing in the project area, an efficient and timely public transportation system up to the nearest public transportation station / hub / depot / stand",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2133",
+  "clause_text": "For the people residing in the project area, an efficient and timely public transportation system up to the nearest public transportation station / hub / depot / stand. He shall develop it himself or tie with Government / Semi Government (1) / Planning Authority or private transport agency for such efficient public transportation. The number of buses and trips will be decided by MSRTC / Local Transport Authority;",
+  "chapter": null,
+  "section": "Liability of Project Proponent/s :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For the people residing in the project area, an efficient and timely public transportation system up to the nearest public transportation station / hub / depot / stand. He shall develop it himself or "
+  },
+  "created_at": "2025-11-19T00:14:23.831958",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.994063",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

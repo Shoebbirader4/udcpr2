@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_31",
+  "title": "Directives under Section 154 of the Maharashtra Regional & Town Planning Act, 1966 issued by the State Government vide Resolution No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 31",
+  "clause_text": "Directives under Section 154 of the Maharashtra Regional & Town Planning Act, 1966 issued by the State Government vide Resolution No.TPS-1823/CR.07/2023/UD-13, Dated 27th February, 2023 regarding Class – 2 lands.",
+  "chapter": null,
+  "section": "URBAN DEVELOPMENT DEPARTMENT",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Directives under Section 154 of the Maharashtra Regional & Town Planning Act, 1966 issued by the State Government vide Resolution No.TPS-1823/CR.07/2023/UD-13, Dated 27th February, 2023 regarding Clas"
+  },
+  "created_at": "2025-11-19T00:14:17.024895",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.615257",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

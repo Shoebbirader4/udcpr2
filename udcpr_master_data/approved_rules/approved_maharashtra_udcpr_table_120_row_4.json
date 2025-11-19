@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_120_row_4",
+  "title": "Table 120 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-120.4",
+  "clause_text": "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: i) | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: Water-closets | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: 1 per 200 up to 400 Over 400 add at 1 per 250 or part thereof | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: 1 per 100 up to 200 Over 200 add at 1 per 150 or part thereof | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: 1 for up to 15 2 for 16-35 | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: 1 for up to 12 2 for 13-25",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums",
+        "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums"
+      ],
+      "values": [
+        "i)",
+        "Water-closets",
+        "1 per 200 up to 400 Over 400 add at 1 per 250 or part thereof",
+        "1 per 100 up to 200 Over 200 add at 1 per 150 or part thereof",
+        "1 for up to 15 2 for 16-35",
+        "1 for up to 12 2 for 13-25"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_120",
+    "text_snippet": "Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: i) | Table No.12-F- Sanitation Requirements - Art Galleries, Libraries and Museums: Water-closets | Table No.12-F- Sanita"
+  },
+  "created_at": "2025-11-19T00:14:30.452022",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.819920",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

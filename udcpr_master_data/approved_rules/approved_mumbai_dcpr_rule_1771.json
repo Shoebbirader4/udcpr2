@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1771",
+  "title": "monitor the implementation of the provisions of this regulation as regards housing, alternative employment and related training of cotton textile mill workers",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1771",
+  "clause_text": "monitor the implementation of the provisions of this regulation as regards housing, alternative employment and related training of cotton textile mill workers.",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "monitor the implementation of the provisions of this regulation as regards housing, alternative employment and related training of cotton textile mill workers."
+  },
+  "created_at": "2025-11-19T00:14:41.812671",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.486099",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

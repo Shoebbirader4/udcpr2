@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2091",
+  "title": "In no case, the sign/display structure erected on buildings shall exceed the height of topmost part",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2091",
+  "clause_text": "In no case, the sign/display structure erected on buildings shall exceed the height of topmost part of the Building/height prescribed by the Civil Aviation Authority No signs /display structure shall obstruct the light and ventilation of the building.",
+  "chapter": null,
+  "section": "Signs and Outdoor Display Structures",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In no case, the sign/display structure erected on buildings shall exceed the height of topmost part of the Building/height prescribed by the Civil Aviation Authority"
+  },
+  "created_at": "2025-11-19T00:14:43.715650",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.320871",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_64_row_4",
+  "title": "Table 64 - Row 4",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-64.4",
+  "clause_text": "Basic Ratio (LR/RC): Above 2.00 and up to 4.00 | Sharing of Balance FSI: 40% | Sharing of Balance FSI: 60%",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Basic Ratio (LR/RC)",
+        "Sharing of Balance FSI",
+        "Sharing of Balance FSI"
+      ],
+      "values": [
+        "Above 2.00 and up to 4.00",
+        "40%",
+        "60%"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_64",
+    "text_snippet": "Basic Ratio (LR/RC): Above 2.00 and up to 4.00 | Sharing of Balance FSI: 40% | Sharing of Balance FSI: 60%"
+  },
+  "created_at": "2025-11-19T00:14:48.439937",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.634664",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

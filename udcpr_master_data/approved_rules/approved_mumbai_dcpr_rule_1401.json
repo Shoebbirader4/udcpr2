@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1401",
+  "title": "The Settlement Commissioner, Maharashtra State on payment of such fees as may be decided by the Govt ensure that the City Survey sheet and property cards are corrected accordingly and fresh property cards are opened for each of the plots giving details regarding the area of the plots and the total area of the floors of the built-up property and TDR given that is, the FSI used on that plot",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1401",
+  "clause_text": "The Settlement Commissioner, Maharashtra State on payment of such fees as may be decided by the Govt ensure that the City Survey sheet and property cards are corrected accordingly and fresh property cards are opened for each of the plots giving details regarding the area of the plots and the total area of the floors of the built-up property and TDR given that is, the FSI used on that plot.",
+  "chapter": null,
+  "section": "Rehabilitation and Free Sale Component",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Settlement Commissioner, Maharashtra State on payment of such fees as may be decided by the Govt ensure that the City Survey sheet and property cards are corrected accordingly and fresh property c"
+  },
+  "created_at": "2025-11-19T00:14:40.534400",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.336759",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

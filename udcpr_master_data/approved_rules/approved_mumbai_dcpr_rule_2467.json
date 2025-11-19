@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2467",
+  "title": "If the plot is narrow, which clause under Regulations 41(7)(a) or Regulations 41(7)(b), do you propo",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2467",
+  "clause_text": "If the plot is narrow, which clause under Regulations 41(7)(a) or Regulations 41(7)(b), do you propose to take advantage of (whatever applicable)? If not, is the area at least equal to square of one-fifth of the height as per Regulations 41(8)",
+  "chapter": null,
+  "section": "ANNEXURE - 1",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If the plot is narrow, which clause under Regulations 41(7)(a) or Regulations 41(7)(b), do you propose to take advantage of (whatever applicable)?"
+  },
+  "created_at": "2025-11-19T00:14:45.894502",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.178371",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

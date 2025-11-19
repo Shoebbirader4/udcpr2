@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1870",
+  "title": "While execution and implementation of the said project the concerned authorized officer of the said Planning Authority should follow the requesite procedure for maintaining the records like measurement book, quality control and inspection of the record, preparation of bills, preparation of possession receipt, issuance of commencement certificate etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1870",
+  "clause_text": "While execution and implementation of the said project the concerned authorized officer of the said Planning Authority should follow the requesite procedure for maintaining the records like measurement book, quality control and inspection of the record, preparation of bills, preparation of possession receipt, issuance of commencement certificate etc. However, the compensation for the Construction Amenity TDR is payble to the extent of actual expenditure on the said project. At the same time it will also be necessary to ensure at the time of disbursement that the cost of all the items completed by the project proponent is included.",
+  "chapter": null,
+  "section": "Construction Amenity TDR in Sq.m. = A / B * (2) 1.35 Where,",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "While execution and implementation of the said project the concerned authorized officer of the said Planning Authority should follow the requesite procedure for maintaining the records like measuremen"
+  },
+  "created_at": "2025-11-19T00:14:23.091151",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.229092",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

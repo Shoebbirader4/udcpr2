@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2579",
+  "title": "The concerned developer shall have to pay Infrastructure Development Charges (I",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2579",
+  "clause_text": "The concerned developer shall have to pay Infrastructure Development Charges (I.D.C.) at the rate equal to prevailing rates within the areas of respective Municipal Corporations for their areas. Such I.D.C. shall be calculated on the difference of built-up area proposed for construction of rehabilitation component, free-sale component, transit camps, welfare hall, balwadi etc., if any, and built-up area as otherwise normally permissible on the land pertaining to the scheme under the provisions of prevailing D.C.P.R. for the concerned Authority. Sharing of such I.D.C. between S.R.A. and the concerned Authority shall be in proportion of 10 : 90 of the total leviable I.D.C. and the same shall be paid to the concerned Authority in accordance with the payment schedule as may laid down by the C.E.O., S.R.A.,",
+  "chapter": null,
+  "section": "PAYMENTS TO BE MADE TO SRA AND INSTALMENTS :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The concerned developer shall have to pay Infrastructure Development Charges (I.D.C.) at the rate equal to prevailing rates within the areas of respective Municipal Corporations for their areas. Such "
+  },
+  "created_at": "2025-11-19T00:14:24.862084",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.205672",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

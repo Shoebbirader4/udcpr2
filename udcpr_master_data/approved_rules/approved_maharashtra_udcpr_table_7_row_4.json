@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_7_row_4",
+  "title": "Table 7 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-7.4",
+  "clause_text": ": 10.3 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Nagpur Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Nagpur Municipal Corporation | : 180",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        "CHAPTER - 10 CITY SPECIFIC REGULATIONS",
+        ""
+      ],
+      "values": [
+        "10.3",
+        "Nagpur Municipal Corporation",
+        "Nagpur Municipal Corporation",
+        "180"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_7",
+    "text_snippet": ": 10.3 | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Nagpur Municipal Corporation | CHAPTER - 10 CITY SPECIFIC REGULATIONS: Nagpur Municipal Corporation | : 180"
+  },
+  "created_at": "2025-11-19T00:14:29.635341",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.295452",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

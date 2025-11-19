@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_3_row_19",
+  "title": "Table 3 - Row 19",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-3.19",
+  "clause_text": "3.9: 4.11 * # | Net Plot Area and Computation of FSI: Agricultural Zone | Net Plot Area and Computation of FSI: Agricultural Zone | 56: 70",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "3.9",
+        "Net Plot Area and Computation of FSI",
+        "Net Plot Area and Computation of FSI",
+        "56"
+      ],
+      "values": [
+        "4.11 * #",
+        "Agricultural Zone",
+        "Agricultural Zone",
+        "70"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_3",
+    "text_snippet": "3.9: 4.11 * # | Net Plot Area and Computation of FSI: Agricultural Zone | Net Plot Area and Computation of FSI: Agricultural Zone | 56: 70"
+  },
+  "created_at": "2025-11-19T00:14:29.408549",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:17.978646",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

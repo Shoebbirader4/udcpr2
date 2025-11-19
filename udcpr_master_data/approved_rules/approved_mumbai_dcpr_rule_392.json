@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_392",
+  "title": "Common set of conditions for development of Reservations and Authority/Person who may develop Reserv",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 392",
+  "clause_text": "Common set of conditions for development of Reservations and Authority/Person who may develop Reservation",
+  "chapter": null,
+  "section": "Table No: 3",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Common set of conditions for development of Reservations and Authority/Person who may develop Reservation"
+  },
+  "created_at": "2025-11-19T00:14:36.744270",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.524377",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

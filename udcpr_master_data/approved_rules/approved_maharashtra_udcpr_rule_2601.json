@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2601",
+  "title": "The above special regulations can be further relaxed by the C",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2601",
+  "clause_text": "The above special regulations can be further relaxed by the C.E.O., S.R.A. under written permission in specific cases of demonstrable genuine hardship. In order to make the S.R.S. viable, the C.E.O., S.R.A. shall be competent to award any relaxation/s, wherever necessary, for reasons to be recorded in writing. The C.E.O., S.R.A. may delegate any of the powers conferred upon him under the provisions of the said Regulations and the said Act, except power of relaxation, to any of the officers of the S.R.A., by a general or special order in this behalf.",
+  "chapter": null,
+  "section": "Provisions of Lifts for people as well as accommodating stretcher in any building under the Rehabilitation Component shall be as per the following Table :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The above special regulations can be further relaxed by the C.E.O., S.R.A. under written permission in specific cases of demonstrable genuine hardship. In order to make the S.R.S. viable, the C.E.O., "
+  },
+  "created_at": "2025-11-19T00:14:24.904841",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.379122",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

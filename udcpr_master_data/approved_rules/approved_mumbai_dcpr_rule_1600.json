@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1600",
+  "title": "Note: Out of the total premium amount collected under this Regulation, 2/3 shall be kept in a separate account to be utilized for infrastructure development by MCGM and 1/3 shall be deposited at the Office of the Deputy Director of Town Planning, Greater Mumbai",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1600",
+  "clause_text": "Note: Out of the total premium amount collected under this Regulation, 2/3 shall be kept in a separate account to be utilized for infrastructure development by MCGM and 1/3 shall be deposited at the Office of the Deputy Director of Town Planning, Greater Mumbai.",
+  "chapter": null,
+  "section": "l) Clubbing :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note: Out of the total premium amount collected under this Regulation, 2/3 shall be kept in a separate account to be utilized for infrastructure development by MCGM and 1/3 shall be deposited at the O"
+  },
+  "created_at": "2025-11-19T00:14:41.101659",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.925120",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

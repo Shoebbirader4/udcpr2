@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2056",
+  "title": "Where entire parking is proposed by mechanical/automatic means, additional parking to the extent of 10% of the required parking shall be permitted free of FSI as vehicle holding area",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2056",
+  "clause_text": "Where entire parking is proposed by mechanical/automatic means, additional parking to the extent of 10% of the required parking shall be permitted free of FSI as vehicle holding area. In the side and rear open spaces, but not in the amenity open spaces, if-",
+  "chapter": null,
+  "section": "Table No: 21",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where entire parking is proposed by mechanical/automatic means, additional parking to the extent of 10% of the required parking shall be permitted free of FSI as vehicle holding area."
+  },
+  "created_at": "2025-11-19T00:14:43.505417",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.218924",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

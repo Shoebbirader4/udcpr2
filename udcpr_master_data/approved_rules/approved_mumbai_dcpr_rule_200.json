@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_200",
+  "title": "Where development has commenced as per the development permission/IOD issued prior to publication of these Regulations, the CC shall be issued or revalidated till completion of development in accordance with the plans/ approved , in respect of the said IOD including minor amendments thereof as per the then Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 200",
+  "clause_text": "Where development has commenced as per the development permission/IOD issued prior to publication of these Regulations, the CC shall be issued or revalidated till completion of development in accordance with the plans/ approved , in respect of the said IOD including minor amendments thereof as per the then Regulations.",
+  "chapter": null,
+  "section": "Development permission and commencement certificate",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where development has commenced as per the development permission/IOD issued prior to publication of these Regulations, the CC shall be issued or revalidated till completion of development in accordan"
+  },
+  "created_at": "2025-11-19T00:14:35.614946",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.055502",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

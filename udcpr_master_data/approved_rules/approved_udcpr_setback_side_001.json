@@ -1,0 +1,39 @@
+{
+  "rule_id": "udcpr_setback_side_001",
+  "title": "Side Setback for Small Plots",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "4.2.2",
+  "clause_text": "For plots up to 125 sqm, no side setback is required. For plots between 125-250 sqm, minimum 1m side setback is required.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "plot_area_sqm",
+          "op": "<=",
+          "value": 125
+        }
+      ],
+      "outputs": [
+        {
+          "field": "side_setback",
+          "value": 0,
+          "units": "m"
+        }
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 68,
+    "text_snippet": "Side setback requirements..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.929074",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

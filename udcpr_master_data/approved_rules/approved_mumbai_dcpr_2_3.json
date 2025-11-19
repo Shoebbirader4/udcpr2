@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_2_3",
+  "title": "Note- In the case of parking spaces for motor vehicles, upto 50 per cent of the prescribed space may be of the size of 2",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "2.3",
+  "clause_text": "Note- In the case of parking spaces for motor vehicles, upto 50 per cent of the prescribed space may be of the size of 2.3 m x 4.5 m. (iii)Marking of Parking Spaces-Parking spaces shall be paved and clearly marked for different types of vehicles.",
+  "chapter": null,
+  "section": "Parking Spaces",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Note- In the case of parking spaces for motor vehicles, upto 50 per cent of the prescribed space may be of the size of 2.3 m x 4.5 m. (iii)Marking of Parking Spaces-Parking spaces shall be paved and c"
+  },
+  "created_at": "2025-11-19T00:14:43.389787",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.175178",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

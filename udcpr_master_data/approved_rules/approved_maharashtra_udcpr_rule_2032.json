@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2032",
+  "title": "These regulations shall be applicable to the areas under Regional Plan (1) or Development Plan, as the case may be, sanctioned under the provisions of Maharashtra Regional and Town Planning Act, 1966 (hereinafter referred to as ―the said Act‖)",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2032",
+  "clause_text": "These regulations shall be applicable to the areas under Regional Plan (1) or Development Plan, as the case may be, sanctioned under the provisions of Maharashtra Regional and Town Planning Act, 1966 (hereinafter referred to as ―the said Act‖).",
+  "chapter": null,
+  "section": "Applicability :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "These regulations shall be applicable to the areas under Regional Plan (1) or Development Plan, as the case may be, sanctioned under the provisions of Maharashtra Regional and Town Planning Act, 1966 "
+  },
+  "created_at": "2025-11-19T00:14:23.533049",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.630169",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

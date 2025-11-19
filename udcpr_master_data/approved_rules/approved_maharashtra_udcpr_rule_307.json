@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_307",
+  "title": "The plans of the buildings and elevation and section to be sent with the application accompanying the notice shall be drawn to a scale of 1:100",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 307",
+  "clause_text": "The plans of the buildings and elevation and section to be sent with the application accompanying the notice shall be drawn to a scale of 1:100. The building plan shall :",
+  "chapter": null,
+  "section": "Building plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The plans of the buildings and elevation and section to be sent with the application accompanying the notice shall be drawn to a scale of 1:100. The building plan shall :"
+  },
+  "created_at": "2025-11-19T00:14:17.922181",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.350089",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

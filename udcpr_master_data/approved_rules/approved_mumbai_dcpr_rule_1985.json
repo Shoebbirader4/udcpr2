@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1985",
+  "title": "Such side open space will not be required for row housing,but will be required for semi-detached structure which will have open spaces around the entire structure",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1985",
+  "clause_text": "Such side open space will not be required for row housing,but will be required for semi-detached structure which will have open spaces around the entire structure. Such side open space shall not be reckoned as the main source of light and ventilation for habitable rooms of the structure.",
+  "chapter": null,
+  "section": "Table No 17",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Such side open space will not be required for row housing,but will be required for semi-detached structure which will have open spaces around the entire structure. Such side open space shall not be re"
+  },
+  "created_at": "2025-11-19T00:14:43.040617",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.061924",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

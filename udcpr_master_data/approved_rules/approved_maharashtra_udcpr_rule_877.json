@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_877",
+  "title": "T-2 and T-3 zone in the Regional Plan shall be treated as Residential Zone and all provisions of UDCPR shall be applicable",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 877",
+  "clause_text": "T-2 and T-3 zone in the Regional Plan shall be treated as Residential Zone and all provisions of UDCPR shall be applicable. However, height of building shall not exceed",
+  "chapter": null,
+  "section": "5.3.2 Area within Sindhudurg District -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "T-2 and T-3 zone in the Regional Plan shall be treated as Residential Zone and all provisions of UDCPR shall be applicable. However, height of building shall not exceed"
+  },
+  "created_at": "2025-11-19T00:14:19.895858",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.731031",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

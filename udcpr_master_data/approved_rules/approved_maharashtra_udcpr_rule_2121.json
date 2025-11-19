@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2121",
+  "title": "Social Housing tenements shall be constructed as per the general and special specifications prescribed by concerned unit of MHADA for their projects",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2121",
+  "clause_text": "Social Housing tenements shall be constructed as per the general and special specifications prescribed by concerned unit of MHADA for their projects.",
+  "chapter": null,
+  "section": "Social Housing :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Social Housing tenements shall be constructed as per the general and special specifications prescribed by concerned unit of MHADA for their projects."
+  },
+  "created_at": "2025-11-19T00:14:23.810910",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.947446",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

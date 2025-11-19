@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_773",
+  "title": "A register, in a form considered appropriate by the Commissioner, shall be maintained of all transactions relating to grant or utilization of DRCs arising out of slum rehab projects",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 773",
+  "clause_text": "A register, in a form considered appropriate by the Commissioner, shall be maintained of all transactions relating to grant or utilization of DRCs arising out of slum rehab projects.",
+  "chapter": null,
+  "section": "Additional Regulations for the grant of TDR to the Developers/Co- operative Housing Societies/NGOs in respect of slum rehabilitation scheme vide DCR 33(10) and DCR 33(11)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A register, in a form considered appropriate by the Commissioner, shall be maintained of all transactions relating to grant or utilization of DRCs arising out of slum rehab projects."
+  },
+  "created_at": "2025-11-19T00:14:38.313114",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.676986",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

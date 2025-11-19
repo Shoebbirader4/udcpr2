@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2566",
+  "title": "Where the tenements are given on rent by S",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2566",
+  "clause_text": "Where the tenements are given on rent by S.R.A. to the developer for Transit accommodation or otherwise, the developer concerned shall pay yearly rent in advance to S.R.A. and for that purpose an agreement for Leave and License shall be executed between the concerned developer and the concerned officer of S.R.A. for the period of minimum 11 months. However, if the developer applies for any extension, the similar procedure shall be followed.",
+  "chapter": null,
+  "section": "REGULATIONS RELATING TO REHABILITATION AND FREE SALE COMPONENTS –",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where the tenements are given on rent by S.R.A. to the developer for Transit accommodation or otherwise, the developer concerned shall pay yearly rent in advance to S.R.A. and for that purpose an agre"
+  },
+  "created_at": "2025-11-19T00:14:24.848825",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.164101",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

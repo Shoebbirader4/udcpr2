@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_21_35",
+  "title": "21",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "21.35",
+  "clause_text": "21.35 m high after due consideration of the contours of the area, surrounding developments and plot location, the objective being not to obstruct the view within the funnel of vision. For his purpose the Municipal Commissioner shall get prepared a detailed report/ Model from IIT, Mumbai considering the datum level of each plot falling within the funnel, so as to ascertain the permissible height in such each plot For structure, installations or buildings including installations in the vicinity of aerodromes,",
+  "chapter": null,
+  "section": "(b) Preserving the eastern and southern view of the Backbay Area, Marine Drive-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "21.35 m high after due consideration of the contours of the area, surrounding developments and plot location, the objective being not to obstruct the view within the funnel of vision. For his purpose "
+  },
+  "created_at": "2025-11-19T00:14:43.588579",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.247219",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

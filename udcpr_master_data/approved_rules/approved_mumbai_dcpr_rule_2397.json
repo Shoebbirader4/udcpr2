@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2397",
+  "title": "The cantilevered Refuge area on cantilever will be permissible at the mid- landing of the staircase only",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2397",
+  "clause_text": "The cantilevered Refuge area on cantilever will be permissible at the mid- landing of the staircase only. All other refuge areas shall be within the building line only. The cantilevered refuge area shall necessarily be of RCC type.",
+  "chapter": null,
+  "section": "Location of Refuge Area: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The cantilevered Refuge area on cantilever will be permissible at the mid- landing of the staircase only. All other refuge areas shall be within the building line only."
+  },
+  "created_at": "2025-11-19T00:14:45.448957",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.013573",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

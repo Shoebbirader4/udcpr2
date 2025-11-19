@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_55",
+  "title": "\"Contiguous holding\" means contiguous piece of land under one ownership irrespective of separate property register cards",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 55",
+  "clause_text": "\"Contiguous holding\" means contiguous piece of land under one ownership irrespective of separate property register cards.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Contiguous holding\" means contiguous piece of land under one ownership irrespective of separate property register cards."
+  },
+  "created_at": "2025-11-19T00:14:34.689364",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.731645",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

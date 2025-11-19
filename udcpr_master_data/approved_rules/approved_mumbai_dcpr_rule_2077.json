@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2077",
+  "title": "within a distance of half the height of the said building from the railway track boundary, and in any case not within a distance of 3 m from such boundary",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2077",
+  "clause_text": "within a distance of half the height of the said building from the railway track boundary, and in any case not within a distance of 3 m from such boundary. Building sites situated within 30 m from Railway Track Boundary:",
+  "chapter": null,
+  "section": "Height restrictions in the vicinity of aerodromes",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "within a distance of half the height of the said building from the railway track boundary, and in any case not within a distance of 3 m from such boundary."
+  },
+  "created_at": "2025-11-19T00:14:43.631391",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.268836",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2316",
+  "title": "The staircase of basements shall (a) be of enclosed type having fire resistance of not less than two hours; (b) be situated at periphery of the basement to be entered at ground level only from the open air and in such a, position that smoke from any fire in the basement shall not enter and exit serving the ground and upper storeys of the building; and (c) communicate with basement though a lobby provided with fire- resisting self-closing doors of one hour fire resistance",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2316",
+  "clause_text": "The staircase of basements shall (a) be of enclosed type having fire resistance of not less than two hours; (b) be situated at periphery of the basement to be entered at ground level only from the open air and in such a, position that smoke from any fire in the basement shall not enter and exit serving the ground and upper storeys of the building; and (c) communicate with basement though a lobby provided with fire- resisting self-closing doors of one hour fire resistance. If the travel distance exceeds the values mentioned in Regulation No 47(3)(i) (I &ii), additional staircases at proper places shall be provided.",
+  "chapter": null,
+  "section": "Basements: -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The staircase of basements shall (a) be of enclosed type having fire resistance of not less than two hours; (b) be situated at periphery of the basement to be entered at ground level only from the ope"
+  },
+  "created_at": "2025-11-19T00:14:44.904502",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.777167",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

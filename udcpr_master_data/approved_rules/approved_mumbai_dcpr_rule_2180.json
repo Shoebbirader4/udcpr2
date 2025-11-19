@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2180",
+  "title": "In relation to religious buildings in the said List, the changes, repairs, additions, alterations and renovations required on religious grounds mentioned in sacred texts or as a part of holy practices laid down in religious codes shall be treated as permissible, subject to their being in accordance and consonance with the original structure and architecture designs, aesthetics and other special features thereof",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2180",
+  "clause_text": "In relation to religious buildings in the said List, the changes, repairs, additions, alterations and renovations required on religious grounds mentioned in sacred texts or as a part of holy practices laid down in religious codes shall be treated as permissible, subject to their being in accordance and consonance with the original structure and architecture designs, aesthetics and other special features thereof. Provided that before arriving at his decision, the Commissioner shall take into consideration the recommendations of the Mumbai Heritage Conservation Committee.",
+  "chapter": null,
+  "section": "Restriction on Development/Redevelopment/Repairs, etc.:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In relation to religious buildings in the said List, the changes, repairs, additions, alterations and renovations required on religious grounds mentioned in sacred texts or as a part of holy practices"
+  },
+  "created_at": "2025-11-19T00:14:44.194985",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.509814",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

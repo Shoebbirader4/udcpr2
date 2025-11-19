@@ -1,0 +1,36 @@
+{
+  "rule_id": "mumbai_dcpr_table_8_row_11",
+  "title": "Table 8 - Row 11",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-8.11",
+  "clause_text": "PART VIII GENERAL BUILDING REQUIREMENTS: (9) Office Room | PART VIII GENERAL BUILDING REQUIREMENTS: 319",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS",
+        "PART VIII GENERAL BUILDING REQUIREMENTS"
+      ],
+      "values": [
+        "",
+        "(9) Office Room",
+        "319"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "table_8",
+    "text_snippet": "PART VIII GENERAL BUILDING REQUIREMENTS: (9) Office Room | PART VIII GENERAL BUILDING REQUIREMENTS: 319"
+  },
+  "created_at": "2025-11-19T00:14:48.057645",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:26.360483",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

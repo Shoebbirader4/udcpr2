@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_756",
+  "title": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Commissioner with an application along with relevant documents as may be prescribed by the Commissioner and a registered agreement which is duly signed by Transferor and Transferee, for seeking endorsement of the new holders name, i",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 756",
+  "clause_text": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Commissioner with an application along with relevant documents as may be prescribed by the Commissioner and a registered agreement which is duly signed by Transferor and Transferee, for seeking endorsement of the new holders name, i.e., the transferee, on the said certificate. The transfer shall not be valid without endorsement by the Commissioner and in such circumstances the Certificate shall be available for use only to the holder / transferor.",
+  "chapter": null,
+  "section": "Transfer of DRC-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If a holder of DRC intends to transfer it to any other person, he shall submit the original DRC to the Commissioner with an application along with relevant documents as may be prescribed by the Commis"
+  },
+  "created_at": "2025-11-19T00:14:38.261283",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.625927",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

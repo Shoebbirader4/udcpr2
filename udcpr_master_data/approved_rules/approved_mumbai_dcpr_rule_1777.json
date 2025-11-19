@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1777",
+  "title": "The provisions of sub Regulation no 1(b) of this Regulation shall not be applicable where the share of MHADA and MCGM land has already been handed over as per then prevailing Regulations",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1777",
+  "clause_text": "The provisions of sub Regulation no 1(b) of this Regulation shall not be applicable where the share of MHADA and MCGM land has already been handed over as per then prevailing Regulations. ( Clause 11 kept in abeyance)",
+  "chapter": null,
+  "section": "(kept in abeyance)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The provisions of sub Regulation no 1(b) of this Regulation shall not be applicable where the share of MHADA and MCGM land has already been handed over as per then prevailing Regulations. ( Clause 11 "
+  },
+  "created_at": "2025-11-19T00:14:41.829343",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.506451",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

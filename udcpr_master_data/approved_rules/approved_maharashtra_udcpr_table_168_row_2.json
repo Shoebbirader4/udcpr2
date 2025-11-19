@@ -1,0 +1,38 @@
+{
+  "rule_id": "maharashtra_udcpr_table_168_row_2",
+  "title": "Table 168 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-168.2",
+  "clause_text": "Please explain in detail in what respect the proposal does not comply with the Unified Development Control and Promotion Regulations and the reasons there for, attaching a separate sheet if necessary.: Date : / / | Please explain in detail in what respect the proposal does not comply with the Unified Development Control and Promotion Regulations and the reasons there for, attaching a separate sheet if necessary.: Signature of the Architect / licensed Engineer / Supervisor employed. | : Signature of the Architect / licensed Engineer / Supervisor employed.",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "22.",
+        "Please explain in detail in what respect the proposal does not comply with the Unified Development Control and Promotion Regulations and the reasons there for, attaching a separate sheet if necessary.",
+        "Please explain in detail in what respect the proposal does not comply with the Unified Development Control and Promotion Regulations and the reasons there for, attaching a separate sheet if necessary.",
+        ""
+      ],
+      "values": [
+        "",
+        "Date : / /",
+        "Signature of the Architect / licensed Engineer / Supervisor employed.",
+        "Signature of the Architect / licensed Engineer / Supervisor employed."
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_168",
+    "text_snippet": "Please explain in detail in what respect the proposal does not comply with the Unified Development Control and Promotion Regulations and the reasons there for, attaching a separate sheet if necessary."
+  },
+  "created_at": "2025-11-19T00:14:31.388635",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:19.306086",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

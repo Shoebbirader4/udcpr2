@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_844",
+  "title": "Drafting errors, if any, regarding Private Lands shown by mistake in the restrictive zone such as defence zone, forest zone, command area etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 844",
+  "clause_text": "Drafting errors, if any, regarding Private Lands shown by mistake in the restrictive zone such as defence zone, forest zone, command area etc. shall be corrected after due verifications of records and situation on ground by the concerned Authority with prior approval of Divisional Joint Director of Town Planning. In such case Private Lands will be included in the adjacent zone.",
+  "chapter": null,
+  "section": "Rectification of draftsman's error",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Drafting errors, if any, regarding Private Lands shown by mistake in the restrictive zone such as defence zone, forest zone, command area etc. shall be corrected after due verifications of records and"
+  },
+  "created_at": "2025-11-19T00:14:19.811502",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.662956",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

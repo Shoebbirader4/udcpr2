@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_5_5",
+  "title": "An unenclosed porch open on three sides, not more than 5",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "5.5",
+  "clause_text": "An unenclosed porch open on three sides, not more than 5.5 m in length parallel to the main building in front of common entrance only and except rear open space with level difference of 0.3 m in relation to the floor levelas specified in Regulation No. 37 (18). No part of such porch shall be less than 1.5 m from the plot boundary. A balcony may be permitted as specified in Regulation No.37(20).",
+  "chapter": null,
+  "section": "Other features permitted in open space:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "An unenclosed porch open on three sides, not more than 5.5 m in length parallel to the main building in front of common entrance only and except rear open space with level difference of 0.3 m in relat"
+  },
+  "created_at": "2025-11-19T00:14:43.251030",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.150886",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

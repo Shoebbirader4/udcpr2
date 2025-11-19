@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_6_2_2",
+  "title": "Stadium / Sports Complex - In addition to the uses permissible in play ground mentioned above, shops / offices below the spectators‘ tiered gallery may be permitted",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "6.2.2",
+  "clause_text": "Stadium / Sports Complex - In addition to the uses permissible in play ground mentioned above, shops / offices below the spectators‘ tiered gallery may be permitted. Permissible FSI shall be as mentioned in Regulation No.6.2.2, Table 6-E, Sr.No.8.",
+  "chapter": null,
+  "section": "4.27 USES PERMISSIBLE IN DEVELOPMENT PLAN RESERVATIONS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Stadium / Sports Complex - In addition to the uses permissible in play ground mentioned above, shops / offices below the spectators‘ tiered gallery may be permitted. Permissible FSI shall be as mentio"
+  },
+  "created_at": "2025-11-19T00:14:19.716637",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.557628",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

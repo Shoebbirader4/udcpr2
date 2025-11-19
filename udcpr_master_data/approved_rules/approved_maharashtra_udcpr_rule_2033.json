@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2033",
+  "title": "Provided that, if the Development Control Regulations regarding development of Integrated Township Project for an area over which a Planning Authority / Special Planning Authority / Area Development Authority has been appointed or constituted or deemed to have been appointed are yet to be sanctioned, then in considering the application for permission, these regulations, shall be applicable, mutatis mutandis, till such Authority adopts the Regulations in this regard",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2033",
+  "clause_text": "Provided that, if the Development Control Regulations regarding development of Integrated Township Project for an area over which a Planning Authority / Special Planning Authority / Area Development Authority has been appointed or constituted or deemed to have been appointed are yet to be sanctioned, then in considering the application for permission, these regulations, shall be applicable, mutatis mutandis, till such Authority adopts the Regulations in this regard.",
+  "chapter": null,
+  "section": "Applicability :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, if the Development Control Regulations regarding development of Integrated Township Project for an area over which a Planning Authority / Special Planning Authority / Area Development A"
+  },
+  "created_at": "2025-11-19T00:14:23.533049",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.631897",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

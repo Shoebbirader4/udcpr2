@@ -1,0 +1,54 @@
+{
+  "rule_id": "udcpr_fsi_residential_001",
+  "title": "Base FSI for Residential Zone",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "udcpr_20250130",
+  "clause_number": "3.1.1",
+  "clause_text": "The base FSI for residential zones shall be 1.0 for plots up to 4000 sqm.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": {
+      "conditions": [
+        {
+          "field": "use_type",
+          "op": "==",
+          "value": "Residential"
+        },
+        {
+          "field": "plot_area_sqm",
+          "op": "<=",
+          "value": 4000
+        }
+      ],
+      "outputs": [
+        {
+          "field": "base_fsi",
+          "value": 1.0,
+          "units": "ratio"
+        }
+      ]
+    }
+  },
+  "examples": [
+    {
+      "input": {
+        "use_type": "Residential",
+        "plot_area_sqm": 500
+      },
+      "expected_output": {
+        "base_fsi": 1.0
+      }
+    }
+  ],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR_Updated_30Jan2025.pdf",
+    "page": 45,
+    "text_snippet": "Base FSI for residential..."
+  },
+  "created_at": "2025-11-18T23:27:54.971033",
+  "approved_at": "2025-11-19T00:15:26.914147",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

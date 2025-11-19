@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_478",
+  "title": "Whenever called upon by the Authority to do so, areas under internal layout roads shall be handed over to the Planning Authority by way of deed after development of the same, within such period as may be specified in commencement letter / development permission, for which no compensation shall be paid by the Planning Authority",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 478",
+  "clause_text": "Whenever called upon by the Authority to do so, areas under internal layout roads shall be handed over to the Planning Authority by way of deed after development of the same, within such period as may be specified in commencement letter / development permission, for which no compensation shall be paid by the Planning Authority.",
+  "chapter": null,
+  "section": "Handing Over of Layout Roads",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Whenever called upon by the Authority to do so, areas under internal layout roads shall be handed over to the Planning Authority by way of deed after development of the same, within such period as may"
+  },
+  "created_at": "2025-11-19T00:14:18.499173",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.739051",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

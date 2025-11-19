@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1344",
+  "title": "A structure shall mean by all dwelling areas of all persons who were enumerated as living in that one numbered house in the electoral roll of the latest date, up to 1st Jan 2000 and regardless of the number of persons, or location of rooms or access",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1344",
+  "clause_text": "A structure shall mean by all dwelling areas of all persons who were enumerated as living in that one numbered house in the electoral roll of the latest date, up to 1st Jan 2000 and regardless of the number of persons, or location of rooms or access.",
+  "chapter": null,
+  "section": "Definition of Slum, Pavement, Structure of hut, planning sectors and related terms:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "A structure shall mean by all dwelling areas of all persons who were enumerated as living in that one numbered house in the electoral roll of the latest date, up to 1st Jan 2000 and regardless of the "
+  },
+  "created_at": "2025-11-19T00:14:40.365607",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.224716",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

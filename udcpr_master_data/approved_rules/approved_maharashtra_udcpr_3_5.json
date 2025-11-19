@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_3_5",
+  "title": "You will have to handover the amenity space to the Authority before approval of final layout as per Regulation No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "3.5",
+  "clause_text": "You will have to handover the amenity space to the Authority before approval of final layout as per Regulation No.3.5. (applicable in case where owner is not allowed to develop) This permission does not entitle you to develop the land which does not vest in you. ** Name of the Municipal Corporation / Council / Nagar Panchayat / Collector shall be mentioned. With reference to your application No. , dated for the",
+  "chapter": null,
+  "section": "Duties and Responsibilities of Geotechnical Engineer :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "You will have to handover the amenity space to the Authority before approval of final layout as per Regulation No.3.5. (applicable in case where owner is not allowed to develop)"
+  },
+  "created_at": "2025-11-19T00:14:26.914426",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.768569",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

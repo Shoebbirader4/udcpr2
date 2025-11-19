@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_979",
+  "title": "Development charges and premium shall not be recovered for any relaxations in open spaces, exclusion of staircase, lift and lobby areas from FSI computation & for Fungible compensatory area as per Regulation No",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 979",
+  "clause_text": "Development charges and premium shall not be recovered for any relaxations in open spaces, exclusion of staircase, lift and lobby areas from FSI computation & for Fungible compensatory area as per Regulation No. 31(3) for BUA to be handed over to MCGM.",
+  "chapter": null,
+  "section": "Permissible FSI",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Development charges and premium shall not be recovered for any relaxations in open spaces, exclusion of staircase, lift and lobby areas from FSI computation & for Fungible compensatory area as per Reg"
+  },
+  "created_at": "2025-11-19T00:14:39.137152",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.314174",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

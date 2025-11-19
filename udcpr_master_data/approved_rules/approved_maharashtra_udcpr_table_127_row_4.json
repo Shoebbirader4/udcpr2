@@ -1,0 +1,44 @@
+{
+  "rule_id": "maharashtra_udcpr_table_127_row_4",
+  "title": "Table 127 - Row 4",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-127.4",
+  "clause_text": "Table No.12-M Sanitation Requirements – Schools and Educational Institutions: i) | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: Water Closets | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: 1 per 15 pupils or part thereof | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: 1 for 40 pupils or part thereof | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: 1 per 25 pupils or part thereof | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: 1 per 8 pupils or part thereof | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: 1 per 6 pupils or part thereof",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions",
+        "Table No.12-M Sanitation Requirements – Schools and Educational Institutions"
+      ],
+      "values": [
+        "i)",
+        "Water Closets",
+        "1 per 15 pupils or part thereof",
+        "1 for 40 pupils or part thereof",
+        "1 per 25 pupils or part thereof",
+        "1 per 8 pupils or part thereof",
+        "1 per 6 pupils or part thereof"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_127",
+    "text_snippet": "Table No.12-M Sanitation Requirements – Schools and Educational Institutions: i) | Table No.12-M Sanitation Requirements – Schools and Educational Institutions: Water Closets | Table No.12-M Sanitatio"
+  },
+  "created_at": "2025-11-19T00:14:30.893175",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.987990",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_121",
+  "title": "Fire Tower - means an enclosed staircase which can only be approached from the various floors through landings or lobbies separated from both, the floor areas and the staircase by fire resisting doors and open to the outer air",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 121",
+  "clause_text": "Fire Tower - means an enclosed staircase which can only be approached from the various floors through landings or lobbies separated from both, the floor areas and the staircase by fire resisting doors and open to the outer air.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Fire Tower - means an enclosed staircase which can only be approached from the various floors through landings or lobbies separated from both, the floor areas and the staircase by fire resisting doors"
+  },
+  "created_at": "2025-11-19T00:14:17.271365",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.840274",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

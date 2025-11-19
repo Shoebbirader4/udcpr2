@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1936",
+  "title": "Sight Disabilities :- Total blindness or impairments, which affect sight to the extent that the individual, functioning in public areas, is insecure or exposed to danger",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1936",
+  "clause_text": "Sight Disabilities :- Total blindness or impairments, which affect sight to the extent that the individual, functioning in public areas, is insecure or exposed to danger.",
+  "chapter": null,
+  "section": "Definitions",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Sight Disabilities :- Total blindness or impairments, which affect sight to the extent that the individual, functioning in public areas, is insecure or exposed to danger."
+  },
+  "created_at": "2025-11-19T00:14:23.301133",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.350816",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

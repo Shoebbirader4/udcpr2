@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1103",
+  "title": "Provided further that after the coming into force of this Regulation, land pooling and the development of buildable reservations and construction of Transit Camps in the CDS approved prior to the coming into force of this Regulation may be done as per the provisions of this Regulation, if the same has not been completed so far, even where such CDS has not been converted to be developed as per this Regulation",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1103",
+  "clause_text": "Provided further that after the coming into force of this Regulation, land pooling and the development of buildable reservations and construction of Transit Camps in the CDS approved prior to the coming into force of this Regulation may be done as per the provisions of this Regulation, if the same has not been completed so far, even where such CDS has not been converted to be developed as per this Regulation. 33 (9) (A) Regulations for Dharavi Notified Area (DNA)",
+  "chapter": null,
+  "section": "Relaxation in Building and other requirements:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided further that after the coming into force of this Regulation, land pooling and the development of buildable reservations and construction of Transit Camps in the CDS approved prior to the comi"
+  },
+  "created_at": "2025-11-19T00:14:39.576642",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:22.615646",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

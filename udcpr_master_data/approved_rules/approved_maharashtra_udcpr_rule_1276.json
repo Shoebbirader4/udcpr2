@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1276",
+  "title": "Additional FSI to Biotechnology units would be available to Biotechnology Parks duly approved by the Directorate of Industries and after observance of all the regulation of environment",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1276",
+  "clause_text": "Additional FSI to Biotechnology units would be available to Biotechnology Parks duly approved by the Directorate of Industries and after observance of all the regulation of environment.",
+  "chapter": null,
+  "section": "Additional FSI to Biotechnology Units / Park",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Additional FSI to Biotechnology units would be available to Biotechnology Parks duly approved by the Directorate of Industries and after observance of all the regulation of environment."
+  },
+  "created_at": "2025-11-19T00:14:21.135465",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.847042",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

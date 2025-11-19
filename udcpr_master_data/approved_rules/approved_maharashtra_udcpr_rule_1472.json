@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1472",
+  "title": "Revolving doors shall not be used as required exits except in residential business and mercantile occupancies but they shall not constitute more than half the total required door width",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1472",
+  "clause_text": "Revolving doors shall not be used as required exits except in residential business and mercantile occupancies but they shall not constitute more than half the total required door width. Interior staircase shall be constructed of non-combustible materials throughout.",
+  "chapter": null,
+  "section": "Revolving doors",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Revolving doors shall not be used as required exits except in residential business and mercantile occupancies but they shall not constitute more than half the total required door width."
+  },
+  "created_at": "2025-11-19T00:14:21.966887",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.328478",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

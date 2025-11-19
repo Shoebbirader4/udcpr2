@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_12_11_1992",
+  "title": "In accordance with, Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "12.11.1992",
+  "clause_text": "In accordance with, Govt. of Maharashtra, Urban Development Department notification no TPB4392/4716/CR-181/92/UD-11(RDP) dated 12.11.1992: -",
+  "chapter": null,
+  "section": "Table No: 4",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In accordance with, Govt. of Maharashtra, Urban Development Department notification no TPB4392/4716/CR-181/92/UD-11(RDP) dated 12.11.1992: -"
+  },
+  "created_at": "2025-11-19T00:14:36.847583",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:20.608886",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

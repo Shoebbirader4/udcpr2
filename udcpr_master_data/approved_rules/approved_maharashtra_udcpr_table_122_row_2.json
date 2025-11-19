@@ -1,0 +1,42 @@
+{
+  "rule_id": "maharashtra_udcpr_table_122_row_2",
+  "title": "Table 122 - Row 2",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-122.2",
+  "clause_text": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Sr. No. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Fixtures | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Male | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Female | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Male | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Female",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department",
+        "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department"
+      ],
+      "values": [
+        "Sr. No.",
+        "Fixtures",
+        "Male",
+        "Female",
+        "Male",
+        "Female"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_122",
+    "text_snippet": "Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Sr. No. | Table No.12-H Sanitation Requirements - Hospitals - Outdoor Patient Department: Fixtures | Table No.12-H Sanit"
+  },
+  "created_at": "2025-11-19T00:14:30.665659",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.862412",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

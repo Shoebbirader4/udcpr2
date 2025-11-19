@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3026",
+  "title": "Private land owner or developer appointed by him may apply to the Authority for development of Logistic Park under this Regulation",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3026",
+  "clause_text": "Private land owner or developer appointed by him may apply to the Authority for development of Logistic Park under this Regulation. After sanction of permission by the Authority for setting up Logistic Park, such area shall be deemed to be converted for industrial use in the respective Development Plan or Regional Plan and shall be available for development of Logistic Park. However, in case of land in Agricultural zone, the premium shall be charged at the rate of 15% of land value as per ASR, without considering guideline therein. An ―Integrated logistic park‖ will be defined as one that is spread over a minimum of 5 acres of land and having minimum 15 meters wide access road. A minimum of 70% of the total area of",
+  "chapter": null,
+  "section": "Procedure for Development of Logistic Parks",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Private land owner or developer appointed by him may apply to the Authority for development of Logistic Park under this Regulation. After sanction of permission by the Authority for setting up Logisti"
+  },
+  "created_at": "2025-11-19T00:14:26.228681",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.393500",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

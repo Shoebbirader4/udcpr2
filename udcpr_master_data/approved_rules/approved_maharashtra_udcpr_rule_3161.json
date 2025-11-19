@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_3161",
+  "title": "With reference to your application No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 3161",
+  "clause_text": "With reference to your application No. dated for the grant of sanction for the development work / the erection of a building / execution of work on Plot No. …… Revenue S.No. ……. / Gat No. ........ / Khasara No. ....... / City Survey No. ……../ Final Plot No. ........ Mauje , I regret to inform you that the proposal has been refused under Section 18 / 45 / 69 of the Maharashtra Regional and Town Planning Act, 1966, on the following grounds.",
+  "chapter": null,
+  "section": "Duties and Responsibilities of Geotechnical Engineer :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "With reference to your application No. dated for the grant of sanction for the development work / the erection of a building / execution of work on Plot No. …… Revenue S.No. ……. / Gat No. ........ / K"
+  },
+  "created_at": "2025-11-19T00:14:26.964877",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:17.781864",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

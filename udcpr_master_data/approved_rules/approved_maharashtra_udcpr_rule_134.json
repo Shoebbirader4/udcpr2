@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_134",
+  "title": "Group Housing Scheme - means a building or a group of buildings constructed or to be constructed with one or more floors, consisting of more than one dwelling units and having common service facilities",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 134",
+  "clause_text": "Group Housing Scheme - means a building or a group of buildings constructed or to be constructed with one or more floors, consisting of more than one dwelling units and having common service facilities. Common service facilities means facilities like stair case, balcony, corridor and varandahs, lift, etc. Ground Level - means the average level of the ground in a plot.",
+  "chapter": null,
+  "section": "Authority means :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Group Housing Scheme - means a building or a group of buildings constructed or to be constructed with one or more floors, consisting of more than one dwelling units and having common service facilitie"
+  },
+  "created_at": "2025-11-19T00:14:17.298672",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:09.857597",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

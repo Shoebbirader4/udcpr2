@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_966",
+  "title": "While allowing such development, principles given in the National Tiger Conservation Authority, New Delhi Notification No",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 966",
+  "clause_text": "While allowing such development, principles given in the National Tiger Conservation Authority, New Delhi Notification No.15-31/2012-NTCA, dated 15/10/2012 published in the Gazette of India Ext. pt. III S-4 dated 08/11/2012 and Government of Maharashtra as amended time to time shall be used as guidelines.",
+  "chapter": null,
+  "section": "Conditions :-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "While allowing such development, principles given in the National Tiger Conservation Authority, New Delhi Notification No.15-31/2012-NTCA, dated 15/10/2012 published in the Gazette of India Ext. pt. I"
+  },
+  "created_at": "2025-11-19T00:14:20.118575",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:11.998358",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

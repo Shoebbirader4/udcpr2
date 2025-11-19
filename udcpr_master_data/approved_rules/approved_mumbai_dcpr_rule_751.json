@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_751",
+  "title": "Provided that, in case of lands having tenure other than Class-I, like Inam lands, tribal lands etc",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 751",
+  "clause_text": "Provided that, in case of lands having tenure other than Class-I, like Inam lands, tribal lands etc., N.O.C. from Competent Authority, mentioning",
+  "chapter": null,
+  "section": "GENERAL STIPULATION:-",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Provided that, in case of lands having tenure other than Class-I, like Inam lands, tribal lands etc., N.O.C. from Competent Authority, mentioning"
+  },
+  "created_at": "2025-11-19T00:14:38.248741",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.590355",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

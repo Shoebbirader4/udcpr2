@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1955",
+  "title": "Guide strips should be constructed to indicate the position of pedestrian crossings for the benefit",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1955",
+  "clause_text": "Guide strips should be constructed to indicate the position of pedestrian crossings for the benefit of people with visual impairments and have kerb ramps Raised Median Refuges are to be cut through and levelled with the street and should have kerb ramps.",
+  "chapter": null,
+  "section": "4.0Design Guidelines – Streetscapes for Public Street",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Guide strips should be constructed to indicate the position of pedestrian crossings for the benefit of people with visual impairments and have kerb ramps"
+  },
+  "created_at": "2025-11-19T00:14:42.833269",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.003019",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

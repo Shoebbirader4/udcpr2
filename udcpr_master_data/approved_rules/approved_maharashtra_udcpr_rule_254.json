@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_254",
+  "title": "building on plot area upto 150 sq",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 254",
+  "clause_text": "building on plot area upto 150 sq.mt. (low risk category) and on plot area more than 150 sq.mt. upto 300 sq.mt. (moderate risk category) subject to compliance as per APPENDIX - K.",
+  "chapter": null,
+  "section": "Hazardous Material means -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "building on plot area upto 150 sq.mt. (low risk category) and on plot area more than 150 sq.mt. upto 300 sq.mt. (moderate risk category) subject to compliance as per APPENDIX - K."
+  },
+  "created_at": "2025-11-19T00:14:17.736528",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.203929",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

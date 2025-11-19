@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_868",
+  "title": "If such land occupied by slum is observed to be affected by reservation then the development of rese",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 868",
+  "clause_text": "If such land occupied by slum is observed to be affected by reservation then the development of reservation on land occupied by slum shall be regulated by the Regulation No 17(3)(C)",
+  "chapter": null,
+  "section": "33(5)Development/Redevelopment of Housing Schemes of Maharashtra Housing & Area Development Authority (MHADA)",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "If such land occupied by slum is observed to be affected by reservation then the development of reservation on land occupied by slum shall be regulated by the Regulation No 17(3)(C)"
+  },
+  "created_at": "2025-11-19T00:14:38.764817",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.958086",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

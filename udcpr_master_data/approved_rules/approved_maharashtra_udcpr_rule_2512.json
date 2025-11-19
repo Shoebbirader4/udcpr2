@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2512",
+  "title": "the Rehabilitation component shall be increased to utilize admissible in situ F",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2512",
+  "clause_text": "the Rehabilitation component shall be increased to utilize admissible in situ F.S.I., so that more number of Rehabilitation tenements are constructed on the plot. Such additional tenements shall be handed over to S.R.A. free of cost, to accommodate identified eligible non protected occupants of other schemes, identified P.A.P. of slums or shall be utilized as stock for housing for dishoused, Transit accommodation as per the policy approved by Government in that behalf. Additional Rehabilitation component built by the Developer shall be included in the proposed Rehabilitation component of the scheme and additional incentive area according to the provisions laid down herein in the form of T.D.R. shall be admissible to compensate the Developer.",
+  "chapter": null,
+  "section": "Notwithstanding the provisions in clause mentioned above, if the developer does not desire to consume the full permissible in-situ F.S.I. on the same site, in such a case :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "the Rehabilitation component shall be increased to utilize admissible in situ F.S.I., so that more number of Rehabilitation tenements are constructed on the plot. Such additional tenements shall be ha"
+  },
+  "created_at": "2025-11-19T00:14:24.744726",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:16.016119",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

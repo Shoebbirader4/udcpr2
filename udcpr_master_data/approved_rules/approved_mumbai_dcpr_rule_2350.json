@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2350",
+  "title": "Area more than 750 sq",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2350",
+  "clause_text": "Area more than 750 sq. m on the individual floor shall be segregated by a fire-wall and automatic fire dampers for isolation shall be provided where the ducts pass through fire walls. The fire dampers shall be capable of operating manually. Air ducts serving floor areas, corridor etc. shall not pass through the staircase enclosure.",
+  "chapter": null,
+  "section": "Air-conditioning",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Area more than 750 sq. m on the individual floor shall be segregated by a fire-wall and automatic fire dampers for isolation shall be provided where the ducts pass through fire walls. The fire dampers"
+  },
+  "created_at": "2025-11-19T00:14:45.128391",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.890901",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

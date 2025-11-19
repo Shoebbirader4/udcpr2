@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2371",
+  "title": "Wet riser-cum-down corner is an arrangement for firefighting within the building by means of vertical rising mains of not less than 10 cm",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2371",
+  "clause_text": "Wet riser-cum-down corner is an arrangement for firefighting within the building by means of vertical rising mains of not less than 10 cm. Internal dia, with hydrant and hose reel on each floor landing connected to an overhead water/storage tank for firefighting purpose through a booster pump, check valve and a non-return valve near the tank end and a fire pump, gate and non- return valve over the underground static tank. A fire service inlet at ground level filled with a non-return valve shall also be provided to the rising main for charging it by a fire service pump in case of failure of static fire pumps over the underground static tanks. The performance of pumps specified above shall be at R.P.M. not exceeding 2,000.",
+  "chapter": null,
+  "section": "Fixed Fire-Fighting Installations",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Wet riser-cum-down corner is an arrangement for firefighting within the building by means of vertical rising mains of not less than 10 cm. Internal dia, with hydrant and hose reel on each floor landin"
+  },
+  "created_at": "2025-11-19T00:14:45.243980",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.957694",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

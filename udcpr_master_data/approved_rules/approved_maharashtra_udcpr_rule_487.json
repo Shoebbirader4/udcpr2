@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_487",
+  "title": "avail full basic FSI and other permissible FSI / TDR by paying 10% value of the land under proposal as per Annual Statement of Ratesfor that year, without considering guidelines therein",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 487",
+  "clause_text": "avail full basic FSI and other permissible FSI / TDR by paying 10% value of the land under proposal as per Annual Statement of Ratesfor that year, without considering guidelines therein.",
+  "chapter": null,
+  "section": "Recreational Open Space",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "avail full basic FSI and other permissible FSI / TDR by paying 10% value of the land under proposal as per Annual Statement of Ratesfor that year, without considering guidelines therein."
+  },
+  "created_at": "2025-11-19T00:14:18.536652",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.752518",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

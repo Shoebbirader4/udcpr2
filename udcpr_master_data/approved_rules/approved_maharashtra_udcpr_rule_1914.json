@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1914",
+  "title": "The planning, design and installation of electrical installations, air-conditioning and heating work shall be carried out in accordance with Part-8 - Building Services, Section-2 - Electrical and allied Installations, Section-3 - Air Conditioning, heating and mechanical ventilation of National building Code of India, amended from time to time",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1914",
+  "clause_text": "The planning, design and installation of electrical installations, air-conditioning and heating work shall be carried out in accordance with Part-8 - Building Services, Section-2 - Electrical and allied Installations, Section-3 - Air Conditioning, heating and mechanical ventilation of National building Code of India, amended from time to time.",
+  "chapter": null,
+  "section": "12.4 BUILDING SERVICES",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The planning, design and installation of electrical installations, air-conditioning and heating work shall be carried out in accordance with Part-8 - Building Services, Section-2 - Electrical and alli"
+  },
+  "created_at": "2025-11-19T00:14:23.214281",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.310922",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

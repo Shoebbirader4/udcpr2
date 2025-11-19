@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1383",
+  "title": "On compliance with the terms and conditions, the building permission shall be given in accordance with the provisions under Section 45 of the MR&TP Act, 1966 to the sectoral development under DRP, first to the Rehabilitation component and thereafter to the free sale component subject to the provisions in clause below",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1383",
+  "clause_text": "On compliance with the terms and conditions, the building permission shall be given in accordance with the provisions under Section 45 of the MR&TP Act, 1966 to the sectoral development under DRP, first to the Rehabilitation component and thereafter to the free sale component subject to the provisions in clause below.",
+  "chapter": null,
+  "section": "Building Permission under Dharavi Redevelopment Project:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "On compliance with the terms and conditions, the building permission shall be given in accordance with the provisions under Section 45 of the MR&TP Act, 1966 to the sectoral development under DRP, fir"
+  },
+  "created_at": "2025-11-19T00:14:40.481277",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.303683",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

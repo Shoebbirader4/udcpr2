@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_2482",
+  "title": "Built up area due to admissible “TDR” as per Table No 12 of Regulation No 30(A) and 32 on remaining",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2482",
+  "clause_text": "Built up area due to admissible “TDR” as per Table No 12 of Regulation No 30(A) and 32 on remaining / balance plot Permissible Built up Area {as the case may be with /without BUA as per 2( c)} Proposed Built Up Area{as the case may be with /without BUA as per 2( c)} TDR generated if any as per regulation 30 (A) and 32 Fungible Compensatory Area as per Regulation No 31(3) i)Permissible Fungible Compensatory area for Rehab component without charging premium Fungible Compensatory area availed for Rehab component without charging premium i) Permissible Fungible Compensatory area by charging premium. Fungible Compensatory area availed on payment of premium including Fungible Compensatory Area [13 +15(a)(ii) +15(b)(ii)] Area of Reservation land to be handed/handed over as per Regulation No.17 Built up area of Amenity to be handed over as per Regulation No.17 Plot area/Built up Amenity to be Handed Over as per Regulation No Requirement of Recreational Open Space in Layout/Plot as per Regulation Tenements permissible (Density of tenements/hectare) Spaces for transport vehicles parking required by Regulations Total No. of transport vehicles parking spaces provided",
+  "chapter": null,
+  "section": "STATEMENT 'B'",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Built up area due to admissible “TDR” as per Table No 12 of Regulation No 30(A) and 32 on remaining / balance plot"
+  },
+  "created_at": "2025-11-19T00:14:46.115061",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:26.210803",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

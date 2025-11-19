@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1539",
+  "title": "For Development of lands becoming vacant consequent upon shifting of cattle sheds existing thereon,",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1539",
+  "clause_text": "For Development of lands becoming vacant consequent upon shifting of cattle sheds existing thereon, to places outside Greater Mumbai, additional FSI to the extent of 33% over and above Zonal (basic) permissible FSI, shall be allowed on land occupied by cattle sheds and subject to the following conditions:",
+  "chapter": null,
+  "section": "33(14) Shifting of cattle sheds outside Greater Mumbai:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "For Development of lands becoming vacant consequent upon shifting of cattle sheds existing thereon, to places outside Greater Mumbai, additional FSI to the extent of 33% over and above Zonal (basic) p"
+  },
+  "created_at": "2025-11-19T00:14:40.912749",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.686349",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

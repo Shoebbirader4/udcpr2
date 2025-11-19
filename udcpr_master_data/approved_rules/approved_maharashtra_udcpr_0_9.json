@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_0_9",
+  "title": "Chimney, where provided, shall conform to the requirements of Indian Standard Code of Practice for Fire Safety of Building",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "0.9",
+  "clause_text": "Chimney, where provided, shall conform to the requirements of Indian Standard Code of Practice for Fire Safety of Building. Provided that the Chimney shall be built at least 0.9 m. above flat roof. In the case of sloping roofs, the chimney top shall not be less than, 0.6 m. above the ridge of the roof in which the chimney penetrates.",
+  "chapter": null,
+  "section": "9.17 CHIMNEYS",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Chimney, where provided, shall conform to the requirements of Indian Standard Code of Practice for Fire Safety of Building. Provided that the Chimney shall be built at least 0.9 m. above flat roof. In"
+  },
+  "created_at": "2025-11-19T00:14:21.754405",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.189557",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

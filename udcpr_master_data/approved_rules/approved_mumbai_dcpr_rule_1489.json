@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1489",
+  "title": "However, structures included in the common area comprising of original plots and final plots shall not be treated as contravening structures",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1489",
+  "clause_text": "However, structures included in the common area comprising of original plots and final plots shall not be treated as contravening structures.",
+  "chapter": null,
+  "section": "33(12).Redevelopment of contravening structures included in the Final Plot of a Town Planning (TP) Scheme and Removal and re- accommodation of tolerated structures falling in the alignment of road:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "However, structures included in the common area comprising of original plots and final plots shall not be treated as contravening structures."
+  },
+  "created_at": "2025-11-19T00:14:40.799150",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:23.525974",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

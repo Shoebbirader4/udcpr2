@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_805",
+  "title": "The Commissioner may permit FSI up to 4 including Zonal (basic) FSI specified in Table No 12on the gross plot area, abutting a road having minimum width of 12 m, solely for the project of construction of staff quarters (hereinafter referred to as “staff quarters project”) for the employees of the Govt",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 805",
+  "clause_text": "The Commissioner may permit FSI up to 4 including Zonal (basic) FSI specified in Table No 12on the gross plot area, abutting a road having minimum width of 12 m, solely for the project of construction of staff quarters (hereinafter referred to as “staff quarters project”) for the employees of the Govt./MCGM, or their statutory bodies (hereinafter collectively referred to as “User Authority”) on land belonging to such User Authority, by the Public Works Department of the GoM or MHADA or Maharashtra Police Housing Corporation or MCGM or its statutory bodies or any other Agency nominated by the Govt. for this purpose which would also include any Special Purpose Vehicle, wherein the Govt. or a fully owned Company of the Govt. holds at least 51% equity share (hereinafter collectively referred to as “Implementing Public Authority”).Premium shall be applicable for BUA in lieu of additional FSI at the rate of 50% of ASR of developed land (for FSI 1) or as decided by the Government from time to time, except for the development by State Government & MCGM .",
+  "chapter": null,
+  "section": "33(3) Buildings of Government/MCGM/Statutory Bodies, Semi- Government and PSU Offices:",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Commissioner may permit FSI up to 4 including Zonal (basic) FSI specified in Table No 12on the gross plot area, abutting a road having minimum width of 12 m, solely for the project of construction"
+  },
+  "created_at": "2025-11-19T00:14:38.460064",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:21.783859",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

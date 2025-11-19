@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1863",
+  "title": "When an owner or lessee, with prior approval of Authority, develops or constructs the amenity on the",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1863",
+  "clause_text": "When an owner or lessee, with prior approval of Authority, develops or constructs the amenity on the surrendered plot, at his own cost subject to such stipulations as may be prescribed and to the satisfaction of the Authority and hands over the said developed/constructed amenity free of cost to the Authority, then he may be granted a Transferable Development Rights (TDR) in the form of FSI as per the following formula :-",
+  "chapter": null,
+  "section": "(#) Transferable Development Rights (TDR) against Construction of Amenity -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "When an owner or lessee, with prior approval of Authority, develops or constructs the amenity on the surrendered plot, at his own cost subject to such stipulations as may be prescribed and to the sati"
+  },
+  "created_at": "2025-11-19T00:14:23.062688",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:14.216033",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

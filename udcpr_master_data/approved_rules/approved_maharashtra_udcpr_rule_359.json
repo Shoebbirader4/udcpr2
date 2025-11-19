@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_359",
+  "title": "Authorize the erection of a building or use of premises for a public service undertaking for public utility propose only, where he finds such an authorization to be reasonably necessary for the public convenience and welfare even if it is not permitted in any Land Use Classification",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 359",
+  "clause_text": "Authorize the erection of a building or use of premises for a public service undertaking for public utility propose only, where he finds such an authorization to be reasonably necessary for the public convenience and welfare even if it is not permitted in any Land Use Classification. Interpret the provisions of these Regulations where there is clerical, grammatical mistake, if any.",
+  "chapter": null,
+  "section": "Qualification and Competence of the Architect / Licensed Engineer / Structural Engineer / Town Planner / Supervisor",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Authorize the erection of a building or use of premises for a public service undertaking for public utility propose only, where he finds such an authorization to be reasonably necessary for the public"
+  },
+  "created_at": "2025-11-19T00:14:18.122269",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:10.508408",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

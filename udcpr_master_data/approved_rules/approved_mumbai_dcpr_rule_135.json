@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_135",
+  "title": "\"Retention activity\" means an activity or use which is allowed to continue, notwithstanding its non-conforming nature in relation to the use permitted in the adjoining or surrounding area",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 135",
+  "clause_text": "\"Retention activity\" means an activity or use which is allowed to continue, notwithstanding its non-conforming nature in relation to the use permitted in the adjoining or surrounding area.",
+  "chapter": null,
+  "section": "Definitions.",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "\"Retention activity\" means an activity or use which is allowed to continue, notwithstanding its non-conforming nature in relation to the use permitted in the adjoining or surrounding area."
+  },
+  "created_at": "2025-11-19T00:14:35.121541",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:19.874974",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

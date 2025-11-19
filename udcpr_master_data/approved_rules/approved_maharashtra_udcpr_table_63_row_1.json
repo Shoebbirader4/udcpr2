@@ -1,0 +1,46 @@
+{
+  "rule_id": "maharashtra_udcpr_table_63_row_1",
+  "title": "Table 63 - Row 1",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Table-63.1",
+  "clause_text": "Table No.8-B - Parking Requirements: Sr. No. | Table No.8-B - Parking Requirements: Occupancy | Table No.8-B - Parking Requirements: Size of tenement | Table No.8-B - Parking Requirements: Parking Spaces Required | Table No.8-B - Parking Requirements: Parking Spaces Required | Table No.8-B - Parking Requirements: Parking Spaces Required | Table No.8-B - Parking Requirements: Parking Spaces Required | Table No.8-B - Parking Requirements: Remarks",
+  "parsed": {
+    "type": "table",
+    "table_data": {
+      "headers": [
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements",
+        "Table No.8-B - Parking Requirements"
+      ],
+      "values": [
+        "Sr. No.",
+        "Occupancy",
+        "Size of tenement",
+        "Parking Spaces Required",
+        "Parking Spaces Required",
+        "Parking Spaces Required",
+        "Parking Spaces Required",
+        "Remarks"
+      ]
+    }
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "table_63",
+    "text_snippet": "Table No.8-B - Parking Requirements: Sr. No. | Table No.8-B - Parking Requirements: Occupancy | Table No.8-B - Parking Requirements: Size of tenement | Table No.8-B - Parking Requirements: Parking Spa"
+  },
+  "created_at": "2025-11-19T00:14:29.940043",
+  "extraction_method": "docx_table",
+  "approved_at": "2025-11-19T00:15:18.564839",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

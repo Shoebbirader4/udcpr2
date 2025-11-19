@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1963",
+  "title": "all the walls, containing the openings for light and ventilation fully exposed to an exterior open space either directly or through a balcony not exceeding 2m",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1963",
+  "clause_text": "all the walls, containing the openings for light and ventilation fully exposed to an exterior open space either directly or through a balcony not exceeding 2m. in width provided that a room meant for non- residential user shall be considered as adequately lighted and ventilated if its depth from the side abutting the required open space does not exceed 12 m and in case centrally air-conditioned building may be allowed to be exceeded up to 20 m.",
+  "chapter": null,
+  "section": "Lighting and Ventilation",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "all the walls, containing the openings for light and ventilation fully exposed to an exterior open space either directly or through a balcony not exceeding 2m. in width provided that a room meant for "
+  },
+  "created_at": "2025-11-19T00:14:42.898658",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:25.018181",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

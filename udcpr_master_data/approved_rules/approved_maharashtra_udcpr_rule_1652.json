@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1652",
+  "title": "The Metropolitan Commissioner shall develop the Final Plot in his possession (Authorities Share) for the purpose for which the scheme is sanctioned",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1652",
+  "clause_text": "The Metropolitan Commissioner shall develop the Final Plot in his possession (Authorities Share) for the purpose for which the scheme is sanctioned. This plot shall be entitled to be developed as per potential permissible for Authorities Final plot share as per Chapter No.6 of this UDCPR.",
+  "chapter": null,
+  "section": "Permissible FSI For Final Plot -",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "The Metropolitan Commissioner shall develop the Final Plot in his possession (Authorities Share) for the purpose for which the scheme is sanctioned. This plot shall be entitled to be developed as per "
+  },
+  "created_at": "2025-11-19T00:14:22.567300",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.748135",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

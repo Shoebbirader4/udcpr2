@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_2247",
+  "title": "Where 50% or more area of such plot / plots falls within NMRC, these regulations including FSI shall apply to the total area of such plot / plots",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 2247",
+  "clause_text": "Where 50% or more area of such plot / plots falls within NMRC, these regulations including FSI shall apply to the total area of such plot / plots.",
+  "chapter": null,
+  "section": "Impact Assessment and Integrated Mobility Plan",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Where 50% or more area of such plot / plots falls within NMRC, these regulations including FSI shall apply to the total area of such plot / plots."
+  },
+  "created_at": "2025-11-19T00:14:24.097622",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:15.440601",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

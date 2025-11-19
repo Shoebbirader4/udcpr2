@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1714",
+  "title": "Regulation for reconstruction / redevelopment schemes undertaken by CIDCO / Owner‘s Association / Co-operative Housing Society (CHS) in respect of the authorized buildings previously constructed by CIDCO but subsequently destroyed by natural calamities or accidental fires or which have collapsed by aging or are demolished or being demolished under a lawful order of the Municipal Commissioner etc",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1714",
+  "clause_text": "Regulation for reconstruction / redevelopment schemes undertaken by CIDCO / Owner‘s Association / Co-operative Housing Society (CHS) in respect of the authorized buildings previously constructed by CIDCO but subsequently destroyed by natural calamities or accidental fires or which have collapsed by aging or are demolished or being demolished under a lawful order of the Municipal Commissioner etc. :-",
+  "chapter": null,
+  "section": "Reconstruction / Redevelopment of Building in CIDCO / NMMC Areas",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Regulation for reconstruction / redevelopment schemes undertaken by CIDCO / Owner‘s Association / Co-operative Housing Society (CHS) in respect of the authorized buildings previously constructed by CI"
+  },
+  "created_at": "2025-11-19T00:14:22.747280",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:13.894225",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

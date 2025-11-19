@@ -1,0 +1,27 @@
+{
+  "rule_id": "maharashtra_udcpr_rule_1027",
+  "title": "In case of composite building of mixed users premium and ancillary area FSI shall be on prorate basis",
+  "jurisdiction": "maharashtra_udcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1027",
+  "clause_text": "In case of composite building of mixed users premium and ancillary area FSI shall be on prorate basis.",
+  "chapter": null,
+  "section": "Note for Table No.6-A :",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "UDCPR Updated 30.01.25 with earlier provisions & corrections_compressed.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "In case of composite building of mixed users premium and ancillary area FSI shall be on prorate basis."
+  },
+  "created_at": "2025-11-19T00:14:20.317641",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:12.168402",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}

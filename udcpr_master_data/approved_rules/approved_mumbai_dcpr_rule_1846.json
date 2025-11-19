@@ -1,0 +1,27 @@
+{
+  "rule_id": "mumbai_dcpr_rule_1846",
+  "title": "Ramps for basement or podium, multi-storeyed parking- For parking spaces in a basement and upper floors, ramps of adequate width as tabulated below and adequate slope shall be provided preferably at the opposite ends",
+  "jurisdiction": "mumbai_dcpr",
+  "version": "extracted_from_docx",
+  "clause_number": "Section 1846",
+  "clause_text": "Ramps for basement or podium, multi-storeyed parking- For parking spaces in a basement and upper floors, ramps of adequate width as tabulated below and adequate slope shall be provided preferably at the opposite ends. Such ramps may be permitted in the side and rear marginal open spaces after leaving sufficient space for movement of fire- fighting vehicles subject to the provision of sub-regulation (7) of Regulation 48. Provided that, when a building abuts 3 or more roads, then ramps shall be allowed in front marginal open space facing the road having least width. Alternatively, for ingress & egress of vehicles minimum two numbers of car lifts for vehicles up to 200 parking and one additional car lift for every 100 parking beyond200 parking or part thereof shall be provided. Note- a) In case of two-way ramp with dividers, each carriageway will be considered as one way ramp.",
+  "chapter": null,
+  "section": "Table No: 16",
+  "parsed": {
+    "type": "rule",
+    "rule_logic": null
+  },
+  "examples": [],
+  "ambiguous": false,
+  "ambiguity_reason": null,
+  "source_pdf": {
+    "filename": "MUBAI-DCPR.docx",
+    "page": "extracted_from_docx",
+    "text_snippet": "Ramps for basement or podium, multi-storeyed parking- For parking spaces in a basement and upper floors, ramps of adequate width as tabulated below and adequate slope shall be provided preferably at t"
+  },
+  "created_at": "2025-11-19T00:14:42.245337",
+  "extraction_method": "docx_direct",
+  "approved_at": "2025-11-19T00:15:24.689823",
+  "approved_by": "auto_approve_script",
+  "verification_status": "auto_approved"
+}
