@@ -1,13 +1,20 @@
 const express = require('express');
 const router = express.Router();
-const auth = require('../middleware/auth');
-const { requireRole } = require('../middleware/rbac');
+const { authenticate } = require('../middleware/auth');
 const Project = require('../models/Project');
 const notificationService = require('../services/notification');
 const auditService = require('../services/audit');
 
+// Simple role check middleware
+const requireMunicipal = (req, res, next) => {
+  if (!req.user || (req.user.role !== 'municipal_officer' && req.user.role !== 'admin' && req.user.role !== 'super_admin')) {
+    return res.status(403).json({ error: 'Municipal officer access required' });
+  }
+  next();
+};
+
 // Get projects for review (municipal officers only)
-router.get('/projects', auth, requireRole('municipal_officer'), async (req, res) => {
+router.get('/projects', authenticate, requireMunicipal, async (req, res) => {
   try {
     const { status = 'pending' } = req.query;
     
@@ -24,7 +31,7 @@ router.get('/projects', auth, requireRole('municipal_officer'), async (req, res)
 });
 
 // Approve project
-router.post('/projects/:id/approve', auth, requireRole('municipal_officer'), async (req, res) => {
+router.post('/projects/:id/approve', authenticate, requireMunicipal, async (req, res) => {
   try {
     const { comments } = req.body;
     
@@ -71,7 +78,7 @@ router.post('/projects/:id/approve', auth, requireRole('municipal_officer'), asy
 });
 
 // Reject project
-router.post('/projects/:id/reject', auth, requireRole('municipal_officer'), async (req, res) => {
+router.post('/projects/:id/reject', authenticate, requireMunicipal, async (req, res) => {
   try {
     const { comments } = req.body;
     
@@ -123,7 +130,7 @@ router.post('/projects/:id/reject', auth, requireRole('municipal_officer'), asyn
 });
 
 // Get approval statistics
-router.get('/stats', auth, requireRole('municipal_officer'), async (req, res) => {
+router.get('/stats', authenticate, requireMunicipal, async (req, res) => {
   try {
     const [pending, approved, rejected, total] = await Promise.all([
       Project.countDocuments({ approvalStatus: 'pending' }),

@@ -1,10 +1,10 @@
 const express = require('express');
 const router = express.Router();
-const auth = require('../middleware/auth');
+const { authenticate } = require('../middleware/auth');
 const notificationService = require('../services/notification');
 
 // Get user notifications
-router.get('/', auth, async (req, res) => {
+router.get('/', authenticate, async (req, res) => {
   try {
     const { limit, unreadOnly } = req.query;
     const notifications = await notificationService.getUserNotifications(
@@ -18,7 +18,7 @@ router.get('/', auth, async (req, res) => {
 });
 
 // Get unread count
-router.get('/unread-count', auth, async (req, res) => {
+router.get('/unread-count', authenticate, async (req, res) => {
   try {
     const count = await notificationService.getUnreadCount(req.user.userId);
     res.json({ count });
@@ -28,7 +28,7 @@ router.get('/unread-count', auth, async (req, res) => {
 });
 
 // Mark as read
-router.patch('/:id/read', auth, async (req, res) => {
+router.patch('/:id/read', authenticate, async (req, res) => {
   try {
     const notification = await notificationService.markAsRead(req.params.id, req.user.userId);
     if (!notification) {
@@ -41,7 +41,7 @@ router.patch('/:id/read', auth, async (req, res) => {
 });
 
 // Mark all as read
-router.patch('/mark-all-read', auth, async (req, res) => {
+router.patch('/mark-all-read', authenticate, async (req, res) => {
   try {
     await notificationService.markAllAsRead(req.user.userId);
     res.json({ message: 'All notifications marked as read' });
@@ -51,7 +51,7 @@ router.patch('/mark-all-read', auth, async (req, res) => {
 });
 
 // Delete notification
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', authenticate, async (req, res) => {
   try {
     const notification = await notificationService.delete(req.params.id, req.user.userId);
     if (!notification) {

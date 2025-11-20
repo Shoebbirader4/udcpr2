@@ -1,13 +1,20 @@
 const express = require('express');
 const router = express.Router();
-const auth = require('../middleware/auth');
-const { requireRole } = require('../middleware/rbac');
+const { authenticate } = require('../middleware/auth');
 const User = require('../models/User');
 const Tenant = require('../models/Tenant');
 const AuditLog = require('../models/AuditLog');
 
+// Simple role check middleware
+const requireAdmin = (req, res, next) => {
+  if (!req.user || (req.user.role !== 'admin' && req.user.role !== 'super_admin')) {
+    return res.status(403).json({ error: 'Admin access required' });
+  }
+  next();
+};
+
 // Get all users (super admin only)
-router.get('/users', auth, requireRole('super_admin'), async (req, res) => {
+router.get('/users', authenticate, requireAdmin, async (req, res) => {
   try {
     const users = await User.find()
       .select('-password')
@@ -20,7 +27,7 @@ router.get('/users', auth, requireRole('super_admin'), async (req, res) => {
 });
 
 // Get all tenants
-router.get('/tenants', auth, requireRole('super_admin'), async (req, res) => {
+router.get('/tenants', authenticate, requireAdmin, async (req, res) => {
   try {
     const tenants = await Tenant.find().sort({ createdAt: -1 });
     res.json(tenants);
@@ -30,7 +37,7 @@ router.get('/tenants', auth, requireRole('super_admin'), async (req, res) => {
 });
 
 // Create tenant
-router.post('/tenants', auth, requireRole('super_admin'), async (req, res) => {
+router.post('/tenants', authenticate, requireAdmin, async (req, res) => {
   try {
     const tenant = await Tenant.create(req.body);
     res.status(201).json(tenant);
@@ -40,7 +47,7 @@ router.post('/tenants', auth, requireRole('super_admin'), async (req, res) => {
 });
 
 // Update tenant
-router.patch('/tenants/:id', auth, requireRole('super_admin'), async (req, res) => {
+router.patch('/tenants/:id', authenticate, requireAdmin, async (req, res) => {
   try {
     const tenant = await Tenant.findByIdAndUpdate(
       req.params.id,
@@ -57,7 +64,7 @@ router.patch('/tenants/:id', auth, requireRole('super_admin'), async (req, res) 
 });
 
 // Get audit logs
-router.get('/audit-logs', auth, requireRole('super_admin'), async (req, res) => {
+router.get('/audit-logs', authenticate, requireAdmin, async (req, res) => {
   try {
     const { limit = 100, category, userId } = req.query;
     
@@ -77,7 +84,7 @@ router.get('/audit-logs', auth, requireRole('super_admin'), async (req, res) => 
 });
 
 // Get system statistics
-router.get('/stats', auth, requireRole('super_admin'), async (req, res) => {
+router.get('/stats', authenticate, requireAdmin, async (req, res) => {
   try {
     const [userCount, tenantCount, activeUsers] = await Promise.all([
       User.countDocuments(),

@@ -49,7 +49,7 @@ const DrawingUploadModal = ({ isOpen, onClose, projectId, onUploadComplete }) =>
       const formData = new FormData();
       formData.append('file', file);
 
-      const response = await axios.post('http://localhost:8001/upload', formData, {
+      const response = await axios.post('http://localhost:8001/api/vision/upload', formData, {
         headers: { 'Content-Type': 'multipart/form-data' }
       });
 
@@ -73,31 +73,37 @@ const DrawingUploadModal = ({ isOpen, onClose, projectId, onUploadComplete }) =>
       attempts++;
       
       try {
-        const statusRes = await axios.get(`http://localhost:8001/status/${id}`);
+        const statusRes = await axios.get(`http://localhost:8001/api/vision/status/${id}`);
         
         if (statusRes.data.status === 'completed') {
           clearInterval(poll);
-          const resultRes = await axios.get(`http://localhost:8001/result/${id}`);
-          setResult(resultRes.data);
-          setProcessing(false);
-          
-          if (onUploadComplete) {
-            onUploadComplete(resultRes.data);
+          try {
+            const resultRes = await axios.get(`http://localhost:8001/api/vision/result/${id}`);
+            setResult(resultRes.data);
+            setProcessing(false);
+            
+            if (onUploadComplete) {
+              onUploadComplete(resultRes.data);
+            }
+          } catch (resultErr) {
+            clearInterval(poll);
+            setError(`Failed to get results: ${resultErr.response?.data?.detail || resultErr.message}`);
+            setProcessing(false);
           }
         } else if (statusRes.data.status === 'failed') {
           clearInterval(poll);
-          setError('Processing failed');
+          setError(`Processing failed: ${statusRes.data.error || 'Unknown error'}`);
           setProcessing(false);
         }
         
         if (attempts >= maxAttempts) {
           clearInterval(poll);
-          setError('Processing timeout');
+          setError('Processing timeout - the drawing may be too complex or large');
           setProcessing(false);
         }
       } catch (err) {
         clearInterval(poll);
-        setError('Failed to get results');
+        setError(`Failed to check status: ${err.response?.data?.detail || err.message}`);
         setProcessing(false);
       }
     }, 2000);
