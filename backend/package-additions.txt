@@ -1,0 +1,8 @@
+# Additional packages to install for new features:
+
+npm install helmet compression express-rate-limit
+
+# These packages provide:
+# - helmet: Security headers
+# - compression: Response compression
+# - express-rate-limit: Rate limiting for API protection

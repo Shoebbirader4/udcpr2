@@ -1,51 +1,96 @@
 const express = require('express');
 const router = express.Router();
-const { authenticate, requireAdmin } = require('../middleware/auth');
-const mongoose = require('mongoose');
+const auth = require('../middleware/auth');
+const { requireRole } = require('../middleware/rbac');
+const User = require('../models/User');
+const Tenant = require('../models/Tenant');
+const AuditLog = require('../models/AuditLog');
 
-// Get parse jobs
-router.get('/parse_jobs', authenticate, requireAdmin, async (req, res) => {
+// Get all users (super admin only)
+router.get('/users', auth, requireRole('super_admin'), async (req, res) => {
   try {
-    const db = mongoose.connection.db;
-    const jobs = await db.collection('parse_jobs')
-      .find({})
-      .sort({ created_at: -1 })
-      .limit(50)
-      .toArray();
-    
-    res.json(jobs);
+    const users = await User.find()
+      .select('-password')
+      .populate('tenant', 'name')
+      .sort({ createdAt: -1 });
+    res.json(users);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
 });
 
-// Get candidate rules for verification
-router.get('/candidates', authenticate, requireAdmin, async (req, res) => {
+// Get all tenants
+router.get('/tenants', auth, requireRole('super_admin'), async (req, res) => {
   try {
-    // Read from staging_rules directory
-    // This would be implemented based on file system access
-    res.json({ message: 'Candidates endpoint - to be implemented' });
+    const tenants = await Tenant.find().sort({ createdAt: -1 });
+    res.json(tenants);
   } catch (error) {
     res.status(500).json({ error: error.message });
   }
 });
 
-// Approve candidate rule
-router.post('/approve_candidate', authenticate, requireAdmin, async (req, res) => {
+// Create tenant
+router.post('/tenants', auth, requireRole('super_admin'), async (req, res) => {
   try {
-    const { candidate_id, approved_data } = req.body;
+    const tenant = await Tenant.create(req.body);
+    res.status(201).json(tenant);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Update tenant
+router.patch('/tenants/:id', auth, requireRole('super_admin'), async (req, res) => {
+  try {
+    const tenant = await Tenant.findByIdAndUpdate(
+      req.params.id,
+      req.body,
+      { new: true, runValidators: true }
+    );
+    if (!tenant) {
+      return res.status(404).json({ error: 'Tenant not found' });
+    }
+    res.json(tenant);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Get audit logs
+router.get('/audit-logs', auth, requireRole('super_admin'), async (req, res) => {
+  try {
+    const { limit = 100, category, userId } = req.query;
     
-    // Save to approved_rules and log audit trail
-    const db = mongoose.connection.db;
-    await db.collection('audit_logs').insertOne({
-      action: 'approve_rule',
-      candidate_id,
-      reviewer_id: req.user.id,
-      timestamp: new Date(),
-      data: approved_data
+    const query = {};
+    if (category) query.category = category;
+    if (userId) query.user = userId;
+    
+    const logs = await AuditLog.find(query)
+      .populate('user', 'name email')
+      .sort({ timestamp: -1 })
+      .limit(parseInt(limit));
+    
+    res.json(logs);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+});
+
+// Get system statistics
+router.get('/stats', auth, requireRole('super_admin'), async (req, res) => {
+  try {
+    const [userCount, tenantCount, activeUsers] = await Promise.all([
+      User.countDocuments(),
+      Tenant.countDocuments(),
+      User.countDocuments({ lastLogin: { $gte: new Date(Date.now() - 30 * 24 * 60 * 60 * 1000) } })
+    ]);
+    
+    res.json({
+      users: userCount,
+      tenants: tenantCount,
+      activeUsers,
+      timestamp: new Date()
     });
-    
-    res.json({ message: 'Candidate approved' });
   } catch (error) {
     res.status(500).json({ error: error.message });
   }

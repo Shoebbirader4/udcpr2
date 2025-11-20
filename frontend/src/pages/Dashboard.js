@@ -1,13 +1,16 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useQuery } from '@tanstack/react-query';
 import { useNavigate } from 'react-router-dom';
-import { Plus, FileText, CheckCircle, AlertCircle } from 'lucide-react';
+import { Plus, FileText, CheckCircle, AlertCircle, Upload } from 'lucide-react';
 import api from '../api/client';
 import { useAuthStore } from '../store/authStore';
+import NotificationCenter from '../components/NotificationCenter';
+import DrawingUploadModal from '../components/DrawingUploadModal';
 
 export default function Dashboard() {
   const navigate = useNavigate();
   const { user } = useAuthStore();
+  const [showDrawingUpload, setShowDrawingUpload] = useState(false);
   
   const { data: projects, isLoading } = useQuery({
     queryKey: ['projects'],
@@ -53,6 +56,7 @@ export default function Dashboard() {
               <p className="text-blue-100 text-sm">Maharashtra Building Regulation Compliance</p>
             </div>
             <div className="flex items-center gap-3">
+              <NotificationCenter />
               <div className="text-right mr-4">
                 <p className="text-white font-medium">{user?.name || 'User'}</p>
                 <p className="text-blue-100 text-sm">{user?.email}</p>
@@ -107,13 +111,22 @@ export default function Dashboard() {
               <h2 className="text-2xl font-bold text-gray-900">Your Projects</h2>
               <p className="text-gray-600 text-sm mt-1">Manage and track your building compliance projects</p>
             </div>
-            <button
-              onClick={() => navigate('/project/new')}
-              className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-3 rounded-lg hover:from-blue-700 hover:to-blue-800 shadow-md transition font-medium"
-            >
-              <Plus size={20} />
-              New Project
-            </button>
+            <div className="flex gap-3">
+              <button
+                onClick={() => setShowDrawingUpload(true)}
+                className="flex items-center gap-2 bg-gradient-to-r from-purple-600 to-purple-700 text-white px-6 py-3 rounded-lg hover:from-purple-700 hover:to-purple-800 shadow-md transition font-medium"
+              >
+                <Upload size={20} />
+                Upload Drawing
+              </button>
+              <button
+                onClick={() => navigate('/project/new')}
+                className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-3 rounded-lg hover:from-blue-700 hover:to-blue-800 shadow-md transition font-medium"
+              >
+                <Plus size={20} />
+                New Project
+              </button>
+            </div>
           </div>
 
           {isLoading ? (
@@ -192,6 +205,16 @@ export default function Dashboard() {
           )}
         </div>
       </div>
+
+      {/* Drawing Upload Modal */}
+      <DrawingUploadModal
+        isOpen={showDrawingUpload}
+        onClose={() => setShowDrawingUpload(false)}
+        onUploadComplete={(result) => {
+          console.log('Drawing processed:', result);
+          setShowDrawingUpload(false);
+        }}
+      />
     </div>
   );
 }

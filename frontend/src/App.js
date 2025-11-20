@@ -10,6 +10,7 @@ import Dashboard from './pages/Dashboard';
 import ProjectWizard from './pages/ProjectWizard';
 import ProjectDetail from './pages/ProjectDetail';
 import AdminPanel from './pages/AdminPanel';
+import MunicipalPortal from './pages/MunicipalPortal';
 import RulesBrowser from './pages/RulesBrowser';
 import AIAssistant from './pages/AIAssistant';
 
@@ -39,6 +40,9 @@ function App() {
           } />
           <Route path="/admin" element={
             <PrivateRoute><AdminPanel /></PrivateRoute>
+          } />
+          <Route path="/municipal" element={
+            <PrivateRoute><MunicipalPortal /></PrivateRoute>
           } />
           <Route path="/rules" element={
             <PrivateRoute><RulesBrowser /></PrivateRoute>

@@ -52,6 +52,21 @@ const projectSchema = new mongoose.Schema({
     type: String,
     enum: ['draft', 'evaluated', 'submitted', 'approved', 'rejected'],
     default: 'draft'
+  },
+  approvalStatus: {
+    type: String,
+    enum: ['pending', 'approved', 'rejected'],
+    default: 'pending'
+  },
+  approvalComments: String,
+  approvedBy: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'User'
+  },
+  approvedAt: Date,
+  tenant: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Tenant'
   }
 }, {
   timestamps: true

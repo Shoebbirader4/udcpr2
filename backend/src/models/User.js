@@ -18,14 +18,19 @@ const userSchema = new mongoose.Schema({
   },
   role: {
     type: String,
-    enum: ['user', 'admin', 'municipal_officer'],
+    enum: ['user', 'admin', 'municipal_officer', 'super_admin', 'architect', 'developer', 'auditor'],
     default: 'user'
   },
   organization: String,
   verified: {
     type: Boolean,
     default: false
-  }
+  },
+  tenant: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Tenant'
+  },
+  lastLogin: Date
 }, {
   timestamps: true
 });

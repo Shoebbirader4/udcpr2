@@ -1,0 +1,163 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ master, main, develop ]
+  pull_request:
+    branches: [ master, main, develop ]
+
+jobs:
+  test-backend:
+    runs-on: ubuntu-latest
+    
+    services:
+      mongodb:
+        image: mongo:6.0
+        ports:
+          - 27017:27017
+        options: >-
+          --health-cmd "mongosh --eval 'db.adminCommand({ping: 1})'"
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: backend/package-lock.json
+    
+    - name: Install backend dependencies
+      working-directory: ./backend
+      run: npm ci
+    
+    - name: Run backend tests
+      working-directory: ./backend
+      run: npm test
+      env:
+        MONGODB_URI: mongodb://localhost:27017/udcpr_test
+        JWT_SECRET: test_secret_key
+  
+  test-python-services:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Install Python dependencies
+      run: |
+        pip install -r rule_engine/requirements.txt
+        pip install -r ai_services/requirements.txt
+        pip install -r tests/requirements.txt
+    
+    - name: Run Python unit tests
+      run: python tests/run_tests.py
+  
+  test-frontend:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+        cache: 'npm'
+        cache-dependency-path: frontend/package-lock.json
+    
+    - name: Install frontend dependencies
+      working-directory: ./frontend
+      run: npm ci
+    
+    - name: Build frontend
+      working-directory: ./frontend
+      run: npm run build
+      env:
+        CI: false
+  
+  integration-tests:
+    runs-on: ubuntu-latest
+    needs: [test-backend, test-python-services, test-frontend]
+    
+    services:
+      mongodb:
+        image: mongo:6.0
+        ports:
+          - 27017:27017
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install all dependencies
+      run: |
+        cd backend && npm ci && cd ..
+        pip install -r rule_engine/requirements.txt
+        pip install -r ai_services/requirements.txt
+        pip install -r tests/requirements.txt
+    
+    - name: Start services
+      run: |
+        cd backend && npm start &
+        cd rule_engine && python api_service.py &
+        sleep 10
+      env:
+        MONGODB_URI: mongodb://localhost:27017/udcpr_test
+        JWT_SECRET: test_secret_key
+    
+    - name: Run integration tests
+      run: pytest tests/integration/ -v
+  
+  docker-build:
+    runs-on: ubuntu-latest
+    needs: [test-backend, test-python-services, test-frontend]
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Docker Buildx
+      uses: docker/setup-buildx-action@v2
+    
+    - name: Build Docker images
+      run: |
+        docker-compose -f docker-compose.prod.yml build
+    
+    - name: Test Docker containers
+      run: |
+        docker-compose -f docker-compose.prod.yml up -d
+        sleep 30
+        docker-compose -f docker-compose.prod.yml ps
+        docker-compose -f docker-compose.prod.yml down
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: [integration-tests, docker-build]
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+    
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Deploy to production
+      run: |
+        echo "Deployment step - configure based on your hosting platform"
+        # Add deployment commands here (e.g., AWS, Azure, GCP, etc.)
